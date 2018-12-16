@@ -6,9 +6,9 @@ from pathlib import Path
 
 cUserKeyEnvVariable = "ALPHA_VANTAGE_KEY"
 cDataBaseFolder = "db_companylist_raw"
-cAlphabet = ["A", "B"] #, "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
-#             "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
-#             "-"]
+cAlphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+             "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
+             "-"]
 
 
 def getSearch(iUserKey, iSearch):
@@ -58,7 +58,7 @@ def main():
         # if not exist, create
         os.makedirs(wDirectory)
 
-    searchAllAlphabet(wUserKey, wDirectory, "", 2, 2)
+    searchAllAlphabet(wUserKey, wDirectory, "", 5, 30)
     print("Process Complete")
 
 if __name__ == "__main__":
