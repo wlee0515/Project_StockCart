@@ -6,7 +6,8 @@ from pathlib import Path
 
 cUserKeyEnvVariable = "ALPHA_VANTAGE_KEY"
 cDataBaseFolder = "db_companylist_raw"
-cAlphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+cAlphabet = ["", "A", "B", "C",
+             "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
              "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
              "-"]
 
@@ -38,14 +39,40 @@ def processSearchTerm(iUserKey, iSearchTerm, iDirectory):
 
 
 def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime):
-    for wLetter in cAlphabet:
-        processSearchTerm(iUserKey, iPrefix + wLetter, iDirectory)
-        print("Waiting {0} seconds".format(iWaitTime))
-        time.sleep(iWaitTime)
-    if 1 < iLetterCount:
-        for wLetter in cAlphabet:
-            searchAllAlphabet(iUserKey, iDirectory,  iPrefix + wLetter,  iLetterCount - 1, iWaitTime)
+
+    wIndice = []
+    for i in range(0, iLetterCount):
+        wIndice.append(0)
+
+    print(wIndice)
+    while 1:
+        wIndice[0] += 1
+        for i in range(0, len(wIndice) - 1):
+            if wIndice[i] >= len(cAlphabet):
+                wIndice[i] = 0
+                if i+1 < len(wIndice):
+                    wIndice[i+1] += 1
+
+        wSearchTerm = ""
+        for i in range(0, iLetterCount):
+            wSearchTerm += cAlphabet[wIndice[i]]
+            if "" == wSearchTerm:
+                break
+
+        if "" != wSearchTerm:
+            processSearchTerm(iUserKey, iPrefix + wSearchTerm, iDirectory)
+            print("Waiting {0} seconds".format(iWaitTime))
             time.sleep(iWaitTime)
+
+        wCounterFull = True
+
+        for i in range(0, len(wIndice)):
+            if wIndice[i] != len(cAlphabet) - 1:
+                wCounterFull = False
+                break
+
+        if True == wCounterFull:
+            break
 
 
 def main():
@@ -58,7 +85,7 @@ def main():
         # if not exist, create
         os.makedirs(wDirectory)
 
-    searchAllAlphabet(wUserKey, wDirectory, "", 5, 30)
+    searchAllAlphabet_2(wUserKey, wDirectory, "", 4, 60)
     print("Process Complete")
 
 if __name__ == "__main__":
