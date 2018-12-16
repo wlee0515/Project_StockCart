@@ -19,7 +19,12 @@ def getSearch(iUserKey, iSearch):
     wUrl += "&keywords=" + iSearch
     wUrl += "&datatype=csv"
     wReturn = requests.request("GET", wUrl)
-    return wReturn.content.decode('ascii').replace("\r\n","\n")
+
+    print("Request Status Code is <{0}>".format(wReturn.status_code))
+    if 200 == wReturn.status_code:
+        print("Request success")
+        return wReturn.content.decode('ascii').replace("\r\n", "\n")
+    return None
 
 
 def saveStringToFile(iFileName, iString):
@@ -34,8 +39,14 @@ def saveStringToFile(iFileName, iString):
 
 
 def processSearchTerm(iUserKey, iSearchTerm, iDirectory):
-    wFileString = getSearch(iUserKey, iSearchTerm)
-    saveStringToFile(os.path.join(iDirectory, iSearchTerm + ".csv"), wFileString)
+    wFileString = None
+    while None == wFileString:
+        wFileString = getSearch(iUserKey, iSearchTerm)
+        if None != wFileString:
+            saveStringToFile(os.path.join(iDirectory, iSearchTerm + ".csv"), wFileString)
+        else:
+            print("Unable to get search result, waiting for next try...")
+            time.sleep(3000)
 
 
 def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime):
@@ -85,7 +96,7 @@ def main():
         # if not exist, create
         os.makedirs(wDirectory)
 
-    searchAllAlphabet_2(wUserKey, wDirectory, "", 4, 60)
+    searchAllAlphabet(wUserKey, wDirectory, "", 4, 60)
     print("Process Complete")
 
 if __name__ == "__main__":
