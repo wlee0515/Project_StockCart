@@ -106,7 +106,7 @@ def main():
         # if not exist, create
         os.makedirs(wDirectory)
 
-    searchAllAlphabet(wUserKey, wDirectory, "", 4, 60)
+    searchAllAlphabet(wUserKey, wDirectory, "", 4, 60, True)
     print("Process Complete")
 
 if __name__ == "__main__":
