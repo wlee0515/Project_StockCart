@@ -1,3 +1,12 @@
+##########################################################
+#   File Name : getTickerDatabase.py
+#   Author : W. L.
+#   Purpose :
+#       This code will search all letter combination on
+#       https://www.alphavantage.co and save the return string as a csv file.
+#       The goal is to get a list of all companies available from the website Alphavantage
+#
+##########################################################
 import os
 import requests
 import time
