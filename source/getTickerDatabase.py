@@ -38,18 +38,27 @@ def saveStringToFile(iFileName, iString):
     print("File Name <{0}> is Saved".format(iFileName))
 
 
-def processSearchTerm(iUserKey, iSearchTerm, iDirectory):
+def processSearchTerm(iUserKey, iSearchTerm, iDirectory, iSkipIfExist):
+    wFileName = os.path.join(iDirectory, iSearchTerm + ".csv")
+
+    if True == iSkipIfExist:
+        if True == os.path.isfile(wFileName):
+            print("File for search term <{0}> already exist. Skipping search...".format(iSearchTerm))
+            return False
+
     wFileString = None
     while None == wFileString:
         wFileString = getSearch(iUserKey, iSearchTerm)
+
         if None != wFileString:
-            saveStringToFile(os.path.join(iDirectory, iSearchTerm + ".csv"), wFileString)
+            saveStringToFile(wFileName, wFileString)
         else:
             print("Unable to get search result, waiting for next try...")
             time.sleep(3000)
+    return True
 
 
-def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime):
+def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime, iSkipIfExist):
 
     wIndice = []
     for i in range(0, iLetterCount):
@@ -66,14 +75,15 @@ def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime):
 
         wSearchTerm = ""
         for i in range(0, iLetterCount):
-            wSearchTerm += cAlphabet[wIndice[i]]
-            if "" == wSearchTerm:
+            wLetter = cAlphabet[wIndice[i]]
+            wSearchTerm += wLetter
+            if "" == wLetter:
                 break
 
         if "" != wSearchTerm:
-            processSearchTerm(iUserKey, iPrefix + wSearchTerm, iDirectory)
-            print("Waiting {0} seconds".format(iWaitTime))
-            time.sleep(iWaitTime)
+            if True == processSearchTerm(iUserKey, iPrefix + wSearchTerm, iDirectory, iSkipIfExist):
+                print("Waiting {0} seconds".format(iWaitTime))
+                time.sleep(iWaitTime)
 
         wCounterFull = True
 
