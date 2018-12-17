@@ -9,7 +9,7 @@ cDataBaseFolder = "db_companylist_raw"
 cAlphabet = ["", "A", "B", "C",
              "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
              "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
-             "-"]
+             "-", "."]
 
 
 def getSearch(iUserKey, iSearch):
@@ -77,6 +77,8 @@ def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime, 
         for i in range(0, iLetterCount):
             if i == 0:
                 if "-" == cAlphabet[wIndice[i]]:
+                    break
+                if "." == cAlphabet[wIndice[i]]:
                     break
             wLetter = cAlphabet[wIndice[i]]
             wSearchTerm += wLetter
