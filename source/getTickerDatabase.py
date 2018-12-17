@@ -75,6 +75,9 @@ def searchAllAlphabet(iUserKey, iDirectory,  iPrefix,  iLetterCount, iWaitTime, 
 
         wSearchTerm = ""
         for i in range(0, iLetterCount):
+            if i == 0:
+                if "-" == cAlphabet[wIndice[i]]:
+                    break
             wLetter = cAlphabet[wIndice[i]]
             wSearchTerm += wLetter
             if "" == wLetter:
