@@ -45,7 +45,7 @@ def main():
                     print("File <{0}> has less than 2 line. Skipping File".format(wFilePath))
                     continue
                 if "{" == wFileLines[0][0]:
-                    print("File <{0}> Starts with \"{\". File is not CSV. Skipping File".format(wFilePath))
+                    print("File <{0}> Starts with \"\{\". File is not CSV. Skipping File".format(wFilePath))
                     continue
 
                 for i in range(1, len(wFileLines)):
