@@ -47,6 +47,9 @@ def main():
                 if "{" == wFileLines[0][0]:
                     print("File <{0}> Starts with curly brackets. File is not CSV. Skipping File".format(wFilePath))
                     continue
+                if "<" == wFileLines[0][0]:
+                    print("File <{0}> Starts with triangle brackets. File is not CSV. Skipping File".format(wFilePath))
+                    continue
 
                 for i in range(1, len(wFileLines)):
                     wFiltered = wFileLines[i].strip("\n")
