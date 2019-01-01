@@ -53,6 +53,7 @@ def main():
 
                 for i in range(1, len(wFileLines)):
                     wFiltered = wFileLines[i].strip("\n")
+                    wFiltered = wFiltered.replace("/","-")
                     wElements = wFiltered.split("\"")
                     wDataList = []
                     for k in range(0, len( wElements)):
