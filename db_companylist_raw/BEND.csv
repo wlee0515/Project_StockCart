@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXRBF,Bendigo and Adelaide Bank Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+BEN.AUS,Bendigo and Adelaide Bank Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+BDJ.FRK,Bendigo and Adelaide Bank Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BDJ.DUS,BENDIGO + ADELAIDE BK LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+BDJ.STG,Bendigo & Adelaide Bank Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+19288.AUS,Bendigo Defensive Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3077
+19289.AUS,Bendigo Conservative Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2963
+19290.AUS,Bendigo Balanced Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2759
+19291.AUS,Bendigo Growth Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2667
+19292.AUS,Bendigo High Growth Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222

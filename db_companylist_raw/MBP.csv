@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBPIX,Morgan Stanley Inst Global Insight I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBPLX,Morgan Stanley Inst Global Insight L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBPACX,ADT 1697 Maturing Bond Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBPABX,ADT 1671 Maturing Bond Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBPAX,MFS PA Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBPHX,Morgan Stanley Inst Global Insight A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MBPAAX,ADT 1655 Maturing Bond Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MBPFF,Mitchells & Butlers plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MBPAEX,ADT 1699 Maturing Bond Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MBPADX,ADT 1698 Maturing Bond Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

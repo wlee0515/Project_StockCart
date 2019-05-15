@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLUZX,MassMutual Select Mid-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUYX,MassMutual Select Mid-Cap Value Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUFX,MassMutual Select Mid Cap Value R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUAX,MassMutual Select Mid-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUNX,MassMutual Select Mid-Cap Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUSX,MassMutual Select Mid-Cap Value R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLULX,MassMutual Select Mid-Cap Value Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLUMG.PAR,Umalis Group,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+MLU.FRK,Manulife Financial Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MLU.BER,MANULIFE FINANCIAL CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

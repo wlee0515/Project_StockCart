@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSAGX,Fidelity Select Gold,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FSAC,Federal Street Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSAIX,Fidelity Select Air Transportation Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSAVX,Fidelity Select Automotive Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSANX,Fidelity Asset Manager 60%,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSAM,Fifth Street Asset Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FSARX,First Security Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSAMX,Strategic Advisers Emerging Markets,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSACU,Federal Street Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FSAZX,Fidelity Arizona Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

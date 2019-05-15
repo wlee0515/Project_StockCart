@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNOPX,Putnam Sustainable Leaders A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNOYX,Putnam Sustainable Leaders Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNORX,Putnam Sustainable Leaders R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNOMX,Putnam Sustainable Leaders M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNOTX,Putnam Sustainable Future R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNOBX,Putnam Sustainable Leaders B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNOCX,Putnam Sustainable Leaders C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNO.FRK,Pan Orient Energy Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+PNO.BER,PAN ORIENT ENERGY CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PNO.MUN,PAN ORIENT ENERGY CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

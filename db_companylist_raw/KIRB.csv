@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KEX,Kirby Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KKC.BAK,Kulthorn Kirby Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+KIY.FRK,Kirby Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+KIY.STG,KIRBY CORP. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+KKC-R.BAK,Kulthorn Kirby Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3810

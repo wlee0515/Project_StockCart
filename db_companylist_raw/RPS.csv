@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPSIX,T. Rowe Price Spectrum Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPSGF,RPS Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RPS.LON,RPS Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+RG8.FRK,RPS Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FR0010833806.PAR,RPS Montaigne Patrimoine,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3750
+RPSB.TRT,RBC PH&N Short Term CA Bd ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+KR5223A81284.KOR,KB RPS FOCUS Private Special Asset Money Bond,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2222
+RPSTRATEGICI.TRT,RP Strategic Income Plus Fund Trust,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+F000005O79.PAR,RPS Montaigne Patrimoine,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+F00000NUMN.KOR,KB RPS FOCUS Private Special Asset Money Bond,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250

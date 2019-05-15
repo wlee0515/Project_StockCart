@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00B89GG393.LON,Loomis Sayles Strategic Inc H-I/AG EUR,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+GB00B9LWW454.LON,Loomis Sayles Strategic Inc H-I/DG EUR,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+FR0010796409.PAR,Natixis Actions US Value H-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1714
+FR0011132364.PAR,CPR Japon H-I EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1463
+FR0011556174.PAR,Fructifonds Valeurs du Japon H-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1463
+F00000PYG6.LON,Loomis Sayles Strategic Inc H-I/DG EUR,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CGNX,Cognex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CGNSF,Cognetivity Neurosciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CGNH,CardioGenics Holdings Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CGND,China Grand Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGNMCX,Claymore Securities DeFined Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGNMBX,Claymore Sec Defined Portfolios,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGNAX,American Funds Growth and Inc Port 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CGNEX,American Funds Growth and Inc Port 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CGNMRX,Guggenheim Def Port Srs 969 GNM,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CGNMQX,Guggenheim Def 807 GNMA Port Sr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

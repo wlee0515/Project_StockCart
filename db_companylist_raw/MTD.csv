@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTD,Mettler-Toledo International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTDR,Matador Resources Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTDKX,Manning & Napier Target Income K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTDIX,Manning & Napier Target Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTDRX,Manning & Napier Target Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTDZX,Manning & Napier Target Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTDL.JKT,P.T. Metrodata Electronics Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+MTDS.TAV,Meitav DASH Investments Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+MTD.PAR,Lyxor UCITS ETF EuroMTS 7-10Y Investment Grade (DR),ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+5924.KLA,MTD ACPI Engineering Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

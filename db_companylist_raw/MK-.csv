@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MK-H.TRV,MK2 Ventures Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+B7Z.BER,"HIDDN SOLUTIONS  MK-,34",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MK-R.BAK,M.K. Real Estate Development Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2308

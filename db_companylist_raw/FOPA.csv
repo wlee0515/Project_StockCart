@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOPAHX,ADT 1850 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FOPAIX,ADT 1860 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAFX,ADT 1809 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAX,Fidelity Advisor Intl Sm Cap Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAEX,ADT 1791 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAJX,ADT 1878 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAGX,ADT 1827 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPADX,ADT 1765 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FOPAKX,ADT 1895 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+F0000007G9.MIL,Fopadiva Garantito,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3636

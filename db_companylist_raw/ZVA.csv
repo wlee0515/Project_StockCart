@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZVAMIX,Infinity Core Alternative Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ZVAA.BER,"CELLECTIS SP.ADR 1 EO-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZVA.FRK,Cellectis S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZVA.STG,"Cellectis Actions Nom. EO -,05",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+YOE.MUN,"Pieno Zvaigzdes, AB",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YOE.STG,Pieno Zvaigzdes AB Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZVA.BER,"CELLECTIS NOM.  EO-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZVAA.FRK,Cellectis S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+ZVAA.STG,Cellectis Act.Nom.(Sp.ADRs)/1 E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

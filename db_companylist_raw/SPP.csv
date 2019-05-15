@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPPI,Spectrum Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPPP,Sprott Physical Platinum and Palladium Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPPJY,Sappi Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPPDF,SpeedCast International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPPIX,ProFunds Short Precious Metals Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMLD.MIL,SPDR Blmbrg Bcly EM Lcl Bd ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+EMLD.PAR,SSgA SPDR ETFs Europe I Public Limited Company - SPDR Barclays Emerging Markets Local Bond UCITS ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273

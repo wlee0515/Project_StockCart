@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNNE,Cannae Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNNEF,Canacol Energy Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNND,Canandaigua National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNNB,Cincinnati Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNNRX,Columbia Short Term Municipal Bond Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNNA,Canamed4Pets Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNNWF,Cineworld Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNNGF,CONNECT GROUP PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNN1.DUS,CANON INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

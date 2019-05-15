@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMNXF,Sayona Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMNKF,DNI Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMNBX,DFA MN Municipal Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMNIX,Delaware Tax-Free MN Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMN.FRK,Diamyd Medical AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DMN.MIL,Damiani S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+00742.TWN,Shin Kong Domestic Dmnd Hi Dividend ETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.1622

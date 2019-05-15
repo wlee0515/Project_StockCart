@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDOBLIGATION.TRT,TD High Yield Bond - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+TDOBLIGSOCIT.TRT,TD Corporate Bond Capital Yield - P,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

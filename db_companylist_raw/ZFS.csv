@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZFSVF,Zurich Insurance Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZFS.FRK,Fiera Capital Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ZFS.TRT,BMO Short Federal Bond ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZFS-L.TRT,BMO Short Federal Bond Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+ZFSTEERING.BSE,ZF Steering Gear (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750

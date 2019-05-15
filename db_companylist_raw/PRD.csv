@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRDGX,T. Rowe Price Dividend Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRDSX,T. Rowe Price QM US Small-Cap Gr Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PICK,iShares MSCI Global Mtls&Mng Prdcrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PXE,Invesco Dynamic Engy Explr & Prdtn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PRDMX,T. Rowe Price Diversified Mid Cap Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRDSY,Prada S.p.A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VEGI,iShares MSCI Global Agricltr Prdcrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PRDL,Profitable Developments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PRDSF,Prada S.p.A,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PRDBX,PGIM Total Return Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

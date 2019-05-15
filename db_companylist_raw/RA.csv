@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RA,Brookfield Real Assets Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RMED,Ra Medical Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RAD,Rite Aid Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RTN,Raytheon Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RRC,Range Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RL,Ralph Lauren Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GOLD,Randgold Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+RACE,Ferrari N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RADA,RADA Electronic Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RMBS,Rambus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

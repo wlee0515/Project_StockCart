@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCY.AUS,Gascoyne Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+6G4.FRK,Gascoyne Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+6G4.STG,Gascoyne Resources Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+ALBI.PAR,Gascogne SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000
+GASCO.SAN,Empresas Gasco S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.4000
+GASCONAINVER.BCL,Gascona Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+F0GBR06MLM.BCL,Gascona Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2667

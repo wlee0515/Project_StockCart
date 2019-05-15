@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWAL,iWallet Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+6924.TOK,Iwasaki Electric Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+2221.TOK,Iwatsuka Confectionery Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+6237.TOK,Iwaki Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+IWA.MUN,Iwatani Corporation,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2727
+5983.TOK,Iwabuchi Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609
+6381.TOK,ANEST IWATA Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+6704.TOK,Iwatsu Electric Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2143
+8088.TOK,Iwatani Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2069
+8095.TOK,Iwaki & Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1714

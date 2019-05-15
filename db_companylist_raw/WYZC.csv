@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYZC.FRK,Comgest Growth plc - Comgest Growth Europe,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WYZC.BER,COMGEST GROWTH EUROPE EOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WYZC.DUS,COMGEST GROWTH EUROPE EOD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WYZC.HAM,COMGEST GROWTH EUROPE EOD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WYZC.MUN,COMGEST GROWTH EUROPE EOD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WYZC.STG,Comgest Growth PLC-Europe Regis,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

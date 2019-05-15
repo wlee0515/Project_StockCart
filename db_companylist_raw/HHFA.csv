@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HHFA.FRK,Hamburger Hafen und Logistik Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+HHFA.MUN,HAMBURG.HAFEN LOG.A-SP NA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.FRK,Hamburger Hafen und Logistik Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.HAN,HAMBURG.HAFEN LOG.A-SP NA,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.BER,HAMBURG.HAFEN LOG.A-SP NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.DUS,HAMBURG.HAFEN LOG.A-SP NA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+HHFA.HAM,HAMBURG.HAFEN LOG.A-SP NA,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.STG,Hamburger Hafen u. Logistik AGN,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+HHFA.SWI,Hamburger Hafen und Logistik Aktiengesellschaft,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+HHFA.VIE,Hamburger Hafen und Logistik Aktiengesellschaft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273

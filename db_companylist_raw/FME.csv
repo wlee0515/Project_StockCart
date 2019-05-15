@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMEIX,Fidelity Mid Cap Enhanced Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMEUX,Franklin Mutual European R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMECVX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMELX,Strategic Advisers Growth Multi-Mgr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMEQX,Wasatch-1st Source Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMEYX,Nuveen Mid Cap Growth Opps R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMETJX,FT 7443: Sabrient Small Cap Gro,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMEAX,Fidelity Advisor EMEA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMETSX,FT 7365: U.S. Equity Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMECX,Nuveen Mid Cap Growth Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

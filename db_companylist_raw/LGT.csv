@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGTT,LIGATT Security International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LGT-A.TRT,Logistec Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+LGT.LON,Lighthouse Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+4N29.MUN,LGT SEL.EQ.JAPAN B,ETF,Munich,08:00,20:00,UTC+01,EUR,0.5455
+4N2G.BER,LGT-LGT SUST.EQ.F.GL.EO B,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+LGT-B.TRT,Logistec Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2609
+4N2A.BER,LGT SEL.BD HGH YLD B,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+4N2F.FRK,LGT Funds SICAV - LGT Sustainable Equity Fund Europe,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1091

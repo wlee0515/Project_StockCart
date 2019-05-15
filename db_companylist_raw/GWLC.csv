@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWLCDNBALANC.TRT,GWL Cdn Balanced (M)75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCONSERVEP.TRT,GWL Conserve Por (PSG) 100/100(PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANADIANB.TRT,GWL Canadian Balanced (M) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANADIANE.TRT,GWL Canadian Equity (B) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANADIANR.TRT,GWL Canadian Resources (G) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANADIANV.TRT,GWL Canadian Value (IVZ) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANADIENS.TRT,GWL Mid Cap Canada (G) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANMOYCAP.TRT,GWL Mid Cap Cda (G)100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCANSOCMOY.TRT,GWL Mid Cap Canada (G) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLCDNEQGROW.TRT,GWL Cdn Eq Growth (M) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

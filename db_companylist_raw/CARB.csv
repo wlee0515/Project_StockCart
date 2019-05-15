@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CARB,Carbonite Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBLK,Carbon Black Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRR,CARBO Ceramics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OEC,"Orion Engineered Carbons, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GRNTF,iPath Global Carbon ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CHGI,China Carbon Graphite Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2963
+TKCBY,Tokai Carbon Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CRBO,Carbon Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+LOWC,SPDR MSCI ACWI Low Carbon Target ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

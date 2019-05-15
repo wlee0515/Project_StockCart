@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TQQQ,ProShares UltraPro QQQ,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TQAIX,T. Rowe Price QM US Small-Cap Gr Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TQSMX,T. Rowe Price QM US Sm&Md-Cp Cor Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TQTIX,AMG TimesSquare International SmallCap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TQSIX,T. Rowe Price QM US Sm&Md-Cp Cor Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TQLA,Montalvo Spirits Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TQENX,AMG TimesSquare Emerging Mkts Sm Cp N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TQEIX,AMG TimesSquare Emerging Mkts Sm Cp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TQEZX,AMG TimesSquare Emerging Mkts Sm Cp Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

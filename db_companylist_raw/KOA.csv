@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6999.TOK,KOA Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+KARE,Koala Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+9273.TOK,Koa Shoji Holdings Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+KOA.FRK,Konami Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+1743.TOK,Koatsu Kogyo Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+4097.TOK,Koatsu Gas Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+KOA.BER,KONAMI HOLDINGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069
+KOA.DUS,KONAMI HOLDINGS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

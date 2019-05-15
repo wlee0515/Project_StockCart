@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCPCX,PIMCO CommoditiesPLUS Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PCPSX,PIMCO CommoditiesPLUS Strategy Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PCPZ,Leeward Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCPAX,PACE Large Co Value Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCPJ,PaperClip Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCPEX,Cushing MLP Infrastructure C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCPTX,Principal SmallCap Value II R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCPPX,Principal Large Cap Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCP.FRK,ADINOTEC AG  INH. O.N.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

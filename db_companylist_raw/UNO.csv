@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBASF,Fibra UNO,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FUNO11.MEX,Fibra UNO,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+UNO.TRV,Northern Uranium Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+FR0011441773.PAR,Unofi-Haut Rendement C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5000
+TEAKCPO.MEX,"Proteak Uno, S.A.B. de C.V. CPOs",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+SELECTCA.MEX,Fondo Santander RV Patrimonial Uno SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2727
+FR0011441799.PAR,Unofi-Haut Rendement A2 A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2400
+F0GBR04HDA.PAR,Unofi-Rendement 2 D,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000
+UNO5.BER,COMMODITIES-INV.UNICOMMO.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1714
+UNOK.DUS,UNISECTOR: BASICINDS A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1091

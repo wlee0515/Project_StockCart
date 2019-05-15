@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YBRHF,Yellow Brick Road Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YBR.AUS,Yellow Brick Road Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

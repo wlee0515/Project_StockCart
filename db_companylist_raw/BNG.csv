@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNGO,Bionano Genomics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BNGRF,Savencia SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNGLX,UBS Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNGLF,Bengal Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNGA.JKT,PT Bank CIMB Niaga Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+BNG.TRT,Bengal Energy Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+004560.KOR,Hyundai Bng Steel Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.4615
+004565.KOR,Hyundai Bng Steel Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2000
+BNGR-R1.TAV,BRENMILLER ENERGY,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2000

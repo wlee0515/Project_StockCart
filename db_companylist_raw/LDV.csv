@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDVTF,Curaleaf Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LDVAX,Leland Thomson Reuters Vntr Cptl Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDVIX,Leland Thomson Reuters Vntr Cptl Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDVCX,Leland Thomson Reuters Vntr Cptl Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDV.DUS,GEMALTO N.V.  EO 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+LDV.MUN,GEMALTO N.V.  EO 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LDV.STG,Gemalto N.V. Aandelen EO 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LDV.FRK,Gemalto N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LDV.BER,GEMALTO N.V.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LDVA.FRK,Gemalto N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

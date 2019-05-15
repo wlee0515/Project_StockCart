@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMICY,Umicore S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+UMICF,Umicore S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+UMI.BRU,Umicore S.A.,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6000
+0RUY.ILN,UMICORE SA UMICORE ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+NVJP.HAM,UMICORE S.A.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5000
+NVJP.FRK,Umicore S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+NVJP.BER,UMICORE S.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+NVJP.DUS,UMICORE S.A.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+NVJP.MUN,UMICORE S.A.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+NVJP.STG,Umicore S.A. Actions Nom. o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2353

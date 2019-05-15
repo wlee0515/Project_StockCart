@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPYA.LON,iShares Dev Mkts Prpty Yield ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DPYE.LON,iShares Dev Mkts Prpty Yield ETF EURH Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DPYG.LON,iShares Dev Mkts Prpty Yield ETF GBPH Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DPY2.STG,Global Strategic Group Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+DPY2.BER,GLOBAL STRATEGIC GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DPYAN.MEX,ISHARES II PLC DEVELOPED MARKET,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5455

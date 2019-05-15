@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLODIV.JOH,CoreShares S&P Global Divitrax ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6154
+002410.SHZ,Glodon Company Limited,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3077

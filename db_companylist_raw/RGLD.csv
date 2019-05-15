@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGLD,Royal Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RGLDOU.SWI,Raiffeisen ETF Solid Gold Ounces A USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+RGLD.MEX,Royal Gold Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+RGLDO.SWI,Raiffeisen ETF Solid Gold Oncs A CHF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+RGLDS.SWI,Raiffeisen ETF Solid Gold A USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6154
+RGLDOH.SWI,Raiffeisen ETF Solid Gold Oncs H CHF Hdg,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6154
+RGLDSH.SWI,Raiffeisen ETF Solid Gold H CHF Hedged,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6154

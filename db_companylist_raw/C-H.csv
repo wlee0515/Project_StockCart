@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00BK6MCP86.LON,M&G Optimal Income USD C-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000OSIM.LON,M&G Global Convertibles USD C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00B78PJD16.LON,M&G Global Macro Bond Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+GB00B1VMD022.LON,M&G Optimal Income Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1622
+GB00B4WZ0J97.LON,M&G Global Convertibles Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+GB00B4XS0L96.LON,M&G North American Dividend Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+GB00B50N1C28.LON,M&G Optimal Income USD C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+GB00B59GSR62.LON,M&G Global High Yield Bond Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+GB00B62CB465.LON,M&G Global High Yield Bond USD C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+GB00B8G02472.LON,M&G Short Dated Corp Bd Euro C-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

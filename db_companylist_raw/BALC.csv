@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BALCX,American Funds American Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BCPC,Balchem Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+B9C.FRK,Balco Group AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+BL9B.FRK,Balchem Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BL9B.BER,"BALCHEM CORP. B  DL-,067",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+BL9B.STG,BALCHEM CORP. Reg. Shs Class B ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

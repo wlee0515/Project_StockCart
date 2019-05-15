@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERCB.FRK,Telefonaktiebolaget LM Ericsson (publ),Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+ERCB.BER,ERICSSON B (FRIA),Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ERCB.STG,Telefonaktiebolaget L.M.Erics.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+ERCB.FRK,Telefonaktiebolaget LM Ericsson (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ERCB.DUS,ERICSSON B (FRIA),Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ERCB.HAN,ERICSSON B (FRIA),Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+ERCB.HAM,ERICSSON B (FRIA),Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+ERCB.MUN,ERICSSON B (FRIA),Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

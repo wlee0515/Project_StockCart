@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAWAX,Brown Advisory Sustainable Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWAGF,BAWAG Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BG.VIE,BAWAG Group AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.5000
+0RVE.ILN,BAWAG GROUP AG BAWAG GROUP ORD ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3529
+BAW.JOH,Barloworld Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3529
+MY67.VIE,RCB OE TrackX2 l BAWAG Group,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3529
+0B2.FRK,BAWAG GROUP AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+6BK.FRK,BaWang International (Group) Holding Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1935
+0B2.BER,BAWAG GROUP AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1765

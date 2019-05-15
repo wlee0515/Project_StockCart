@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DYQ.FRK,ASOS Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DYQ.BER,"ASOS PLC  LS-,035",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DYQ.STG,ASOS PLC Registered Shares LS -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

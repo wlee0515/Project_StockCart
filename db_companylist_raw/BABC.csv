@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BW,Babcock & Wilcox Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCKIY,Babcock International Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BCKIF,Babcock International Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BAB.LON,Babcock International Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+BW3.BER,"BABCOCK INTL GRP  LS-,60",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+BW3.STG,BABCOCK INTERNATIONAL GRP PLC R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+BW3.FRK,Babcock International Group PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+UBW.FRK,Babcock & Wilcox Enterprises Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286
+BW3.DUS,"BABCOCK INTL GRP  LS-,60",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286
+BABBN.MEX,Babcock International Group PLC,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2222

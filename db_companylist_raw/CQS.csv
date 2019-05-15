@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCYF.LON,CQS New City High Yield Fund Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CYN.LON,CQS Natural Resources G&I Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+CQSN.FRK,China Star Entertainment Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+CQSN.STG,China Star Entertainment Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+CQSN.BER,"CHINA STAR ENTERT. HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZCHA.BER,CHINA TELECOM H ADR/100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+ZCHA.STG,China Telecom Corp. Ltd. Reg. S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+ZCHA.FRK,China Telecom Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ZCHA.MUN,CHINA TELECOM H ADR/100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

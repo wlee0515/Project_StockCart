@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NML,Neuberger Berman MLP Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NBGNX,Neuberger Berman Genesis Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NBGEX,Neuberger Berman Genesis Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NRGSX,Neuberger Berman Genesis R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+NBGIX,Neuberger Berman Genesis Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+NMANX,Neuberger Berman Mid Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+NPRTX,Neuberger Berman Large Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2581
+NGUAX,Neuberger Berman Guardian Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+NHS,Neuberger Berman High Yield Strategies Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

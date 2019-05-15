@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELLI,Ellie Mae Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGNMX,American Century Ginnie Mae Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAEQX,Mutual of America Instl Equity Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAEFX,BlackRock EuroFund Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAEGX,BlackRock Long-Horizon Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+MAEMX,Marshall Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BGNCX,American Century Ginnie Mae C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AGMWX,American Century Ginnie Mae R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BGNAX,American Century Ginnie Mae A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AGMNX,American Century Ginnie Mae R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

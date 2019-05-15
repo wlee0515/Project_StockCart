@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIII,G-III Apparel Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GGPXF,G-Resources Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GHTI,G-H-3 International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+0657.HKG,G-Vision International (Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2500
+GI4.BER,"G-III APPAREL GRP  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+2476.TWN,G-SHANK Enterprise Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1333
+CRDC.STG,G-Resources Group Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.0930

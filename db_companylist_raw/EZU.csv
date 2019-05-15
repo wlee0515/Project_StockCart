@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZU,iShares MSCI Eurozone ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EZU.SAN,iShares MSCI Eurozone ETF,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.6667
+EZU.MEX,iShares MSCI Eurozone ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

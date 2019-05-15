@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BZQIY,Bezeq The Israel Telecommunication Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BZQIF,Bezeq The Israel Telecommunication Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BEZ.LON,Beazley plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+BEZQ.TAV,Bezeq The Israel Telecommunication Corporation Limited,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+BEZ.FRK,Berentzen-Gruppe Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ROBE.AMS,Robeco Hollands Bezit,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+BEZ.FRK,BERENTZEN-GRP.AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5000
+BEZ.HAN,BERENTZEN-GRP.AG,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.5000
+BEZ.MUN,BERENTZEN-GRP.AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+ROHOL.AMS,Robeco Hollands Bezit,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2500

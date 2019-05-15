@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTR,Frontier Communications Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FTRNX,Fidelity Trend,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FTRBX,Federated Total Return Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRI,First Trust Indxx Glbl Natrl Res Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRFX,Federated Total Return Bond Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRLX,Federated Total Return Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRTX,Franklin LifeSmart 2025 Retire Trgt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRAX,Franklin LifeSmart Retirement Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRGX,Federated Total Return Govt Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTRQIX,FT 7293: Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

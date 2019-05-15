@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZSAN,Zosano Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0ZPN.BER,"ZOSANO PHARM.NEW DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+0ZPN.FRK,Zosano Pharma Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+0ZPN.STG,Zosano Pharma Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759

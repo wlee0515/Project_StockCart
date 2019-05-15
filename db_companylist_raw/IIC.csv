@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IICN,China Intelligence Information Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IICIX,Voya Intermediate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICFX,Voya Multi-Manager Intl Factors I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICTX,Ivy International Core Equity T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICHX,AMF Large Cap Equity H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICNX,Ivy Global Equity Income N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICEX,Ivy International Core Equity E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICLX,Voya Corporate Leaders 100 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICTEX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IICWX,Voya Multi-Manager Intl Factors W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

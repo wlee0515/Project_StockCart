@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSFN,DSA Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DSFRX,Domini Impact Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSFGY,Dah Sing Financial Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSFIX,DFA Social Fixed Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSFI.JKT,PT Dharma Samudera Fishing Industries Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+DSFFPGMODR5.TRT,DFS GIF Moderate 5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+DSFFPGMODR6.TRT,DFS GIF Moderate,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+DSFFPGMODR7.TRT,DFS GIF Moderate 7,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+DSFFPGACTAMR.TRT,DFS GIF American Equity MFS 6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333

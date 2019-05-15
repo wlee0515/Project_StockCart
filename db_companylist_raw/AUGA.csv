@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUGAX,Columbia Quality Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AUGA.LON,UBS ETF MSCI Australia H GBP A acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+W9Z.MUN,"AUGA GROUP AB EO 0,29",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4706
+W9Z.STG,Auga Group AB,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3200

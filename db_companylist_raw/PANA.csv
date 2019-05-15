@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCRFY,Panasonic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRFF,Panasonic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PABN,PanAmerican BanCorp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+PANC,Panacos Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+PPMRX,Putnam PanAgora Market Neutral R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+PPMYX,Putnam PanAgora Market Neutral Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+PLWTF,Panalpina Welttransport (Holding) AG,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+PPMFX,Putnam PanAgora Managed Futures Stgy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+PPFMX,Putnam PanAgora Managed Futures Stgy B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+PPRWX,Putnam PanAgora Risk Parity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

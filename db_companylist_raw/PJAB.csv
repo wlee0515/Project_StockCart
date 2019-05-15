@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJAB.BER,PICTET-EM.LOC.CUR.D.PDL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PJAB.DUS,PICTET-EM.LOC.CUR.D.PDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+PJAB.HAN,PICTET-EM.LOC.CUR.D.PDL,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+PJAB.HAM,PICTET-EM.LOC.CUR.D.PDL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+PJAB.MUN,Pictet - Emerging Local Currency Debt,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+PJAB.STG,Pictet-Emerg.Local Curr.Debt Na,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

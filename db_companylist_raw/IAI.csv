@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAI,iShares US Broker-Dealers&Secs Exchs ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IAIC,Information Analysis Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IAIIX,Voya Australia Index Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAIRX,Ivy ProShares Interest Rate H HY Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAIFGX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAINFX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAIGTX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAIFWX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

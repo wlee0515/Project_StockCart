@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+511600.SHH,Huaan Ririxin Money Market Fund,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.3333
+159949.SHZ,Huaan ChiNext 50 ETF,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2759
+510190.SHH,Huaan SSE Leading Enterprise ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2759
+513030.SHH,HuaAn Global Leading DAX ETF QDII,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2286
+F00000NQU9.HKG,HuaAn Aggregate China Bond Fund,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2286
+150104.SHZ,Huaan CSI 300 Graded Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+150105.SHZ,Huaan CSI 300 Graded Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2162
+150299.SHZ,Huaan Csi Bank Index Grading Securities Investment Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1356
+150300.SHZ,Huaan Csi Bank Index Grading Securities Investment Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1356
+150301.SHZ,Huaan All-Share Index Securities Companies Index Grading Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1231

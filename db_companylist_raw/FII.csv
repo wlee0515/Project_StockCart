@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FII,Federated Investors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FIIAX,Fidelity Advisor Mid Cap II A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIIMX,Fidelity Advisor Mid Cap II I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIIGX,First Investors Investment Grade A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIIFX,Federated Intermediate Corp Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIIRX,Fidelity Advisor Simplicity RMD 2010 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIIIX,Fidelity Advisor International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIICX,Fidelity Advisor Mid Cap II C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIITX,First Investors Global Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIISX,First Investors Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USPH,U.S. Physical Therapy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USPS,Ultimate Sports Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USPRX,USAA S&P 500 Index Reward,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPIX,ProFunds UltraShort NASDAQ-100 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPSX,ProFunds UltraShort NASDAQ-100 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPACX,ADT 1851 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPVX,Union Street Partners Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPAX,Columbia Pacific/Asia Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USPABX,ADT 1841 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+USPCX,Union Street Partners Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

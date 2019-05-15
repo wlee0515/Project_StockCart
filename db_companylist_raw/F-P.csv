@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPFAEA.MEX,F-PFAE A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+F-PYMEA.MEX,"Fondo BBVA Bancomer Deuda Empresas, S.A. de C.V",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+FPYMEB.MEX,F-PYME B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+FPYMEE.MEX,F-PYME E,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+F-PYMEB.MEX,"Fondo BBVA Bancomer Deuda Empresas, S.A. de C.V",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FPFAEB1.MEX,F-PFAE B1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+FPFAEB2.MEX,F-PFAE B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+FPYMEB1.MEX,F-PYME B-1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+FPYMEB2.MEX,F-PYME B-2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+FPYMEB3.MEX,F-PYME B-3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615

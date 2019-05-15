@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNHAF,Vifor Pharma AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNHAY,Vifor Pharma AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNH.TRV,Golden Hope Mines Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GNHN.STG,USP Group Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GNHN.BER,USP GROUP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCND,Scientific Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000X1IO.KOR,SHBNPP Overseas Scndry Prof PF Eq-FoF 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1905
+F00000X28O.KOR,SHBNPP Overseas Scndry Prof PF Eq-FoF 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1905
+F00000X4B2.KOR,SHBNPP Oversea Scndry Prof PF Eq-FoF 3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1905
+F00000X4B3.KOR,SHBNPP Oversea Scndry Prof PF Eq-FoF 6,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+F00000X6Y6.KOR,SHBNPP Oversea Scndry Prof PF Eq-FoF 4,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860

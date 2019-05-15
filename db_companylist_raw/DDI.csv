@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDIAX,Delaware Wealth Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DDIV,First Trust Dorsey Wright Momt & Dividend ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DDICX,Delaware Wealth Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDIIX,Delaware Wealth Builder Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDIAF,Margaret Lake Diamonds Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DDIFX,Dreyfus Diversified International Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1SCA.BER,ROUVIER-PATRIMOINE DDISEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DDIF.AMS,DD INCOME FUND,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+DDIL.BSE,Deep Diamond India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143

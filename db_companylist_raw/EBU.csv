@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HKEB,HK eBus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+EBML,eBullion Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EBUL.MIL,ETFS EUR Daily Hedged Gold ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5714

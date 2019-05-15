@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFH,CABCO Trust for JC Penney Debentures,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PFHO,Pacific Health Care Organization Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFHD,Professional Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFHCX,Pacific Funds Small-Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFH-F.TRT,PowerShares Fundamental High Yield Corporate Bond Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

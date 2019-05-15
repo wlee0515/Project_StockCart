@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEURX,American Century Equity Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AEUDX,American Century Equity Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AEU.DUS,"PRYSMIAN S.P.A.  EO 0,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+AEU.BER,"PRYSMIAN S.P.A.  EO 0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AEU.STG,Prysmian S.p.A. Azioni nom. EO ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AEU.FRK,Prysmian S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AEU.MUN,"PRYSMIAN S.P.A.  EO 0,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+DJL3.FRK,AGIF V-ALL.GBL INS. AEUR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+DJL3.BER,AGIF V-ALL.GBL INS. AEUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+DJL3.DUS,AGIF V-ALL.GBL INS. AEUR,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

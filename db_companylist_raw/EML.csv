@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EML,The Eastern Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EMLC,VanEck Vectors JP Morgan EM LC Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EMLP,First Trust North Amer Engy InfrasETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EMLCX,MFS Emerging Markets Debt Lcl Ccy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EMLNX,MFS Emerging Markets Debt Lcl Ccy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMLL,El Maniel International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EMLLX,MFS Emerging Markets Debt Lcl Ccy R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMLBF,iPath Long Enhanced MSCI Emerg Mkts ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+EMLAF,Empire Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

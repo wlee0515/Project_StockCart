@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFHY,WisdomTree Fundamental US Hi Yield Corp Bd,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+WFHYX,Wells Fargo Short-Term Hi Yield Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WFHHX,Wells Fargo Special Mid Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFHRX,Wells Fargo Target 2025 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFHG,World Financial Holding Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

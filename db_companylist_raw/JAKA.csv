@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAKAX,JPMorgan SmartRetirement 2060 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+JKSW.JKT,"PT Jakarta Kyoei Steel Works, Tbk",Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+JSPT.JKT,PT Jakarta Setiabudi Internasional Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+LCGP.JKT,PT Eureka Prima Jakarta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+JAK1.MUN,JAKARTA HOTEL  RP 500,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+JAK1.BER,JAKARTA HOTEL  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+JIHD.JKT,PT Jakarta International Hotels & Development Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+URBN.JKT,PT Urban Jakarta Propertindo Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636

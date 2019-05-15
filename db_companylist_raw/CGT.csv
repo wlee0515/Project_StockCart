@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CGTFF,Columbus Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTAX,American Funds US Government Sec 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTYX,Columbia Seligman Global Tech Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTRX,Columbia Select Large Cap Growth Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTUX,Columbia Global Technology Growth Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTFX,American Funds US Government Sec 529F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTCX,American Funds US Government Sec 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGTEX,American Funds US Government Sec 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGT.TRT,Columbus Gold Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+CGT.LON,Capital Gearing Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

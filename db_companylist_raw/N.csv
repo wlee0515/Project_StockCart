@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVDA,NVIDIA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NIO,NIO Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NFLX,Netflix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NBEV,New Age Beverages Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NIU,Niu Technologies,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NTGN,Neon Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+STIM,Neuronetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NMCI,NAVIOS MARITIME CONTAINERS INC.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NTAP,NetApp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NKE,NIKE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1111

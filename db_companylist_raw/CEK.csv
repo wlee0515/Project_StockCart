@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEKRX,Columbia Emerging Markets Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEKYX,Columbia Emerging Markets Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEKA.JKT,PT Wilmar Cahaya Indonesia Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+CEK.BER,CEOTRONICS AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CEK.DUS,CEOTRONICS AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CEK.HAM,CEOTRONICS AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+CEK.MUN,CEOTRONICS AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CEK.STG,CEOTRONICS AG Inhaber-Aktien o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CEK.FRK,CeoTronics AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

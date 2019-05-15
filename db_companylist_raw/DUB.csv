@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNBS.JKT,PT Bank Panin Dubai Syariah Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+DUB.AUS,Dubber Corporation Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+2PS.FRK,PT Bank Panin Dubai Syariah Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+O5A.FRK,Dubber Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+O5A.BER,DUBBER CORP. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+O5A.HAM,DUBBER CORP. LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3158
+DUB1.BER,DRDGOLD LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+DUBA.DUS,DRDGOLD LTD. RC 1 ADR/10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2069
+DUBA.MUN,DRDGOLD LTD. RC 1 ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000
+DUBA.FRK,DRDGOLD Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

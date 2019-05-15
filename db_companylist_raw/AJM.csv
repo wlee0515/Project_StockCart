@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AJMPF,Ashmore Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AJM.AUS,Altura Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AJMERA.BSE,Ajmera Realty & Infra India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+AJMERA.NSE,Ajmera Realty & Infra India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000

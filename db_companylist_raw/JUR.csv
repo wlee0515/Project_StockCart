@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JURIF,JURIDICA INVESTMEN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JURTX,Janus Henderson Real Return T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JURIX,Janus Henderson Real Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JURDX,Janus Henderson Real Return D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JURSX,Janus Henderson Real Return S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JURAX,Janus Henderson Real Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JURCX,Janus Henderson Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEC.TRV,Jura Energy Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+JIL.LON,Juridica Investments Ltd,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+JURE.LON,JPMORGAN ETFS (IRELAND) ICAV JP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500

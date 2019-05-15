@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIB,Bancolombia S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CIBR,First Trust NASDAQ Cybersecurity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CIBFX,American Funds Capital Income Bldr F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CIBCX,American Funds Capital Income Bldr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AWEIX,CIBC Atlas Disciplined Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CIBEY,Commercial International Bank (Egypt) S.A.E.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CIBH,CIB Marine Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CIBY,CIBL Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CIBWX,Columbia Total Return Bond T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AWGIX,CIBC Atlas All Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRRCF,Wayland Group,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRRL,UBS ETRACS M Py 2xLvg MortgREIT ETN SerB,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRTY,Marfrig Global Foods S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRMF,Miramont Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRAX,MassMutual RetireSMART Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRGX,Meridian Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRSX,MassMutual RetireSMART Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRRX,MFS Total Return Bond R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRRFX,BlackRock Mid Cap Dividend R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

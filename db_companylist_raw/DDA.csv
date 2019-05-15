@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDAIF,Daimler AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DDAA.PAR,DEPDORD3.75%SEP23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+DDAB.PAR,DEPDORDFRNMAY2024,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+DDAC.PAR,DEPDOR2.74%13MAY25,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+DDAD.PAR,DEPDOR1.61%04JUN26,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000

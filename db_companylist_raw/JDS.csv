@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JDSCX,JPMorgan Small Cap Blend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSIX,JHancock Diversified Strategies I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSNX,Janus Henderson Small Cap Value N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSAX,Janus Henderson Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSHF,Jardine Strategic Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSRX,Janus Henderson Small Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSEX,James Alpha Managed Risk Domestic Eq S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDSTX,JHancock Diversified Strategies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

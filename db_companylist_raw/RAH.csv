@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAHTX,American Funds 2045 Trgt Date Retire R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAJA.JKT,PT Rukun Raharja Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+RAH.STG,Recro Pharma Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+531311.BSE,RAHIL INVESTMENT & FINANCE LTD,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

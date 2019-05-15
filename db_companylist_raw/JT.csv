@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JT,Jianpu Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JTPY,JetPay Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JTCMF,Jetcom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JTTSX,JPMorgan SmartRetirement 2020 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JTWRX,PGIM Jennison 20/20 Focus R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JTSSX,JPMorgan SmartRetirement 2050 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JTTCX,JPMorgan SmartRetirement 2020 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JTUAX,JPMorgan US Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

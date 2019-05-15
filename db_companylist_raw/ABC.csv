@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABC,AmerisourceBergen Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ABCD,Cambium Learning Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABCB,Ameris Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABCFF,Abacus Mining & Exploration Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABCP,AmBase Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABCE,ABCO Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GABCX,Gabelli ABC AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABCZF,Abcam plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABCAF,Athabasca Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABCEX,AB Emerging Markets Multi-Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

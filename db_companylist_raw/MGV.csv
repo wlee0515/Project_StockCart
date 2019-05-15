@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGV,Vanguard Mega Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MGVCX,MainStay MacKay Government C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGVAX,MainStay MacKay Government A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGVSX,MFS Government Securities R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGVNX,MainStay MacKay Government Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

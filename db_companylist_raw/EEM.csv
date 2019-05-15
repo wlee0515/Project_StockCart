@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EEM,iShares MSCI Emerging Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EEMV,iShares Edge MSCI Min Vol Emerg Mkts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMA,iShares MSCI Emerging Markets Asia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMS,iShares MSCI Emerging Markets Sm-Cp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMAX,Columbia Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMX,SPDR MSCI Em Mkts Fossil Fuel Free ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMO,Invesco S&P Emerging Markets Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EEMCX,Columbia Emerging Markets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EEMD,AAM S&P Emerging Markets Hi Dividend Val ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500

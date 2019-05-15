@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRMGX,Neuberger Berman Mid Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRM.TRV,Noram Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+NRM.STG,Nova Re SIIQ S.p.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+NRM.FRK,Insurance Australia Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NRM.BER,INS.AUST.GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NRM.HAM,INS.AUST.GRP,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+NRM.DUS,INS.AUST.GRP,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

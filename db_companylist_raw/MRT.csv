@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRT,MedEquities Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MRTX,Mirati Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRTN,Marten Transport Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRTUX,MainStay Retirement 2030 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MRTDX,MassMutual RetireSMART by JPM 2020 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTI,Maxus Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTOX,MainStay Retirement 2030 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTMF,Maritime Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTHX,MassMutual RetireSMART by JPM 2020 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTTX,MainStay Retirement 2030 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSTA.FRK,Telstra Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+TSTA.BER,TELSTRA CORP. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+TSTA.DUS,TELSTRA CORP. LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+TSTA.HAM,TELSTRA CORP. LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+TSTA.MUN,TELSTRA CORP. LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TSTA.STG,TELSTRA CORP. LTD. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GHAAX,VanEck Global Hard Assets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GHAIX,VanEck Global Hard Assets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHAV,Grand Havana Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GHAYX,VanEck Global Hard Assets Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHACX,VanEck Global Hard Assets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHA.FRK,"BARON OIL PLC  LS -,00025",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GHA.BER,"BARON OIL PLC  LS -,00025",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GHA.STG,Baron Oil PLC Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+531876.BSE,GHANSHYAM STEEL WORKS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069

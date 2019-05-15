@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEFIX,Weitz Short Duration Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEFCX,Wildermuth Endowment Fund - C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEF.TRT,Western Forest Products Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+002871.SHZ,Qingdao Weflo Valve Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3333
+AT0000A0B067.VIE,PRIVAT BANK WEF,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1875

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YBOX.TAV,Ybox Real Estate Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+YBOC.BER,"TENAX THERAPEUTICS DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YBOC.FRK,Tenax Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+YBOC.STG,Tenax Therapeutics Inc. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+YBOX-R2.TAV,YBOX REAL ESTATE L,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4615

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFC,Bank First National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BANFP,BFC Capital Trust II PFD TR 7.20%,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFCH,BitFrontier Capital Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BFCAX,American Funds Corporate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFCFX,American Funds Corporate Bond F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFCGX,American Funds Corporate Bond F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFCCX,American Funds Corporate Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

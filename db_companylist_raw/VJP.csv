@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VJPN.LON,Vanguard Funds Public Limited Company - Vanguard FTSE Japan UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+VJPN.FRK,VANGUARD FTSE JAP.UETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VJPN.AMS,Vanguard Funds Public Limited Company - Vanguard FTSE Japan UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+VJPN.FRK,VANGUARD FTSE JP.UETF DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+VJPN.STG,Vanguard FTSE Japan UCITS ETF R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VJPN.SWI,Vanguard FTSE Japan ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+VJPN.BER,VANGUARD FTSE JP.UETF DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VJPN.DUS,VANGUARD FTSE JP.UETF DLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

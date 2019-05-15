@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+102280.KOR,SBW Inc.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+SBWFF,Strongbow Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBW.TRV,Strongbow Exploration Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SBW.FRK,Sapporo Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SBW.DUS,SAPPORO HOLDINGS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SBW.MUN,SAPPORO HOLDINGS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SBW.STG,Sapporo Holdings Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SBW.AUS,Shekel Brainweigh Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000

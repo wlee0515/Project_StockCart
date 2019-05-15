@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IZGH.BER,"ECR MINERALS PLC LS,00001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IZGH.STG,ECR Minerals PLC Reg. Shares LS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LA.TRV,Los Andes Copper Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3333
+L41.FRK,LOS ANDES COPPER LTD,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+L41.MUN,Los Andes Copper Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+F000001YKN.BCL,Losiram Cuatro SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609
+F00000VZ6M.BCL,Plan de Pensiones de Los Ingenieros PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609
+ES0161055035.BCL,Inversiones Los Azules SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+LOSBOTEJARES.BCL,Los Botejares Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1935
+LOSIRAMCUATR.BCL,Losiram Cuatro SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1463

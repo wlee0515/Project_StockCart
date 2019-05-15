@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRGTX,Royce Global Value Trust Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XRG.FRK,Xiamen International Port Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+XRG.BER,XIAMEN INTL PORT H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XRG.STG,Xiamen International Port Co. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

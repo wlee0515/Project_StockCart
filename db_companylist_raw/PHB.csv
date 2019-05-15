@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHB,Invesco Fundamental Hi Yield Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PHBLX,Virtus Strategic Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PHBI,Pharmagreen Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PHBR,PhoneBrasil International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PHBA.FRK,Sonova Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PHBN.STG,Sonova Holding AG Namens-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

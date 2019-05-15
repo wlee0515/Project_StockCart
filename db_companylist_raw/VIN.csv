@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VINIX,Vanguard Institutional Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VNCE,Vince Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WVVI,Willamette Valley Vineyards Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VINEX,Vanguard International Explorer Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCISY,VINCI SA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VINO,Algodon Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WVVIP,Willamette Valley Vineyards Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+VINAX,Vanguard Industrials Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+VCVOF,VinaCapital Vietnam Opportunity Fund Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XQQQX,Nuveen NASDAQ 100 Dynamic Overw,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XQQ.TRT,iShares NASDAQ 100 ETF (CAD-Hedged),ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+XQ1Q.HAM,F.TEM.INV-T.AS.GR.A A.EUR,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.5000
+XQB.TRT,iShares High Quality CanadianBd ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+XQUA.LON,X USD Emerging Mkts Bd Qual Wght ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+XQ1Q.BER,F.TEM.INV-T.AS.GR.A A.EUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+XQ1S.HAM,F.TEM.INV.-F.WLD PER.AADL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+XQ1A.STG,FR.TEMP.INV.FDS-T.GLOB.SM.COS N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+XQ1L.DUS,F.TEM.INV-T.AS.GR.A YD.EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444

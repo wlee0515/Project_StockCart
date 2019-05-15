@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRAO.MOS,Public Joint Stock Company Inter RAO UES,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+RAOB.MUN,CRAMO PLC  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+RAOB.FRK,Cramo Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBSS.JKT,PT Mitrabahtera Segara Sejati Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+TOBA.JKT,PT Toba Bara Sejahtra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+SRAJ.JKT,PT Sejahteraraya Anugrahjaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+IBST.JKT,PT Inti Bangun Sejahtera Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+033530.KOR,Sejong Industrial Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.4000
+GWSA.JKT,PT Greenwood Sejahtera Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+LPIN.JKT,PT Multi Prima Sejahtera Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2222
+0TP.BER,TIGA PILAR SEJAHT F.RP500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+SEJ1.DUS,"SAFRAN INH.  EO -,20",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+SEJ1.MUN,"SAFRAN INH.  EO -,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000

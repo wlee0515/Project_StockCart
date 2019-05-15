@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSC,Tristate Capital Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TSCO,Tractor Supply Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSCDY,Tesco PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCIX,AMG TimesSquare Small Cap Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCGX,Thrivent Small Cap Growth S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCDF,Tesco PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCEF,Toscana Energy Income Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCWX,TIAA-CREF Quant Small-Cap Equity W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCAX,JHancock CA Tax-Free Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSCPX,AMG TimesSquare Small Cap Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

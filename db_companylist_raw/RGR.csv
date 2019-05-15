@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGR,"Sturm, Ruger & Company Inc.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RGRX,RegeneRx Biopharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RGRYX,Victory RS Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGRNF,Regis Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RGREX,Invesco Global Real Estate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGRPX,American Funds Retire Inc Port-Cnsrv R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGRLF,Range Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RGRA.STG,Randgold Resources Ltd. Reg. Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

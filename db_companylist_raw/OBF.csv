@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OBF.FRK,KalNorth Gold Mines Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OBF.BER,KALNORTH GOLD MINES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

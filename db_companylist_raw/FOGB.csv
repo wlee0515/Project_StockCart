@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOGBR05LMF.LON,Investec Global Gold Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+FOGBR05JK1.PAR,Dynaflexi,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5000
+FOGBR05TW5.FRK,Tiberius Exploration Fund UI,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5000
+FOGBR05K3N.LON,Fidelity Global Property Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+FOGBR05JVA.HKG,JPMorgan China Pioneer A-Share Fund,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.4706
+FOGBR05K5H.PAR,Carmignac Patrimoine E EUR Acc,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4706
+FOGBR05KP5.BCL,Prudente EPSV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4706
+FOGBR05JXH.LON,F&C Property Growth & Income AUD Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706
+FOGBR05JY8.LON,Newton UK Equity Institutional Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706

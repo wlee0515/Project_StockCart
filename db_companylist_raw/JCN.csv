@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JCNAX,Janus Henderson Contrarian A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCNNX,Janus Henderson Contrarian N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCNIX,Janus Henderson Contrarian S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCNTX,JPMorgan New York Tax Free Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCNRX,Janus Henderson Contrarian R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCNCX,Janus Henderson Contrarian C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

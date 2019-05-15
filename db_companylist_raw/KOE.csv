@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOEBF,KOENIG & BAUER AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKB.FRK,Koenig & Bauer AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+3635.TOK,Koei Tecmo Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+4367.TOK,"Koei Chemical Company, Limited",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+1954.TOK,Nippon Koei Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+0G15.LON,Koenig & Bauer AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+SKB.BER,KOENIG + BAUER AG ST O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+SKB.DUS,KOENIG + BAUER AG ST O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+SKB.MUN,KOENIG + BAUER AG ST O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1875
+SKB.FRK,Koenig & Bauer AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818

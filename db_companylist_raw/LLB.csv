@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLBO,Lifeline Biotechnologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LLBN.SWI,Liechtensteinische Landesbank Aktiengesellschaft,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+RXEA.HAM,LLB SEMPER REAL ESTATE A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+LINN.SWI,Bank Linth LLB AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+LLB1.BER,AEDES SIIQ S.P.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LLB1.STG,Aedes SIIQ S.p.A. Azioni nom. o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000
+LLBM.KLA,LION INDUSTRIES CORPORATION,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+RXEA.MUN,LLB SEMPER REAL ESTATE A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222
+RXEB.DUS,LLB SEMPER REAL ESTATE T,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+RXEC.BER,LLB SEMPER R. ESTATE VTA,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222

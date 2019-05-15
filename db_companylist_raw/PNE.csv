@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNE3.MUN,PNE AG  NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+PNECX,AllianzGI NFJ Dividend Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNEAX,AllianzGI NFJ Dividend Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNERX,AllianzGI NFJ Dividend Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PNE3.FRK,PNE AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+PNE.TRT,Pine Cliff Energy Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+505283.BSE,Kirloskar Pneumatic Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+PNE3.FRK,PNE AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+BDA.SGP,PNE Industries Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1579

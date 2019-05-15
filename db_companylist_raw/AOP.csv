@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOPCX,AllianzGI International Small-Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOPAX,AllianzGI International Small-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOP.STG,Hang Lung Properties Ltd. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+AOP.BER,HANG LUNG P.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AOP.MUN,HANG LUNG P.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AOP.FRK,Hang Lung Properties Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AOP.AUS,Apollo Consolidated Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+3046.TWN,Aopen Inc.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.6667
+AOP.DUS,HANG LUNG P.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4615

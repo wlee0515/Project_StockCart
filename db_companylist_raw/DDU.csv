@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDU.FRK,Addvalue Technologies Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DDU.STG,Addvalue Technologies Ltd,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

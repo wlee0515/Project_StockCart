@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFNB,California First National Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CFNDX,Cargile Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNAX,American Funds Fundamental Invs 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNLX,Commerce Natl Tax Free Interm Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNTX,Shelton California Tax-Free Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNCX,American Funds Fundamental Invs 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNFX,American Funds Fundamental Invs 529F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFNEX,American Funds Fundamental Invs 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFN.LIS,"Cofina, SGPS, S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6667
+CFN.SGP,One Stoxx Asean Select Dividend Index Fund,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.6667

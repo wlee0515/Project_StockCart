@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHS,John Hancock Income Securities Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JHSOX,JHancock New Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JHSMX,JHancock International Small Company R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHSIX,JHancock Spectrum Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHSC,JHancock Multifactor Small Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JHSRX,JHancock Spectrum Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHSGX,JHancock Funds III US Quality Gr R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

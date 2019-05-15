@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZZMS.FRK,Commerzbank AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZZMS.STG,Commerzbank AG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZZMS.BER,COMMERZBK AG SPONS.ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

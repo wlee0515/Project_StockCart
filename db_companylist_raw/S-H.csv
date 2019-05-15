@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00B5LHB564.LON,M&G Episode Macro Euro S-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1875
+GB00B5T6XP91.LON,M&G Episode Macro GBP S-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1875
+F00000IRPT.LON,M&G Episode Macro Euro S-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000IRPV.LON,M&G Episode Macro GBP S-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

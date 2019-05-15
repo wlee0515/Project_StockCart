@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CZM,Direxion Daily China Bull 3x Sh,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CZMWF,Carl Zeiss Meditec AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CZMSX,Multi-Manager Small Cap Eq Strat Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CZMWY,Carl Zeiss Meditec AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CZMVX,Multi-Manager Value Strategies Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CZMGX,Multi-Manager Growth Strategies Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

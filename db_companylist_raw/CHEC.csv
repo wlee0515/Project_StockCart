@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHKP,Check Point Software Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CKPT,Checkpoint Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CHEK,Check-Cap Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+HCKAX,Hartford Checks and Balances A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HCKIX,Hartford Checks and Balances I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+HCKSX,Hartford Checks and Balances R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+HCKCX,Hartford Checks and Balances C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+HCKFX,Hartford Checks and Balances F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+HCKTX,Hartford Checks and Balances R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+HCKRX,Hartford Checks and Balances R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286

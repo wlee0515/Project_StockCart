@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIO,Rio Tinto plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNYBF,The Tinley Beverage Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNTRQ,Tintri Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TINO,Tamino Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STHI,Sprout Tiny Homes Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TKRFF,Tinka Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TINLY,Teijin Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TINGX,Thornburg International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+TKSTF,Tinkerine Studios Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TINRX,TIAA-CREF Equity Index Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

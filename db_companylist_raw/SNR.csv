@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNR,New Senior Investment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SNRY,Solar Energy Initiatives Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNRAX,State Farm Small Cap Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SNRBX,State Farm Small Cap Index B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SNRR,Super Nova Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNRG,SusGlobal Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNR.TRV,Senator Minerals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DICA.ARG,Argentina 8.28% PIK SNR 31/12/2033 USD1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.1818
+TOUOR.PAR,Touax SCA 6% CNV SNR 10/07/2020 EUR18,Equity,Paris,09:00,17:30,UTC+01,EUR,0.1429

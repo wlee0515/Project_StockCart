@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASH,Ashland Global Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ASHR,Xtrackers Harvest CSI 300 China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+AU,AngloGold Ashanti Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHT,Ashford Hospitality Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASHS,Xtrackers Harvest CSI 500 CHN A SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+AINC,Ashford Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AHT-PD,Ashford Hospitality Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+AHT-PG,Ashford Hospitality Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+ASHX,Xtrackers MSCI China A Inclusion Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+ASHTF,Ashtead Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

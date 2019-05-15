@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTCHF,Wisetech Global Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WTCG,W Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTCOX,Segall Bryant & Hamill ColoradoTaxFr Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WTCZF,Copper Lake Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTC.AUS,Wisetech Global Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+WTCH.AMS,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI World Technology UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+WTC.BER,"CAVITATION TECH.DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

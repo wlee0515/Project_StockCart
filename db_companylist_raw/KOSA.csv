@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDKOY,Idemitsu Kosan Co. Ltd..,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+7997.TOK,Kurogane Kosakusho Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3810
+I7B.BER,IDEMITSU KOSAN CO. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+I7B.FRK,Idemitsu Kosan Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+5009.TOK,Fuji Kosan Company Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+5019.TOK,Idemitsu Kosan Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+7868.TOK,Kosaido Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+8928.TOK,Anabuki Kosan Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+9675.TOK,Joban Kosan Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+I7B.STG,Idemitsu Kosan Co. Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

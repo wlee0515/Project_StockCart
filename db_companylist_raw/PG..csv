@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PG.TRT,Premier Gold Mines Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+PG.BAK,People's Garment Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+PG.ARG,The Procter & Gamble Company,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+PG.MEX,The Procter & Gamble Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+PG.SWI,The Procter & Gamble Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+PG.VIE,The Procter & Gamble Company,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500

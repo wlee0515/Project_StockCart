@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRUSX,Franklin Utilities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRUAX,Franklin Utilities Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRUGX,Franklin US Government Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRUSHX,FT 7665: Alternative Income Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRUSMX,FT 7288: Technology Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRUGNX,FT 7234: Strategic Dividend Sel,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRUHGX,First Trust 3820 High Yield Cor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRURX,Franklin Utilities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CHFR,China Fruits Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FRU.TRT,Freehold Royalties Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5714

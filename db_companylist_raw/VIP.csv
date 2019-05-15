@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIPS,Vipshop Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VNOM,Viper Energy Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VIPSX,Vanguard Inflation-Protected Secs Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VIPIX,Vanguard Inflation-Protected Secs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VPER,Viper Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GVIP,Goldman Sachs Hedge Industry VIP ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VIPV,VIPR Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TVPTX,Tortoise VIP MLP & Pipeline Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+VIPPX,Voya International Index P2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FSJMPX,FT 6890: Target VIP 4Q '17 - Te,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

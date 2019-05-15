@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSL,DoubleLine Income Solutions Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DBLTX,DoubleLine Total Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PLOW,Douglas Dynamics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DLTNX,DoubleLine Total Return Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+DSENX,DoubleLine Shiller Enhanced CAPE N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+DBL,DoubleLine Opportunistic Credit Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DTO,DB Crude Oil Double Short ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+DEI,Douglas Emmett Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DSEEX,DoubleLine Shiller Enhanced CAPE I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TOTL,SPDR DoubleLine Total Return Tact ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

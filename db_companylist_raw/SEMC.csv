@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEMCX,SEI Mid-Cap F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+0O9P.LON,Semcon AB,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SEMC.LON,UBS ETF JPM USD EM Dvrs Bd 1-5 A-dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6154
+SZV.STG,Semcon AB,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6154

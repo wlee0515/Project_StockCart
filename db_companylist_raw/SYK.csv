@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYK,Stryker Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SYKE,"Sykes Enterprises, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SYKWF,SKY Network Television Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASY.LON,Andrews Sykes Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SYK.FRK,Stryker Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SZY.FRK,"Sykes Enterprises, Incorporated",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SYK.BER,"STRYKER CORP.  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYK.DUS,"STRYKER CORP.  DL-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SYK.MUN,"STRYKER CORP.  DL-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+SYK.MEX,Stryker Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000

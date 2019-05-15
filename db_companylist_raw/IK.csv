@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KANG,iKang Healthcare Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IKNX,IKONICS Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IKTO,iTokk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IKTSY,Intertek Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PRCYF,Ikkuma Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IKSTX,American Indep Kansas Tax-Exempt Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+IKTSF,Intertek Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IKMA,IntelaKare Marketing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+IKG.MIL,Intek Group S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.3333
+IKAI.JKT,PT Intikeramik Alamasri Industri Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1667

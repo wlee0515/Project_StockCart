@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWL,iShares Russell Top 200 ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IWLDSX,New World Leaders Portfolio 201,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IWLYEX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IWLD.AUS,iShares Core MSCI World All Cap ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6000

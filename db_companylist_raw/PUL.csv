@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHM,PulteGroup Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PULM,Pulmatrix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PLSE,Pulse Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PLSB,The Pulse Beverage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PLFX,Pulse Evolution Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PULS,PGIM Ultra Short Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+TPNI,The Pulse Network Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PLSDF,Pulse Seismic Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PULRX,Putnam Global Utilities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

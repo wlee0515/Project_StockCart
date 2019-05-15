@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QDRSF,Quadrise Fuels International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+F000011FIM.TRT,London Life Pathways Cdn Concntr Eq Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1667
+F000011FIT.TRT,London Life Pathways Core Plus Bond Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+F000011FIY.TRT,London Life Pathways Em Mkts Eq Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+F000011FJ3.TRT,London Life Pathways EM Lrg Cp Eq Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F000011FJ8.TRT,London Life Pathways Glb Cor Pls Bd Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395
+F000011FJJ.TRT,London Life Pathways Intl Eq Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395
+F000011FJP.TRT,London Life Pathways US Concntr Eq Qdrs,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

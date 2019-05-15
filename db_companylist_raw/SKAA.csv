@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKAA.FRK,Skechers U.S.A. Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SKAA.BER,"SKECHERS U.S.A A  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SKAA.STG,SKECHERS U.S.A. INC. Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

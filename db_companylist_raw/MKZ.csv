@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKZ-UN.TRT,Mackenzie Master Limited Partnership,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+MKZ_U.TRT,MACKENZIE MSTR UN,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

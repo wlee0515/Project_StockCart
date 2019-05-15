@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNYBF,The Tinley Beverage Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNYFX,1290 Global Talents I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNYAX,1290 Global Talents A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNYYF,Tinybeans Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNYRX,1290 DoubleLine Dynamic Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNYIX,Thornburg NY Intermediate Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNY.AUS,Tinybeans Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TNY1.BER,"CHINA MERCH. LAND HD -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TNY1.STG,China Merchants Land Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

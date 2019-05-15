@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOT,TOTAL S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VTI,Vanguard Total Stock Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VTSAX,Vanguard Total Stock Market Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+BND,Vanguard Total Bond Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VT,Vanguard Total World Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+VXUS,Vanguard Total International Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+ITOT,iShares Core S&P Total US Stock Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+CRF,Cornerstone Total Return Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1579
+VTSMX,Vanguard Total Stock Market Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

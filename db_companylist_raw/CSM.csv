@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSM,ProShares Large Cap Core Plus,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CSML,IQ Chaikin US Small Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CSMIX,Columbia Small Cap Value I A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSMZX,Carillon Scout Mid Cap Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSMSX,Carillon Scout Mid Cap R-5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSMHWX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSMDEX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSMUX,Carillon Scout Mid Cap R-6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CSMHDX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CSMCX,Congress Small Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

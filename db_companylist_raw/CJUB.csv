@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CJUBILA1.MEX,Multifondo de Prevision 4 Banorte Generali SIEFORE SA de CV,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+CJUBILAA2.MEX,CJUBILA A2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+CJUBILAB2.MEX,CJUBILA B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+F00000LZS2.MEX,CJUBILA A2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+F00000LZS3.MEX,CJUBILA B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333

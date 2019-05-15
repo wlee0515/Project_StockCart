@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JLT.LON,Jardine Lloyd Thompson Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+JLT.BER,"JAR.LLOYD THOM.GRP LS-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+JLT.FRK,Jardine Lloyd Thompson Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JLT.DUS,"JAR.LLOYD THOM.GRP LS-,05",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+JLT.STG,JARDINE LLOYD THOMPSON GRP PLCR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KM8.BER,JLT MOBILE COMP. B  SK 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+FR0011182773.PAR,BNP Paribas Double Garantie Jlt 2020 C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1463
+FR0011182815.PAR,BNP Paribas Double Garantie Jlt 2020 I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1463
+F00000O72I.PAR,BNP Paribas Double Garantie Jlt 2020 C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1463

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXL,American Axle & Manufacturing Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AXLE,T.J.T. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXLX,Axiologix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNA.NSE,G N A Axles Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+AXL.TRV,Arrow Exploration Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+AXL1.BER,AXFOOD AB,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AXLP.JOH,African Phoenix Investments Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+AXL.JOH,African Phoenix Investments Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2727
+AYA.STG,AMERICAN AXLE & MFG HLDGS INC.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBN,"Corporate Backed Callable Trust Certificates, J.C. Penny Debenture-Backed Series 2007-1 Trust CORTS A-1 7%",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JBNK.TAV,Bank of Jerusalem Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

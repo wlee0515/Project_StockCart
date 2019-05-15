@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ILKAY,Iluka Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ILKAF,Iluka Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ILUS,Ilustrato Pictures International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ILUAX,Voya US Bond Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ILU.AUS,Iluka Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ILU.BER,"ILLUMINA INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+ILU.MUN,"ILLUMINA INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+ILZ.BER,ILUKA RES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000

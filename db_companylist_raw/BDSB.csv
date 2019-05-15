@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDSB.BER,"BCO DE SABADELL A EO-,125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+BDSB.DUS,"BCO DE SABADELL A EO-,125",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+BDSB.MUN,"BCO DE SABADELL A EO-,125",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+BDSB.FRK,"Banco de Sabadell, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+BDSB.STG,Banco de Sabadell S.A. Acciones,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

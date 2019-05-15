@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+003F.DUS,WT.AS.PC.EXJ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+003F.BER,WT.AS.PC.EXJ,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+003J.BER,WT.AUS.DIV.FD.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+003J.DUS,WT.AUS.DIV.FD.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444

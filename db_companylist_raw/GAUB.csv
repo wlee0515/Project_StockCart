@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAUBS.PAR,GAUSSIN BSAR,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+GAUBT.PAR,GAUSSIN BSA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOZB.BER,NO.N.F.I.N.225USD-H.U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NOZB.DUS,NO.N.F.I.N.225USD-H.U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

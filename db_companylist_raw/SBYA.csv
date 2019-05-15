@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBYA.FRK,Sotheby's,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SBYA.BER,"SOTHEBY'S  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SBYA.STG,Sotheby's Reg. Shares Class DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

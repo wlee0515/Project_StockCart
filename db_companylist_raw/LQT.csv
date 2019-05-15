@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LQTIX,LS Theta Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LQTVX,LS Theta Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LQT.BER,LIQUIDMETAL TECHNOLOGIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LQT.STG,Liquidmetal Technologies Inc. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

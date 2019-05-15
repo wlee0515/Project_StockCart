@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HII,Huntington Ingalls Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HIIQ,Health Insurance Innovations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HIINX,Harbor International Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIIFX,Catalyst/SMH High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIIGX,Harbor International Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIISX,Harbor International Small Cap Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIIDX,Harbor Diversified Intl All Cp Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIIIX,Catalyst/SMH High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIICX,Catalyst/SMH High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HII.TRT,Horizons Cdn Insider ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

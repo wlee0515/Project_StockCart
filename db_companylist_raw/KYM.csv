@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8362.KLA,KYM Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+KYM1.FRK,VTB Bank (public joint-stock company),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+KYM1.BER,"VTB BK GDR REG.S/1 RL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+RPL.BER,UPM KYMMENE CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+RPL.DUS,UPM KYMMENE CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+RPL.MUN,UPM KYMMENE CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3158
+RPL.STG,UPM KYMMENE CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000
+KYM1.MUN,"VTB BK GDR REG.S/1 RL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000
+KYM1.STG,VTB Bank PJSC Reg. Shs (GDRs Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000
+KYMH.KLA,KYM HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1765

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLN.BER,"P.H. GLATFELTER  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+LYYV.BER,LYXOR RTF ST.E.600 P.H. A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+LYYV.DUS,LYXOR RTF ST.E.600 P.H. A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

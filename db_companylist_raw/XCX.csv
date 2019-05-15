@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XCXHX,MFS Investment Grade Municipal ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XCXEX,MFS High Income Municipal Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XCX3.LON,X MSCI Malaysia ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+XCX4.LON,X MSCI Thailand ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XCX6.LON,X MSCI China ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XCX.TRV,Chinook Tyee Industry Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+XCX5.LON,X MSCI India Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

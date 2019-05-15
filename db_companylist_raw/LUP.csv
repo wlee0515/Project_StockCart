@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUPEY,Lundin Petroleum AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LPKGF,Lupaka Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LUPAQ,Lupatech S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LUPGF,LoopUp Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LUPIN.NSE,Lupin Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+LPK.TRV,Lupaka Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5455
+LUP.FRK,Luye Pharma Group Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+LUPA3.SAO,Lupatech S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000
+LQP.FRK,Lupaka Gold Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000

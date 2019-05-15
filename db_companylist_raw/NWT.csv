@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWTT,NW Tech Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWT.LON,Newmark Security plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NWT.BER,"WELLS FARGO + CO.DL 1,666",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+NWT.DUS,"WELLS FARGO + CO.DL 1,666",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+NWT.MUN,"WELLS FARGO + CO.DL 1,666",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NWTD.BER,WELLS FARGO DEP.PFD S.S,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NWT.FRK,Wells Fargo & Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NWT.FRK,Wells Fargo & Company,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+NWT.HAN,"WELLS FARGO + CO.DL 1,666",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6000

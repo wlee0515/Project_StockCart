@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYPR,Sypris Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SYP3.LON,ETFS 3x Short JPY Long GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SJS.FRK,Sypris Solutions Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SYP.FRK,Synopsys Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SYP.BER,"SYNOPSYS INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYP.MUN,"SYNOPSYS INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SYP.STG,SYNOPSYS INC. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500

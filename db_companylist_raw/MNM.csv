@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNMT,Motivating the Masses Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MNMB,Merchants & Marine Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VSMV,VictoryShares US Mult-Fctr Mnmm Vltl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MNMCX,Manning & Napier Pro-Blend Mod Term R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVIN,Natixis Seeyond Intl Mnmm Volatil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MNMIX,Manning & Napier Pro-Blend Mod Term I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MNMRX,Manning & Napier Pro-Blend Mod Term R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+MNMA.FRK,ManTech International Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MNMA.BER,MANTECH INTERN.CORP. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+MNMA.DUS,MANTECH INTERN.CORP. A,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5237.TOK,Nozawa Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7273
+7919.TOK,Nozaki Insatsu Shigyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7273
+NOZA.BER,NO.N.F.I.-NI.225 EO-HD EH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+NOZA.DUS,NO.N.F.I.-NI.225 EO-HD EH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286

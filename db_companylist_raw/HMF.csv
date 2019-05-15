@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HMFD.LON,HSBC MSCI EM Far East ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HMFE.SWI,HSBC MSCI EM Far East ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+HMFE.LON,HSBC ETFs Public Limited Company - HSBC MSCI EM Far East UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

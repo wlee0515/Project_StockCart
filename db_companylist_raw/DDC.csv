@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KR5207AP7314.KOR,KyoboAXA Pwr Plus LT Ddct Fdr Eq Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000T0T7.KOR,NH-Amundi HighFive Inc Ddct FdrEq Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000T4VN.KOR,MIDAS Turtle 70 Tax Ddct Fdr Eq 1 Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+KR5205AQ0609.KOR,MultiAsset Korea Index Tax Ddctn Fdr Eq C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+KR5207AP7330.KOR,KyoboAXA Pwr Plus LT Ddct Fdr Eq Bal ST,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5232AP8071.KOR,NH-Amundi HighFive Inc Ddct FdrEq Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5232AP8089.KOR,NH-Amundi HighFive Inc Ddct FdrEq Bal ST,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5303AQ1285.KOR,MIDAS Turtle 70 Tax Ddct Fdr Eq 1 Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+F00000T0T5.KOR,MultiAsset Korea Index Tax Ddctn Fdr Eq C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+F00000T0T9.KOR,KyoboAXA Pwr Plus LT Ddct Fdr Eq Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

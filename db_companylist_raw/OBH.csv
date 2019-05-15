@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OBH.FRK,OC Oerlikon Corporation AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OBH.BER,OC OERLIKON CORP.AG SF 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OBH.DUS,OC OERLIKON CORP.AG SF 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+OBH.MUN,OC OERLIKON CORP.AG SF 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+OBH.STG,OC Oerlikon Corporation AG Name,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

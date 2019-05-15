@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGGI,Resgreen Group International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RGGFX,American Funds Global Growth Port R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGKX,Victory RS Global R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGGX,American Funds Global Growth Port R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGBX,American Funds Global Growth Port R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGEX,American Funds Global Growth Port R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGAX,American Funds Global Growth Port R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGHX,American Funds Global Balanced R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGGCX,Victory RS Global C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

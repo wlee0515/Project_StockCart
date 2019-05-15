@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGLD,Nevada Canyon Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NGLD.MUN,ANGLO AMERICAN SP.ADR 1/2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+NGLD.FRK,Anglo American plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+NGLD.BER,ANGLO AMERICAN SP.ADR 1/2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NGLD.STG,Anglo American PLC R.Shs(Spons.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

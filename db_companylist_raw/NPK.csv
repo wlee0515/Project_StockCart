@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPK,National Presto Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NPKLY,Nampak Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPK.TRT,Verde Agritech Plc,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+NPK.BAK,New Plus Knitting Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NPK.JOH,Nampak Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+NPK-R.BAK,New Plus Knitting Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

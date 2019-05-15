@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPD,Enterprise Products Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AVP,Avon Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MWA,Mueller Water Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+XOP,SPDR S&P Oil & Gas Explor & Prodtn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+APD,Air Products and Chemicals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MXIM,Maxim Integrated Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CLMT,"Calumet Specialty Products Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TIS,Orchids Paper Products Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2353
+PAH,Platform Specialty Products Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+CPLP,Capital Product Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.1778

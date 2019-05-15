@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WZENY,Webzen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WZEX.HAM,UBS (Lux) Strategy Fund - Yield (CHF),ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+WZEC.MUN,UBS(L)EQ.-EUR.H.D.EO P-A.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+WZE4.FRK,UBS (Lux) Equity SICAV - USA Growth (USD),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WZEA.FRK,UBS(L)EQ.-EUR.OP.UNC.EOPA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WZEH.FRK,UBS (Lux) Key Selection SICAV - Global Allocation Focus Europe (EUR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WZE4.DUS,UBS(L)EQ.-USA GR.DL P-ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WZEV.HAM,UBS (Lux) Medium Term Bond Fund - AUD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+WZEY.HAM,UBS (Lux) Bond Fund - CHF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+WZE7.FRK,UBS (Lux) Equity SICAV - Emerging Markets Sustainable (USD),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

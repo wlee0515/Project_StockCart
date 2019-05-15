@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRC,Range Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOLD,Randgold Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HDGE,AdvisorShares Ranger Equity Bear ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+TRC,Tejon Ranch Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SRMX,Saddle Ranch Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RNGR,Ranger Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RAND,Rand Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RNDB,Randolph Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RBGDF,Randsburg International Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2069
+RBRG,Randall Bearings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538

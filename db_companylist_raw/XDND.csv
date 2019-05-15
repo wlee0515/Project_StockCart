@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDND.LON,X MSCI North America High Dividend Yield ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+XDND.FRK,Xtrackers (IE) Public Limited Company - Xtrackers MSCI North America High Dividend Yield UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XDND.FRK,Xtrackers (IE) Public Limited Company - Xtrackers MSCI North America High Dividend Yield UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+XDND.DUS,X(IE)-MSCI NA.H.DI.YLD 1C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XDND.MUN,X(IE)-MSCI NA.H.DI.YLD 1C,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XDND.STG,Xtr.(IE)-MSCI N.Amer.H.Div.YldR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

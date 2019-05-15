@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EW,Edwards Lifesciences Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EWZ,iShares MSCI Brazil Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWW,iShares MSCI Mexico Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWJ,iShares MSCI Japan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWBC,East West Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EWU,iShares MSCI United Kingdom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWG,iShares MSCI Germany ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWY,iShares MSCI South Korea Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EWH,iShares MSCI Hong Kong ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+EWLL,eWellness Healthcare Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

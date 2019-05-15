@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AA.LON,AA plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+AA.TRV,Alba Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+AA.TWN,ABITL Income Umbrella Fxd Inc FOF AA TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.7500

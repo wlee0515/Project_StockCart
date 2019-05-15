@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RHFAA.PAR,"REGHDF1,449%MAY28",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+RHFAB.PAR,"REGHDF1,521%MAY29",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

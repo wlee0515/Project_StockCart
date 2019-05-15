@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUAEF,China Shenhua Energy Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CUAMIX.MIL,Aviva Cu A Mix,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+BX+MPB-F2.MEX,"Compass Investments Cuatro, S.A. DE C.V. S.I.I.D",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+CUAP.ARG,Argentina 3.31% BDS 31/12/2045 ARS1 'CUASI-PAR,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+CUA1.MIL,Aviva Cu A1,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+CUA2.MIL,Aviva Aviva Cu A2,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+CUA3.MIL,Aviva Cu A3,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+CUA4.MIL,Aviva Cu A4,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+CUA6.MIL,Aviva Cu A6,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5000
+CUAN.BER,"CYANCONNODE HLDGS  LS-,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1176

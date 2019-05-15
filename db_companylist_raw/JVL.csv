@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JVLIX,JHancock Disciplined Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVLAX,JHancock Disciplined Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVLCX,JHancock Disciplined Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVLBX,JHancock Disciplined Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVLTX,JHancock Disciplined Value I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVLAGRO.BSE,JVL Agro Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+JVLAGRO.NSE,JVL Agro Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615

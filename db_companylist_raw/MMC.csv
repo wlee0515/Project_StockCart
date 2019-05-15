@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMC,Marsh & McLennan Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MMCGX,Morgan Stanley Inst Mid Cap Growth IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCBX,MassMutual Premier Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCFX,AMG Managers Emerging Opportunities N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCVX,Managed Account Mid Cap Dividend,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCMX,BNY Mellon Small/Mid Cap Multi-Strat M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCIX,BNY Mellon Small/Mid Cap Multi-Strat Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCRX,Madison Mid Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMCGF,Management Consulting Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

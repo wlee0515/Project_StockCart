@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRT,Trio-Tech International,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TRTC,Terra Tech Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRTN,Triton International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRTY,Cambria Trinity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TRTX,TPG RE Finance Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRTIX,T. Rowe Price International Value Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TRTI,Transtech Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRTFX,T. Rowe Price Target 2060,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRTGX,T. Rowe Price Target 2060 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

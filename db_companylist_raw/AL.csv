@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AL,Air Lease Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BABA,Alibaba Group Holding Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ALLO,Allogene Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ALLK,Allakos Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ALACU,Alberton Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ALZH,Alzheon Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GOOG,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MO,Altria Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GOOGL,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+AGN,Allergan plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

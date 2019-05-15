@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ID.TRV,Identillect Technologies Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+10AJ.STG,AIS-Amundi Id.FTSE EPRA NAR.GlN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+LWCR.STG,AIS-Amundi Id.Eq.Glo.Low Carb.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+10AM.STG,AIS-Amundi Id.BARCL.G.AGG 500MA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

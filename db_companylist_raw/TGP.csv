@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGP,Teekay LNG Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TGP-PA,Teekay LNG Partners L.P. PFD UNIT SER A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGP-PB,Teekay LNG Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGPCX,TCW Conservative Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGPNX,TCW Conservative Allocation N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGPTX,Transamerica Multi-Cap Growth T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGPIX,Transamerica Multi-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TGPRO.BAK,Thai-German Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TGP.LON,Tekmar Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TGP.AUS,360 Capital Group Limited Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455

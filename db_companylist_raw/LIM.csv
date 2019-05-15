@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNK,Mallinckrodt Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HZNP,Horizon Pharma Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LLNW,Limelight Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WLTW,Willis Towers Watson Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LDP,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LMB,Limbach Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EVV,Eaton Vance Limited Duration Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ICLR,ICON Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+LIME,Lime Energy Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.1463
+FTF,Franklin Limited Duration Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1395

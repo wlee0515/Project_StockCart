@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSTTY,Just Eat plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JSTCX,JHancock Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTIX,JHancock Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTLF,Just Eat plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTLX,JPMorgan SmartRetirement Blend 2020 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTRX,JHancock Income R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTKX,JPMorgan SmartRetirement Blend 2020 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSTS,Justiss Oil Co,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JST.FRK,JOST Werke AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+JSTL.BSE,Jeevan Scientific Technology Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

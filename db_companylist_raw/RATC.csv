@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RATCH.BAK,Ratchaburi Electricity Generating Holding Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+RPH.BAK,Ratchaphruek Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+RA5F.STG,RATCHABURI ELEC.GEN.HLDG PCL Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+THANI.BAK,Ratchthani Leasing Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+RATCH-R.BAK,Ratchaburi Electricity Generating Holding Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2759
+NVA4.BER,RATCHABURI EL. -NVDR-BA10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+NVA4.MUN,RATCHABURI EL. -NVDR-BA10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000
+RA5F.BER,RATCHABURI EL.-FGN- BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1778
+RPH-R.BAK,Ratchaphruek Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1778
+THANI-R.BAK,Ratchthani Leasing Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1667

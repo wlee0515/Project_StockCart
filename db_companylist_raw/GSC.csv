@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSC,GS Connect S&P GSCI Enh Commodity TR ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+OILNF,iPath S&P GSCI Crude Oil TR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OIL,iPath B S&P GSCI Crude Oil TR ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+GSG,iShares S&P GSCI Commodity-Indexed Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+OILB,iPath B S&P GSCI Crude Oil TR ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PYT,PPLUS Trust Series GSC-2 GSC 2 CT FL RT,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GSP,iPath S&P GSCI Total Return ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1765
+GSCGX,Goldman Sachs Capital Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+GSCAX,Goldman Sachs Commodity Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+GSCYX,GuideStone Funds Small Cap Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

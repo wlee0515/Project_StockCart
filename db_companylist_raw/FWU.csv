@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1219.TWN,Fwusow Industry Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.3158
+AT0000746524.VIE,FWU TOP - spekulativ,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2857
+AT0000722988.VIE,FWU TOP - Trends,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2727
+AT0000746508.VIE,FWU TOP - konservativ,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+AT0000746516.VIE,FWU TOP - offensiv,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2500
+AT0000746532.VIE,FWU TOP - dynamisch,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2143

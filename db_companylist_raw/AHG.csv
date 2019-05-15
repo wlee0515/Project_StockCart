@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHGIF,Alternate Health Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHGCX,American Century Heritage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHGNX,American Century NT High Income G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHGVX,American Century NT High Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHG.AUS,Automotive Holdings Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AHG1.STG,Pure Energy Minerals Ltd. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AHG1.FRK,Pure Energy Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AHG1.MUN,PURE ENERGY MINLS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

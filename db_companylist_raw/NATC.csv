@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NTCXF,Natcore Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NATCOPHARM.NSE,NATCO Pharma Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6154
+NATCOPHARM-.BSE,NATCO PHARMA LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+NATECO.BSE,Natco Economicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+NATCAPSUQ.BSE,Natural Capsules Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+NATCOPHARM-EQ.NSE,NATCO PHARMA LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+526743.BSE,NATCO POLYPLAST LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

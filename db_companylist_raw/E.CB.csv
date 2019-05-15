@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETL6.MUN,L+G-LOIM E.CB.F.UETF DIEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.3636
+ETL6.DUS,L+G-LOIM E.CB.F.UETF DIEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636

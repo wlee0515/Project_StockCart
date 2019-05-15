@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSJD.BER,MSI-GLOBAL BRANDS NAM.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+MSJD.MUN,MSI-GLOBAL BRANDS NAM.A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+MSJD.STG,MS Invt Fds-Global Brands Actio,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+MSJD.FRK,Morgan Stanley Investment Funds - Global Brands Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+MSJD.DUS,MSI-GLOBAL BRANDS NAM.A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

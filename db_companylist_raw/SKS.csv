@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKSEX,AMG Managers Skyline Special Equities N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSIX,AMG Managers Skyline Special Equities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSBF,Skanska AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSRX,DWS Enhanced Commodity Strategy S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSZX,AMG Managers Skyline Special Equities Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSTX,DWS Enhanced Commodity Strategy T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKSJF,Shinko Shoji Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKS.MUN,SHINKO EL.IND.LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+SKS.FRK,Shinko Electric Industries Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SKS.STG,SHINKO ELECTRIC IND. CO. LTD. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

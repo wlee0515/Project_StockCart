@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HAP,VanEck Vectors Natural Resources ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+HPGLY,Hapag-Lloyd Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HPYCF,Happy Creek Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BKHYY,Bank Hapoalim B.M.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BKHPF,Bank Hapoalim B.M.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+HLAG.FRK,Hapag-Lloyd Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2857

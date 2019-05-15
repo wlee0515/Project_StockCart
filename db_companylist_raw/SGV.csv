@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGVAX,Western Asset Mortgage Backed Sec A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGVDX,Wells Fargo Government Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGVSX,Western Asset Mortgage Backed Sec 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGVIX,Wells Fargo Government Securities Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGVB.LON,Lyxor SG Global Value Beta ETF C USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SGVL.LON,Lyxor Index Fund - Lyxor SG Global Value Beta UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SGVB.PAR,Lyxor SG Global Value Beta ETF C USD,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

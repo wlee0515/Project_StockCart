@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SA,Seabridge Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SEB,Seaboard Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SEABX,Crossmark Steward Select Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SEA.TRT,Seabridge Gold Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+E36.STG,Seabird Exploration PLC Namens-,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+SRM.BER,SEABRIDGE G.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+SRM.MUN,SEABRIDGE G.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333
+E36.FRK,SeaBird Exploration Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963
+S0V.FRK,Seaboard Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESWW,Environmental Solutions Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESW.FRK,Essity Aktiebolag (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ESW.BER,ESSITY AB A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ESW.MUN,ESSITY AB A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ESW.STG,Essity AB Namn-Aktier A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ESWB.FRK,Essity Aktiebolag (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ESWB.BER,ESSITY AB B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ESWB.MUN,Essity Aktiebolag (publ),Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+ESWB.STG,Essity AB Namn-Aktier B,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

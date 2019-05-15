@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QOPYX,Oppenheimer Fundamental Alternatives Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QOPNX,Oppenheimer Fundamental Alternatives R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QOPCX,Oppenheimer Fundamental Alternatives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QOPIX,Oppenheimer Fundamental Alternatives I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

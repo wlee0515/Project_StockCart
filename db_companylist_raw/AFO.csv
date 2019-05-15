@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFOM,All For One Media Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFOYX,Ariel Focus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFO.PAR,Afone S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+AFO1.BER,"ASSOC. BR. FOODS LS-,0568",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AFO1.DUS,"ASSOC. BR. FOODS LS-,0568",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+AFO1.MUN,"ASSOC. BR. FOODS LS-,0568",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+AFO1.FRK,Associated British Foods plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AFO2.FRK,Associated British Foods plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AFO1.STG,ASSOCIATED BRITISH FOODS PLC Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+AFOP.BER,ALTABA INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

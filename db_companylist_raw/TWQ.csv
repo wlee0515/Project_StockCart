@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWQIX,Transamerica Large Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWQCX,Transamerica Large Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWQAX,Transamerica Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWQTX,Transamerica Large Cap Value T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWQZX,Transamerica Large Cap Value I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

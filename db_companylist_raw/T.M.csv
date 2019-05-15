@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+T.MEX,AT&T Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.8571
+TMC.BAK,T.M.C. Industrial Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444

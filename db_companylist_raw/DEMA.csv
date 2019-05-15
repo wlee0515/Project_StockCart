@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMAN,Demand Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+DEMAX,Delaware Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+WILLF,William Demant Holding A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZZZAX,Test Demand Deposit Account - T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+WILYY,William Demant Holding A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+DEMA.LON,WisdomTree Emerging Asia Equity Inc ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+WDH1.FRK,William Demant Holding A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286
+TW000T3731Y4.TWN,Cathay China Domestic Demand Growth NTD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2286
+0RGT.ILN,WILLIAM DEMANT HOLDING A/S WILL,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860

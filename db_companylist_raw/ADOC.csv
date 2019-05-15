@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADOCX,Alger Dynamic Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ADOCY,Adocia SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ADOC.PAR,Adocia SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+A89.STG,"Adocia SAS Actions Port. EO -,1",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+A89.FRK,Adocia SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FR0011376540.PAR,Adocotia,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6154
+0QAI.ILN,ADOCIA SA ADOCIA ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+F00000PGB5.PAR,Adocotia,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2286

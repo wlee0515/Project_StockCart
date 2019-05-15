@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASA,ASA Gold and Precious Metals Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EQNR,Equinor ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AKG,Asanko Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RNWEY,REC Silicon ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.4286
+MHGVY,Marine Harvest ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NHYDY,Norsk Hydro ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AHKSY,Asahi Kasei Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ASAIX,AQR Multi-Strategy Alternative I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+YARIY,Yara International ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TFECY,Thin Film Electronics ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.2143

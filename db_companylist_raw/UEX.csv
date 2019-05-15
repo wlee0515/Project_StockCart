@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UEXCF,UEX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UEX.TRT,UEX Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+UXO.FRK,UEX Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UEX.LON,Urban Exposure plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+UXO.BER,UEX CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+9888.TOK,"UEX,Ltd.",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+UXO.MUN,UEX CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+UXO.STG,UEX Corp. Registered Shares o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

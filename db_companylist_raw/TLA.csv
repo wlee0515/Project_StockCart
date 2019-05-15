@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLATX,Transamerica Large Core I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLAFX,Transamerica Large Core R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLARX,Transamerica Large Core R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLA.LON,TLA Worldwide plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+TLA.TRV,Titan Logix Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+TLA.FRK,True Leaf Medicine International Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TLA.BER,TRUE LEAF MEDICINE INTL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TLA.MUN,TRUE LEAF MEDICINE INTL,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TLA.STG,True Leaf Medicine Intl Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

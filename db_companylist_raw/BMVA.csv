@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMVA.FRK,Versus Systems Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+BMVA.BER,VERSUS SYS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+BMVA.STG,Versus Systems Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

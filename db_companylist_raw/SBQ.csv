@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBQAX,AmericaFirst Large Cap Shr Buyback A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBQIX,AmericaFirst Large Cap Shr Buyback I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBQUX,AmericaFirst Large Cap Shr Buyback U,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBQ5.BER,STARCAP.-ST.CAP.HUB.S.1 A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SBQ7.FRK,S.E.A. Funds - Asian High Yield Bond Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SBQ1.DUS,STARCAPITAL-ARGOS A EUR,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SBQ1.BER,STARCAPITAL-ARGOS A EUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SBQ1.HAN,STARCAPITAL-ARGOS A EUR,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+SBQ1.HAM,STARCAPITAL-ARGOS A EUR,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+SBQ1.MUN,STARCAPITAL-ARGOS A EUR,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

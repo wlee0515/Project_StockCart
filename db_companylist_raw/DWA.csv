@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PUI,Invesco DWA Utilities Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PTH,Invesco DWA Healthcare Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+PSL,Invesco DWA Consumer Staples Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+DWAS,Invesco DWA SmallCap Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1765
+PTF,Invesco DWA Technology Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+PDP,Invesco DWA Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579
+PXI,Invesco DWA Energy Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579
+BMLP,BMO Elkhorn DWA MLP Select ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+PEZ,Invesco DWA Consumer Cyclicals Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+PIE,Invesco DWA Emerging Markets Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463

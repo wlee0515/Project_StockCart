@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ASRT,Assertio Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASRV,AmeriServ Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASRYX,Invesco Global Real Estate Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRVP,Ameriserv Financial Capital Trust I PFD A GTD 8.45,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRAX,Invesco Global Real Estate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRFX,Invesco Global Real Estate Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRAF,A.S. Roma S.P.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRIX,Invesco Global Real Estate Income R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASRLX,AB Select US Long/Short R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

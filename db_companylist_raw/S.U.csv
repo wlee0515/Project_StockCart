@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COVR.FRK,PFIS ETF-P.CB S.U.ETF EOI,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+LDCE.STG,PFIS ETF-P.L.D.EO C.Bd S.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+5XM1.STG,MCF S.UCITS Fd-QUANTUM CapitalN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

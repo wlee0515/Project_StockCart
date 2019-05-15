@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EBZ.FRK,China Gas Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EBZ.BER,"CHINA GAS HLDGS  HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EBZ.HAM,"CHINA GAS HLDGS  HD-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+EBZ.MUN,"CHINA GAS HLDGS  HD-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EBZ.STG,China Gas Holdings Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

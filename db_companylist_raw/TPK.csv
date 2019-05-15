@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPK.LON,Travis Perkins plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+3673.TWN,TPK Holding Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2500

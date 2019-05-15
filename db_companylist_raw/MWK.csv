@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWK.FRK,Mohawk Industries Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MWK.MUN,"MOHAWK INDS INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MWK.STG,MOHAWK INDUSTRIES INC. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

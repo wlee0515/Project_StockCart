@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABCZF,Abcam plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ABCAF,Athabasca Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ABCZY,Abcam plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+ABCAX,American Beacon The London Co Inc Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ABCA.PAR,ABC Arbitrage SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ABC.LON,Abcam plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ABCAPITAL.BSE,Aditya Birla Capital Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+A8C1.FRK,Abcam plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+A8C1.BER,"ABCAM PLC  LS -,002",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+A8C1.STG,Abcam PLC Registered Shares LS ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

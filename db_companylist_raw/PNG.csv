@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNGAY,Ping An Insurance (Group) Company of China Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PNGAX,Putnam International Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PNGZF,Paringa Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNGM,Pengram Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNGB,Panglobal Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNGYX,Putnam International Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNG.TRV,Kraken Robotics Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+PNGA.LON,ETFS GBP Daily Hedged Natural Gas ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PNG.HAM,Pironet AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+PNGAYN.MEX,Ping An Insurance (Group) Company of China Ltd.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000

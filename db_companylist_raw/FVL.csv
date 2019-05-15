@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVL,First Trust Value Line 100 ETF ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FVLKX,Fidelity Value K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVLSX,Fidelity Flex Freedom 2030,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVLGIX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVLKSX,FT 6879: Covered Call Select Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVLAX,Fidelity Advisor Value Leaders A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVLQBX,FT 7049: New York Municipal Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVLYHX,FT 6737: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVLTX,Fidelity Advisor Value Leaders M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVLZX,Fidelity Advisor Value Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

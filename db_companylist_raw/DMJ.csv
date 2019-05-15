@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMJ.FRK,dynaCERT Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DMJ.MUN,DYNACERT INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

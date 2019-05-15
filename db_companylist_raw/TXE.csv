@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTXFX,American Funds LtdTerm TxEx Bd F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTEFX,American Funds LtdTerm TxEx Bd F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RCTEX,Rockefeller Interm TxExmpt Ntnl Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+AAMTPX,Advisors Dis Tr 517 TxE Muni Pt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+TXEFX,American Funds Tax-Exempt Presv Port F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TXE.MUN,"TXT E-SOLUTIONS  EO-,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+TXE.STG,TXT e-solutions S.p.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+TXEMF.LON,Templeton Emerging Markets Investment Trust,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444

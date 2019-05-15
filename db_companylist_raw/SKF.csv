@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKF,ProShares UltraShort Financials,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SKFRY,AB SKF (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKFOF,Sika AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKUFF,AB SKF (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKF.AUS,Skyfii Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

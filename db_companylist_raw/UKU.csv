@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UKUZ.MOS,Southern Kuzbass Coal Company Public Joint-Stock Company,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+UKUKD.SWI,UBS ETF MSCI United Kingdom GBP A UKdis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UKUSAH.SWI,UBS ETF MSCI United Kingdom H USD A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+UKUSBH.SWI,UBS ETF MSCI United Kingdom H USD A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+UKUSBHN.MEX,UBS ETF SICAV MSCI UK HDGD/USD ,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.4615

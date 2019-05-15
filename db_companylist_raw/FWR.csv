@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWRD,Forward Air Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FWRLX,Fidelity Select Wireless,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWRAX,Fidelity Advisor Global Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWRCX,Fidelity Advisor Global Real Estate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWRYOX,FT 7566: SMid Capital Strength ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWRJBX,FT 6770: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWRAYX,FT 6903: Content Leaders Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWRYLX,FT 6521: Senior Loan Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWRLTX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWREMX,FT 7300: S&P Target SMid 60 2Q ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

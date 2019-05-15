@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSLA,Tesla Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSRO,Tesaro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AEHR,Aehr Test Systems,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TESS,TESSCO Technologies Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TSCDY,Tesco PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TESIX,Franklin Mutual Shares A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TXLZF,Tesla Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TSNP,Tesoro Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+TSCDF,Tesco PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

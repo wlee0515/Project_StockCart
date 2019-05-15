@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NFPC,Northfield Precision Instrument Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NFPH.FRK,Thanachart Capital Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NFPH.BER,THANACHART CAP.-FGN-BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NFPH.MUN,THANACHART CAP.-FGN-BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+NFPH.STG,Thanachart Capital PCL Reg. Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

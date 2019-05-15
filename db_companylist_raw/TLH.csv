@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLH,iShares 10-20 Year Treasury Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TLHIX,TIAA-CREF Lifecycle Index 2030 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLHRX,TIAA-CREF Lifecycle Index 2030 Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLHHX,TIAA-CREF Lifecycle Index 2030 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLHPX,TIAA-CREF Lifecycle Index 2030 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLHPF.BAK,Thailand Hospitality Property Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHTDY,Sinopharm Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTLF,South32 Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTDF,Sinopharm Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTCX,Columbia Seligman Global Tech C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTIX,Invesco Short Duration Inflation Prot A2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTGF,Shun Tak Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000NGS7.BSE,DHFL Pramerica Sht Mty Qt Dv,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+J40B.BER,PROSHARES SHT HIGH YIELD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1935

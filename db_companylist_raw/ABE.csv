@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANF,Abercrombie & Fitch Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABEO,Abeona Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABEV,Ambev S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PPLT,Aberdeen Standard Phys Platinum Shrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+FAX,Aberdeen Asia-Pacific Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SGOL,Aberdeen Standard Phys SwissGold Shr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PALL,Aberdeen Standard Phys PalladiumShrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1667
+SIVR,Aberdeen Standard Phys Silver Shrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463
+FCO,Aberdeen Global Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+AEF,Aberdeen Emerging Markets Equit,Equity,United States,09:30,16:00,UTC-05,USD,0.1395

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CQR.TRV,Conquest Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+CQR.AUS,Charter Hall Retail Real Estate Investment Trust,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

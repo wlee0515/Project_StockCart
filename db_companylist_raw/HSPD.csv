@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSPD.LON,HSBC S&P 500 ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+HSPD.MIL,HSBC S&P 500 UCITS ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

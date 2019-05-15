@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VRQ.FRK,Vergnet SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+VRQ.STG,Vergnet S.A. Actions au Port. E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

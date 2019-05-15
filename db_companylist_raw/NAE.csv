@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAESX,Vanguard Small Cap Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NAEFX,New Alternatives Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NDYN,Naerodynamics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NAE.AUS,New Age Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857
+YF5L.FRK,F.TEM.INV.-T.FR.MKTS NAEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+YF5L.BER,F.TEM.INV.-T.FR.MKTS NAEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+YF5L.MUN,F.TEM.INV.-T.FR.MKTS NAEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+YF5L.DUS,F.TEM.INV.-T.FR.MKTS NAEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GMMFX,Goldman Sachs Multi-Manager Alts R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMRX,Nationwide Inv Dest Mod Cnsrv R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMPX,Goldman Sachs Multi-Manager Alts P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMCX,Aberdeen Dynamic Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMIX,Aberdeen Dynamic Allocation Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMAX,Aberdeen Dynamic Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMMNF,GAN plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GMM.FRK,Grammer AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+GMM.DUS,GRAMMER AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

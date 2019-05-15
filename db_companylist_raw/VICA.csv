@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VICA,Rafina Innovations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VICL,Vical Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+VICAX,USA Mutuals Vice A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VICP,Vicapsys Life Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VCT.PAR,Vicat SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+4HM.STG,VICAT S.A. Actions Port. EO 4,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+4HM.FRK,Vicat SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+VCC1.FRK,Vical Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+0MGJ.ILN,VICAT SA VICAT ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3077
+VCC1.BER,"VICAL INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2424

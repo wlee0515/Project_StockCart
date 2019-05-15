@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVL.NSE,MVL Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.8571
+MVLY,Mission Valley Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MVLCX,MFS VALUE 529 PORT C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVL.FRK,Marvell Technology Group Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MVL.BER,"MARVELL TECH. GRP DL-,002",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MVL.BSE,MVL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+MVL.DUS,"MARVELL TECH. GRP DL-,002",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MVL.HAM,"MARVELL TECH. GRP DL-,002",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+MVL.MUN,"MARVELL TECH. GRP DL-,002",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MVL.STG,MARVELL TECHNOLOGY GRP LTD. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

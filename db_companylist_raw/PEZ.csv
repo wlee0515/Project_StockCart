@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PEZ,Invesco DWA Consumer Cyclicals Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PEZ.LON,Premier Global Infrastructure Ord,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

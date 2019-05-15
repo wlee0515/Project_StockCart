@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TUQ1.BER,TUCOWS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TUQ1.FRK,Tucows Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TUQ1.STG,Tucows Inc. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWCUX,American Century Ultra Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TWCGX,American Century Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWCIX,American Century Select Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CLKXF,TWC Enterprises Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TWCAX,American Century Select A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWCF,Town and Country Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TWCCX,American Century Ultra C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TWC.TRT,TWC Enterprises Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+4TW.STG,TWC Enterprises Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+TWC1.BER,TMW IMMOBILIEN WELTFDS P,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2500

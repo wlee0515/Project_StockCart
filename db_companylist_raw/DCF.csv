@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCF,Dreyfus Alcentra Global Credit ,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DCFGX,Dunham Focused Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCFFX,Destinations Core Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCFRX,Dunham Floating Rate Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCFZX,Destinations Core Fixed Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCF.TRT,Difference Capital Financial Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

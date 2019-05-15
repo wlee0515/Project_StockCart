@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJIAX,Voya Japan TOPIX Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IJIA.FRK,Ei Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+IJIA.BER,"EI GROUP LS -,025",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IJIA.DUS,"EI GROUP LS -,025",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

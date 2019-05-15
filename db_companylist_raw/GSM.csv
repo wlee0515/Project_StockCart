@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSM,Ferroglobe PLC,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GSML,G&S Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSMAX,Goldman Sachs Small/Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMTX,Goldman Sachs Dynamic Municipal Inc Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMYX,Goldman Sachs Small/Mid Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMIX,Goldman Sachs Dynamic Municipal Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMCX,Goldman Sachs Mid Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMVX,Goldman Sachs Small/Mid Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMFX,GMO SGM Major Markets III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSMEX,Goldman Sachs Dynamic Municipal Inc Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

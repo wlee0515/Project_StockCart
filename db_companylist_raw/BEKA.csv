@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BEKSF,BEKAERT SA,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BEKB.BRU,NV Bekaert SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+BEST.JKT,PT Bekasi Fajar Industrial Estate Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+BK8N.BER,BEKAERT P.S.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+BAPA.JKT,PT Bekasi Asri Pemula Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+BK8N.STG,N.V. Bekaert S.A. Parts Sociale,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+B73.STG,PT Bekasi Fajar Industrial Estate Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4706
+BK8N.FRK,NV Bekaert SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+BEKB.VIE,NV Bekaert SA,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3636
+BK8N.DUS,BEKAERT P.S.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

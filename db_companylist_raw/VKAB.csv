@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKABIX,Build America Bonds Income Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+VKABSX,Build America Bonds Income Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+VKAB.PAR,VALLOUR3.25%AUG19,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273

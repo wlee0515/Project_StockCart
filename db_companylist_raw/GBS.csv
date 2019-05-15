@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBSNQ,Great Basin Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GBSPX,American Beacon Bahl&Gaynor SmCpGr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBSCX,American Beacon Bahl&Gaynor SmCpGr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBSYX,American Beacon Bahl&Gaynor SmCpGr Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBSIX,American Beacon Bahl&Gaynor SmCpGr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBSAX,American Beacon Bahl&Gaynor SmCpGr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBS.LON,Gold Bullion Securities ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GBT.AUS,GBST Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+GBSK.LON,ETFS Long SEK Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GBSP.LON,ETFS GBP Daily Hedged Physical Gold ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444

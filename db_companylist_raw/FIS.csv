@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIS,Fidelity National Information Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TMO,Thermo Fisher Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FISV,Fiserv Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSSN,FISION Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCUUF,Fission Uranium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FISI,Financial Institutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FISMX,Fidelity International Small Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FISEX,Franklin Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FISOF,Fission 3.0 Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FISCX,Franklin Convertible Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

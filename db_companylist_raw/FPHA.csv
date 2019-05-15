@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPHAX,Fidelity Select Pharmaceuticals Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FPHAMX,"FT 7501: Election Portfolio, 20",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FPHAOX,FT 7272: Innovative Technology ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

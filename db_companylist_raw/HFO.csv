@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFOAX,Janus Henderson International Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOIX,Janus Henderson International Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOCX,Janus Henderson International Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFORX,Janus Henderson International Opps R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFODX,Janus Henderson International Opps D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOTX,Janus Henderson International Opps T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOQX,Janus Henderson International Opps S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOSX,Janus Henderson International Opps N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFOF11.SAO,HEDGE TOP FOFII 3,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

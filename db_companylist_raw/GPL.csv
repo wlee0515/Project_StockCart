@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPL,Great Panther Silver Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GPLS,Geopulse Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GPLA,GamePlan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GPLB,GREEN PLANET BIOEN,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GPLPF,Group Lease Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPLY.TRV,Goldplay Exploration Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+GPL.BER,"GOOCH + HOUSEGO  LS-,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GPL.BSE,Grandeur Products Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+GPL.JOH,Grand Parade Investments Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEFZX,MassMutual Select Mid Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFFX,MassMutual Select Mid Cap Growth R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFOX,Meehan Focus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFYX,MassMutual Select Mid Cap Growth Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFAX,MassMutual Select Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFNX,MassMutual Select Mid Cap Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEFIX,Martin Currie Emerging Markets FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEF.FRK,PT Medco Energi Internasional Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MEF.BER,MEDCO ENERGI INTL  RP 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MEF.MUN,MEDCO ENERGI INTL  RP 25,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

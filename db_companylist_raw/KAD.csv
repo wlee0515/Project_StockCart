@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KDMN,Kadmon Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KAI,Kadant Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDNG,"Kading Companies, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDST.TAV,Kadimastem Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000
+KDA.FRK,Kadant Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+KDF.FRK,Kadmon Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+2612.TOK,Kadoya Sesame Mills Incorporated,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+3041.TOK,Beauty Kadan Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2400
+9468.TOK,Kadokawa Dwango Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+KDA.BER,"KADANT INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1714

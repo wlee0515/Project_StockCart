@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYPE.DUS,MUL-LYX.MSCI W.HCTRUE CEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+LYPE.HAM,MUL-LYX.MSCI W.HCTRUE CEO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.3077
+WHBRADY.BSE,W.H. Brady & Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143
+LYPE.MUN,MUL-LYX.MSCI W.HCTRUE CEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

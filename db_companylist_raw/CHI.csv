@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHI,Calamos Convertible Opportunities and Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CMG,Chipotle Mexican Grill Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HCM,Hutchison China MediTech Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YINN,Direxion Daily FTSE China Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FXI,iShares China Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+3978.HKG,China Beststudy Education Group,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3333
+ASHR,Xtrackers Harvest CSI 300 China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+CIM,Chimera Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MCHI,iShares MSCI China ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+CIFS,China Internet Nationwide Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

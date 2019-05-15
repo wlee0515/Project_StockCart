@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJSAX,VY JPMorgan Small Cap Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IJSA.FRK,Intelsat S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+IJSA.BER,"INTELSAT S.A.  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IJSA.STG,"Intelsat S.A. Reg. Shares DL -,",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGMAX,VY Oppenheimer Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IGMACKIVYCAT.TRT,IG Mackenzie Ivy Foreign Equity Cl J DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACCATMOND.TRT,IG Mackenzie Global Precious Metals Cl B,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACCUNDILL.TRT,IG Mackenzie Cundill Global Value Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACIVYCATA.TRT,IG Mackenzie Ivy Foreign Equity Class B,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACIVYCATE.TRT,IG Mackenzie Ivy European Class A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACIVYCATG.TRT,IG Mackenzie Ivy European Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACKENZIEC.TRT,IG Mackenzie Global Precious Metals Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACKENZIED.TRT,IG Mackenzie Income Series B NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IGMACKENZIEE.TRT,IG Mackenzie Emerging Markets Cl B,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

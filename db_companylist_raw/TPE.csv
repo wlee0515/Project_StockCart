@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPEIX,Thrivent Partner Emerging Mkts Eq S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPECX,Timothy Plan Emerging Markets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPEMX,Timothy Plan Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPEAX,Thrivent Partner Emerging Mkts Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPE.AUS,TPI Enterprises Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+TPE.TRT,TD International Equity Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+TPE.FRK,PVA TePla AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TPE.BER,PVA TEPLA AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TPE.FRK,PVA TePla AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667

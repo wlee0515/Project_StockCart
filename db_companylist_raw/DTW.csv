@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTW,DTE Energy Company JR SUB DB 2017 E,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DTW.FRK,Shearwater Group PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DTW.STG,Shearwater Group PLC Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+31D1.STG,Dtwyler Holding AG Inhaber-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

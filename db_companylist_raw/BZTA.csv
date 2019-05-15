@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BZTA.BER,AUCKLD INTL AIRPORT O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+BZTA.STG,Auckland Intl Airport Ltd. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+BZTA.FRK,Auckland International Airport Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8045.HKG,Jiangsu NandaSoft Technology Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4706
+JIN.BER,JIANGSU NANDA.TEC.H YC-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+NDL.BSE,Nandan Denim Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+NDL.NSE,Nandan Denim Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+PNC.BSE,Pritish Nandy Communications Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+PNC.NSE,Pritish Nandy Communications Ltd,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+532387.BSE,Pritish Nandy Communications Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+NDL-EQ.NSE,NANDAN DENIM LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2222
+PNC-EQ.NSE,PRITISH NANDY COMM,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2222
+NANDANI-SM.NSE,NANDANI CREATION L,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1667

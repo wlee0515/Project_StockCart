@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NTTYY,Nippon Telegraph and Telephone Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RCCMF,Nippon Dragon Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NPNYY,Nippon Yusen Kabushiki Kaisha,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NSSMY,Nippon Steel & Sumitomo Metal Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NCRBF,Nippon Carbon Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NPPNY,Nippon Shinyaku Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NISTF,Nippon Steel & Sumitomo Metal Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NPPRF,Nippon Ceramic Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NPPXF,Nippon Telegraph and Telephone Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NPTVF,Nippon Television Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1935

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERW.BAK,The Erawan Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+ERW-R.BAK,The Erawan Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+ERWPF.BAK,Erawan Hotel Growth Property Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+ERWE.FRK,ERWE Immobilien AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ERWE.FRK,ERWE IMMOB. AG INH O.N.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ERWE.STG,ERWE Immobilien AG Inhaber-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ERWE.BER,ERWE IMMOB. AG INH O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+ERWE.DUS,ERWE IMMOB. AG INH O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455

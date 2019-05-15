@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBR,Fibria Celulose S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FBRKF,FBR Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBRTMX,FT 7090: REIT Growth & Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBRNX,Fidelity Advisor Stock Sel All Cp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBRRX,FBR Focus R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBRKWX,FT 6524: REIT Growth & Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBRPTX,FT 6971: Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBRLX,Franklin LifeSmart Retirement Inc R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBRHLX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBRHSX,The First Trust Combined Srs 34,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

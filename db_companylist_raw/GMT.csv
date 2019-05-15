@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GMTA,GATX Corporation SR NT 2066,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GMTEX,GuideMark Tax-Exempt Fixed Income Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMTZX,GuideStone Funds MyDestination 2015 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMTYX,GuideStone Funds MyDestination 2015Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMTD.JKT,PT Gowa Makassar Tourism Development Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

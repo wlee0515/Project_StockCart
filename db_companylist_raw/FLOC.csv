@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLOCKX,FT 7712: California Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FLOCX,Power Floating Rate Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+F0GBR06O92.LON,CF Floco,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GB00B2Q89J35.LON,CF Floco,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+FLOCBOSSSICA.BCL,Flocboss SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4444
+F00000W6E5.BCL,Flocboss SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4444

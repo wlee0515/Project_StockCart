@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOCIX,American Century One Choice Cnsrv Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOCIF,AutoCanada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AOC.FRK,Aluminum Corporation of China Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AOC.BER,ALUMINUM CORP. CHINA YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AOC.MUN,ALUMINUM CORP. CHINA YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AOCA.FRK,Aluminum Corporation of China Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AOC.STG,Aluminum Corp. of China Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AOC.VIE,Aluminum Corporation of China Limited,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+AOCA.BER,ALUMINUM CORP.OF ADR/25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

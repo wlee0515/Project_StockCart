@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAABF,Saab AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SDV.FRK,Saab AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+SDV.BER,SAAB AB B  SK 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+SDV.MUN,SAAB AB B  SK 25,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+0GWL.ILN,SAAB AB SAAB B ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3077
+SDV.STG,SAAB AB Namn-Aktier B SK 25,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2581

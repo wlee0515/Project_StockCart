@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFCEX,DFA Emerging Markets Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFLVX,DFA US Large Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFSVX,DFA US Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DISVX,DFA International Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFSTX,DFA US Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFFVX,DFA US Targeted Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DGEIX,DFA Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFIEX,DFA International Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DFEOX,DFA US Core Equity 1 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2727
+DFUSX,DFA US Large Company I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

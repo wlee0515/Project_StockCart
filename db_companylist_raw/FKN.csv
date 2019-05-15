@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FKNCX,Franklin NY Intermediate T/F Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKNTBX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKNBMX,FT 6397: Cybersecurity Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKNWEX,FT 6985: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKNIX,Franklin NY Intermediate T/F Income A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKNRX,Franklin NY Intermediate T/F Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKNQX,Franklin NY Intermediate T/F Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKNAIX,FT 6676: REIT Growth & Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKNPOX,FT 6739: High Dividend Equity P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKNK.BER,DWS I.-GLOB.EM EQTS. NC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000

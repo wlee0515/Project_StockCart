@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DUNDF,Dream Global Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DRUNF,Dream Unlimited Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DREUF,Dream Industrial Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DREM,Dream Homes & Development Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+DDHRF,DREAM HARD ASSET A,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+DRETF,Dream Office Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DRG-UN.TRT,Dream Global Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3077
+DRM.TRT,Dream Unlimited Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3077
+DIR-UN.TRT,Dream Industrial Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+D-UN.TRT,Dream Office Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.1818

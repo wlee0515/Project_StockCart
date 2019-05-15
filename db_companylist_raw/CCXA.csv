@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCXAE.SWI,UBS ETF CMCI Ex-Agltr SF H EUR A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+CCXAS.SWI,UBS ETF CMCI Ex-Agltr SF H CHF A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+CCXAA.SWI,UBS ETF CMCI Ex-Agltr SF USD A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667

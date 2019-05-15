@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+120030.KOR,CHOSUN WELDING POHANG Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.5333
+600558.SHH,Atlantic China Welding Consumables Inc.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.5333
+ADORWELD.BSE,Ador Welding Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353
+ADORWELD.NSE,Ador Welding Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2353
+530749.BSE,AHURA WELDING ELECTRODE MANUFA,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

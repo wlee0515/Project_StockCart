@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HTECX,Hennessy Technology Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HTECH.BAK,Halcyon Technology Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+UEQ7.FRK,UBS(I.)ETF-SP500 UE HTEAD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615
+HTECH-R.BAK,Halcyon Technology Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222

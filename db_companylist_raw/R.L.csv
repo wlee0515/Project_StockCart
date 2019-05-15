@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCFE18.MEX,"CFECAPITAL, S. De R.L. De C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2222
+T4L.BER,TALLGRASS EN.CL.A R.L.P.I,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+T4L.MUN,TALLGRASS EN.CL.A R.L.P.I,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+G9LN.BER,COLUMBUS ENERGY R.LS-0005,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818

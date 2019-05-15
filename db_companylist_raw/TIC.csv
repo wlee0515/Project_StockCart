@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TICRX,TIAA-CREF Social Choice Eq Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEST,Tick Pilot Test Control,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TICSX,Touchstone Small Company Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TICIX,Timothy Plan Israel Common Values I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TICTUX,ADT 1852 Tactical Income Closed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TICCX,T. Rowe Price Corporate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TICPX,T. Rowe Price Instl Core Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TICTSX,ADT 1812 Tactical Income Closed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TICTTX,ADT 1831 Tactical Income Closed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TICPJX,ADT 1867 Tactical Plus Closed-E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

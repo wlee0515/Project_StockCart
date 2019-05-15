@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJCA.BER,"INCHCAPE PLC  LS -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IJCA.FRK,Inchcape plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+IJCA.DUS,"INCHCAPE PLC  LS -,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

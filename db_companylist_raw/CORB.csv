@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CRBP,Corbus Pharmaceuticals Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSNVY,Corbion N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSNVF,Corbion N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+CRBBF,Corby Spirit and Wine Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CBYDF,Corby Spirit and Wine Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CRBN.AMS,Corbion N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.4444
+CSW-A.TRT,Corby Spirit and Wine Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+CSW-B.TRT,Corby Spirit and Wine Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+337.FRK,Corbus Pharmaceuticals Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2424
+0QHL.ILN,CORBION NV CORBION NV ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1951

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMAFX,USAA Managed Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+UMAX,UMAX Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UMAM,Umami Sustainable Seafood Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UMHL,Umatrin Holding Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALUMS.PAR,Umanis SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+UMAX.AUS,BetaShares S&P 500 Yield Maximiser,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6000
+UMANGDAIRY.NSE,UMANG DAIRIES,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714
+UMA.MUN,"LATVIJAS GAZE  EO 1,40",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+MLUMG.PAR,Umalis Group,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+UMA.FRK,AS Latvijas Gaze,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3750

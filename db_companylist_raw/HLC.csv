@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLC.TRT,Holloway Lodging Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HLCL.LON,Helical plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HLCB.KLA,HONG LEONG FINANCIAL GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

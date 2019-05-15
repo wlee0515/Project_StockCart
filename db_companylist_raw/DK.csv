@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DK,Delek US Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DKS,Dick's Sporting Goods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DKL,"Delek Logistics Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DKT,Deutsche Bank Contingent Capital Trust V TR PFD SEC 8.05%,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DKILY,"Daikin Industries,Ltd.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKSC,Dakshidin Corporation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKAM,Drinks Americas Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKGR,Universal Apparel & Textile Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKTS,Top Shelf Brands Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKGH,DKG Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

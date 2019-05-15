@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOKSH-SM.NSE,MOKSH ORNAMENTS LT,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+F00000TYD3.BCL,Mokana Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+MOKANAINVERS.BCL,Mokana Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

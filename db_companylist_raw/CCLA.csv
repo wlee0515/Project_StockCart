@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCLAY,Coca-Cola Amatil Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+CCLAX,Calvert Conservative Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CCLAF,Coca-Cola Amatil Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+F00000249Y.LON,CCLA COIF Charities Fixed Interest Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+CCLA.TRT,CCL INC. CL A,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2051
+F00000N3GL.LON,CCLA COIF Charities Ethical Investment Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1951
+GB00B3LDFH01.LON,CCLA Public Sector Investment Fund - The Public Sector Deposit Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+GB00B57RJX49.LON,CCLA COIF Charities Ethical Investment Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1702
+F0000024N1.LON,CCLA Local Authorities Property Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1702
+F000002VGD.LON,CCLA CBF CoE Global Equity Income Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1127

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADJEX,Azzad Ethical,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACITX,American Century Inflation Adjs Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSCX,Franklin Adjustable US Govt Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FEUGX,Federated Adjustable Rate Secs Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AIANX,American Century Inflation Adjs Bond R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ARMZX,Western Asset Adjustable Rate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ESAAX,Wells Fargo Adjustable Rate Govt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AIARX,American Century Inflation Adjs Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622
+ADJPX,AllianzGI NFJ Dividend Value P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538

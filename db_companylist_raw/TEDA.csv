@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+000652.SHZ,Tianjin Teda Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3077
+8189.HKG,Tianjin TEDA Biomedical Engineering Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+8348.HKG,Tianjin Binhai TEDA Logistics (Group) Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+150053.SHZ,Manulife Teda CSI 500 Index Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1860
+150054.SHZ,Manulife Teda CSI 500 Index Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1860
+162207.SHZ,Manulife TEDA Efficiency Discovery Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1455
+162215.SHZ,Manulife TEDA Juli Classified Bond Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1311

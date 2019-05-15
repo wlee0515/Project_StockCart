@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTPIX,ProFunds Utilities UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UTPSX,ProFunds Utilities UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UTP.BAK,United Paper Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+UTP-R.BAK,United Paper Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+UTPS.KLA,UNITED PLANTATIONS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455

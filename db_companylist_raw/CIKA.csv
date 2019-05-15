@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPCK.JKT,PT Lippo Cikarang Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+POWR.JKT,PT Cikarang Listrindo Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3200
+B2O.FRK,PT Cikarang Listrindo Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+LCW.STG,PT Lippo Cikarang Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759

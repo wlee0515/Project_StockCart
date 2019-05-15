@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZAAP,ZAP,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ZAPISX,Apis Token Ltd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+3770.TOK,Zappallas Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+ZPFK.HAM,ZAPF CREATION AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+ZPFK.MUN,Zapf Creation AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333

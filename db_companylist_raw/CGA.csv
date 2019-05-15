@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CGA,China Green Agriculture Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CGAFX,Calvert Green Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CGAVX,Causeway Global Absolute Return Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCGM,China CGame Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGAC,Code Green Apparel Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGAIX,Causeway Global Absolute Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGACEX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CGAEX,Calvert Global Energy Solutions A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CGACCX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CGAAX,Columbia Aggressive Track Ages ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

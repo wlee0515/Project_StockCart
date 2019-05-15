@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHAMX,Centre American Select Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHAIX,Day Hagan Tactical Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHANX,Centre American Select Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHACX,Day Hagan Tactical Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHAAX,Day Hagan Tactical Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSNG.JKT,PT Dharma Satya Nusantara Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4286
+DHAMPURSUG.NSE,Dhampur Sugar Mills Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+CARS.JKT,PT Industri dan Perdagangan Bintraco Dharma Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3750
+DHANBANK.BSE,Dhanlaxmi Bank Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000
+DHANVARSHA.BSE,Dhanvarsha Finvest Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

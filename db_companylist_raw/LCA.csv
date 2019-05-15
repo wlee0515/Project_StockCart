@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LCA,Landcadia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LCAHU,Landcadia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LCACX,Lord Abbett Calibrated Large Cap Val C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAOX,Lazard Opportunistic Strategies Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAYX,Lord Abbett Calibrated Large Cap Val F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAR,Lescarden Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAAX,Lord Abbett Calibrated Large Cap Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCARX,Lord Abbett Calibrated Large Cap Val R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAMX,Leader Short Duration Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCAVX,Lord Abbett Calibrated Large Cap Val R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

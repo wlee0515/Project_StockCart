@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRH0.LON,db Physical Rhodium ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4211
+RFG.JOH,Rhodes Food Group Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4211
+600211.SHH,Tibet Rhodiola Pharmaceutical Holding Co.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+F0GBR06LMC.BCL,Rhodes Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+RHODESINVEST.BCL,Rhodes Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+BNYALLOCRHOD.SAO,ALLOCATION RHODES FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO ,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1778

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGH,SMART Global Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SGHIY,Shanghai Industrial Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHIF,Shanghai Industrial Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHRX,DWS Global High Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHSX,DWS Global High Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHAX,DWS Global High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHCX,DWS Global High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHTX,DWS Global High Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGHIX,Sextant Global High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGH.AUS,Slater and Gordon Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZFIN.FRK,Zurich Insurance Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ZFI1.BER,"ZURICH INS.ADR 1/10/SF-,1",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZFIN.BER,"ZURICH INSUR.GR.NA.SF0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZFI1.FRK,Zurich Insurance Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZFIN.FRK,Zurich Insurance Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZFI1.STG,Zurich Insurance Group AG Nam.A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZFIN.DUS,"ZURICH INSUR.GR.NA.SF0,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ZFIN.HAM,"ZURICH INSUR.GR.NA.SF0,10",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+ZFIN.MUN,"ZURICH INSUR.GR.NA.SF0,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+ZFIN.STG,Zurich Insurance Group AG Nam.-,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

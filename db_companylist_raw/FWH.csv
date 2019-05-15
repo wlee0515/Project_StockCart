@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWHTLX,FT 6815: Low Volatility Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWHBX,Strategic Advisers Core Inc Multi-Mgr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWHNTX,FT 7465: First Trust ETF Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

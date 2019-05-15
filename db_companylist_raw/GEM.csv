@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEM,Goldman Sachs ActiveBeta EMkts Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GEMP,Gemphire Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GEMCX,Goldman Sachs Emerging Markets Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GTOMY,Gemalto N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FUGMF,Fura Gems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GEMIX,Goldman Sachs Emerging Markets Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMDMF,Gem Diamonds Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BGEM,Blue Gem Enterprise,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GEMAX,Goldman Sachs Emerging Markets Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GTOFF,Gemalto N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

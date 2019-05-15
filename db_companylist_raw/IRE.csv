@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRET,Investors Real Estate Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRL,The New Ireland Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKRIF,Bank Of Ireland Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLD,Ireland Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BKRIY,Bank Of Ireland Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EIRL,iShares MSCI Ireland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6000
+IRET-PC,Investors Real Estate Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IREMF,ISHARES,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IREIPX,REIT Income Portfolio 2018-3 (I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+IRESX,Ivy LaSalle Global Real Estate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

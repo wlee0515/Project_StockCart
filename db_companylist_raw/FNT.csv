@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNTGYX,FT 7169: Richard Bernstein Advi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNTEMX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNTCX,Nuveen Nebraska Municipal Bond C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNTAX,Nuveen Nebraska Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTULX,FT 6744: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTPWX,FT 6890: Global Target 15 4Q '1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTLYX,FT 6611: Balanced Income Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTHMX,FT 7566: International Capital ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTYX,Nuveen Nebraska Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNTN.FRK,freenet AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

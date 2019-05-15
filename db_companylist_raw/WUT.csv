@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WUTI.LON,SPDR MSCI World Utilities ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+WUTI.AMS,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI World Utilities UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+WUTI.SWI,SPDR MSCI World Utilities ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+300292.SHZ,Wutong Holding Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818

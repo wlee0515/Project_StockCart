@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMCAY,SMC Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SMCAHX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCAGX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCADX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCAEX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCAIX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCAFX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SMCAJX,"Smart Trust, California Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+F00000WO1W.TRT,IA SRP Prestige 75/100 Cdn Eq SmCap(QV),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+KR5301AQ0362.KOR,MiraeAsset TxDct LT Grw SMCap Fdr Eq 1 C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJF.FRK,ICON Public Limited Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IJF.STG,ICON PLC Registered Shares EO -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4549.TOK,Eiken Chemical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+EIKA.BER,"CN NETCOM TECHN.  HD-,005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3529
+7265.TOK,Eiken Industries Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3529
+EIKON99SICAV.BCL,Eikon 99 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F000001Y1M.BCL,Eikon 99 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERCA.STG,Telefonaktiebolaget L.M.Erics.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+ERCA.FRK,Telefonaktiebolaget LM Ericsson (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ERCA.BER,ERICSSON B (SPON.) ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ERCA.FRK,Telefonaktiebolaget LM Ericsson (publ),Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ERCA.DUS,ERICSSON B (SPON.) ADR,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ERCA.HAM,ERICSSON B (SPON.) ADR,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+ERCA.MUN,ERICSSON B (SPON.) ADR,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

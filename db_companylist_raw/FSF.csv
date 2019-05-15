@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSFG,First Savings Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSFF,First Suffield Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSFRX,Nuveen Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSFHX,Fidelity Advisor Short Dur Hi Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSFYX,Nuveen Strategy Conservative Allc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSFEIX,FT 6836: Nasdaq Dividend Achiev,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSFIX,Nuveen Strategy Conservative Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSF.TRT,First Asset Global Financial Sector ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FSF0981AU.AUS,CFS FC Inv-Realindex Aus Small Co,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

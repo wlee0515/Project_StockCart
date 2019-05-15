@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETX,Eaton Vance Municipal Income 2028 Term Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ETX.LON,e-Therapeutics plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ETX.DUS,"MAUREL ET PROM INH.EO-,77",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+ETX.STG,Etablissements Maurel & Prom S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ETX.FRK,Etablissements Maurel & Prom S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ETX.BER,"MAUREL ET PROM INH.EO-,77",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ETX.TRT,Etrion Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

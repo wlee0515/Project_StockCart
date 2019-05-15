@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+505520.BSE,HEM HOLDINGS & TRADING LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.8571
+HEMP,Hemp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HMPQ,"HempAmericana, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HEB,Hemispherx Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HMTV,Hemisphere Media Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HEMA,HemaCare Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HMPPF,Hempco Food and Fiber Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GBHPF,Global Hemp Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HEME,Healthmed Services Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+HPMM,Hemp Naturals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

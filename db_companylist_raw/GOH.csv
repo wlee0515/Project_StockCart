@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOHE,Global Payout Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GKHS.SGP,G K Goh,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+G41.SGP,G. K. Goh Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+GOHO.TAV,Golden House Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+000851.SHZ,Gohigh Data Networks Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+GOH.BER,"GOLIK HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1395

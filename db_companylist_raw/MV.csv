@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVIS,MicroVision Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MVO,MV Oil Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MVES,The Movie Studio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MVC,MVC Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MVV,ProShares Ultra MidCap400,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+MVF,BlackRock MuniVest Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MVBF,MVB Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MVT,"Blackrock MuniVest Fund II, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MVEN,TheMaven Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MVCKX,MFS Mid Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

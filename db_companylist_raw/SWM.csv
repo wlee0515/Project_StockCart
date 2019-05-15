@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWM,Schweitzer-Mauduit International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SWMCX,Schwab  US Mid-Cap Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SWMRX,Schwab Target 2045,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWMAY,Swedish Match AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWMAF,Swedish Match AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWMSX,Laudus Small-Cap MarketMasters Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWMIX,Laudus International MarketMasters Sel,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWMD,Starwin Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

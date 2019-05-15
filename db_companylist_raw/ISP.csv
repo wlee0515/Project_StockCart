@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISPFF,iShares II Public Limited Company - iShares Developed Markets Property Yield UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPGX,Voya Solution Moderately Cnsrv Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPRX,Voya Solution Moderately Cnsrv Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPDX,Voya Solution 2045 Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPPEX,S&P PowerPicks Portfolio 2017-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPCEX,Select S&P Core Portfolio 2018-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPSX,Voya Solution Moderately Cnsrv Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISPCX,Voya Solution 2035 Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ISPCRX,Select S&P Core Portfolio 2017-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ISPTX,Voya Solution Moderately Cnsrv Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

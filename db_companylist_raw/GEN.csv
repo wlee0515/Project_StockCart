@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEN,Genesis Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GE,General Electric Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GM,General Motors Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GIS,General Mills Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GD,General Dynamics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GNW,Genworth Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SGEN,Seattle Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+CANN,General Cannabis Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GNBT,Generex Biotechnology Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DG,Dollar General Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

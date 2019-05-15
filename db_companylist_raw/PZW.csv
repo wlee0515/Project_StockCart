@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PZW.TRT,Invesco FTSE RAFI Global Sm-Md ETF CAD,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+PZW-F.TRT,INVESCO FTSE RAFI GLB SMALL MID,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

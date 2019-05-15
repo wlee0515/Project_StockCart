@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NIROF,SportsHero Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NIRO.JKT,PT City Retail Developments Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+TECHIN.NSE,Techindia Nirman Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+NIRAJ.BSE,Niraj Cement Structurals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+1245.HKG,Niraku GC Holdings Inc.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5455
+MNIL.BSE,Mega Nirman & Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+NVD-R.BAK,Nirvana Daii Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+NIRA.STG,PT Nippon Indosari Corpindo Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+NIR.TRV,Noble Iron Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2222
+6863.TOK,Nireco Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222

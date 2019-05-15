@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THG,The Hanover Insurance Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+THGA,The Hanover Insurance Group Inc. SUB DB 6.35%53,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+THGCX,Thornburg International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THGWX,Toews Tactical Growth Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THGIX,Thornburg International Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THGRX,Thornburg Core Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THG.BAK,Thonburi Healthcare Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+THG-R.BAK,Thonburi Healthcare Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

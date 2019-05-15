@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEND.FRK,Aegon N.V.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+AEND.FRK,Aegon N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+AEND.HAN,AEGON NV (DEMAT.)  EO-12,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+AEND.HAM,AEGON NV (DEMAT.)  EO-12,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+AEND.MUN,AEGON NV (DEMAT.)  EO-12,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+AEND.STG,AEGON N.V. Aandelen op naam(dem,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+AEND.BER,AEGON NV (DEMAT.)  EO-12,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AEND.DUS,AEGON NV (DEMAT.)  EO-12,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

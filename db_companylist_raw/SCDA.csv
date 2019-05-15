@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCDA,B-Scada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000LWJ4.LON,FP SCDavies Global Equity Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2353
+F00000LWJ8.LON,FP SCDavies Global Fixed Income Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2353
+F00000LWJ9.LON,FP SCDavies Global Fixed Inc A Inc GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+GB00B6457N46.LON,FP SCDavies Global Fixed Income Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+GB00B62WJ318.LON,FP SCDavies Global Alternatives Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+GB00B6568T95.LON,FP SCDavies Global Fixed Inc A Inc GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+GB00B6757199.LON,FP SCDavies Global Equity Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+F00000LWJG.LON,FP SCDavies Global Alternatives Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYDD.BER,VONTOBEL-GL EQ.A-DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+WYDD.DUS,VONTOBEL-GL EQ.A-DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WYDD.HAM,VONTOBEL-GL EQ.A-DL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WYDD.MUN,VONTOBEL-GL EQ.A-DL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WYDD.STG,Vontobel Fd-Global Equity Actio,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+WYDD.FRK,Vontobel Fund - Global Equity,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

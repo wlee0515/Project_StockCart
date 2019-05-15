@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEH,Aegon N.V. PRP CP SEC 6.375,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AEHR,Aehr Test Systems,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AEHDX,American Century Emerging Mkts Dbt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AYB.FRK,Aehr Test Systems,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+FV2F.HAM,THR.L.-GL FOCUS EPIC AEH,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.3000
+AYB.BER,"AEHR TEST SYSTEMS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+AYB.STG,AEHR TEST SYSTEMS Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+FV2F.BER,THR.L.-GL FOCUS EPIC AEH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+FV2F.DUS,THR.L.-GL FOCUS EPIC AEH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+FV2F.MUN,THR.L.-GL FOCUS EPIC AEH,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ONOV,BioNovelus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPHLY,Ono Pharmaceutical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+4528.TOK,Ono Pharmaceutical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+6858.TOK,Ono Sokki Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+7414.TOK,Onoken Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+ON4.MUN,Ono Pharmaceutical Co. Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1935

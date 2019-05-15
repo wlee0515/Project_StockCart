@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOGMF,Kilo Goldmines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KOGL,Kopp Glass Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TOKCF,Tokyo Ohka Kogyo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DKKGF,Denki Kogyo Co. Ltd..,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NELEF,NITTO KOGYO CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+YMTKF,Yamato Kogyo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+KGN.AUS,Kogan.com Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2500
+6137.TOK,Koike Sanso Kogyo Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+KOG.STG,"KROGER CO., THE Registered Shar",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2069

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHIAX,PACE High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PHIA.AMS,Koninklijke Philips N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.8000
+PHIA.DUS,"KONINKL. PHILIPS ADR -,20",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+PHIA.MIL,Koninklijke Philips N.V.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7273
+PHIA.STG,Koninklijke Philips N.V. Reg.Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PHIA.VIE,Koninklijke Philips N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273
+PHIA.FRK,Koninklijke Philips N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+PHIA.BER,"KONINKL. PHILIPS ADR -,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PHIA.FRK,Koninklijke Philips N.V.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

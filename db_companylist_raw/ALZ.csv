@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALZH,Alzheon Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALZFX,Alger Focus Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALZTF,Aldershot Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALZ.TRV,Aldershot Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ALZC.STG,Assa-Abloy AB Namn-Aktier B SK ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ALZC.FRK,ASSA ABLOY AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ALZC.BER,"ASSA-ABLOY AB B  SK-,33",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+ALZC.DUS,"ASSA-ABLOY AB B  SK-,33",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3158

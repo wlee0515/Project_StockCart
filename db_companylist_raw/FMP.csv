@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMPR,Fame Productions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMPTX,Fidelity Advisor Mid Cap Value M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPOX,Fidelity Advisor Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPCX,Nuveen Small Cap Growth Opp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPAX,Fidelity Advisor Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPEX,Fidelity Advisor Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPFX,Nuveen Small Cap Growth Opp R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPSX,Frontier MFG Global Plus Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMPACX,FT 7337: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMPIEX,FT 6932: Strategic Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

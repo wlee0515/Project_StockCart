@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATCMF,Atico Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ATICX,Invesco Select Companies C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+ATY.TRV,Atico Mining Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7273
+ATIC.JKT,PT Anabatic Technologies Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+ATIC.SGP,$ Asiatic,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444
+9AO.FRK,Atico Mining Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+9AO.STG,Atico Mining Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVP.BSE,IVP Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+IVPAF,Ivanhoe Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IVPSX,Voya Small Company Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVPOX,Voya SmallCap Opportunities Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVPG.LON,Invesco Perp Select Glo Eq Inc Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IVPU.LON,Invesco Perp Select UK Equity Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IVPB.LON,Invesco Perp Select Balanced Risk Alloc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IVP.NSE,IVP Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+IVP1.BER,GROWTHPOINT PROP. AUSTR.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+507580.BSE,IVP Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BQH,BlackRock New York Municipal Bond Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BQFIX,iShares Edge MSCI USA Qual Fact Index Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BQLIX,Bright Rock Quality Large Cap Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BQFKX,iShares Edge MSCI USA Qual Fact Index K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BQMGX,Bright Rock Mid Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BQMIX,Bright Rock Mid Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BQLCX,Bright Rock Quality Large Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BTQNF,BQE Water Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BQI RT,OILSANDS QUEST INC.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BQI RT WI,** SEE<BQI RT>,Equity,United States,09:30,16:00,UTC-05,USD,0.3636

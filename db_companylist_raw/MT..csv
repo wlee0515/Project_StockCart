@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MT.AMS,ArcelorMittal,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7500
+MT.MIL,Maire Tecnimont S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+MT.SWI,ArcelorMittal,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+MT.VIE,ArcelorMittal,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+18M1.STG,Amundi ETF Cash 3 Mt.EOM.In.G.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+F00000U73P.KOR,MiraeAssetMAPS Mt.Chunma Tunnel Private Special Asset Monetary Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000V5ZC.KOR,Consus Moonhak Mt. Tunnel Private Special Asset Loan 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+KR5233AY8590.KOR,Consus Moonhak Mt. Tunnel Private Special Asset Loan 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111
+KR5301AU2982.KOR,MiraeAssetMAPS Mt.Chunma Tunnel Private Special Asset Monetary Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

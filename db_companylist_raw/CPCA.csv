@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPCAY,Cathay Pacific Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+CPCAF,Cathay Pacific Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+CPCAD.ARG,CPCAD.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+CPCAO.ARG,CPCAO.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTW,The Manitowoc Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTWTF,METAWATER Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTWD,Metwood Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTW.FRK,Matsui Securities Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MTW.DUS,MATSUI SECURITIES CO. LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+MTW.MUN,MATSUI SECURITIES CO. LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MTW.LON,Mattioli Woods plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MTW.BER,MATSUI SECURITIES CO. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MTWI.JKT,PT Malacca Trust Wuwungan Insurance Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

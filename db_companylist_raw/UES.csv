@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRAO.MOS,Public Joint Stock Company Inter RAO UES,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+HVB.BER,UESTRA HANN.VERK. INH ON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HVB.HAM,UESTRA HANN.VERK. INH ON,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+UESG.LON,Lyxor MSCI USA ESG Trend Ldrs(DR)ETFAcc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+UES3.STG,ETFS Equity Securities Ltd. Dt.,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+HVB.HAN,UESTRA HANN.VERK. INH ON,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.2222
+UESG.MIL,LYXOR MSCI USA ESG TREND L DR U,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2000

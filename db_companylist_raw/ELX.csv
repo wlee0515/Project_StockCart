@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELXMF,Ellex Medical Lasers Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELX.AUS,Ellex Medical Lasers Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+TATAELXSI.BSE,Tata Elxsi Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+TATAELXSI.NSE,Tata Elxsi Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ELX.LON,El Oro Ltd,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ELX.DUS,ELECTROLUX B,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ELX.MUN,ELECTROLUX B,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ELX.FRK,AB Electrolux (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ELX.BER,ELECTROLUX B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ELX.STG,"ELECTROLUX, AB Namn-Aktier B o.",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

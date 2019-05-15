@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSZCX,Voya Index Solution 2030 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZAX,Voya Index Solution 2020 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZHX,Voya Index Solution 2055 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZGX,Voya Index Solution 2050 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZBX,Voya Index Solution 2025 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZEX,Voya Index Solution 2040 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZJX,Voya Index Solution Income Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZFX,Voya Index Solution 2045 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZDX,Voya Index Solution 2035 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSZIX,Voya Index Solution 2060 Port Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

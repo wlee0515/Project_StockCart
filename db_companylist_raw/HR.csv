@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HR,Healthcare Realty Trust Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HRL,Hormel Foods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HRTX,Heron Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HRS,Harris Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HRB,H&R Block Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HRI,Herc Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HRC,Hill-Rom Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HRZN,Horizon Technology Finance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HRTG,Heritage Insurance Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HRST,Harvest Oil & Gas Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

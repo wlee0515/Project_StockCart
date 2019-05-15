@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UVD.FRK,Universal Display Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UVD.BER,"UNIVERSAL DISPLAY  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UVD.MUN,"UNIVERSAL DISPLAY  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UVD.STG,UNIVERSAL DISPLAY CORP. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+UVDRHOR.BSE,United Van Der Horst Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615

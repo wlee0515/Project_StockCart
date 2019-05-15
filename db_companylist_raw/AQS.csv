@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AQST,Aquestive Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AQSZF,Aequus Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AQSP,Acquired Sales Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AQS.TRV,Aequus Pharmaceuticals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+AQSG.LON,Aquila Services Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+AQS.AUS,Aquis Entertainment Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

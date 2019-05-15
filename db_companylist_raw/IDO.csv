@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDOG,ALPS International Sector Dividend Dogs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IDRSF,Idorsia Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IDOI,IDO Security Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IDIA.SWI,Idorsia Ltd,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+7599.TOK,IDOM Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4286

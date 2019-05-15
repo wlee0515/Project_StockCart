@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UUD.FRK,Pharmaxis Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UUD.HAM,PHARMAXIS LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+UUD.MUN,PHARMAXIS LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UUD.STG,Pharmaxis Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

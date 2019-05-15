@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCOM,National Commerce Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NCOAX,Nuveen Symphony Credit Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCOIX,Nuveen Symphony Credit Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCOTX,Wells Fargo Colorado Tax-Free Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCO.FRK,Nedbank Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NCCL.LON,Ncondezi Energy Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+NCO.STG,Nedbank Group Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+9NE.FRK,Ncondezi Energy Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

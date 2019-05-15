@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GZCO.JKT,PT Gozco Plantations Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+GOZ.AUS,Growthpoint Properties Australia Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+GOZ2.FRK,Gold-Zack AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+GOZ2.BER,GOLD-ZACK AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GOZ2.DUS,GOLD-ZACK AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+GOZURIFINANZ.BCL,Gozuri Finanzas SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F000001Z3I.BCL,Gozuri Finanzas SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

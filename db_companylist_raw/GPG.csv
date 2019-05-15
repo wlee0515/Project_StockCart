@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPGOX,Grandeur Peak Global Opportunities Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GPGIX,Grandeur Peak Global Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPGC,Global Pole Trusion Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPGAX,Dreyfus US Mortgage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPGNF,"Grupo Gigante, S. A. B. de C. V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPG.TRV,Grande Portage Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GPGB.TAV,G.P. Global Power Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

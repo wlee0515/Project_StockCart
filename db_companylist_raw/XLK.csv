@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XLK,Technology Select Sector SPDR ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+XLKS.LON,Invesco Technology S&P US Sel Sec ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XLKQ.LON,Source Markets plc - Source Technology S&P US Select Sector UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XLKS.MIL,Invesco Technology S&P US Sel Sec ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XLK.MEX,Technology Select Sector SPDR ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+XLKS.SWI,Invesco Technology S&P US Sel Sec ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

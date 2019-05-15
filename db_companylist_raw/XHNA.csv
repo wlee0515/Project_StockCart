@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XHNA.FRK,Hong Kong Television Network Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XHNA.BER,HK TELEVIS.NETW.ADR HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XHNA.STG,Hong Kong Television Netw.Ltd.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

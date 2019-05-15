@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYU.BER,"IOMART GROUP PLC  LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+LYUS10.SWI,Lyxor iBoxx $ Trs 10Y+ DR ETF Dist A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+LYUS13.SWI,LYX IBOXX $ T 1-3Y (DR) DIS TH,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+LYUS57.SWI,Multi Units France - Lyxor UCITS ETF iBoxx $ Treasuries 5-7Y (DR),ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYUTLW.SWI,Lyxor MSCI World Utilities TR ETF C USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+LYU.FRK,iomart Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+LYU.STG,Iomart Group PLC Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+LYUSA.SWI,Lyxor MSCI USA ETF D-USD A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

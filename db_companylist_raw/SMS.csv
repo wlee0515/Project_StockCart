@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2175.TOK,SMS Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+SMSI,Smith Micro Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSOF,Samsonite International S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSMY,Sims Metal Management Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSAX,SEI Multi Strategy Alternatives F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSEY,Samsonite International S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSVX,Hartford Schroders EmMkts Mlt-Sect Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSNX,Hartford Schroders EmMkts Mlt-Sect Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSDX,SEI Moderate Strategy D (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMSTLX,"Smart Trust, Smart Ten Trust, S",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750

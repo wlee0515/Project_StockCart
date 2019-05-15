@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVE,Five Star Senior Living Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FVEYBX,FT 7376: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVEYOX,FT 6715: Limited Duration Fixed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVELWX,FT 7629: European Target High Q,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVELZX,FT 7298: Value Line Target Safe,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVERAX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVEDMX,The First Trust GNMA Series 111,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVELTX,FT 6868: Global Dividend Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVERIX,FT 7565: Energy Opportunity Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVEPRX,FT 7507: Core Holdings Growth T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

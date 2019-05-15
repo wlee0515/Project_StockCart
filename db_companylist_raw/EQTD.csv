@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQTD,Equal Trading Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000OJWR.TRT,La Capitale Low Volatility Glbl EqTDAM,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1905

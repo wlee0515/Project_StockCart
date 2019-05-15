@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUSB,iShares ESG 1-5 Year USD Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SUSB.LON,ETFS Bearish USDvsG10 Ccy Bskt Secs ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+F000010YRH.FRK,Capitulum Susble Local CCY Bd Fds UI T,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1905
+F000010YRI.FRK,Capitulum Susble Local CCY Bd Fds UI A,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1905

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFNC,Mackinac Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MFNJX,BlackRock NJ Municipal Bond Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFNLX,BlackRock National Municipal Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFNKX,BlackRock NY Municipal Opps Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFNC.STG,Amax International Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MFNC.FRK,"AMAX INTL HLDGS  HD-,20",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MFNC.MUN,"AMAX INTL HLDGS  HD-,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

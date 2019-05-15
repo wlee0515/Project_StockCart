@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TW000T4209A0.TWN,Schroder Lohas Small and Mid Capital Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.6667
+I.TWN,Schroder Lohas Small and Mid Capital Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.6000
+LHK.BAK,Lohakit Metal Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+LOH2.FRK,LO Funds - Euro-Zone Small and Mid Caps,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LOH2.HAM,LOF-CO.EU.SM.+MI.LE. AP,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+LOH3.DUS,LO F.-WLD GOLD EXP.P EO C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LOH3.HAM,LO F.-WLD GOLD EXP.P EO C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+LOH3.STG,LO Fds-World Gold Expertise FdN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+LOH4.DUS,LO F.-WLD GOLD EXP.P DL C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1364
+LOH4.HAM,LO F.-WLD GOLD EXP.P DL C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.1364

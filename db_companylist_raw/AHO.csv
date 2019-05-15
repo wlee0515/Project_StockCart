@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADRNY,Koninklijke Ahold Delhaize N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHOTF,American Hotel Income Properties REIT LP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHODF,Koninklijke Ahold Delhaize N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AD.AMS,Koninklijke Ahold Delhaize N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2500
+AHOG.FRK,Koninklijke Ahold Delhaize N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+ES0110131036.BCL,BBVA Rentabilidad Ahorro Corto Plazo FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+ADA.LON,Koninklijke Ahold Delhaize N.V.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR06UB2.BCL,Eurovalor Ahorro Top 2019 B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765
+0RI8.LON,Koninklijke Ahold Delhaize N.V.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

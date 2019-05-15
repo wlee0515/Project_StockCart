@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSBK,Timberland Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSBA,Touchstone Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSBIX,TIAA-CREF Social Choice Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSBRX,TIAA-CREF Social Choice Bond Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSBBX,TIAA-CREF Social Choice Bond Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSBPX,TIAA-CREF Social Choice Bond Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPMF,Permanent TSB Group Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSBHX,TIAA-CREF Social Choice Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSBLF,Tiso Blackstar Group SE,Equity,United States,09:30,16:00,UTC-05,USD,0.1714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RERGX,American Funds Europacific Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+REREX,American Funds Europacific Growth R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERFX,American Funds Europacific Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERCX,American Funds Europacific Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERBX,American Funds Europacific Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERHX,American Funds Europacific Growth R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERAX,American Funds Europacific Growth R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RERPX,American Funds Retire Inc Port-Mod R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RER1.BER,"RECORDATI SPA  EO -,125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RER1.FRK,Recordati Industria Chimica e Farmaceutica S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

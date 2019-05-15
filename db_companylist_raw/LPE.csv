@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPEFX,ALPS/Red Rocks Listed Private Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPEIX,ALPS/Red Rocks Listed Private Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPERX,ALPS/Red Rocks Listed Private Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPE.PAR,Laurent-Perrier S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+LPE.AUS,Locality Planning Energy Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+LPET.LON,ETFS 2x Daily Long Petroleum ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LPE.BER,"LAURENT-PERR. INH.EO 3,80",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LPE.STG,LAURENT-PERRIER S.A. Actions Po,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LPE.FRK,Laurent-Perrier S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LPET.MIL,ETFS 2x Daily Long Petroleum ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

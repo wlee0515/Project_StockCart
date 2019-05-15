@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVEFX,Guggenheim RBP Dividend P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+TVECX,Guggenheim RBP Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+TVDCX,Guggenheim RBP Large-Cap Defensive C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714
+TVVAX,Guggenheim RBP Large-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714
+TVVIX,Guggenheim RBP Large-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714
+TVMAX,Guggenheim RBP Large-Cap Market A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+TVMCX,Guggenheim RBP Large-Cap Market C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+TVVFX,Guggenheim RBP Large-Cap Value P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+TVFDX,Guggenheim RBP Large-Cap Defensive P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+TVIDX,Guggenheim RBP Large-Cap Defensive I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538

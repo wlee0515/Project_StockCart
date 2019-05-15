@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNF,UniFirst Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UNFI,United Natural Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DINERGLOBALS.BCL,Unfargui Financiera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+UNFARGUIFINA.BCL,Unfargui Financiera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIOCX,Columbia Corporate Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CIOC.BER,CHINA AEROSPACE NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+CIOC.FRK,China Aerospace International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+CIOC.MUN,CHINA AEROSPACE NEW,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+CIOC.STG,China Aerospace Intl. Ltd. Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

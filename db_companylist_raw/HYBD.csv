@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYBDIX,ADT 1129 Advisors Corporate Tru,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDQX,ADT 1366 Advisors Corporate Tru,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDFX,Advisors Disp Tr 1088 Advisors ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDRX,ADT 1441 Advisors Corporate Tru,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDDX,Advisors Disp Tr 1060 Advisors ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDGX,Advisors Disp Tr 1090 Corp Tr H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDHX,Advisors Disp Tr Advisors Corp ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDJX,"ADT 1130 ADVISORS CORP TRUST, H",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDMX,ADT 1239 Advisors Corporate Tru,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+HYBDBX,Advisors Disp Tr 1033 Advisors ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

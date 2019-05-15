@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCI,HCI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HCIEX,"HC Capital Trust, The Internati",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCISX,"HC Capital Tr, The Institutiona",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCIIX,"HC Capital Trust, The Core Fixe",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCIGX,"HC Capital Tr, The Institutiona",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCINX,HC Capital Trust The Insti Inte,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCIBX,HC Capital Trust The Intermedia,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCIWX,"HC Capital Tr, The Institutiona",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCIVX,"HC Capital Tr, The Insti Value ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCITX,HC Capital Trust The Insti Inte,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

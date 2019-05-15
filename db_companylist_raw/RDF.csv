@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDFN,Redfin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RDFTX,American Funds 2035 Trgt Date Retire R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RDFEF,Brookside Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RDFD,"Redfield Energy, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RDFY,Redify Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RDFVF,RDFVF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RDF.AUS,Redflex Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+RDF.JOH,Redefine Properties Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+RDF1.FRK,RADA Electronic Industries Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RDF1.BER,"RADA EL.  DL-,03",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

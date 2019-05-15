@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENG,BNPP E NMX 30 Infrastructure Glbl ETF,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JEC,Jacobs Engineering Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ALTR,Altair Engineering Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PUW,Invesco WilderHill Progressive Engy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+EGL,Engility Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OEC,"Orion Engineered Carbons, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EMLP,First Trust North Amer Engy InfrasETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PXE,Invesco Dynamic Engy Explr & Prdtn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+WNEB,Western New England Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+NEN,New England Realty Associates Limited Partnership,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

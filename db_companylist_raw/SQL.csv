@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SQLV,Legg Mason Small-Cap Quality Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+0Q90.LON,SQLI SA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SQI.PAR,SQLI SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SQL.FRK,Matador Partners Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SQL.BER,MATADOR PART. GRP SF 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SSXN.FRK,SQLI SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SSXN.STG,"SQLI S.A. Actions Port. EO -,80",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+SQL.STG,Matador Partners Group AG Inhab,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

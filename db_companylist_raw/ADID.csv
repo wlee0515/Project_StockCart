@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADDYY,adidas AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADDDF,adidas AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADS.FRK,adidas AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6154
+ADS.FRK,adidas AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6154
+ADSN.MEX,adidas AG,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+ADS.BER,ADIDAS AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6154
+ADS.MIL,adidas AG,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6154
+0OLD.LON,adidas AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+ADS.DUS,ADIDAS AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

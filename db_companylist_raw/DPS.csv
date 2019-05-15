@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPST,Direxion Daily Regional Bnks Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DPSGY,Deutsche Post AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DPSCX,Dreyfus Structured Midcap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DPSM,3D Pioneer Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPSTF,Deutsche Post AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPSYX,Dreyfus Structured MidCap Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DPSAX,Dreyfus Structured Midcap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

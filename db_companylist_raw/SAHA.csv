@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAHRF,Sahara Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SMPC.BAK,Sahamitr Pressure Container Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+SAH.TRV,Sahara Energy Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2759
+F00000PDAM.BSE,Sahara Banking and Financial Services Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+SMIT.BAK,Sahamit Machinery Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2000
+SQ.BAK,Sahakol Equipment Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2000
+OKQ.BER,SAHAMIT MACH. -FGN-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818
+SCG.BAK,Sahacogen (Chonburi) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818
+SPC.BAK,Saha Pathanapibul Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1739

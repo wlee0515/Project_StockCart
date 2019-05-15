@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPNH.BER,LU.ALPH.CLO HI.QUAL.INV.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+LPNH.MUN,LU.ALPH.CLO HI.QUAL.INV.A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000
+LPNH.DUS,LU.ALPH.CLO HI.QUAL.INV.A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

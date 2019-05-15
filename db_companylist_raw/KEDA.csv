@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KDSI.JKT,PT Kedawung Setia Industrial Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+600499.SHH,Keda Clean Energy Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.3333
+KICI.JKT,PT Kedaung Indah Can Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+600986.SHH,Keda Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2759
+LCKM.JKT,PT LCK Global Kedaton Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2581
+002850.SHZ,Shenzhen Kedali Industry Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2286
+603660.SHH,Suzhou Keda Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2105

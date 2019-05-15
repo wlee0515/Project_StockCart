@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMCB.JKT,PT Holcim Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+HOLCO.AMS,Holland Colours NV,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2963
+HARG.ARG,Holcim (Argentina) S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2963
+RU6.BER,HOLCIM INDONESIA  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+RU6.FRK,PT Holcim Indonesia Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+RU6.STG,"Holcim Indonesia TBK, PT Regist",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+RU6.MUN,HOLCIM INDONESIA  RP 500,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

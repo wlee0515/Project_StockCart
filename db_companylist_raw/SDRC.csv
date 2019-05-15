@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDRC,Sidney Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SDRCX,Swan Defined Risk C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SDRC.FRK,SCOR SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SDRC.DUS,"SCOR SE  EO 7,8769723",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+SDRC.LON,Schroders plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+SDRC.BER,"SCOR SE  EO 7,8769723",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SDRC.MUN,"SCOR SE  EO 7,8769723",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+SDRC.STG,"SCOR SE Act.au Porteur EO 7,876",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

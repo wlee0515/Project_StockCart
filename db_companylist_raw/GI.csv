@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GILD,Gilead Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GIS,General Mills Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GIL,Gildan Activewear Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GIB,CGI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GIII,G-III Apparel Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GILT,Gilat Satellite Networks Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GIGM,GigaMedia Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ROCK,Gibraltar Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GIFI,Gulf Island Fabrication Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GIM,Templeton Global Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

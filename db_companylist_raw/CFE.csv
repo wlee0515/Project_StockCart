@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFE.AUS,Cape Lambert Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CFEB.BRU,Compagnie d'Entreprises CFE SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+FCFE18.MEX,"CFECAPITAL, S. De R.L. De C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+0O2T.LON,Compagnie d'Entreprises CFE SA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+CFE1.DUS,C WO.WI.-C WO.WI.GL EQ.A1,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+C70.STG,Cie d'Entreprises CFE - CFE SAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+C70.FRK,Compagnie d'Entreprises CFE SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+CFE4.FRK,C WorldWide - C WorldWide Medical,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818
+0O2T.ILN,COMPAGNIE D ENTREPRISES CFE SA ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QNTA,Quanta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QNTO,Quaint Oak Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QNTAX,Meeder Quantex Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QNTIX,Meeder Quantex Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QNTQY,QinetiQ Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QNTQF,QinetiQ Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QUANX,USA Mutuals/WaveFrt Hdg Qntmtl Opps Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RGRE-U.TRT,RBC QNT GLBL REAL ESTATE LDRS U,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+QNT2.DUS,"QUANTUM CORP. DSSG DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+QNT2.FRK,"QUANTUM CORP. DSSG DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

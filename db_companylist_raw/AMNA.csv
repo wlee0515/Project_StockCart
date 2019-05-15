@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMNAX,AB Municipal Income II Minnesota A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AMNA.STG,AMBEV S.A. Reg. Shs (Spons. ADR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+AMNA.FRK,Ambev S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+AMNA.BER,AMBEV S.A. SP. ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AMNA.MUN,AMBEV S.A. SP. ADR,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ONS,Oncobiologics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ONSM,Onstream Media Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ONSS,Onassis Mining Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ONSE,Onsite Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NIKKOAMCHINA.SGP,Nikko AM China Onshore Bond Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.3333
+SG9999012025.SGP,Nikko AM China Onshore Bond Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1765
+3472.TOK,Ooedo Onsen Reit Investment Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1714
+F00000ULHS.SGP,Nikko AM China Onshore Bond Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1714
+RMB1.MIL,FULLGOAL FTSE CHN ONSH SOV&POL ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1429

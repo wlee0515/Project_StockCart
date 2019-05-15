@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRZT,Freeze Tag Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FRZCTX,FT 6520: Balanced Income Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRZMJX,FT 7105: 60/40 Strategic Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRZWLX,FT 7329: Sabrient Dividend Oppo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRZS.BER,"EFORCE HLDGS  HD-,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FRZS.STG,eForce Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

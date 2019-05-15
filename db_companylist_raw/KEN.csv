@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KEN,Kenon Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KMT,Kennametal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KW,Kennedy-Wilson Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KENS,Kenilworth Systems Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KFFB,Kentucky First Federal Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+XKFS,SPDR Kensho Future Security ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+KTYB,Kentucky Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+XKII,SPDR Kensho Intelligent Structures ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+KNSC,Kenergy Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+KOMP,SPDR Kensho New Economies Composite ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857

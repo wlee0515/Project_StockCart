@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWGAY,The Swatch Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SWGSX,Schwab GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWGNF,The Swatch Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWGAF,The Swatch Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWGRX,Schwab Target 2015,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWGI,Star Wealth Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWG.BER,CHARLES SCHWAB CORP.DL-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SWG.STG,"SCHWAB CORP., CHARLES Registere",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

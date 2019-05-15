@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGSGX,JPMorgan Small Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PGSIX,Putnam Mortgage Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PGSVY,Petroleum Geo-Services ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PGSMX,Putnam Mortgage Securities M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSC,Progressive Green Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSY,Portlogic Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSI,Pegasi Energy Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSBX,Putnam Mortgage Securities B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSYX,Pioneer Global Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGSAX,PIMCO Global Advantage Strategy Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

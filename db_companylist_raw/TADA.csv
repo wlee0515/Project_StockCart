@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TADAX,Transamerica US Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+TN0.BER,TADANO LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+6395.TOK,Tadano Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5333
+TN0.STG,Tadano Ltd. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

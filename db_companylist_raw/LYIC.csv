@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYIC.FRK,LYNAS CORP. SP. ADR 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYIC.STG,Lynas Corp. Ltd. Reg.Shares (Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LYIC.BER,LYNAS CORP. SP. ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

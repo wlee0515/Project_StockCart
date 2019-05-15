@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMN,Eastman Chemical Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EMNSF,Elementis plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMNC,"E-Monee.com, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EMN.AUS,Euro Manganese Inc.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+EMN.JOH,eMedia Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+EMN.TRV,Euro Manganese Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+7036.TOK,eMnet Japan.co.ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727

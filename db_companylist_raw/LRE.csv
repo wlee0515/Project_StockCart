@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRET,UBS ETRACS MonPay 2xLvg MSCI US REIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LRENY,Lojas Renner S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LREOX,Lazard US Realty Equity Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LREIX,Lazard US Realty Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRETX,Lord Abbett Total Return T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LREN3.SAO,Lojas Renner S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+LRE.LON,Lancashire Holdings Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+LRE19.BRU,LEASINV3.75%9OCT19,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455

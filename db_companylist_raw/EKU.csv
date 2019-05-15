@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKU2.FRK,One World Lithium Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EKUS.MIL,BNPP EASY MSCI KLD 400 US SRI U,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+EKUS.PAR,BNPP EASY KLDUSETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+EKUIINVERSIO.BCL,Ekui Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F00000UJ77.BCL,Ekui Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2400

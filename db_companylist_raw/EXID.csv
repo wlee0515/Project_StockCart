@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXIDEIND.NSE,Exide Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+500086.BSE,Exide Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+EXIDEIND.BSE,Exide Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+F00000H3NP.BSE,Exide Life Group Gratuity Balanced Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+F00000H3NR.BSE,Exide Life Group Gratuity Growth Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+F00000H3NU.BSE,Exide Life Group Gratuity Secure Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+EXIDELIFEACT.BSE,Exide Life Active Asset Allocation Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+EXIDELIFEBAL.BSE,Exide Life Balanced Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1951
+EXIDELIFEGRO.BSE,Exide Life Growth Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1951
+EXIDELIFESEC.BSE,Exide Life Secure Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1860

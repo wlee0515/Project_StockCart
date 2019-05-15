@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNW,Genworth Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GNBT,Generex Biotechnology Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GNC,GNC Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GNTX,Gentex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GNCA,Genocea Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GNK,Genco Shipping & Trading Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNL,Global Net Lease Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNMX,Aevi Genomic Medicine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNRC,Generac Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNE,Genie Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

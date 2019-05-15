@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBS,UBS Group AG,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MORL,UBS ETRACS Mthly Py 2xLvg Mortg REIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BDCL,UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CEFL,UBS ETRACS Mthly Py 2xLvg Closed-End ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+UBSI,United Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WTIU,UBS ETRACS ProShares Dly 3x Lng Crud ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SMHD,UBS ETRACS M Py 2xLvg US Sm Cp HiDiv ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1429
+MRRL,UBS ETRACS M Py 2xLvg MortgREIT ETN SerB,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+UBSH,Union Bankshares Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+MLPQ,UBS ETRACS 2xMLvgAlerianMLPIfr ETN SerB,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

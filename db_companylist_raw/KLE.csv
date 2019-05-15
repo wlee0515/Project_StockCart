@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KLE-H.TRV,Kingsland Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+KPR.BER,"KLEPIERRE S.A.INH.EO 1,40",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+KSS.AUS,Kleos Space S.A.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+KPR.STG,KLEPIERRE S.A. Actions Port. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158
+0F4I.ILN,KLEPIERRE SA KLEPIERRE REIT,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3158
+KFW1.BER,KLEPPER FALTBOOTW. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+004545.KOR,KleanNara Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2222
+FR0010978239.PAR,Kleber Inflation,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000

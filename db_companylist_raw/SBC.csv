@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBCF,Seacoast Banking Corporation of Florida,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBCEX,Dreyfus Diversified Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBCPX,QS Defensive Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBCCX,Saratoga Moderately Cnsrv Bal Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBCLX,QS Defensive Growth C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBCC-P.TRV,Spirit Banner Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SBC-PA.TRT,BROMPTON SPLIT BANC CORP. PREFE,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SBC.FRK,Sabra Health Care REIT Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+SBC.TRT,Brompton Split Banc Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+SBC0822AU.AUS,UBS International Share Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

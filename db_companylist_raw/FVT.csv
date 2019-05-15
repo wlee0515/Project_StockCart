@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVTKX,Fidelity Freedom 2060 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FVTOJX,FT 7318: Inflation Hedge Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVTKEX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVTEHX,FT 6567: Alternative Income Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVTROX,FT 7563: Dividend Growth Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVTI,Fortune Valley Treasures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FVT.JOH,Fairvest Property Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+FVT.TAV,Formula Vision Technologies (F.V.T) Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667

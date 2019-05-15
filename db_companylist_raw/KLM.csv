@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KLMN,Kalmin Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KLMR,KLM Royal Dutch Airlines,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+0LN7.ILN,AIR FRANCE KLM SA AIR FRANCE-KL,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+KLM.TRV,Kermode Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+KLMT.DUS,MUL-LYXOR GREEN BD(DR) A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+KLMH.FRK,Lyxor Green Bond (DR) ETF C EUR Mnh Hdg,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+KLMT.BER,MUL-LYXOR GREEN BD(DR) A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RMAX,RE/MAX Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RMAEX,American Funds Mortgage R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMAAX,American Funds Mortgage R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMAGX,American Funds Mortgage R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMAFX,American Funds Mortgage R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMAHX,American Funds Mortgage R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMACX,American Funds Mortgage R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMAIX,American Indep Glbl Tac Allc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMABX,American Funds Mortgage R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMATX,Russell Inv Multi-Asset Growth Strat M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

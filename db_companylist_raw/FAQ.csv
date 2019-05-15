@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAQIX,Nuveen Dividend Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAQTX,American Funds 2035 Trgt Date Retire F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAQDLX,FT 7423: Equity Closed-End Oppo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAQSYX,FT 7026: Content Leaders Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAQRSX,FT 7310: New Jersey Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

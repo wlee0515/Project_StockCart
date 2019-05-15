@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CXRXF,ADVANZ PHARMA Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CXR.TRT,Concordia International Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+CXR-U.TRT,ADVANZ PHARMA CORP,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CXR.DUS,CSX CORP.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CXR.HAN,CSX CORP.  DL 1,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+CXR.HAM,CSX CORP.  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+CXR.MUN,CSX CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CXR.STG,CSX Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CXR.FRK,CSX Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CXR.BER,CSX CORP.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFM,Invesco Dividend Achievers ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PFMT,Performant Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFMAX,Pacific Funds Small-Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PFMDX,Pacific Funds Small/Mid-Cap Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFMIX,PIMCO Municipal Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFMS,PaperFree Medical Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PFMRX,Principal Government & High Qual Bd R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFMCX,Pacific Funds Small-Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

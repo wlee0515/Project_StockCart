@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NELCX,Nuveen Equity Long/Short C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NELCO.BSE,Nelco Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+NELCO.NSE,Nelco Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+NELCAST.BSE,Nelcast Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+504112.BSE,Nelco Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+532864.BSE,Nelcast Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+NELCAST.NSE,Nelcast Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4211

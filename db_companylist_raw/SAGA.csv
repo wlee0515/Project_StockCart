@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAGA.LON,Saga plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8889
+SGA,Saga Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAGAX,Virtus Zevenbergen Innovative Gr Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+5194.TOK,Sagami Rubber Industries Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+8395.TOK,The Bank of Saga Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+SAGCEM.NSE,Sagar Cements Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3200
+2S8.FRK,Saga plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2105

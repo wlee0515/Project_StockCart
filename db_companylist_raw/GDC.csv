@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GDCFX,Goldman Sachs Alternative Premia C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GDC.TRT,Genesis Land Development Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GDC.MUN,GLOBAL DIG.CR.HLDGS HD-01,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GDC.STG,Global Digital Creations HldgsR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GDC.BER,GLOBAL DIG.CR.HLDGS HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

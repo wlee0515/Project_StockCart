@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VEIPX,Vanguard Equity-Income Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VEIRX,Vanguard Equity-Income Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VEIEX,Vanguard Emerging Mkts Stock Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VEII,Value Exchange International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VEIL.LON,Vietnam Enterprise Investments Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+0GF6.LON,Veidekke ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GOLD2B1C.MEX,Horizontes Banamex Veintid?s SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+0GF6.ILN,VEIDEKKE ASA VEIDEKKE ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+VEIN.TRV,Enforcer Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.1224

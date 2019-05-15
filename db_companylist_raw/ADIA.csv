@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADIA,Adia Nutrition Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ADIL,Adial Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ADIAX,Alpine Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

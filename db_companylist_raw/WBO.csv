@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WBO.JOH,Wilson Bayly Holmes-Ovcon Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+WBO.VIE,WEIBO CORP ADR,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667

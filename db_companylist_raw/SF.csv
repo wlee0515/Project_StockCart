@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SF,Stifel Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SFIX,Stitch Fix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SFTBY,SoftBank Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SFM,Sprouts Farmers Market Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SFS,Smart & Final Stores Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SFL,Ship Finance International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SFLY,Shutterfly Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SFUN,Fang Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SFNC,Simmons First National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SFTBF,SoftBank Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVT,"Blackrock MuniVest Fund II, Inc",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MVTIX,Transamerica Mid Cap Value Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVTRX,Transamerica Mid Cap Value Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVTTX,Transamerica Mid Cap Value Opps T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVT.AUS,Mercantile Investment Company Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

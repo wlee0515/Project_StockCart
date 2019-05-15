@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COF,Capital One Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BCCI,Baristas Coffee Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JVA,Coffee Holding Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JJOFF,iPath Bloomberg Coffee SubTR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BJO,iPath B Bloomberg Coffee Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+COF-PP,Capital One Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+COF-PG,Capital One Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JO,iPath B Bloomberg Coffee Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+COF-PF,Capital One Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HCEI,Healthy Coffee International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

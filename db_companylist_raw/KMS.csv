@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMSWF,Kingmaker Footwear Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KMSA.BER,"KEFI MINERALS  LS -,017",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+KMSA.STG,KEFI Minerals PLC Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+KMSUGAR.BSE,K.M. Sugar Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+KMSUGAR.NSE,K.M. Sugar Mills Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+KMSL.BSE,Kids Medical Systems Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+KMSMEDI.BSE,KMS Medisurgi Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615

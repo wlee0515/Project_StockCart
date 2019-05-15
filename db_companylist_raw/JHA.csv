@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHA,Nuveen High Income December 2018 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JHMM,JHancock Multifactor Mid Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FRBAX,JHancock Regional Bank A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JRBFX,JHancock Regional Bank I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JVMIX,JHancock Disciplined Value Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JLVIX,JHancock Fundamental Large Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JVLIX,JHancock Disciplined Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JDVWX,JHancock Disciplined Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GOGIX,JHancock International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JHBSX,JHancock Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765

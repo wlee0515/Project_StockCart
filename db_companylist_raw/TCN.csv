@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TCNNF,Trulieve Cannabis Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TCNGF,Tricon Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TCNIX,TIAA-CREF Lifecycle 2015 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TCNHX,TIAA-CREF Lifecycle 2015 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TCNB,Town Center Bank (IL),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TCNT,Toucan Interactive Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TCN.TRT,Tricon Capital Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+TCN.LON,Tricorn Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TCNSBRANDS.BSE,TCNS Clothing Co. Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+TCNSBRANDS.NSE,TCNS Clothing Co. Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750

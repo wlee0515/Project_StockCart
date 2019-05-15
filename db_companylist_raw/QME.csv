@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QMED,QMed Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+F00000WKYL.PAR,Echiquier QME,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3750
+F00000X1DK.PAR,Echiquier QME I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3750
+FR0012815876.PAR,Echiquier QME,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+F00000VR3P.PAR,Echiquier QME Global,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+FR0012532836.PAR,Echiquier QME Global,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2609
+FR0013133618.PAR,Echiquier QME I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2609

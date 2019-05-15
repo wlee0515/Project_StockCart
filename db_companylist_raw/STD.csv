@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STDAF,STADA Arzneimittel Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STDFX,Wells Fargo Large Cap Growth Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STDAX,SEI Defensive Strategy Allc F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STDE,Standard Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STD.BER,"STAND. CHART. PLC  DL-,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+F0000020YJ.BSE,Kotak World Gold Std Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+STD.DUS,"STAND. CHART. PLC  DL-,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+STD.STG,STANDARD CHARTERED PLC Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2727
+SBKP.JOH,"Std Bank Group 6,5%Pref",Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2308
+SKC2.MUN,"STD BK GRP  RC -,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

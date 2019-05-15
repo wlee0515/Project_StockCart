@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EHTH,eHealth Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EHE.AUS,Estia Health Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+EHE.TRT,WisdomTree Europe Hedged Eq ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+EHEF.LON,SciBeta HFE Europe Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+EHEN.STG,ETFS Hedged Comm.Sec.Ltd. ZT12/,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.5714
+EHE-B.TRT,WisdomTree Europe Hedged Equity Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+M5V.FRK,"EHEALTH INC.  DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+M5V.BER,"EHEALTH INC.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+M5V.STG,eHealth Inc. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+FHQS.BER,ROB.QI GBL DYN.DUR. EHEUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1765

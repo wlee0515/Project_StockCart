@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YXM.TRT,First Asset Mstar US Mom ETF CADH Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+YXM-B.TRT,First Asset Morningstar US Momentum Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADNT,Adient plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADNYX,American Beacon ARK Transfmt Innov Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ADNY,Adino Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADNPX,American Beacon ARK Transfmt Innov Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADNIX,American Beacon ARK Transfmt Innov Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADN.TRT,Acadian Timber Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ADN.AUS,Andromeda Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ADN1.BER,ADESSO AG  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ADN1.HAM,ADESSO AG  O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

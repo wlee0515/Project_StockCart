@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCD,McDonald's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MDR,McDermott International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCDVX,BlackRock Equity Dividend Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCDFX,Matthews China Dividend Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCDMF,MacDonald Mines Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCDA,KMA Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDNDF,McDonald's Holdings Company (Japan) Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MIMYX,McDonnell Intermediate Municipal Bd Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MIMAX,McDonnell Intermediate Municipal Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MCDCX,BlackRock Emerging Mkts Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

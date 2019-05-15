@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APICPBE3.MEX,Ixe API Corto Plazo SA de CV S.I.I.D.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7273
+6300.TOK,Apic Yamada Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7273
+APIC.JKT,PT Pacific Strategic Financial Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6154
+APICPA.MEX,APICP A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+APICPBE2.MEX,APICP BE2,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+APICPBE4.MEX,APICP BE4,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+APICPBE5.MEX,APICP BE5,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+APICPBF1.MEX,APICP BF1,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+APICPBF3.MEX,APICP BF3,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+APICPBF4.MEX,APICP BF4,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2963

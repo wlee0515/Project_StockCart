@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAPA.MUN,SAP SE ADR/1 O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+SAPA.FRK,SAP SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+SAPA.BER,SAP SE ADR/1 O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SAPA.DUS,SAP SE ADR/1 O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SAPA.STG,SAP SE Stammakt.(Sp. ADRs)/1 o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

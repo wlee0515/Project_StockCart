@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIB,CGI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ROCK,Gibraltar Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GIBIX,Guggenheim Total Return Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIBAX,Guggenheim Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTGRY,Mount Gibson Iron Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GBNXF,Gibson Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GIBLX,Guggenheim Total Return Bond P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GIBRX,Guggenheim Total Return Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GIBDAX,ADT 1156 ADVISORS CORP TRUST GL,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GIBCX,Guggenheim Total Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2069

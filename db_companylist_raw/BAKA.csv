@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAKA.BER,"BANKINTER NOM.  EO -,30",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+BAKA.FRK,"Bankinter, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+BAKA.DUS,"BANKINTER NOM.  EO -,30",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+BAKA.MUN,"BANKINTER NOM.  EO -,30",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+BAKA.STG,Bankinter S.A. Acciones Nom. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

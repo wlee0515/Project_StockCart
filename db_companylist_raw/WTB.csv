@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTBA,West Bancorporation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WTBDY,Whitbread PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTBFA,W.T.B. Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTBCF,Whitbread PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTBFB,W.T.B. Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTB.LON,Whitbread PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+WTB.FRK,Walter Bau AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WTB.BER,WALTER BAU-AG ST O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

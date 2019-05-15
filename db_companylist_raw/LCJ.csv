@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LCJP.LON,MULTI UNITS LUXEMBOURG LYXOR CO,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LCJ.BER,SHINSEI BANK,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LCJ.DUS,SHINSEI BANK,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+LCJ.MUN,SHINSEI BANK,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LCJ.STG,Shinsei Bank Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LCJ.FRK,"Shinsei Bank, Limited",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LCJD.LON,Lyxor Core MSCI Japan (DR) ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LCJP.MIL,Lyxor Core MSCI Japan (DR) ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+LCJG.LON,Lyxor Core MSCI Japan (DR) ETF DHGBP Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000VH70.TRT,Yorkville Canadian QVR Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1765
+F00000VH72.TRT,Yorkville American QVR Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1765
+YORKVILLEAME.TRT,Yorkville American QVR Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1765
+YORKVILLECAN.TRT,Yorkville Canadian QVR Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1765

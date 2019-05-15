@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPSKY,NSK Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSKFF,Kongsberg Gruppen ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6471.TOK,NSK Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+NSK.FRK,NSK Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NSK.DUS,NSK LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+NSK.BER,NSK LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NSK.MUN,NSK LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NSK.STG,NSK LTD. Registered Shares o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455

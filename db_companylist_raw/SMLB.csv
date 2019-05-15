@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMLB.DUS,IM-I.MSCI EMERGING MKTS A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SMLB.MUN,Source Markets plc - Source MSCI Emerging Markets UCITS ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

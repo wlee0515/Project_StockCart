@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WILC,G. Willi-Food International Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+G.TRT,Goldcorp Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+G.MIL,Assicurazioni Generali S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444
+8126.HKG,G.A. Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+GMBREW.BSE,G.M.Breweries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+GSWK.STG,G.SACHS FDS-GS US CORE EQ.PTF R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+GMBREW.NSE,G.M.Breweries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+2694.TOK,G.taste Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+D4V.BER,G. WILLI-FOOD INTL INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+GSW4.BER,G.SACHS FDS-EUR.CORE EUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1176

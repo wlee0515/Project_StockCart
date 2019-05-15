@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TASCX,Third Avenue Small Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ECMXF,Tasca Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TASCO.BAK,Tipco Asphalt Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TAC.TRV,Tasca Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5714
+3TA.FRK,Tasca Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+TASCO-R.BAK,Tipco Asphalt Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+5140.KLA,TASCO Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4211
+BNPTASCFIREF.SAO,BNP PARIBAS TASC DI FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4211
+BNPPTASCFIRE.SAO,BNP PARIBAS TASC DI FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4211
+BNPTASCFIRFR.SAO,BNP PARIBAS TASC DI FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3333

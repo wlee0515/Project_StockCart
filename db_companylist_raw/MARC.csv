@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCHX,Marchex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ECT,ECA Marcellus Trust I,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MCS,The Marcus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+MMI,Marcus & Millichap Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SMREF,San Marco Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+POMO4.SAO,Marcopolo S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3077
+3L1.FRK,The Marcus Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857

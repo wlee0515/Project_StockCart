@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIG,Big Lots Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BGFV,Big 5 Sporting Goods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BH,Biglari Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BH-A,Biglari Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BBKCF,BIG Blockchain Intelligence Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BIGRX,American Century Income and Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BIGG,Big Tree Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BRPA,Big Rock Partners Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BIGPX,BlackRock 60/40 Target Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+BGFT,Bigfoot Project Investments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFT,Weatherford International plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WFTBF,West Fraser Timber Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTAX,Wells Fargo Intermediate Tax/AMT-Fr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTSF,Wavefront Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTCX,Wells Fargo Specialized Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTYX,Wells Fargo Target 2025 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTDX,Wells Fargo Specialized Technology Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTRX,Wells Fargo Target 2025 Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTIX,Wells Fargo Specialized Technology Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTFX,Wells Fargo Intermediate Tax/AMT-Fr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

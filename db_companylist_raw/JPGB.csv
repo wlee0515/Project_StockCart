@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JPGB,JPMorgan Global Bond Opportunities ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JPGB.LON,ETFS Short JPY Long GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+JPGBPA.SWI,UBS ETF MSCI Japan GBPH A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6154
+JPGBLRSRCHEN.SAO,GLOBAL RESEARCH ENHANCED INDEX EQUITY FUNDO DE INVESTIMENTO EM ACOES - INVE,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4211

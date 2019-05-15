@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRGB,Red Robin Gourmet Burgers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GOVB,Gouverneur Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GDVTZ,Gould Investors L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+2723.TWN,Gourmet Master Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2609
+RRN.STG,Red Robin Gourmet Burgers Inc.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+GOU.STG,Centerra Gold Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+RRN.MUN,"RED ROBIN GOURMET DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+8371.HKG,Taste Gourmet Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000
+PTSP.JKT,PT Pioneerindo Gourmet International Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1395

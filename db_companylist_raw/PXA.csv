@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PXAAX,PIMCO Multi-Strategy Alternative A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXAIX,PIMCO Multi-Strategy Alternative Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXASX,Principal LifeTime 2030 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXAPX,PIMCO Multi-Strategy Alternative I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXAMF,Location Sciences Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0012044493.PAR,Ellipsis Convertible Risk Adjusted JUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+F00000UO3B.PAR,Ellipsis Convertible Risk Adjusted JUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1860
+F0000107RZ.PAR,Ellipsis Euro Dividend Fund JUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1860

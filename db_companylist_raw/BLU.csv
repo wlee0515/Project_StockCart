@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APRN,Blue Apron Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLUE,bluebird bio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+TRBCX,T. Rowe Price Blue Chip Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+BPMC,Blueprint Medicines Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FBGRX,Fidelity Blue Chip Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+BKEP,"Blueknight Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BEAG,Blue Eagle Lithium Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BXC,BlueLinx Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BCOR,Blucora Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BRG,Bluerock Residential Growth REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JTKRX,John Hancock Global Thematic Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTKNX,John Hancock Global Thematic Opps NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTKCX,John Hancock Global Thematic Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTKAX,John Hancock Global Thematic Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTKIX,John Hancock Global Thematic Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

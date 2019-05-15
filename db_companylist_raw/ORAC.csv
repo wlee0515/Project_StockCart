@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ORCL,Oracle Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OECCF,Oracle Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+OCLCF,Oracle Corporation Japan,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+OEC.TRV,Oracle Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+ORCP.LON,Oracle Power PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+OFSS.NSE,Oracle Financial Services Software Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+OCJ.FRK,Oracle Corporation Japan,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+4716.TOK,Oracle Corporation Japan,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+OCJ.BER,ORACLE CORP. JAPAN,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+OCJ.MUN,ORACLE CORP. JAPAN,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1818

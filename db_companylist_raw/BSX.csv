@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSX,Boston Scientific Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BSX.TRT,Belo Sun Mining Corp,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+BSX.AUS,Blackstone Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BSX.PAR,Lyxor EuroStoxx50 Dly -1x Inv ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667
+BSX.DUS,"BOSTON SCIENTIFIC  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BSX.MUN,"BOSTON SCIENTIFIC  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+BSX.STG,BOSTON SCIENTIFIC CORP. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BSX.FRK,Boston Scientific Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BSX.BER,"BOSTON SCIENTIFIC  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BSX.MIL,Lyxor EuroStoxx50 Dly -1x Inv ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667

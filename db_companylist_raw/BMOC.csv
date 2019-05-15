@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMOCATASIATI.TRT,BMO Asian Growth & Income Class Advisor,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCANADIENA.TRT,BMO Canadian Small Cap Equity Advisor,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCATGORIEM.TRT,BMO Global Energy Class Advisor,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCANADIANE.TRT,BMO Canadian Equity ETF D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCANADIANL.TRT,BMO Canadian Large Cap Equity Advisor,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCANADIANS.TRT,BMO Canadian Stock Selection A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCANADIEND.TRT,BMO Canadian Large Cap Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCATACTION.TRT,BMO Canadian Equity Class A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCATCHINEL.TRT,BMO Greater China Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMOCATDIVIDE.TRT,BMO Dividend Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUNA.AMS,iShares STOXX Europe 50 ETF EUR Dist,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.8000
+EUNA.FRK,ISHSIII-GL.AGGR.BD EOAH,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+EUNA.FRK,ISHSIII-CORE GL.A.BD EOAH,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

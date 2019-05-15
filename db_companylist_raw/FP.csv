@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7947.TOK,FP Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8000
+FPRX,Five Prime Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FPI,Farmland Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FPURX,Fidelity Puritan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FPAY,FlexShopper Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FPTA,First Priority Tax Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FPH,"Five Point Holdings, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FPL,First Trust New Opportunities MLP & Energy Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FPACX,FPA Crescent,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

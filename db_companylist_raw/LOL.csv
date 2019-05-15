@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LOLDX,Lord Abbett Short Duration Income F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+000848.SHZ,He Bei Cheng De Lolo Company Limited,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3529
+F000001XS6.BCL,Lolumajo SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3529
+LOLUMAJOSICA.BCL,Lolumajo SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1538

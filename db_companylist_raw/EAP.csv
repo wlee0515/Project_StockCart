@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EAPH,Easton Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EAPCX,Parametric Commodity Strategy Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAPDX,Parametric Dividend Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAPA.FRK,Earthport plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EAPA.BER,"EARTHPORT  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EAPA.STG,Earthport PLC Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

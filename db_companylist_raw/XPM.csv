@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPMFX,PIMCO Municipal Income Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPMAX,Pioneer Municipal High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPMMX,Putnam Managed Municipal Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPMOX,Putnam Municipal Opportunities ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPMQX,PIMCO Municipal Income Fund III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPMLX,PIMCO Municipal Income Fund II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPML11.SAO,Xp Malls Fundo Investimentos Imobiliarios,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

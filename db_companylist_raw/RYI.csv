@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYI,Ryerson Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RYIPX,Royce International Premier Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIZX,Rydex Inverse Russell 2000 2x Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIMX,Guggenheim Multi-Hedge Strategies I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIDX,Rydex Inverse Dow 2x Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIFX,Guggenheim Managed Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYILX,Rydex Inverse High Yield Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIRX,Rydex Inverse Russell 2000 2x Strategy H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIAX,Rydex Internet H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYIYX,Rydex Inverse High Yield Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

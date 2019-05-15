@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADMP,Adamis Pharmaceuticals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADMS,Adamas Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADAP,Adaptimmune Therapeutics plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADX,Adams Diversified Equity Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PEO,Adams Natural Resources Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AE,Adams Resources & Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ADAC,Adama Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ADTM,Adaptive Medias Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ADMG,Adamant DRI Processing and Minerals Group,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CRAZX,Columbia Adaptive Risk Allocation Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622

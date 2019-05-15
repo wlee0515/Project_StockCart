@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVX.FRK,Tata Steel (Thailand) Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MVX.BER,TATA STEEL(TH)-NVDR- BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MVX.MUN,TATA STEEL(TH)-NVDR- BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MVX.STG,Tata Steel (Thailand) PCL Reg. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

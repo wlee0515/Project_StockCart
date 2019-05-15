@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HTBX,Heat Biologics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HTBK,Heritage Commerce Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HTBI,HomeTrust Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HTB.TRT,Horizons US 7-10 Year Treasury Bond ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HTB-U.TRT,HORIZONS US 7 TO 10 YR TREAS BD,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

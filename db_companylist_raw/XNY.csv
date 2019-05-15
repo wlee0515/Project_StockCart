@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XNYH,Xinyinhai Technology Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XNYVX,Nuveen New York Municipal Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNYHX,Eaton Vance New York Municipal ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

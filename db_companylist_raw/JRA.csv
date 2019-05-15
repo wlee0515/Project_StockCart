@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JRAIX,Janus Henderson Research I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRAAX,Janus Henderson Research A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRACX,Janus Henderson Research C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRASX,Janus Henderson Research S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRANX,Janus Henderson Research N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRARX,Janus Henderson Research R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRAT15INVERS.BCL,Jrat 15 Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F00000VROO.BCL,Jrat 15 Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143

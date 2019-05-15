@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPYCF,Happy Creek Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HPY.TRV,Happy Creek Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+F00000V3GI.KOR,UBSHana Hpy kh Pen Glb Eq Fdr Eq-FoF CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5102AX4648.KOR,UBSHana Hpy kh Pen Glb Eq Fdr Eq-FoF CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5102AX4655.KOR,UBSHana Hpy kh Pen Glb Eq Fdr Eq-FoF CP2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395
+F00000V4CA.KOR,UBSHana Hpy kh Pen Glb Eq Fdr Eq-FoF CP2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

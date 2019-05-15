@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNA,Direxion Daily Small Cap Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TNAV,Telenav Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNABY,Tenaga Nasional Berhad,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNAYX,Invesco Balanced-Risk Retire 2030 Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNACX,Invesco Balanced-Risk Retire 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNARX,Invesco Balanced-Risk Retire 2030 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNAAX,Invesco Balanced-Risk Retire 2030 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

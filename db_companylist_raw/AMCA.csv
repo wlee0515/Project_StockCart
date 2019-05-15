@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMCA,iShares Russell 1000 Pure US Revenue ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+AMCPX,American Funds AMCAP A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RAFGX,American Funds AMCAP R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+AMCFX,American Funds AMCAP F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+AMPFX,American Funds AMCAP F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+RAFEX,American Funds AMCAP R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+FMACX,American Funds AMCAP F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+AMPCX,American Funds AMCAP C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963
+CAFAX,American Funds AMCAP 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963
+RAFFX,American Funds AMCAP R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963

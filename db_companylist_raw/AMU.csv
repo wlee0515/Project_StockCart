@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMU,UBS ETRACS Alerian MLP ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+AMUSX,American Funds US Government Sec A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AMUB,UBS ETRACS Alerian MLP ETN Series B,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXIX,Nationwide Amundi Glbl Hi Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AMMCF,Amur Minerals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NWWZX,Nationwide Amundi World Bond Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MGSDX,AMG Managers Amundi Short Duration Gov N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NWXLX,Nationwide Amundi Glbl Hi Yield Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+MGIDX,AMG Managers Amundi Intermediate Gov N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+NWXMX,Nationwide Amundi World Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTKRX,Manning & Napier Target 2060 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTKIX,Manning & Napier Target 2060 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTKKX,Manning & Napier Target 2060 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTKZX,Manning & Napier Target 2060 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTK.FRK,Midland Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MTK.BER,"MIDLAND HLDGS LTD. HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MTK.MUN,"MIDLAND HLDGS LTD. HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

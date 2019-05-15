@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KYN,Kayne Anderson MLP/Midstream Investment Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KYCCF,Keyence Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KYNC,KYN Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KYOCY,Kyocera Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KYN-PF,Kayne Anderson MLP Investment Company PFD 3.50 SER F,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KYZN,Kyzen Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KYYWF,Keywords Studios PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KYTFX,Dupree KY Tax-Free Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+KYSMX,Dupree KY Tax-Free Short-to-Medium,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

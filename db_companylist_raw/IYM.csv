@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IYM,iShares US Basic Materials ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IYMIX,Ivy Mid Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IYMGX,Ivy Managed Intl Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IYMRX,Ivy Micro Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IYM.SAN,iShares US Basic Materials ETF,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.6667

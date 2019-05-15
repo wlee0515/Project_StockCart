@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RZW.FRK,Total Gabon,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RZW.STG,Total Gabon S.A. Actions au Por,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RZW.BER,TOTAL GABON S.A.  DL 17,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WBK,Westpac Banking Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WBK.ARG,Westpac Banking Corporation,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+0DVR.ILN,BANK ZACHODNI WBK SA BANK ZACHO,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765

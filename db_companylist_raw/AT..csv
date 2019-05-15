@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT.TRV,AcuityAds Holdings Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+AT.MIL,ASTM S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+AT.TWN,ABITL Emerging Market Corporate Debt AT,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.7500
+AF1B.BER,AL.ETF FTSE AT.L.C.EQ.UC.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGPAX,BlackRock GNMA Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BGPA.BER,"KONINK.BAM GP TOON.EO-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+BGPA.DUS,"KONINK.BAM GP TOON.EO-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+BGPA.MUN,"KONINK.BAM GP TOON.EO-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+BGPA.STG,Koninklijke BAM Groep N.V. Aand,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+BGPA.FRK,Koninklijke BAM Groep nv,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

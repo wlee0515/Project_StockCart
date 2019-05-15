@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDOS,Leidos Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LDO.MIL,Leonardo S.p.a.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+LDO.VIE,Leonardo S.p.a.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+LDO8D.ARG,LDO8D.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

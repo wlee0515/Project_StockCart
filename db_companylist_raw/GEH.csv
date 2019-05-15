@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEH.MUN,CEMBRA MONEY BANK AG SF 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+600037.SHH,Beijing Gehua CATV Network Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1538

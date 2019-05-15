@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPPF.JKT,PT Matahari Department Store Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+D13.AUS,Department 13 International Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222
+2903.TWN,Far Eastern Department Stores Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2105
+0825.HKG,New World Department Store China Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2051
+600682.SHH,Nanjing Xinjiekou Department Store Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1818
+0312.HKG,Shirble Department Store Holdings (China) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1667
+069960.KOR,Hyundai Department Store Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1509

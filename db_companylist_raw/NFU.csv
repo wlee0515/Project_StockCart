@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00B84CF023.LON,NFU Mutual UK Growth C,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+F00000P8IK.LON,NFU Mutual Gilt & Corp Bond C,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+GB00B4ML7P28.LON,NFU Mutual Gilt & Corp Bond I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+GB00B837VQ69.LON,NFU Mutual Mixed Portfolio 40 - 85% Shares,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2308
+NFU.MUN,NISSHIN FUDOSAN Co. Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2069
+F00000P8IJ.LON,NFU Mutual Deposit Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1875
+GB00B4ML7638.LON,NFU Mutual Global Growth I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1875
+GB00B4ML8719.LON,NFU Mutual UK Equity Income I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1875
+GB00B4ML8S24.LON,NFU Mutual Global Emerging Markets I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+GB00B4MTR343.LON,NFU Mutual UK Growth I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1333

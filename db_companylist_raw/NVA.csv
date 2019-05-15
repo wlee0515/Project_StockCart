@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVAX,Novavax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVACX,Neuberger Berman Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVAMDX,Nuveen Argus Modern Innovators ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVAMAX,Nuveen Argus Modern Innovators ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVAAX,Neuberger Berman Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVABX,Columbia AMT-Free VA Interm MuniBd Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NVAFX,Columbia AMT-Free VA Interm MuniBd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NVAMCX,Nuveen Argus Modern Innovators ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NVAMBX,Nuveen Argus Modern Innovators ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NVA.TRT,NuVista Energy Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

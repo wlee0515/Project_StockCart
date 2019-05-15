@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IKTO,iTokk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IKTSY,Intertek Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IKTSF,Intertek Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IKTRIPLE5PLU.BCL,Laboral Kutxa Bolsa Garantizado XVIII FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+IKTRIPLE6GAR.BCL,Caja Laboral Bolsa Garantizado XVI FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

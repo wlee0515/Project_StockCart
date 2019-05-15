@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCB,Pacific City Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCG-PA,Pacific Gas and Electric Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCG,PG&E Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCAR,PACCAR Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCH,PotlatchDeltic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PCG-PD,Pacific Gas and Electric Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PCN,PIMCO Corporate & Income Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PCRFY,Panasonic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PCTI,PCTEL Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

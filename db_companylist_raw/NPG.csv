@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPG.FRK,Nippon Electric Glass Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NPG.BER,NIPPON EL. GLASS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

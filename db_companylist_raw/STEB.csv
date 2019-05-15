@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKLIX,Steben Managed Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+SKLNX,Steben Managed Futures Strategy N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+XSMAX,Steben Select Multi Strategy Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+SKLCX,Steben Managed Futures Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+XSMIX,Steben Select Multi Strategy Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+SKLAX,Steben Managed Futures Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

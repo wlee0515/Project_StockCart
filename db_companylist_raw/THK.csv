@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THKLY,THK Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THKLF,THK Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6481.TOK,THK Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+1TK.FRK,THK Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+THK1.FRK,Thakral Corporation Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+THK1.BER,THAKRAL CORP. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+THK1.MUN,THAKRAL CORP. LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3750
+004380.KOR,Samick THK Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2609

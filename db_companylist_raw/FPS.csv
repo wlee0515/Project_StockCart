@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPSQNX,FT 7394: Dividend Strength Oppo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPSBTX,FT 6018: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPSMBX,"FT 6688: Mega-Cap Portfolio, Se",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPSUF,Capha Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FPSVX,Frontier Phocas Small Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPS0008AU.AUS,Fiducian Australian Smaller Companies Shares,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+FPS0002AU.AUS,Fiducian Capital Stable,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

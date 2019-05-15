@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMP.AUS,PMP Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8571
+PMPIX,ProFunds Precious Metals UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMPG,Premier Products Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMPSX,ProFunds Precious Metals UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMPRX,Principal MidCap Value I R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMPCX,Putnam Sustainable Future C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMPPX,Principal MidCap Value III R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMP.LON,Portmeirion Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PAM.BER,PMP LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+PAM.MUN,PMP LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

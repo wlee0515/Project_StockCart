@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVAX,Novavax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NOK,Nokia Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JWN,Nordstrom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NAT,Nordic American Tankers Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NOC,Northrop Grumman Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NVLN,Novelion Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NG,NovaGold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NOG,Northern Oil and Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NOW,ServiceNow Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NE,Noble Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

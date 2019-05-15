@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYPB.FRK,Multi Units Luxembourg - Lyxor MSCI World Consumer Staples TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYPB.FRK,Lyxor MSCI World Cnsmr Stp TR ETF C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+LYPB.DUS,MUL-LYX.MSCI WCS TRUE CEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LYPB.MUN,MUL-LYX.MSCI WCS TRUE CEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+LYPB.STG,MUL-LYX.MSCI W.Con.St.TR U.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

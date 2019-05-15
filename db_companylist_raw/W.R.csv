@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRA.BER,"GRACE + CO., W.R. (DEL.)",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+GRA.DUS,"GRACE + CO., W.R. (DEL.)",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+GRA.MUN,"GRACE + CO., W.R. (DEL.)",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+GRA.STG,"GRACE & CO., W.R. (DEL.) Regist",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

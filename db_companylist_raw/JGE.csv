@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JGEFX,JHancock Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGEMX,JHancock Global Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGECX,JHancock Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGERX,JHancock Global Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGETX,JHancock Global Equity R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGEZX,JPMorgan International Equity Income R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGE.FRK,Julius Baer Group Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+JGE.BER,"JUL. BAER GRP. NAM.SF-,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+JGE.DUS,"JUL. BAER GRP. NAM.SF-,02",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+JGE.STG,Julius Baer Gruppe AG Namens-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MENC,Millennium Energy Corp,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MENCX,Madison Covered Call & Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+5NF.SGP,Mencast Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+MN6.BER,MENCAST HOLDINGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200

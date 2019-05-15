@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIOC,Biocept Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BCRX,BioCryst Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPXEF,MPX Bioceutical Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ATTBF,Abattis Bioceuticals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ENZ,Enzo Biochem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+KBLB,Kraig Biocraft Laboratories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+BICX,BioCorRx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+BCDA,BioCardia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2581
+GPRC,Biochar Now Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BEHL,Biocentric Energy Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

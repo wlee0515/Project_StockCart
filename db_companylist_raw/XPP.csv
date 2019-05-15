@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPP,ProShares Ultra FTSE China 50,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+XPPRX,Voya Prime Rate Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPPTX,Putnam Premier Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPPLF,XP Power Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XPP.LON,XP Power Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

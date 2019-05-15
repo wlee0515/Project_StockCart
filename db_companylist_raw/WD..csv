@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYPC.STG,MUL-LYX.MSCI Wd.Ener.TR UC.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+LYPD.STG,MUL-LYX.MSCI Wd.Fin.TR UC.ETF I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+LYPG.STG,MUL-LYX.MSCI Wd.IN.T.TR UC.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+LYPH.STG,MUL-LYX.MSCI Wd.Mats TR UC.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

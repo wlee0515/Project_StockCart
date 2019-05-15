@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XTSC.FRK,Morgan Stanley Investment Funds SICAV - Global Quality Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XTSC.DUS,M.ST.I.FDS-GL.QUAL.ACAPDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XTSC.BER,M.ST.I.FDS-GL.QUAL.ACAPDL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XTSC.MUN,M.ST.I.FDS-GL.QUAL.ACAPDL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

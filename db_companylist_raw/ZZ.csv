@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZZZOF,Zinc One Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZZZAX,Test Demand Deposit Account - T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ZZZ.TRT,Sleep Country Canada Holdings Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+8295.HKG,ZZ Capital International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+AT0000617675.VIE,ZZ TREND,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1176

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TFSL,TFS Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TFSIX,Franklin Mutual Financial Services A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFSCX,Templeton Ins Foreign Smaller Co Ser Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFSAX,American Beacon TwentyFour Strat Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFSLX,Touchstone Flexible Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFSCF,Quintis Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TFS.BER,"TETRAGON FINL GRP DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PWT.FRK,TFS Financial Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PWT.BER,"TFS FINANCIAL CORP DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+TFS.SWI,Thermo Fisher Scientific Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2222

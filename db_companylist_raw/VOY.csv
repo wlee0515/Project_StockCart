@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VYGR,Voyager Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VOYA,Voya Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PPR,Voya Prime Rate Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+IDE,"Voya Infrastructure, Industrials and Materials Fund",Equity,United States,09:30,16:00,UTC-05,USD,0.1818
+IRR,Voya Natural Resources Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1364
+LEXCX,Voya Corporate Leaders Trust B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1132
+IID,Voya International High Dividend Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1111
+VSCFX,Voya Securitized Credit P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1111
+IGA,Voya Global Advantage and Premium Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1017

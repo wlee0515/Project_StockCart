@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAPUX,Lord Abbett Core Plus Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPWX,Lord Abbett Core Plus Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPLX,Lord Abbett Core Plus Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPCX,Lord Abbett Core Plus Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPTX,Lord Abbett Core Plus Bond R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPIX,Lord Abbett Core Plus Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPQX,Lord Abbett Core Plus Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAPVX,Lord Abbett Core Plus Bond R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FILA.MIL,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4000

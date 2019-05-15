@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KRLTF,Karnalyte Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KRL.AUS,Kangaroo Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+KRL.BSE,Kintech Renewables Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+KRL34000BI32.KOR,MiraeAsset Equity Growth_W402,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL34000BI61.KOR,MiraeAsset Global Market Equity_N400,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL34000BI25.KOR,MiraeAsset Equity Balanced Asset Allocation_W210,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL34000I101.KOR,MiraeAsset EuBRICS Equity Stable Growth Asset Allocation_U609,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL223AQ9767.KOR,KB Wise Star 1st Private Real Estate Investment LLC,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL223AQ9775.KOR,KB Wise Star 2nd Private Real Estate Investment LLC,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRL231AX9701.KOR,Deutsche Office No.3 Private Real Estate Investment LLC,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333

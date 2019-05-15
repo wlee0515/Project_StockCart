@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFF,Griffon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GFFFX,American Funds Growth Fund of Amer F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFFIX,Gator Focus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFFAX,Gator Focus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFFRX,Goldman Sachs Managed Futures Strat R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFF.BER,"GRIFFON CORP.  DL-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+GFF.FRK,"GRIFFON CORP.  DL-,25",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GFFAFFICFIM.SAO,FAF FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3529

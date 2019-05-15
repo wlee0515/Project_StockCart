@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFJ.LON,JPMorgan Japanese Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+JFJL.LON,JPMorgan Japanese Ord,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

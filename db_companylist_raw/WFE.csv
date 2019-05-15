@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFE-PA,Wells Fargo Real Estate Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEDX,Wells Fargo International Equity Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFERX,Wells Fargo International Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFECX,Wells Fargo Diversified Intl C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEAX,Wells Fargo International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEMX,WCM Focused Emerging Markets Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFESX,Wells Fargo Factor Enhanced Small Cp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEFX,Wells Fargo International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEIX,Wells Fargo Enterprise Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFEHX,Wells Fargo International Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TKMR,Tekmira Pharmaceuticals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TKM.AUS,Trek Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+TKM.FRK,"Takashimaya Company, Limited",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TKM.DUS,TAKASHIMAYA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+TKM.STG,TAKASHIMAYA CO. LTD. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TKM.BER,TAKASHIMAYA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TKM.MUN,TAKASHIMAYA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XZTRX,Virtus Global Dividend & Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XZTSX,Test Closed End Fund - RYDX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XZFGX,Virtus Total Return Fund Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XZZYX,Test Closed End Fund 1 - FSIN,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XZJBF,Beni Stabili SpA SIIQ,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XZMJ.LON,X ESG MSCI Japan ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+XZW0.LON,X ESG MSCI World ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+XZGM.DUS,SEB FUND 1-ETHIC.EUROPE C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+XZMJ.MIL,XTRACKERS ESG MSCI JAPAN UCITS ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.4444

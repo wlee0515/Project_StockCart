@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMU,JMU Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JMUDX,Janus Henderson Multi-Sector Income D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JMUIX,Janus Henderson Multi-Sector Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUB,JPMorgan Municipal ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUEX,JPMorgan US Equity L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUAX,Janus Henderson Multi-Sector Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUTX,Janus Henderson Multi-Sector Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUCX,Janus Henderson Multi-Sector Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMUSX,Janus Henderson Multi-Sector Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

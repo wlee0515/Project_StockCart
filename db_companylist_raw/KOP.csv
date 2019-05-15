@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOP,Koppers Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KOPN,Kopin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KGIIX,Kopernik International I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+KGGIX,Kopernik Global All-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+KOGL,Kopp Glass Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+KGGAX,Kopernik Global All-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+KGIRX,Kopernik International Fund Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+KMT.AUS,Kopore Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2500
+KRX.AUS,Koppar Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222

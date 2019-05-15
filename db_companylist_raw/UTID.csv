@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTIDYNAMICBO.BSE,UTI Dynamic Bond Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIDIVIDENDY.BSE,UTI Dividend Yield Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

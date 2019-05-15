@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HUD,Hudson Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HDSN,Hudson Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HBM,Hudbay Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HPP,Hudson Pacific Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HSON,"Hudson Global, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HBAYF,Hudson's Bay Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GHDS,Greater Hudson Bank (NY),Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HUDEX,Huber Capital Diversified Lg Cp Val Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+HUDRF,Hudson Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HUDIX,Huber Capital Diversified Lg Cp Val Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609

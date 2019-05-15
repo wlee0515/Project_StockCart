@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDF,Delaware Investments Dividend and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DDFIX,Invesco Diversified Dividend R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDFAX,Delaware Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDFRX,Invesco Diversified Dividend R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDFLX,Delaware Floating Rate Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDFCX,Delaware Floating Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDFFX,Delaware Floating Rate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDF.FRK,Admedus Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

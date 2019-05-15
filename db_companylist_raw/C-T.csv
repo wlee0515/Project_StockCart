@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIVC,C-Tracks ETN Miller/Howard Strt Dividend Rinv,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+MLPE,"C-Tracks ETNs on the Miller/Howard MLP Fundamental Index, Series B",ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+MLPC,C-Tracks ETN Bsd on Perf of M/H MLP Fdmt,ETF,United States,09:30,16:00,UTC-05,USD,0.0870

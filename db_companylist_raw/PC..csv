@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PC.VIE,Pirelli & C. S.p.A.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+LGQK.BER,MUL-LYX.MSCI PC.EX JP.D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+LGQK.DUS,MUL-LYX.MSCI PC.EX JP.D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308

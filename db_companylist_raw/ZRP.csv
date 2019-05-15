@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZRPTIX,RREEF Property Trust - I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZRPTTX,RREEF Property Trust - T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZRPTAX,RREEF Property Trust - A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+REAC,REAC Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+REACX,American Century Real Estate Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+RCMH,Reach Messaging Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+GPROX,Grandeur Peak Global Reach Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6154
+PRCF,Protein Reactor Combined Fuels Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GPRIX,Grandeur Peak Global Reach Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TNMRY,Reach plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2759
+RCH.LON,Reach plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2353
+3616.HKG,Ever Reach Group (Holdings) Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+AT0000A0WQ82.VIE,Amundi Flex React 11/2019,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1702

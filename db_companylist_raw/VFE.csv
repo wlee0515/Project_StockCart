@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFEM.AMS,Vanguard Funds Public Limited Company - Vanguard FTSE Emerging Markets UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+VFEM.FRK,VANGUARD FTSE EMU.ETF DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VFEM.FRK,VANGUARD FTSE EM U.ETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VFEM.LON,Vanguard Funds Public Limited Company - Vanguard FTSE Emerging Markets UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+VFEM.BER,VANGUARD FTSE EMU.ETF DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VFEM.DUS,VANGUARD FTSE EMU.ETF DLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+VFEM.MUN,VANGUARD FTSE EMU.ETF DLD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+VFEM.STG,Vanguard FTSE Em.Markets U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VFEM.SWI,Vanguard FTSE Emerging Markets ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

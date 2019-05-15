@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMM,Focus Morningstar Mid Cap Index,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FMMRX,Nuveen MO Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMMPX,FA 529 MONEY MARKET PORT-CL P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMMDX,FA 529 MONEY MARKET PORT-CL D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMMCX,FA 529 MONEY MARKET PORT-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMMAX,FA 529 MONEY MARKET PORT-CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMMANX,FT 6583: American Agenda Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EZTQ.BER,FMM-FONDS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+EZTQ.DUS,FMM-FONDS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000

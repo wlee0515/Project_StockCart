@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATEN,A10 Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATEA,Astea International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATEC,Alphatec Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATTO,Atento S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEYY,Advantest Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEKX,AB Sustainable Global Thematic K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATESX,Anchor Tactical Equity Strategies Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEYX,AB Sustainable Global Thematic Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEST,Tick Pilot Test Control,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATEBX,AB Sustainable Global Thematic B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

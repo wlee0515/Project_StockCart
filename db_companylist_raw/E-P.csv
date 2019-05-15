@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWKFF,"e-Play Digital Inc.,",Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+2NY2.BER,E-PLAY DIGITAL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3529
+2NY2.MUN,E-PLAY DIGITAL,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2609
+KR5232AT9919.KOR,NH-Amundi e-Premier Index Eq-Deriv 1 CP1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1765
+2NY2.STG,E-Play Digital Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1395
+KR5232948541.KOR,NH-Amundi e-Premier Index Feeder Equity-Derivatives 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395
+KR5232AT9927.KOR,NH-Amundi e-Premier Index Eq-Deriv 1 CP2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395
+F000005LB1.KOR,NH-Amundi e-Premier Index Feeder Equity-Derivatives 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1071
+F00000UMCW.KOR,NH-Amundi e-Premier Index Eq-Deriv 1 CP2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1071

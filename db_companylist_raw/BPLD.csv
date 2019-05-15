@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPLDD.ARG,BPLDD.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7273
+BPLD.ARG,Buenos Aires (Province of) 4%-VAR SNR BDS 15/05/2035 USD1 'REGS',Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667

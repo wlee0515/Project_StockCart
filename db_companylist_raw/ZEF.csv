@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEF.FRK,ZhongDe Waste Technology AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+ZEF.TRT,BMO Emerging Markets Bd Hdgd to CAD ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZEF.FRK,ZhongDe Waste Technology AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZEF.HAM,ZHONGDE WASTE TECHNOLOGY,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+ZEF.MUN,ZHONGDE WASTE TECHNOLOGY,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ZEF.BER,ZHONGDE WASTE TECHNOLOGY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZEF.DUS,ZHONGDE WASTE TECHNOLOGY,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

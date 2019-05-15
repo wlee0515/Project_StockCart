@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PBCBF,PUBLICIS GROUPE SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+PBCB.FRK,Precise Biometrics AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+PBCB.BER,PRECISE BIOMETR. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PBCB.STG,Precise Biometrics AB Namn-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

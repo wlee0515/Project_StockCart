@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSQIX,RSQ International Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSQVX,RSQ International Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSQYX,Victory INCORE Investment Quality Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSQCX,Royce Special Equity Consult,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSQAX,Russell Inv Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

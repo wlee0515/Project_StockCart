@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLCO,Melco Resorts & Entertainment Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MODVF,Melcor Developments Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+MDEVF,Melco International Development Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+MRD.TRT,Melcor Developments Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3478
+0200.HKG,Melco International Development Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2857
+MR-UN.TRT,Melcor Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857
+6676.TOK,Melco Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2286
+MAS.STG,Melco Resorts & Entmt Ltd. Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2051
+MX7A.FRK,Melco International Development Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+MX7A.BER,MELCO INTL SUBDIV.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1860

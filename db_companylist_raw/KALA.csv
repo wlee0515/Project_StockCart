@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KALA,Kala Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KZR.AUS,Kalamazoo Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5333
+27F.FRK,Kala Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+27F.STG,Kala Pharmaceuticals Inc. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+F000005GXC.BCL,Kalahari FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2667
+KALAHARIFI.BCL,Kalahari FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2667
+0JQ2.LON,Kala Pharmaceuticals Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

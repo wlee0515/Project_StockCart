@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RTSB.MOS,Public Joint-Stock Company TNS energo Rostov-on-Don,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.7273
+RTSBP.MOS,Public Joint-Stock Company TNS energo Rostov-on-Don,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNA,CNA Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CNAT,Conatus Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNAB,United Cannabis Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNAF,Commercial National Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNAC,Constellation Alpha Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNACU,Constellation Alpha Capital Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNACR,Constellation Alpha Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNASX,COLUMBIA CONSERVATIVE 529 PORT ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNATX,Columbia Aggressive Track Ages ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNAAX,Columbia Aggressive Track Ages ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

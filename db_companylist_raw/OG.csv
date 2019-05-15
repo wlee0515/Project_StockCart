@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OGEN,Oragenics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+OGRMF,OrganiGram Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+OGZPY,Public Joint Stock Company Gazprom,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OGE,OGE Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OGS,ONE Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OGIG,O'Shares Global Internet Giants ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+OGIAX,JPMorgan Investor Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OGIYX,Oppenheimer Global Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OGICX,Oppenheimer Global Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OGEAX,JPMorgan Equity Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

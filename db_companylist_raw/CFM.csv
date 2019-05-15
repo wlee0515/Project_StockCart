@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5EB.SGP,CFM Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8571
+CFMS,Conformis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFMOX,Commerce MO Tax-Free Int Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFMITNIPSA.SAN,ETF It Now S&P/CLX IPSA UNICA,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.6000
+CFM.TRV,Confederation Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3750
+CFMS.KLA,COMPUTER FORMS (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2609
+19314.AUS,CFML Schroder Equity Opportunities Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1429

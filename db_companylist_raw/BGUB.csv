@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGUBGB.MEX,GUB-1 GB,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BGUBUHN.MEX,GUB-1 UHN,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BGUBA.MEX,GUB-1 A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BGUBC.MEX,GUB-1 C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BGUBF.MEX,GUB-1 F,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+BGUBP.MEX,GUB-1 P,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+BGUBPV.MEX,Fondo Guber 1 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+BGUBTF.MEX,GUB-1 TF,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+BGUBTM.MEX,GUB-1 TM,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+BGUBGPF.MEX,GUB-1 GPF,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714

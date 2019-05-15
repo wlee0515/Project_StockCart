@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCV,Medley Capital Corporation SR NT 23,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCVCX,Transamerica Mid Cap Value Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MCVIX,MFS Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCVT,Mill City Ventures III Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCVAX,Transamerica Mid Cap Value Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCVRX,MFS Mid Cap Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCVVX,FDP BlackRock Equity Dividend Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCVSX,Victory Integrity Small-Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

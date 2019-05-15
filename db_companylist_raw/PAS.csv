@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EE,El Paso Electric Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PASO,Patient Access Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSSR,PASSUR Aerospace Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PASIX,PACE Alternative Strategies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PASAX,PIMCO All Asset A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PASTX,T. Rowe Price Science & Tech Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PASCX,PIMCO All Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+GPPRF,Cerro de Pasco Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BMDPY,Banca Monte dei Paschi di Siena S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PASSX,T. Rowe Price Small-Cap Stock Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

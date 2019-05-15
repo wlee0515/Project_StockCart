@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXXA,Exxe Group Inc.	,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXXDF,Alderon Iron Ore Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXXTF,Axiata Group Berhad,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXXIY,Alexium International Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FJ7E.HAM,AXXION REVOLUTION-ONE P,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2308

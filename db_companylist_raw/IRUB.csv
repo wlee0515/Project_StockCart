@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRUB.BER,ISHARES TRUST-ASIA 50 ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IRUB.KLA,COMFORT GLOVES BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+IRUB.DUS,ISHARES TRUST-ASIA 50 ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

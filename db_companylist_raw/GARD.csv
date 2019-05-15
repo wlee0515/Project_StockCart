@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GARD,Reality Shares Divcon Dividend Guard ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MSG,The Madison Square Garden Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+GDI,Gardner Denver Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CENT,Central Garden & Pet Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+CENTA,Central Garden & Pet Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CTRYF,Country Garden Holdings Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CTRYY,Country Garden Holdings Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+GARDX,Goldman Sachs Abslt Ret Multi-Asst A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+GGGRF,Global Gardens Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHVQSX,FT 6272: Equity Closed-End Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHVRQX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHVCX,Fidelity Advisor Freedom Blnd 2035 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHVEX,Fidelity Advisor Freedom Blnd 2050 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHVDX,Fidelity Freedom Blnd 2055 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

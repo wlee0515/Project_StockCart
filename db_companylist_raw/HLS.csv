@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HISCX,Hartford Small Cap Growth HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HBSGX,Hartford Small Cap Growth HLS IB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+HLSPY,Heliospectra AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HLTRF,HLS Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HIAHX,Hartford Healthcare HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HIMCX,Hartford MidCap HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HBGOX,Hartford Growth Opportunities HLS IB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HIAOX,Hartford International Opp HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HIABX,Hartford Total Return Bond HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HADAX,Hartford Balanced HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ORJ.FRK,Old Republic International Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ORJ.MUN,OLD REPUBLIC INTL  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ORJ.STG,OLD REPUBLIC INTL CORP. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

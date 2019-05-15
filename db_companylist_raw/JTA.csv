@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JTAIX,JHancock Multimanager Lifestyle Agrsv I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTARX,JPMorgan Tax Aware Real Return SMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTAPARIA.BSE,J. Taparia Projects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286

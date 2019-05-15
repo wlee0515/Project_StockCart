@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFXF,VanEck Vectors Pref Secs ex Fincls ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PFXYX,PACE Mort-Backed Secs Fxd Inc Invests Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFXAX,PACE Mort-Backed Secs Fxd Inc Invests A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFXCX,PACE Mort-Backed Secs Fxd Inc Invests C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFX1.STG,Perma-Fix Environmtl Svcs Inc.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+PFX1.FRK,Perma-Fix Environmental Services Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

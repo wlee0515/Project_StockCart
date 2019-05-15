@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGOVX,Fidelity Government Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOIX,Federated Government Income Secs F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOCX,Federated Government Income Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOMRX,FT 6494: Dividend Income Plus P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOHZX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOVF,Freegold Ventures Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FGOAX,Federated Government Income Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGORDX,FT 4935: Diversified Income & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGORX,Franklin US Government Secs R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGOPX,FA 529 GROWTH OPPORTUNITIES POR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

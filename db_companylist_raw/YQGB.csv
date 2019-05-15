@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YQGB.FRK,Iconic Minerals Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+YQGB.BER,ICONIC MINERALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+YQGB.MUN,ICONIC MINERALS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+YQGB.STG,Iconic Minerals Ltd. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

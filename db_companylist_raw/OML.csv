@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OMLCX,Oppenheimer StlPth MLP and Engy Infrs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OMLPX,Oppenheimer StlPth MLP and Engy Infrs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OMLYX,Oppenheimer StlPth MLP and Engy Infrs Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OMLIX,Oppenheimer StlPth MLP and Engy Infrs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OML.AUS,oOh!media Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+OML.TRV,Omni-Lite Industries Canada Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

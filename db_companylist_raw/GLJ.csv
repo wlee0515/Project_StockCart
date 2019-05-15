@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLJ,iShares 10+ Year Government/Cre,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GLJ.FRK,Grenke AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+GLJ.DUS,GRENKE AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GLJ.HAM,GRENKE AG NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GLJ.SWI,Grenke AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+GLJ.FRK,Grenke AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GLJ.BER,GRENKE AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GLJ.HAN,GRENKE AG NA O.N.,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+GLJ.MUN,GRENKE AG NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

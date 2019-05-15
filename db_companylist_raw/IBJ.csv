@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6071.TOK,IBJ Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+IBJHF,Ibstock plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJYX,Ivy Corporate Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJBX,Ivy Corporate Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJAX,Ivy Corporate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJCX,Ivy Corporate Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJIX,Ivy Corporate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJNX,Ivy Corporate Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJEX,Ivy Corporate Bond E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBJRX,Ivy Corporate Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

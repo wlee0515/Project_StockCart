@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BTFL,Monarch America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BTFIX,BTS Tactical Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTFAX,BTS Tactical Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTFCX,BTS Tactical Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTFRX,BTS Tactical Fixed Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTF.MUN,"BENEFITFOCUS INC. DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+BTA0222AU.AUS,BT Multi-Manager Conservative BTFM,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+926.AUS,BT Fixed Interest BTFM,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2667
+BTF.STG,Benefitfocus Inc. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400

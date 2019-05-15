@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABKEX,AB Emerging Markets Multi-Asset K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ABKB,American Basketball Association Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABKYX,Invesco Moderate Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABK.BER,AKTIEN-BRAUEREI KAUFBEUR.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ABK.MUN,AKTIEN-BRAUEREI KAUFBEUR.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

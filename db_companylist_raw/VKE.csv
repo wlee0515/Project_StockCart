@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKEVTX,Investment Grade Income trust 7,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKETTX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKETIX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKEPFX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKE.JOH,Vukile Property Fund Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667

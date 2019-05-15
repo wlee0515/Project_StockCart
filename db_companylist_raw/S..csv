@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBBI,S.B.C.P. Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+S.TRT,Sherritt International Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+DPT.PAR,S.T. Dupont S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4444
+FALABELLA.SAN,S.A.C.I. Falabella,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3636
+002352.SHZ,S.F. Holding Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3333
+SAMI.ARG,S.A. San Miguel A.G.I.C.I. y F.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2500
+SSL.MIL,S.S. Lazio S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2500
+2750.TOK,S.Ishimitsu & Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+SORKON.BAK,S. Khonkaen Foods Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818

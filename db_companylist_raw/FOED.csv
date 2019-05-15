@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOEDL-AGB.MEX,"Fondo Bbva Bancomer Rv23, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FOEDL-AA.MEX,"Fondo Bbva Bancomer Rv23, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FOEDL-AC.MEX,"Fondo Bbva Bancomer Rv23, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FOEDL-CP.MEX,"Fondo Bbva Bancomer Rv21, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FOEDL-MC.MEX,"Fondo Bbva Bancomer Rv22, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FOEDL-ME.MEX,"Fondo Bbva Bancomer Rv22, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FOEDL-CGB.MEX,"Fondo Bbva Bancomer Rv21, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FOEDL-MGB.MEX,"Fondo Bbva Bancomer Rv22, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FOEDL-MPV.MEX,"Fondo Bbva Bancomer Rv22, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FOEDL-AUHN.MEX,"Fondo Bbva Bancomer Rv23, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4706

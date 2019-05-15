@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YTT.STG,Yamato Holdings Co. Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+YTT.FRK,Yamato Holdings Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YTT.BER,YAMATO HLDGS CO.LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YTT.DUS,YAMATO HLDGS CO.LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YTT.MUN,YAMATO HLDGS CO.LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

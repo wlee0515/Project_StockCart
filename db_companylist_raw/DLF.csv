@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLF.NSE,DLF Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+DLFNX,DoubleLine Core Fixed Income N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLFRX,DoubleLine Floating Rate N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+532868.BSE,DLF Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+DLF.BSE,DLF Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+KUX.SGP,DLF Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3333
+DLFPRAMLIFEB.BSE,DHFL Pramerica Life - Balanced Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+DLFPRAMLIFEG.BSE,DHFL Pramerica Life - Growth Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+DLFPRAMLIFEL.BSE,DHFL Pramerica Life - Large Cap Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+DLFPRAMLIFEP.BSE,DHFL Pramerica Life - Pension Balanced Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2609

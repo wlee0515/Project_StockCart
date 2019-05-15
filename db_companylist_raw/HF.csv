@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HF,HFF Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HFC,HollyFrontier Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HFWA,Heritage Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HFFG,HF Foods Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HFQIX,Janus Henderson Global Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HFXIX,Catalyst Hedged Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HFRO,Highland Floating Rate Opportun,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HFCSX,Hennessy Focus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+HFBL,Home Federal Bancorp Inc. of Louisiana,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HFBC,HopFed Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

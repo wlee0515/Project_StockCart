@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGAMX,Columbia AMT-Free GA Interm MuniBd Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGAFX,Nuveen Gresham Managed Futures Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGAS.MIL,ETFS Natural Gas ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+NGAS.LON,ETFS Natural Gas ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GB00B7LY8D86.LON,NGAM Investment Funds U.K. ICVC - Loomis Sayles U.S. Equity Leaders Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+NGAF.LON,ETFS Longer Dated Natural Gas ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+1047.HKG,Ngai Hing Hong Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1176
+F00000TW6F.LON,NGAM Investment Funds U.K. ICVC - Harris Associates Global Concentrated Equ,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.0769

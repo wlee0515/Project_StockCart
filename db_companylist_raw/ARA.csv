@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ARA,American Renal Associates Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PETX,Aratana Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ARAY,Accuray Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ARMK,Aramark,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ARAV,Aravive Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ARDM,Aradigm Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARLZQ,Aralez Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FLSA,Franklin FTSE Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+KSA,iShares MSCI Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ARANX,Horizon Active Risk Assist Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2069

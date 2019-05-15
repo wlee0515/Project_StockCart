@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FQVTF,Fevertree Drinks Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FEVAX,First Eagle US Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEVIX,First Eagle US Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEVOLX,FT 7261: First Trust ETF Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEVCX,First Eagle US Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FEVJUX,FT 6379: MLP Closed-End Fund an,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FEVRX,First Eagle US Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FEVULX,FT 7795: Tax-Advantaged Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FEVR.LON,Fevertree Drinks Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+FEV.STG,FORTEC Elektronik AG Inhaber-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

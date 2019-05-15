@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JORNX,Janus Henderson Global Select T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORFX,Janus Henderson Global Select I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORIX,Janus Henderson Global Select S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORAX,Janus Henderson Global Select A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORCX,Janus Henderson Global Select C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORSX,JHancock Small Cap Core R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JORRX,Janus Henderson Global Select R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JOR.TRV,Jourdan Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

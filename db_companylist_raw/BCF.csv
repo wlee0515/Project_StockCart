@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCF.TRV,BUILDERS CAPITAL MORTGAGE CORP,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+BCF.JOH,Bowler Metcalf Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+BCFE.FRK,UBS ETFs Public Limited Company - Bloomberg Commodity CMCI SF UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BCFE.FRK,UBS ETF BloombergCmdtyCMCI SF EURH A acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+BCFE.DUS,UBS ETFS-BLOOMB.C.CM.EOHA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+BCFU.FRK,UBS ETF Bloomberg CmdtyCMCI SF USD A acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+BCFF11.SAO,FII BC FFII CI  ER,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000
+PSDU-D1.TAV,USD/PSG BCFC CD S1,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2857

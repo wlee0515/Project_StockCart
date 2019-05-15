@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANBAX,American Funds Strategic Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+150305.SHZ,Anbao Fund Management - CSI Pension Industry Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4211
+150306.SHZ,Anbao Fund Management - CSI Pension Industry Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1509
+F000001YCZ.BCL,Anbacrisu SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1509

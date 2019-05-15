@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQM,"EQM Midstream Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EQTE,EQM Technologies & Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EQT.FRK,"EQM Midstream Partners, LP",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+EQMCBFIL.BCL,EQMC B FIL,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4615
+EQT.STG,EQM Midstream Partners L.P. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4615
+EQMCAFIL.BCL,EQMC A FIL,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4444

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTHRX,Fidelity Intermediate Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FTHI,First Trust BuyWrite Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FTHCX,Fidelity Advisor Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTHNX,Fuller & Thaler Behav Sm-Cp Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTHSX,Fuller & Thaler Behav Sm-Cp Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTHERX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTHLCX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTHITX,First Trust 800 High Yield Inco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTHFX,Fuller & Thaler Behav Sm-Cp Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTHMHX,FT 6563; Limited Duration Fixed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

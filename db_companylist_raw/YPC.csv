@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YPCUC.ARG,YPCUC.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YPCUD.ARG,YPCUD.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YPCUO.ARG,YPF Sociedad Anonima 8.75% SNR NTS 04/04/2024 USD1000 'REGS',Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YPCRO.ARG,YPF SA 8.875% SNR MTN 19/12/18 ,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YPCVO.ARG,YPF SA FRN SNR 03/2020 ARS1 'XX,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

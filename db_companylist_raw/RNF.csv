@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNFT.MOS,Public Joint Stock Company RussNeft,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.7500
+RNF.FRK,Meteoric Resources NL,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RNF.HAM,METEORIC RESOURCES N.L.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

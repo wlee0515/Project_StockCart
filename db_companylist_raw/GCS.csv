@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCSIX,Goldman Sachs Small Cap Eq Insghts Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCSCX,Goldman Sachs Small Cap Eq Insghts C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INGIF,Ingenico Group - GCS,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCSLX,Pioneer Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCSSX,Goldman Sachs Small Cap Eq Insghts Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCSAX,Goldman Sachs Small Cap Eq Insghts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCSUX,Goldman Sachs Small Cap Eq Insghts R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+INGIY,Ingenico Group - GCS,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+ING.PAR,Ingenico Group - GCS,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2609
+GCS.AUS,Global Construction Services Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2609

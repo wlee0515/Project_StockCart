@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUGT,Direxion Daily Gold Miners Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+NUGL,NUGL Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUGS,Cannabis Strategic Ventures,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUGN,NuGene International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUGRX,Nuveen Santa Barbara Global Dividend Gr R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NUGCX,Nuveen Santa Barbara Global Dividend Gr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NLY,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NLY-PD,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NLY-PG,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NLY-PC,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NLY-PF,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+NLY-PH,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+ANNPX,AllianzGI Convertible Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+ACBD,Annabidiol Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+ANNSF,"Aena S.M.E., S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+ANNAX,AllianzGI Convertible Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

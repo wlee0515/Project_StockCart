@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUSCX,Cullen Small Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+0051.KLA,CUSCAPI BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5333
+DSCN.KLA,CUSCAPI BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5333

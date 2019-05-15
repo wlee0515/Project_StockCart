@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIN,MFS Intermediate Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NUGT,Direxion Daily Gold Miners Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+GDX,VanEck Vectors Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+HL,Hecla Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CDE,Coeur Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NEM,Newmont Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+NAK,Northern Dynasty Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+NWM.AUS,Norwest Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.1818
+DUST,Direxion Daily Gold Miners Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500
+GDXJ,VanEck Vectors Junior Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463

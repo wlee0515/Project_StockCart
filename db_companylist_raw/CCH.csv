@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCH,Collier Creek Holdings,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCHIX,Principal High Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CCH-UN,Collier Creek Holdings UNIT EX,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHGY,Coca-Cola HBC AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHEX,Calamos Hedged Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHYX,Calamos High Income Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHZ,Career College Holding Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHRX,Columbia Seligman Global Tech Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHTX,American Funds 2045 Trgt Date Retire C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

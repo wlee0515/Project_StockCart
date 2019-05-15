@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CALL,magicJack VocalTec Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VOC.FRK,magicJack VocalTec Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VOC.BER,MAGICJACK VOCALTEC IS .65,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VOC.DUS,MAGICJACK VOCALTEC IS .65,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+VOC.STG,magicJack VocalTec Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+FR0011325331.PAR,LCL Vocation Rendement (Nov. 2012),Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2105
+F00000P2XK.PAR,LCL Vocation Rendement (Nov. 2012),Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2105

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBB.LON,Bigblu Broadband plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+BIG.PAR,BigBen Interactive,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5714
+0O0E.LON,BigBen Interactive,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+BX9.STG,BIGBEN INTERACTIVE S.A. Actions,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+BIGBLOC.BSE,Bigbloc Construction Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+BIGBLOC.NSE,Bigbloc Construction Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636

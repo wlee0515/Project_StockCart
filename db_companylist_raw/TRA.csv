@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTC,Uranium Trading Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TBIO,Translate Bio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TRXC,TransEnterix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ET,Energy Transfer LP,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RIG,Transocean Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TTD,The Trade Desk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ETE,"Energy Transfer Equity, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TRV,The Travelers Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TSCO,Tractor Supply Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RRTS,Roadrunner Transportation Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

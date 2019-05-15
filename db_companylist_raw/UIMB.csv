@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UIMB.FRK,UBS ETF SICAV - Barclays TIPS 10+ UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+UIMB.FRK,UBS ETF BlombgBarcl TIPS 10+ USD A dis,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+UIMB.DUS,UBS-B.B.TIP10+UETF ADDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+UIMB.STG,UBS-ETF-Bloom.Bar.TIP10+U.ETF N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

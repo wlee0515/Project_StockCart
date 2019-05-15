@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWK,Stanley Black & Decker Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SWKS,Skyworks Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SWKH,SWK Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SWKRX,Schwab Monthly Income Enh Payout,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWK.AUS,Swick Mining Services Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SWKS.VIE,Skyworks Solutions Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000

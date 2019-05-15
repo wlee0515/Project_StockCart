@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VNRX,VolitionRx Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VNRR,Vanguard Natural Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VNRWW,VNR Finance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNRFY,Vienna Insurance Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNRRW,VNR Finance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNRCF,Valener Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNRGF,Vienna Insurance Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNR.TRT,Valener Inc,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+VNR-PA.TRT,VALENER INC PREF SERIES A,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+VNRT.LON,Vanguard Funds Public Limited Company - Vanguard FTSE North America UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

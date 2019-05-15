@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+194370.KOR,JS Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.8000
+JSDA,Jones Soda Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JSTTY,Just Eat plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JSMGX,Janus Henderson Triton I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JSD,Nuveen Short Duration Credit Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JSOSX,JPMorgan Strategic Income Opports I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JSM,Navient Corporation SR NT 6% 121543,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JSGRY,LIXIL Group Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JSMVX,Jackson Square SMID-Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JSAIY,J Sainsbury plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

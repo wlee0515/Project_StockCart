@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JWGRX,Janus Worldwide S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JWG1.FRK,John Wood Group PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JWG1.DUS,"JOHN WOOD GR.LS-,04285714",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+JWG1.BER,"JOHN WOOD GR.LS-,04285714",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+JWG1.STG,John Wood Group PLC Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBICEX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FBICPX,FT 7416: Limited Duration Fixed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

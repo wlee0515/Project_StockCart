@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDN,First Trust Dow Jones Internet ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FDNI,First Trust Dow Jones Intl Intnt ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FDNRX,Franklin DynaTech R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDNERX,FT 6496: Financials Select Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDNAVX,FT 6647: Health Care Select Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDNEWX,"FT 6975: Long's Peak Portfolio,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

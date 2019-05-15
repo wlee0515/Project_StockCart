@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELRA,Elray Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGKLF,ElringKlinger AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ELRRF,Eloro Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ELRNF,Elron Electronic Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELRFF,Eastern Platinum Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELRN,Greenwood Hall Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELRE,Yinfu Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELRMF,Electromagnetic Geoservices ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELROF,Elior Group S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZIL2.FRK,ElringKlinger AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3158

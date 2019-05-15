@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+REX,REX American Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RNN,Rexahn Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+REXXQ,Rex Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RXN,Rexnord Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VMIN,REX VolMAXX Short VIX Futures Strat ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+REXR,Rexford Industrial Realty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BKC,REX BKCM ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+RXNRQ,Rex Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RXN-PA,Rexnord Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIHDF,MISC Berhad,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MISCX,BNY Mellon Small Cap Multi-Strategy Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+3816.KLA,MISC BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+MISC.KLA,MISC Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5333

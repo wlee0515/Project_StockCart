@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+506863.BSE,SWADESHI INDUSTRIES LEASING CO,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+SWADEIN.BSE,Swadeshi Industries & Leasing Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+503816.BSE,Swadeshi Polytex Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+SWADPOL.BSE,Swadeshi Polytex Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353

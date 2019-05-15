@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNKLF,RNC Minerals,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNK.LON,The Rank Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+RNKA.FRK,The Rank Group Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RNKA.MUN,"RANK GRP  LS-,1388888888",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+RNKA.STG,"Rank Group PLC, The Reg. Shs LS",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

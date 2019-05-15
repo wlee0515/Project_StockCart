@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFFPX,MFS Lifetime 2050 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFDX,MFS Lifetime 2050 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFMX,MFS Lifetime 2050 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFKX,MFS Lifetime 2050 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFSX,MFS Lifetime 2050 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFRX,MFS Lifetime 2050 B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFNX,MFS Lifetime 2050 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFOX,MFS Lifetime 2050 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFFIX,MFS Lifetime 2050 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFF.STG,MOD Resources Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

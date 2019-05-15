@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFEDWSGLBLMA.TWN,Deutsche Far Eastern DWS Global Material and Energy Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4211
+DFEDWSTAIWAN.TWN,Deutsche Far Eastern DWS Taiwan Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4211
+DFEDWSTWFLAG.TWN,Deutsche Far Eastern DWS Taiwan Flagship Security Investment Trust Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4211

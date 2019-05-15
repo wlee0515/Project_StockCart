@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFE.BER,"MKB NEDSENSE NV  EO 0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MKB.TRT,Mackenzie Core Plus Cdn Fxd Inc ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+NEDSE.AMS,MKB Nedsense NV,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2222

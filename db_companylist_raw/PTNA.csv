@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTNAX,PIMCO RealPath Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PTNA.FRK,Palatin Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+PTNA.BER,"PALATIN TECHS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PTNA.STG,Palatin Technologies Inc. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PTNA.MUN,"PALATIN TECHS  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

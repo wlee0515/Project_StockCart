@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIJA.JKT,PT Kawasan Industri Jababeka Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+KIJ.MUN,"CONCHO RESOURCES  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KIJ.BER,"CONCHO RESOURCES  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KIJ.FRK,Concho Resources Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KIJ.STG,Concho Resources Inc. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

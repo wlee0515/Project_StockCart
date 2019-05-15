@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UHS,Universal Health Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+USE.FRK,Beate Uhse AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UHS.STG,UNIVERSAL HEALTH SERVICES INC.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+UHS.FRK,Universal Health Services Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UHS.BER,UNIV. HEALTH SERV.B DL-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7472.TOK,TOBA Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5714
+BTI,British American Tobacco p.l.c.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+JAPAY,Japan Tobacco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+JAPAF,Japan Tobacco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+BTAFF,British American Tobacco p.l.c.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+TBMIX,TOBAM Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

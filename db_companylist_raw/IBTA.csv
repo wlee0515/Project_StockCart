@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBTAX,iShares TIPS Bond ETF 529 Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IBTA.LON,iShares $ Treasury Bd 1-3yr ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+IBTA.SWI,iShares Public Limited Company - iShares $ Treasury Bond 1-3yr UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+IBTAN.MEX,iShares Public Limited Company - iShares $ Treasury Bond 1-3yr UCITS ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

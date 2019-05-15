@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERRPF,Ero Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERRCF,WestKam Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERRAF,EMERA INC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERRSF,Euro Ressources S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERIS.LON,Erris Resources plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+F000001YFM.BCL,Errota Inversiones Mobiliarias SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1538

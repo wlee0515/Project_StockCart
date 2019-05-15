@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBSS,Integrated Business Systems & Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IBJHF,Ibstock plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IBSMX,IronBridge SMID Cap Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBSAX,VY Baron Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBSSX,VY Baron Growth S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBSCX,IronBridge Small Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBIN,IBSG International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+IBST.JKT,PT Inti Bangun Sejahtera Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5714
+IBS.LIS,"Ibersol, S.G.P.S., S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.5000
+2I5.FRK,Ibstock plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4286

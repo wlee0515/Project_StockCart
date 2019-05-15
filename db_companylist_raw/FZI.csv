@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FZILX,Fidelity ZERO International Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZIPX,Fidelity ZERO Extended Market Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZIAHX,FT 6511: Core Holdings Growth T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZIIX,Fidelity Advisor Interm Muni Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZICX,Fidelity Advisor Interm Muni Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZIAX,Fidelity Advisor Interm Muni Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZITX,Fidelity Advisor Interm Muni Inc M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

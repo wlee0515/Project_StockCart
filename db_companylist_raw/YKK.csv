@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YKK.BER,"YLEISELEKTR.PREF. EO 0,85",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YKK.STG,YLEISELEKTRONIIKKA OYJ Reg. Pre,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

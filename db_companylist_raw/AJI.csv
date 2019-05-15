@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AJIA,Ajia Innogroup Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AJINY,Ajinomoto Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+2658.KLA,Ajinomoto Malaysia Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+AJIT.LON,Aberdeen Japan Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+2802.TOK,Ajinomoto Co. Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+AJI.STG,AJINOMOTO CO. INC. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+4659.TOK,AJIS Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+AJN.STG,Ajisen (China) Holdings Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3529
+AJIN.KLA,AJINOMOTO (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2727
+AJI.FRK,Ajinomoto Co. Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400

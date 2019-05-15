@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNT1.BER,EYEMAXX R.EST.AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+38VA.DUS,VANG.GL.EX-US R.E.IDXETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+RE.LON,R.E.A. Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+UEI.BER,"TERNA R.E.N. SPA  EO -,22",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+UEI.DUS,"TERNA R.E.N. SPA  EO -,22",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2400
+UEI.MUN,"TERNA R.E.N. SPA  EO -,22",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+BNT1.DUS,EYEMAXX R.EST.AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+GTQ1.DUS,"SIEMENS GAMESA R.E.EO-,17",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+120360.BSE,Sahara R.E.A.L Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143

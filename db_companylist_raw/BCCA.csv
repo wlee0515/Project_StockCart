@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCCAEX,ADT 1880 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BCCABX,ADT 1823 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BCCACX,ADT 1845 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BCCAX,BMO Small-Cap Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BCCAAX,ADT 1803 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BCCADX,ADT 1862 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BCCAFX,ADT 1897 Blue Chip Covered Call,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

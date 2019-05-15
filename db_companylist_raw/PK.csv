@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PK,Park Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PKD,Parker Drilling Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKG,Packaging Corporation of America,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKI,PerkinElmer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKX,POSCO,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKO,PIMCO Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKOH,Park-Ohio Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PKW,Invesco BuyBack Achievers ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PKPH,Peak Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PKKW,Parkway Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMGAX,BlackRock Mid-Cap Growth Equity Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BMGP,Biomagnetics Diagnostics Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BMGCX,BlackRock Mid-Cap Growth Equity Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMGKX,BlackRock Mid-Cap Growth Equity K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMGTX,Sterling Capital Diversified Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMGGX,BMO Mid-Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMG.AUS,BMG Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BMGU.SGP,BHG Retail REIT,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+LR4.BER,BMG RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3750
+BMG6889V107.FRK,"PANDA GREEN EN.GRP HD-,10",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000

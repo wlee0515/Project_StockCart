@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZTS,Zoetis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZSAN,Zosano Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGNX,Zogenix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZOES,Zoe's Kitchen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZOM,Zomedica Pharmaceuticals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZONX,Zonzia Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZDPY,Zoned Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZMTP,Zoom Telephonics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZOOM,ZOOM Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZPAS,Zoompass Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

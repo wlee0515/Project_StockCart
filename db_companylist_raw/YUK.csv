@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6393.TOK,Yuken Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5455
+4124.TOK,Osaka Yuka Industry Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+4216.TOK,Asahi Yukizai Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+4334.TOK,YUKE'S Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+4531.TOK,Yuki Gosei Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+1536.HKG,Yuk Wing Group Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2143
+YUKEN.BSE,Yuken India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069
+000514.SHZ,Chongqing Yukaifa Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2000
+522108.BSE,Yuken India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

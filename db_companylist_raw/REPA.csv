@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+REPA.STG,"Repsol, S.A.",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+REPA.FRK,"Repsol, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+8079.HKG,Easy Repay Finance & Investment Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7273
+REPA.BER,REPSOL S.A. EO 1 ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+REPA.FRK,"Repsol, S.A.",Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+F00000LVZK.BCL,Plan Reparto 2010 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+PLANREPARTO2.BCL,Plan Reparto 2010 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+REPA.MUN,REPSOL S.A. EO 1 ADR 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1860

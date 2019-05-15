@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UGBP,Citigroup ETNs lnkd VS Dly 4X Lng GBPUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+DGBP,Citigroup ETNs lnkd VS Dly 4X Lng USDGBP,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+DEUR,Citigroup ETNs lnkd VS Dly 4X Lng USDEUR,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+UCHF,Citigroup ETNs lnkd VS Dly 4X Lng CHFUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+UEUR,Citigroup ETNs lnkd VS Dly 4X Lng EURUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+DCHF,Citigroup ETNs lnkd VS Dly 4X Lng USDCHF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+DJPY,Citigroup ETNs lnkd VS Dly 4X Lng USDJPY,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+UJPY,Citigroup ETNs lnkd VS Dly 4X Lng JPYUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+DAUD,Citigroup ETNs lnkd VS Dly 4X Lng USDAUD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+UAUD,Citigroup ETNs lnkd VS Dly 4X Lng AUDUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

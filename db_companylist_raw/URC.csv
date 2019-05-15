@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+URCFF,Vanadian Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+URCFD,Vanadian Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+URCPATRIMONI.BCL,URC Patrimonis SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F000001FT0.BCL,URC Patrimonis SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609

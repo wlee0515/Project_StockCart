@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRG,Bluerock Residential Growth REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BRG-PA,Bluerock Residential Growth REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRG-PC,Bluerock Residential Growth REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRGO,Bergio International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRG-PD,Bluerock Residential Growth REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRGC,Brightrock Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRGNX,iShares Russell 1000 Large-Cap Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRGAX,iShares Russell 1000 Large-Cap Index Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+BRGL,Bernstein Global Research,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+BRGPX,BlackRock 60/40 Target Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

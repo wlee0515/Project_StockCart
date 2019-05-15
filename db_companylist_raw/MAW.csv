@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMTC,Bryn Mawr Bank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWNX,MainStay Epoch US All Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWBX,MainStay Epoch US All Cap B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWDX,MainStay Epoch US All Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWSNF,Mawson Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWHY,Man Wah Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWHF,Man Wah Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWIX,BlackRock Strategic Global Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAWCX,MainStay Epoch US All Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MAWAX,MFS Aggressive Growth Allocation R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

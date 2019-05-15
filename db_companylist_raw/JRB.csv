@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JRBFX,JHancock Regional Bank I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRBEX,JPMorgan SmartRetirement Blend 2030 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRBRX,JPMorgan SmartRetirement Blend 2030 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRBSX,JPMorgan Inflation Managed Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRBBX,JPMorgan SmartRetirement Blend 2030 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRBYX,JPMorgan SmartRetirement Blend 2030 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRB2.FRK,IBC Advanced Alloys Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JRB2.BER,IBC ADVANCED ALLOYS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+JRB2.STG,IBC Advanced Alloys Corp. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

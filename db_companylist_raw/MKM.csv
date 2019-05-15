@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKMTX,BlackRock Strategic Muni Opps K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKM.FRK,MACA Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MKM.BER,MACA LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

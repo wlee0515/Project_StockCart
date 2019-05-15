@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SQSBFSI.BSE,SQS India BFSI Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+SQSBFSI.NSE,SQS India BFSI Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+SQSBFSI-EQ.NSE,SQS INDIA BFSI LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750

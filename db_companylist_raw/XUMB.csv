@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XUMB.FRK,NN(L)-GL.SUST.EQU. PCAP,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XUMB.BER,NN(L)-GL.SUST.EQU. PCAP,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XUMB.DUS,NN(L)-GL.SUST.EQU. PCAP,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XUMB.HAM,NN(L)-GL.SUST.EQU. PCAP,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+XUMB.MUN,NN(L)-GL.SUST.EQU. PCAP,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XUMB.STG,NN (L)- Glb.Sustainable EquityA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

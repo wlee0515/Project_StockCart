@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6064.TOK,Actcall Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6154
+ACTCOMMB.MEX,Fondo Actinver Commodities SA De CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+ACTCOMMA.MEX,ACTCOMM A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000

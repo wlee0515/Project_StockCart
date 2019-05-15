@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DOMO,Domo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+D,Dominion Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DPZ,Domino's Pizza Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ODFL,Old Dominion Freight Line Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DM,"Dominion Energy Midstream Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UFS,Domtar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DRUA,Dominion Energy Inc. ENHCD SUB NT16 A,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DSEFX,Domini Impact Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GEDTX,GMO Emerging Domestic Opportunities II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

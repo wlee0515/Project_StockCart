@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OGIG,O'Shares Global Internet Giants ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+OGIAX,JPMorgan Investor Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGIYX,Oppenheimer Global Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGICX,Oppenheimer Global Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGINX,Oppenheimer Global Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGIIX,Oppenheimer Global Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

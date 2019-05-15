@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KB,KB Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KBH,KB Home,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KBR,KBR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KBWD,Invesco KBW High Dividend Yield Fincl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+KBE,SPDR S&P Bank ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+KBLB,Kraig Biocraft Laboratories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KBWY,Invesco KBW Premium Yield Eq REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+KBSF,KBS Fashion Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KBA,KraneShares Bosera MSCI China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+KBWB,Invesco KBW Bank ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

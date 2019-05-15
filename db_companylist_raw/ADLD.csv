@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADLDY,Adelaide Brighton Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+LM55.HAM,LM GL-WA US C.BD. ADLDD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2963
+LM55.MUN,LM GL-WA US C.BD. ADLDD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2963
+LM55.BER,LM GL-WA US C.BD. ADLDD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+LM55.DUS,LM GL-WA US C.BD. ADLDD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2963

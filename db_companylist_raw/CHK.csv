@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHK,Chesapeake Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CHKP,Check Point Software Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHKR,Chesapeake Granite Wash Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHKE,Cherokee Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHK-PD,Chesapeake Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHKGF,CK Asset Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHKKF,Chakana Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHKVP,Chesapeake Energy Corporation CUM PFD 5.75% A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHKDP,Chesapeake Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHKIF,China Southern Airlines Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

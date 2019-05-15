@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNNA,Hennessy Advisors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HNNMY,H & M Hennes & Mauritz AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HNNVX,Heartland International Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNN.FRK,Harvey Norman Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HNN.MUN,HARVEY NORMAN HLDGS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HNN.STG,HARVEY NORMAN HOLDINGS LTD. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

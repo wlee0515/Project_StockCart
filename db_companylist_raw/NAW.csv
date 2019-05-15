@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAWGX,Voya Global Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NAWIX,Voya Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NAWCX,Voya Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NAWSX,Nuveen CA High Yield Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NTW.STG,Nawarat Patanakarn Public Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+NWR.BAK,Nawarat Patanakarn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+NAWI.TAV,Nawi Brothers Group Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4444
+NWR-R.BAK,Nawarat Patanakarn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636

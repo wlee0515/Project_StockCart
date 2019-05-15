@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HHC,The Howard Hughes Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+HBMD,Howard Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HOWA.KLA,HO WAH GENTING BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3478
+HHE.STG,Howard Hughes Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+HHE.FRK,The Howard Hughes Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+6203.TOK,Howa Machinery Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+8559.FRK,The Howa Bank Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+526761.BSE,Howard Hotels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2424
+HOWARHO.BSE,Howard Hotels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGCP,BGC Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BGCIX,BlackRock Global Long/Short Credit Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCSX,Baillie Gifford EAFE Choice I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCWX,Baillie Gifford EAFE Choice 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCKX,BlackRock Global Long/Short Equity K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCAX,BlackRock Global Long/Short Credit Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCJX,Baillie Gifford EAFE Choice 3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGCCX,BlackRock Global Long/Short Credit Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HKHHF,Heineken Holding N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HKHHY,Heineken Holding N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HKHGF,Hongkong Land Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

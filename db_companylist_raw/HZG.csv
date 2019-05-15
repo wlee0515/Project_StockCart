@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZGUB3A.MEX,"Horizontes Banamex Veintinueve,S.A. De C.V.,S I I D",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+HZGUBB0B.MEX,BNMGUB1 B0-B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+HZGUBB0C.MEX,BNMGUB1 B0-C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZGUBC0C.MEX,BNMGUB1 C0-C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZGUBC0D.MEX,BNMGUB1 C0-D,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZGUBM0C.MEX,BNMGUB1 M0-C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZGUB3M0-A.MEX,"Horizontes Banamex Veintinueve,S.A. De C.V.,S I I D",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZGUB2A.MEX,Horizontes Banamex Veintiuno S.A. de C.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3750
+HZGUB2C0-A.MEX,Horizontes Banamex Veintiuno S.A. de C.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3750
+HZGUB2C0-C.MEX,Horizontes Banamex Veintiuno S.A. de C.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3750

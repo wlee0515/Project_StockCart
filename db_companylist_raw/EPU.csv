@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPU,iShares MSCI All Peru ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EPU.FRK,Emperor Watch & Jewellery Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EPU.BER,EMPEROR W.+JEWELL.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EPU.MEX,iShares MSCI All Peru ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

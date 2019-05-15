@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NZYM.VIE,Novozymes A/S,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+NZYMB.SWI,Novozymes A/S,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+NZYMN.MEX,Novozymes A/S,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5455

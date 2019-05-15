@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RHS,Invesco S&P 500 Eql Wt Cnsm Stapl ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RHSCX,Rational Strategic Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RHSIX,Rational Strategic Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RHSP.STG,Seanergy Maritime Hldgs Corp. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RHSP.FRK,Seanergy Maritime Holdings Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAC,Macerich Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+M,Macy's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IBM,International Business Machines Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MTSI,MACOM Technology Solutions Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MIC,Macquarie Infrastructure Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BMA,Banco Macro S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FMCC,Freddie Mac,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MACK,Merrimack Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+MGNX,MacroGenics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TITN,Titan Machinery Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2609

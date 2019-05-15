@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISRG,Intuitive Surgical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STAA,STAAR Surgical Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRNA,Surna Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGS,Transportadora de Gas del Sur S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SURJF,Surge Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SGRY,Surgery Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RTIX,RTI Surgical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SRDX,Surmodics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SURF,Surface Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SURG,Surge Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

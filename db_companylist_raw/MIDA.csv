@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDRPF,Midas Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MTP,Midatech Pharma Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MIDAX,MFS International New Discovery A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5333
+MIDSX,Midas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MISEX,Midas Magic,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+MAX.TRT,Midas Gold Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3478
+MTPH.LON,Midatech Pharma Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3478
+MGC-H.TRV,Midasco Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3200
+F00000TVAN.KOR,MIDAS HF Professional Private Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2105
+KR5303AC4368.KOR,MIDAS Plus Private Equity Balanced,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2000

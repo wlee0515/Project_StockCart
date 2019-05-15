@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGPAX,Voya Global Target Payment A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IGPATX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IGPA.AMS,ING Groep N.V. FRN SUB PERP EUR100 'REGS',Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273

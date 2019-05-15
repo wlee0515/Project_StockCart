@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRE,Sempra Energy,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SREV,ServiceSource International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRET,Global X SuperDividend REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SRE-PB,Sempra Energy,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRE-PA,Sempra Energy,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRETX,State Farm Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SREYX,SEI Real Estate Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SREAX,PGIM Select Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SREHX,State Farm Equity R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SREOX,State Farm Equity R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

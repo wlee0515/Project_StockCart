@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BA.BAK,Bangkok Airways Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8889
+BA.ARG,The Boeing Company,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.8889

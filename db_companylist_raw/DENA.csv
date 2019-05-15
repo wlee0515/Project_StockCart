@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNACF,DeNA Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DNLI,Denali Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DENI,Denali Bancorporation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+DENABANK.NSE,Dena Bank,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6154
+2432.TOK,DeNA Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+D2N.FRK,DeNA Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+D2N.STG,Dena Co. Ltd. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+DENABANK.BSE,Dena Bank,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+4DN.MUN,Denali Therapeutics Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+D2N.MUN,DENA CO. LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

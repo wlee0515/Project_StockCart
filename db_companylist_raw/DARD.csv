@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRI,Darden Restaurants Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+0I77.LON,Darden Restaurants Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+DDN.BER,DARDEN REST. INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211
+DDN.FRK,Darden Restaurants Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+DDN.DUS,DARDEN REST. INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+DDN.MUN,DARDEN REST. INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+DDN.STG,DARDEN RESTAURANTS INC. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+DARDAMIINVES.BCL,Dardami Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F000001YHY.BCL,Dardo Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857

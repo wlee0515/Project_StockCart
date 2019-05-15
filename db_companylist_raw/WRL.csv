@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WRLD,World Acceptance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WRLS,Pensare Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WRLSR,Pensare Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WRLSU,Pensare Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WRLDX,Scharf Global Opportunity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDWH.STG,Xtr.(IE)-MSCI Wrld Health CareR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+FR0011158179.PAR,Schelcher Prince Convert Glbl Wrld I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000
+EMWE.FRK,BNPPE-MSCI WRLD XCW UECEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1538

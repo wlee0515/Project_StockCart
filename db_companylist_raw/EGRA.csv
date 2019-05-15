@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGRAF,Energy Resources of Australia Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+EGRAX,Eaton Vance Glbl Macro Abs Ret Advtg A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+EGRA.LON,WisdomTree Euroz Eqlty Dividend Gr ETF EURAcc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EGRA.MIL,WisdomTree Euroz Eqlty Dividend Gr ETF EURAcc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

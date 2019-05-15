@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDCEX,Matisse Discounted Cl-End Fd Strat Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+F00000VFZ8.TRT,Sun Si Cd Sm Cp Eq Cl-Est Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+F00000VG5Z.TRT,Sun Si Cd Sm Cp Eq Cl-Inv Sr F,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2069
+F00000WHSN.TRT,Purpose Tactical Invt Grade Bond Cl-D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+SUNLIFESOLFP.TRT,Sun Si Cd Sm Cp Eq Cl-Inv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+SUNSICDSMCPE.TRT,Sun Si Cd Sm Cp Eq Cl-Inv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+CL-USD.SWI,Colgate-Palmolive,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.1818
+F00000VG5X.TRT,Sun Si Cd Sm Cp Eq Cl-Inv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000ZFUY.PAR,Oddo BHF G?n?ration CL-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1500

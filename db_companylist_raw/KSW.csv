@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSW.FRK,KST Beteiligungs AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KSW.BER,KST BETEILIGUNGS AG NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KSW.DUS,KST BETEILIGUNGS AG NA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KSW.HAM,KST BETEILIGUNGS AG NA,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+KSW.STG,KST Beteiligungs AG Namens-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

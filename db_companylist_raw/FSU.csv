@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSUTX,Fidelity Select Utilities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUPX,Fidelity Large Cap Growth Index Prm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUVX,Fidelity SAI US Minimum Volatility Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUGY,Fortescue Metals Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUMF,Fortescue Metals Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUAOX,FT 6273: Cyclical Strength Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSUIX,Fidelity Large Cap Growth Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSUDPX,FT 6527: Municipal Income Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSULTX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSUNRX,FT 6357: Water Utility & Infras,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

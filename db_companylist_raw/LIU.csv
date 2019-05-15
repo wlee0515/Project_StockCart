@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+000876.SHZ,New Hope Liuhe Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+0194.HKG,Liu Chong Hing Investment Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+000528.SHZ,Guangxi Liugong Machinery Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6000
+600249.SHH,Liuzhou Liangmianzhen Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.6000
+LIUB.DUS,"LI + FUNG LTD  HD-,0125",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LIUB.STG,Li & Fung Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+LIUB.FRK,Li & Fung Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1935
+6504.TWN,Nan Liu Enterprise Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1765
+LIUB.BER,"LI + FUNG LTD  HD-,0125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1667
+LIUB.MUN,"LI + FUNG LTD  HD-,0125",Equity,Munich,08:00,20:00,UTC+01,EUR,0.1579

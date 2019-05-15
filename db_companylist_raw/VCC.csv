@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VCCAX,VALIC Company II Capital Appreciation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCCBX,VALIC Company II Core Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCCCX,VALIC Company I Capital Conservation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCCEX,VALIC Company I Core Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCCPX,Vertical Capital Income Fund Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCC1.FRK,Vical Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VCC1.BER,"VICAL INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VCC1.MUN,"VICAL INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+VCC1.STG,Vical Inc. Registered Shares DL,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

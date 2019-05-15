@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMES,Emerge Energy Services LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EMR,Emerson Electric Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NYNY,Empire Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EMHTF,Emerald Health Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EMN,Eastman Chemical Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EMMBF,Emblem Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EMAN,eMagin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EMIS,Emisphere Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EMB,iShares JP Morgan USD Em Mkts Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+ERJ,Embraer S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

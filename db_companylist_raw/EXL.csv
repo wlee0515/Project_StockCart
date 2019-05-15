@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXLS,ExlService Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXLLF,Excellon Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXHI,Exlites Holdings International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EXLA,Helmer Directional Drilling Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EXL.AUS,Elixinol Global Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5714
+LHV.FRK,"EXLSERVICE HLDGS  DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+LHV.BER,"EXLSERVICE HLDGS  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

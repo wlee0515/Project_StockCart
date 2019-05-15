@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHPI,Allied Healthcare Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHPA,Avista Healthcare Public Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHPAU,Avista Healthcare Public Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UO1N.HAN,AHP ARISTOTELES FDS UI I,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7500
+AHP.TRV,Allied Hotel Properties Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+F00000X1CE.KOR,Daishin Dividend Ahpha 30 Bond Bal A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6000
+AHPF.AMS,Allianz Pacific Aandelen Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2222
+AHPS.KLA,AYER HOLDINGS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+UO1N.HAM,Ahp Aristoteles Fonds Ui,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.1538
+F00000X1CD.KOR,Daishin Dividend Ahpha 30 Bond Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSHSF,NanoSphere Health Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSHBY,Nisshinbo Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSHCX,Neuberger Berman Short Duration Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSHRF,Northern Shield Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSHLX,Neuberger Berman Short Duration Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSHAX,Neuberger Berman Short Duration Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSH.LON,Norish Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NSH_U.LON,NORISH PLC ORD EUR0.25,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYAAF,Syrah Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SRHYY,Syrah Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SYR.AUS,Syrah Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+3S7.FRK,Syrah Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+3S7.BER,SYRAH RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3478
+HZH.BER,SYRAKUS HOLDING AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3478
+3S7.DUS,SYRAH RESOURCES LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3478
+3S7.HAM,SYRAH RESOURCES LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2963
+3S7.STG,Syrah Resources Ltd. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KHC,The Kraft Heinz Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KHC.VIE,The Kraft Heinz Company,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+KHC.MEX,The Kraft Heinz Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+KHC.SWI,The Kraft Heinz Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+KHCB34.SAO,The Kraft Heinz Company,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

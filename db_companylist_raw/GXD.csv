@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GXD.FRK,Lundin Mining Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GXD.BER,LUNDIN MINING CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GXD.MUN,LUNDIN MINING CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GXD.STG,Lundin Mining Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

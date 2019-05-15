@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OMF,OneMain Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OMFL,Oppenheimer Russell 1000 Dyn Mltfctr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+OMFCX,Oppenheimer Rochester AMT-Free Munis C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+OMFYX,Oppenheimer Rochester AMT-Free Munis Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OMFS,Oppenheimer Russell 2000 Dyn Mltfctr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+OMF0001AU.AUS,Realm High Income,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

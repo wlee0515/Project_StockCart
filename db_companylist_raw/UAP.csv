@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UAPC,United American Petroleum Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UAPIX,ProFunds UltraSmall Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UAPSX,ProFunds UltraSmall Cap Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AXAA.BER,"AXA UAP ADR 1/EO 2,29",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

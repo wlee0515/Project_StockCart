@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAHYX,Janus Henderson High-Yield T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAHSX,James Alpha EHS Portfolio S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAHAX,James Alpha EHS Portfolio A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAHCX,James Alpha EHS Portfolio C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+600315.SHH,Shanghai Jahwa United Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2000
+FKQU.HAM,Deka-S Rendite 1/2008 (5 Jahre roll-over),ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2000
+033240.KOR,Jahwa Electronics. Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1935
+AT0000708581.VIE,Basis Portfolio 10 Jahre (A),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1935
+AT0000708730.VIE,Basis Portfolio 10 Jahre (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1765

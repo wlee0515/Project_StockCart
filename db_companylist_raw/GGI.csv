@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGIFF,Garibaldi Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GGII,Green Globe International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGIZX,GuideStone Funds Balanced Allc Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGISF,Genesis Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGICX,Goldman Sachs Global Infras C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGIJX,Goldman Sachs Global Infras R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGIFX,Victory INCORE Fund for Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGINX,Goldman Sachs Global Infras Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGIRX,Goldman Sachs US Mortgages Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGIDX,Goldman Sachs Global Infras Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

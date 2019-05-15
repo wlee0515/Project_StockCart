@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F000010F2Z.LON,M&G Absolute Return Bond EUR Z-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+F000010F30.LON,M&G Global Target Return EUR Z-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538

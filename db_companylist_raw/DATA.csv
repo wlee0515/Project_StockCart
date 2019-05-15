@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DATA,Tableau Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LDSR,DATA443 Risk Mitigation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+FDC,First Data Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+ADP,Automatic Data Processing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+ADS,Alliance Data Systems Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PYDS,Payment Data Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DWCH,Datawatch Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TECD,Tech Data Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+TDS,Telephone and Data Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BLOK,Amplify Transformational Data Shrg ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1905

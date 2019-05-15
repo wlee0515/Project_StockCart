@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIVA,AGFiQ Hedged Dividend Income,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FR0010523548.PAR,Diva,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,1.0000
+CDG.MIL,Casta Diva Group S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4000
+SS11.VIE,SPDR S&P US DivAristoUCITS ETF,ETF,Vienna,08:55,17:35,UTC+01,EUR,0.2353

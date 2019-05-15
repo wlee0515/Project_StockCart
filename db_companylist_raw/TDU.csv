@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDUAX,Epoch US Small-Mid Cap Equity Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDUSX,Epoch US Small-Mid Cap Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDUSINDEXI.TRT,TD U.S. Index Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3750
+TDULTRASHORT.TRT,TD Ultra Short Term Bond - A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDUSBLUECHIP.TRT,TD US Blue Chip Equity - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDUSCORPORAT.TRT,TD U.S. Corporate Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDUSEQUITYPO.TRT,TD US Equity Portfolio - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDUSLOWVOLAT.TRT,TD US Low Volatility Investor Series,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDUSMONTHLYI.TRT,TD U.S. Monthly Income - C$,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333

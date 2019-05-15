@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NTES,NetEase Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NTEC,Intec Pharma Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NTEK,NanoTech Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NTEI,Nova Tech Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NTEINF1.MEX,NTE+IN F1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+NTE.TRV,Network Media Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+NTES.SWI,NetEase Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+NTEIPC+APIE.MEX,OPERADORA DE FONDOS BANORTE IXE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3529

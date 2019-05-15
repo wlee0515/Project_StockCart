@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWA.TRV,Gowest Gold Ltd,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+KR5213990793.KOR,Hanwha Gwangju Belt-Highway Private Special Asset Infra 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.7500
+037710.KOR,Gwangju Shinsegae Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6667
+GWA.AUS,GWA Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+GWA.FRK,GWA Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+GWAY.KLA,GOODWAY INTEGRATED INDUSTRIES,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1622
+F00000NX74.KOR,Hanwha Gwangju Belt-Highway Private Special Asset Infra 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1224
+F00000UI7H.KOR,KB Gwangju SRF Plant Private Special Asset SOC,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1000
+KR5101AI2071.KOR,KIM Private Gwangkyo Complex REITs,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1000

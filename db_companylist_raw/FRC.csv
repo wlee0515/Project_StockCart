@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRC,First Republic Bank,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FRCOY,Fast Retailing Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRCTX,Franklin CA Tax Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRCOX,Franklin CO Tax Free Income A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRC-PI,First Republic Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRC-PG,First Republic Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRC-PE,First Republic Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FRCOF,Fast Retailing Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FRC-PD,First Republic Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FRCCX,First Investors Covered Call Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

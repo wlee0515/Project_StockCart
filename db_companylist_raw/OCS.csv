@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCSL,Oaktree Specialty Lending Corpo,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OCSI,Oaktree Strategic Income Corpor,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OCSY,Optium Cyber Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OCSM,Ocean Smart Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OCSLL,Oaktree Specialty Lending Corpo,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OCSGX,Optimum Small-Mid Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCSIX,Orchard Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCSNX,Orchard Small Cap Value N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCSVX,Optimum Small-Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCS1.FRK,SOCO International plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

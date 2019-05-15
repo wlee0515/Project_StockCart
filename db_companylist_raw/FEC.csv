@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FECOF,FEC Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FECCF,Frontera Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FECNTX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FECHAX,FT 7170: Balanced Income Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FECUPX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FECILX,The First Trust Conbined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FECATX,FT 7502: Texas Lone Star Opport,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FECRIX,FT 7315: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FECHF,FIDELITY CHINA SPE,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FECOPX,FT 7192: Global Opportunistic E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

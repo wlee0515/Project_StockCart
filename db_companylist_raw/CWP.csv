@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIVO,Amplify YieldShares CWP Div&Opt Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CWPWF,Concord New Energy Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWPRX,Columbia Global Strategic Equity Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CWPS,"Conwest Associates, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CWP.AUS,Cedar Woods Properties Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CWP.BER,"CRYSTAL INTL GRP  HD -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1429

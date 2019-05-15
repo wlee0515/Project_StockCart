@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBS,Invesco DB Silver,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DBSDY,DBS Group Holdings Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DBSHF,DB ETC PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DBSCX,Doubleline Selective Credit I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DBSDF,DBS Group Holdings Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+D05.SGP,DBS Group Holdings Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444
+MU7.SGP,DBS Bank Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3750

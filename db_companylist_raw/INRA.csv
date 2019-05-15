@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INRD,Inrad Optics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INRA.BER,INTERN.CONS.AIRL.GR. ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+INRADEINVERS.BCL,Inra de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000001YAB.BCL,Inra de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

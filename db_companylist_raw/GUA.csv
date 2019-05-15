@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GH,Guardant Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGO,Assured Guaranty Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GSH,Guangshen Railway Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GRDO,Guard Dog Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GNTY,Guaranty Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GBNK,Guaranty Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FGBI,First Guaranty Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+GNZUF,Guangzhou Automobile Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GFED,Guaranty Federal Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NGUAX,Neuberger Berman Guardian Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

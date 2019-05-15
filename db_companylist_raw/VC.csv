@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VC,Visteon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VCNX,Vaccinex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VCEL,Vericel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VCSY,Vertical Computer Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VCR,Vanguard Consumer Discretionary ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VCSH,Vanguard Short-Term Corporate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VCLT,Vanguard Long-Term Corporate Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VCIT,Vanguard Interm-Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VCTR,Victory Capital Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VCYT,Veracyte Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

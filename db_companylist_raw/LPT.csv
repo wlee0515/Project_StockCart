@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPT,Liberty Property Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LPTH,LightPath Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LPTX,Leap Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LPTIX,EnTrustPermal Alternative Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LPTI,Longport Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LPTSX,EnTrustPermal Alternative Core IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPTC,Le@p Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LPTFX,EnTrustPermal Alternative Core FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPTCX,EnTrustPermal Alternative Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTUIX,Fidelity Advisor Telecommunications I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTUAX,Fidelity Advisor Telecommunications A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTUCX,Fidelity Advisor Telecommunications C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTUWAX,FT 6488: Municipal Advantage Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTUJAX,FT 7167: International Capital ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTUNMX,FT 7047: Energy Select Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTUDMX,FT 6584: High Dividend Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTUPRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTUTX,Fidelity Advisor Telecommunications M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTUBLX,FT 6756: Municipal Income Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

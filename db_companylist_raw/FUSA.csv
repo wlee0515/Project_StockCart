@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUSAX,Franklin US Government Secs Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FUSA.LON,Fidelity US Quality Income ETF Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+FUSA.FRK,FIDELITY US Q.INC.ETF ACC,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+FUSA.FRK,Fidelity UCITS SICAV - Fidelity US Quality Income UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+FUSA.STG,Fidelity US Quality Income ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

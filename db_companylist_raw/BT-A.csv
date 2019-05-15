@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BT-A.LON,BT Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+10007.AUS,BT-Aberdeen Act Hgd Intl Eq,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3158
+BTABERDEENAC.AUS,BT-Aberdeen Act Hgd Intl Eq,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2581

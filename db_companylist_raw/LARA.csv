@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMRXF,Laramide Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+LRAXF,Lara Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LARAF,Laura Ashley Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LAM.TRT,Laramide Resources Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+LRA.TRV,Lara Exploration Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+L4R.FRK,Laramide Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+L4R.BER,LARAMIDE RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+LEW.FRK,Lara Exploration Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+L4R.STG,Laramide Resources Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3200
+LEW.BER,LARA EXPLORATION LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200

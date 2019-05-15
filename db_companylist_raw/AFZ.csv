@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFZ.FRK,Africa Oil Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AFZ.BER,AFRICA OIL CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AFZ.MUN,AFRICA OIL CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AFZ.STG,Africa Oil Corp. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

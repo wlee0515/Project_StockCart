@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRBK,Meridian Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRBBX,MFS Total Return Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBVX,BlackRock Basic Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBKX,MFS Total Return Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBFX,MFS Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBIX,MFS Total Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBCX,MFS Total Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBHX,MFS Total Return Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBPX,BlackRock Balanced Capital R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRBGX,MFS Total Return Bond R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

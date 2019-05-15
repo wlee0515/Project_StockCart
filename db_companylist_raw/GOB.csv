@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOBSX,BrandywineGLOBAL Global Opp Bond IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GOBK,Globalink Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GOBIX,BrandywineGLOBAL Global Opp Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOBAX,BrandywineGLOBAL Global Opp Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOBFX,BrandywineGLOBAL Global Opp Bond FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOBCX,BrandywineGLOBAL Global Opp Bond C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMN.TRV,GobiMin Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+GOB.BER,ST GOBAIN  EO 4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GOB.HAN,ST GOBAIN  EO 4,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+GOB.HAM,ST GOBAIN  EO 4,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000

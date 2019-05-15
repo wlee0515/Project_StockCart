@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SJM,The J. M. Smucker Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+0L7F.LON,The J. M. Smucker Company,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+JM2.MUN,SMUCKER -J.M.-,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+JM2.FRK,The J. M. Smucker Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+JM2.BER,SMUCKER -J.M.-,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+JM2.DUS,SMUCKER -J.M.-,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759
+JM2.STG,J.M. Smucker Co. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

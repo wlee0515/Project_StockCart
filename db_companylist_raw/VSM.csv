@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSM,Versum Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VSMAX,Vanguard Small Cap Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VSMGX,Vanguard LifeStrategy Moderate Gr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VSMPX,Vanguard Total Stock Market Index Instl Pls,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMIX,Invesco Small CapValue Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMSX,Vanguard S&P Small-Cap 600 Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMV,VictoryShares US Mult-Fctr Mnmm Vltl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMCX,Invesco Small CapValue C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMVX,Vanguard S&P Small-Cap 600 Val Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSMR,Verify Smart Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

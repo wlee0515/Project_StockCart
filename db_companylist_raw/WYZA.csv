@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYZA.FRK,Comgest Growth Plc - Comgest Growth GEM Promising Companies Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WYZA.BER,COMGEST GR. G.P.C. EO ACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WYZA.HAM,COMGEST GR. G.P.C. EO ACC,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WYZA.MUN,COMGEST GR. G.P.C. EO ACC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WYZA.DUS,COMGEST GR. G.P.C. EO ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

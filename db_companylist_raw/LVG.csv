@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LVGI,Limitless Venture Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MLPZ,UBS ETRACS 2x M Lvg S&P MLP ETN SerB,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+VIXL.MIL,Boost S&P500 VIX S/T Futures 2.25x LvgDlETP,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2222
+0095.HKG,LVGEM (China) Real Estate Investment Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2143
+00655L.TWN,Cathay FTSE China A50 Daily Lvg 2X ETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.2143
+00672L.TWN,Yuanta S&P GSCI CO 2x Lvg ER Futures ETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.2000
+B7S.BER,"BROOKDALE SR LVG  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1667
+N2H.BER,"LVGEM (CN)R.E. INV.HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1667
+VIXL.LON,Boost S&P500 VIX S/T Futures 2.25x LvgDlETP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1091

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVTYX,Ivy Managed Intl Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTAX,Ivy Managed Intl Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTIX,Ivy Managed Intl Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTMTX,Investment Grade Income Tr 20+Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTCX,Ivy Managed Intl Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTEX,Ivy Managed International Oppor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTCSX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVTBX,Ivy Managed Intl Opportunities B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVTCRX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVTNX,Ivy Managed International Opps N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEIYX,JPMorgan Global Research Enhanced Index R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEITX,JPMorgan Global Research Enhanced Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEIBX,PGIM Jennison Equity Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEIMX,James Alpha Mgd Risk Emerg Mkts Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEIAX,JPMorgan International Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEISX,JPMorgan International Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEIQX,JPMorgan International Rsrch Enh Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEICX,JPMorgan International Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEIRX,JPMorgan International Equity Income R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+271980.KOR,Jeil Pharmaceutical Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2000

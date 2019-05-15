@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LH-R.BAK,Land and Houses Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+KR5102733494.KOR,UBSHana LC 2020 Fdr Bd Bal-FoF 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5102734385.KOR,UBSHana LC 2030 Fdr Eq Bal-FoF 1 LH-A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5102734393.KOR,UBSHana LC 2030 Fdr Eq Bal-FoF 1 LH-C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5102737636.KOR,UBSHana LC 2020 Fdr Bd Bal-FoF 1 LH-A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+F000001K97.KOR,UBSHana LC 2020 Fdr Bd Bal-FoF 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+F000001K9F.KOR,UBSHana LC 2030 Fdr Eq Bal-FoF 1 LH-C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+F000001K9H.KOR,UBSHana LC 2030 Fdr Eq Bal-FoF 1 LH-A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+F000002FTL.KOR,UBSHana LC 2020 Fdr Bd Bal-FoF 1 LH-A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYSCX,Wells Fargo Small Cap Core Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+WYSC.BER,UBS (LUX) BOND FD-AUD P D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WYSC.MUN,UBS (LUX) BOND FD-AUD P D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WYSC.DUS,UBS (LUX) BOND FD-AUD P D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

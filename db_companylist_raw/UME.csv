@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMEWF,UMeWorld Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UMEMX,Columbia Emerging Markets Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UMESX,Columbia Global Energy & Natrl Res Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UMESLTD-EQ.NSE,USHA MARTIN EDU,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+7604.TOK,UMENOHANA Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+UMEC.KLA,UNIMECH GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4615
+UMESLTD.BSE,Usha Martin Education & Solutions Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+UMESLTD.NSE,Usha Martin Education & Solutions Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2727

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VULC,Vulcan International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VMC,Vulcan Materials Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VVPSX,Vulcan Value Partners Small Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VVPLX,Vulcan Value Partners,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VULC3.SAO,Vulcabras Azaleia S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4444
+0LRK.LON,Vulcan Materials Company,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+VUL.TRV,Vulcan Minerals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2286

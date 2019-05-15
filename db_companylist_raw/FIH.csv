@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIHBX,Federated Instl High Yield Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FIHD,UBS AG FI Enhanced Global High Yield ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FIHFX,Fidelity Freedom Index 2035 Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIHTX,Fidelity Commodity Strategy F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FXCNY,FIH Mobile Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FXCNF,FIH Mobile Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FIHJBX,FT 6463: Municipal Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FIHLX,Federated Instl High Yield Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FIHCDX,FT 7159: Municipal Advantage Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

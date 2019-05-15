@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPY,Brookfield Property Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BPY-UN.TRT,Brookfield Property Partners L.P.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

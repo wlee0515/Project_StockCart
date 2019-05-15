@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCF,Putnam High Income Securities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PCFP,Apotheca Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PCFO,Pacific Office Properties Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PCFBF,Pacific Basin Shipping Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCFCX,PIMCO CA Intermediate Muni Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCFAX,PIMCO RAE PLUS Small A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCFIX,PIMCO RAE PLUS Small Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCFEX,PIMCO RAE PLUS Small C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCFBY,Pacific Basin Shipping Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCF.LON,PCF Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

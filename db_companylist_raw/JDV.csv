@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JDVWX,JHancock Disciplined Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JDVAX,JPMorgan Diversified A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVB,Jeff Davis Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVNX,JHancock Disciplined Value NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVSX,JPMorgan Diversified I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVOX,JHancock Disciplined Value R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVIX,JHancock Disciplined Value Intl I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVFX,JHancock Disciplined Value R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVHX,JHancock Disciplined Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDVZX,JPMorgan Diversified R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

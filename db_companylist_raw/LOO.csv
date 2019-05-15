@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LOOP,Loop Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LSBRX,Loomis Sayles Bond Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSBDX,Loomis Sayles Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSGRX,Loomis Sayles Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSIIX,Loomis Sayles Investment Grade Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NEZYX,Loomis Sayles Strategic Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSFYX,Loomis Sayles Sr Floating Rate and F/I Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSSIX,Loomis Sayles Small Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818
+NEFZX,Loomis Sayles Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714
+NERYX,Loomis Sayles Core Plus Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714

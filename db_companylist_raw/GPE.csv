@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPEIX,Grandeur Peak Emerg Mkts Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPEOX,Grandeur Peak Emerg Mkts Opps Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPE.PAR,Groupe Pizzorno Environnement,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+GPEI.SGP,GP Industries,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+GGAB.PAR,GPEGORGE5.40%DEC18,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000

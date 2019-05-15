@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JQLGX,JHancock Multimanager Lifestyle Gr R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JQLBX,JHancock Multimanager Lifestyle Bal R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JQLMX,JHancock Multimanager Lifestyle Mod R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JQLCX,JHancock Multimanager Lifestyle Cnsrv R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JQLAX,JHancock Multimanager Lifestyle Agrsv R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

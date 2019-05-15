@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MQIFX,Franklin Mutual Quest Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+MQPXF,Matica Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MQY,BlackRock MuniYield Quality Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MQT,BlackRock MuniYield Quality Fund II Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MQLIX,MFS Limited Maturity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MQLFX,MFS Limited Maturity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MQRIX,ACR Multi-Strategy Quality Ret (MQR) I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MQXDF,Marquee Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MQRAX,ACR Multi-Strategy Quality Ret (MQR) A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MQGIX,MFS International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

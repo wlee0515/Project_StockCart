@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEFE.STG,Aberdeen Global-Asian Sm. Cos A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+FJRV.STG,BGF-Japan Sm.&MidCap Opportun.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+IPGD.STG,Fidelity Fds-Japan Sm.Cos.Fd. R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+MI9U.BER,BGF-US SM.+MIDC.OPP.A2,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+PS08.BER,PROSHARES ULTRA SM.C.600,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+ABD9.HAM,ABERD.GL.-ASIAN SM. AADL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2000
+FT94.STG,Fr.Temp.Inv.Fds-T.Asian Sm.CosN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+MI98.STG,BGF-Japan Sm.&MidCap Opportun.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+MI9U.DUS,BGF-US SM.+MIDC.OPP.A2,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+MI9U.MUN,BGF-US SM.+MIDC.OPP.A2,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMEA.FRK,Amundi ETF MSCI EM Asia EUR A/I,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+AMEA.FRK,Amundi ETF MSCI EM Asia UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+AMEA.STG,AIS-Amundi MSCI EM ASIA Namens-,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

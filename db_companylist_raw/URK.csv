@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+URKA.MOS,Public Joint Stock Company Uralkali,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+URKZ.MOS,Urals Stampings Plant PAO,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+URKOCAPITALS.BCL,Urko Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F00000V61Y.BCL,Urko Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857

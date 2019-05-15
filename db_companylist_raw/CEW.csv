@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEW,WisdomTree Emerging Currency Strat ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CWC.MUN,CEWE STIFT.KGAA  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CWC.FRK,CEWE Stiftung & Co. KGaA,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+CEW.TRT,iShares Equal Weight Banc&Lfco ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+CWC.BER,CEWE STIFT.KGAA  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+CWC.STG,CEWE Stiftung & Co. KGaA INHABE,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

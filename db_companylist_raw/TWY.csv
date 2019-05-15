@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWY.FRK,ALIBABA HLTH INFO.T.HD-01,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TWY.STG,Alibaba Health Information Technology Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+TWY.TRV,Twyford Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

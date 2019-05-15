@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMSM.JKT,PT Selamat Sempurna Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+5843.KLA,Kumpulan Perangsang Selangor Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+SDMU.JKT,PT Sidomulyo Selaras Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+SELAN.BSE,Selan Exploration Technology Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+1783.KLA,Selangor Properties Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3636
+2224.KLA,Selangor Dredging Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3200
+2SD.BER,SIDOMULYO SELARAS  RP 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+SDGS.KLA,SELANGOR DREDGING BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2963
+KPSB.KLA,KUMPULAN PERANGSANG SELANGOR,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+SELS.KLA,SELANGOR PROPERTIES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222

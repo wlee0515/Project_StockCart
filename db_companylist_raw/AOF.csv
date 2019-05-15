@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOFAX,Alger Small Cap Focus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOFIX,Alger Small Cap Focus I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOFCX,Alger Small Cap Focus C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOFYX,Alger Small Cap Focus Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOF.LON,Africa Opportunity Fund Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+AOF.AUS,Australian Unity Office Fund,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+AOF.FRK,ATOSS Software AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+300738.SHZ,Guangdong Aofei Data Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+AOF.BER,ATOSS SOFTWARE AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AOF.DUS,ATOSS SOFTWARE AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1364

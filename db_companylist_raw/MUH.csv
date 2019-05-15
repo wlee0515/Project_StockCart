@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUH,"Blackrock MuniHoldings Fund II,",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MUHLX,Muhlenkamp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+5703.KLA,Muhibbah Engineering M Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+033920.KOR,Muhak Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6000
+MUHB.KLA,MULTI-USAGE HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3333
+MUHI.KLA,MUHIBBAH ENGINEERING (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+F00000YDNU.PAR,Groupama Avenir Euro MUH,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2069

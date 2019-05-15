@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YOJ.BER,YAHOO JAPAN CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+YOJ.FRK,Yahoo Japan Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YOJ.AUS,Yojee Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+YOJ.DUS,YAHOO JAPAN CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YOJ.MUN,YAHOO JAPAN CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YOJ.STG,YAHOO JAPAN CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SRC.FRK,Yojee Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3750

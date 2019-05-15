@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJRA.FRK,FID.FDS-THAILAND A GL.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FJRA.BER,FID.FDS-THAILAND A GL.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FJRA.DUS,FID.FDS-THAILAND A GL.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+FJRA.HAN,FID.FDS-THAILAND A GL.,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+FJRA.HAM,FID.FDS-THAILAND A GL.,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+FJRA.MUN,Fidelity Funds - Thailand Fund,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FJRA.STG,Fidelity Fds-Thailand Fund Reg.,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

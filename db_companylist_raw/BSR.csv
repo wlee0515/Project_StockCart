@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSRR,Sierra Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BSRC,BioSolar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BSRAF,Besra Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSRTF,BSR Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSR.TRV,Bluestone Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+HOM-U.TRT,BSR Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+BSR.AUS,Bassari Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BSR.FRK,GoldMining Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BSR.BER,GOLDMINING INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BSR.STG,GoldMining Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1714

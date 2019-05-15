@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3198.TOK,SFP Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+SFPAX,Saratoga Financial Service A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFPI,Santa Fe Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFPIX,Saratoga Financial Services I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFPCX,Saratoga Financial Service C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SFPI.PAR,GROUPE SFPI SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SFPN.SWI,Swiss Finance & Property Investment AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+SFP.BAK,Siam Food Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2400

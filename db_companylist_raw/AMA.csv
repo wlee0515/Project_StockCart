@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMZN,Amazon.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRN,Amarin Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMAT,Applied Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMAG,AMAG Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMAL,Amalgamated Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMAZ,"Amazing Energy Oil and Gas, Co.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMAGX,Amana Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+AMBS,Amarantus BioScience Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AZFL,Amazonas Florestal Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AMANX,Amana Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSSRF,Kesselrun Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KGC.TRV,Kestrel Gold Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+KESARPE.BSE,Kesar Petroproducts Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+0BNT.LON,Kesko Oyj,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+524174.BSE,Kesar Petroproducts Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+KEK.MUN,KESKO B,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000
+KTIL.BSE,Kesar Terminals & Infrastructure Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727
+KES.TRV,Kesselrun Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2000
+9334.KLA,KESM Industries Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

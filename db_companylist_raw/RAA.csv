@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAAX,VanEck Vectors Real Asset Allocation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+RDAR,Raadr Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RAAIX,Altegris/AACA Opportunistic Real Estt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAATX,American Funds 2010 Trgt Date Retire R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAAAX,Altegris/AACA Opportunistic Real Estt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAAGX,American Funds ST Bd Fd of Amer R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAANX,Altegris/AACA Opportunistic Real Estt N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAALX,Conductor Global Equity Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RAAEX,American Funds ST Bd Fd of Amer R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

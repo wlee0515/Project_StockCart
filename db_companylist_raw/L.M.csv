@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERCA.STG,Telefonaktiebolaget L.M.Erics.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+ERCB.STG,Telefonaktiebolaget L.M.Erics.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+ERCG.STG,Telefonaktiebolaget L.M.Erics.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+DJAJ.BER,L.M.SOECD EM.GDP UETF A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+DJAJ.DUS,L.M.SOECD EM.GDP UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

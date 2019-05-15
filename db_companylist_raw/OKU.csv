@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1655.HKG,Okura Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+OKU.AUS,Oklo Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+OKA.FRK,Okumura Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OKU.FRK,Okuma Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+1833.TOK,Okumura Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+4221.TOK,Okura Industrial Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+6103.TOK,Okuma Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+8217.TOK,Okuwa Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+OKA.BER,OKUMURA CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+OKU.DUS,OKUMA CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2069

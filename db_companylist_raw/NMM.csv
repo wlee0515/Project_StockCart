@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMM,Navios Maritime Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NMMIX,Nuveen MI Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMMEX,Northern Active M Emerging Market Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMMGX,Northern Multi-Manager Glbl Real Estate,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMMTX,Nuveen Large-Cap Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMMDX,Nuveen MD Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMMCF,NMC Health Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NMM.FRK,Newmont Mining Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NMM.BER,"NEWMONT MNG CORP. DL 1,60",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NMM.FRK,Newmont Mining Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WXUC.BER,TIF-MONTHL.EX.INC. RILS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WXUC.MUN,TIF-MONTHL.EX.INC. RILS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WXUC.DUS,TIF-MONTHL.EX.INC. RILS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

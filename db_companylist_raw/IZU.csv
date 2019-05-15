@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8260.TOK,Izutsuya Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+6819.TOK,Izu Shaboten Resort Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+8273.TOK,Izumi Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+8260.FRK,IZUTSUYA CO LTD,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1875

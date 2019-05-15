@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUCEX,JPMorgan International Uncons Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUCD.LON,iShares S&P 500 Cnsmr Discr Sect ETF$Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IUCB.LON,SPDR Blmbrg Bcly 3-10 Yr US Corp BdETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IUCM.LON,iShares S&P 500 Comm Sect ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IUCS.LON,iShares S&P 500 Cnsmr Stpls Sect ETF$Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IUC1.STG,Imperial Logistics Ltd. Reg. Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IUC1.FRK,Imperial Logistics Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+IUCD.SWI,iShares S&P 500 Cnsmr Discr Sect ETF$Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+IUCS.SWI,iS S&P500 Cnsmr Staples USDAc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

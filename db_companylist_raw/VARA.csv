@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VARAX,Vivaldi Merger Arbitrage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AV1.FRK,Arco Vara AS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+AV1.BER,"ARCO VARA AS  EO 0,70",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200
+AV1.STG,Arco Vara AS Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2353
+513363.BSE,VARAHI DIAMONDS & FINANCE LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286

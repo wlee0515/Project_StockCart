@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTEC,Fidelity MSCI Information Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTNW,FTE Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTEK,Fuel Tech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTEG,For The Earth Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTEMX,Fidelity Total Emerg Mkts,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTEO,FRONTEO Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FTEQX,Templeton Emerging Markets Small Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTEJX,Fidelity Advisor Total Emerg Mkts I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTEIX,Fidelity Advisor Total Intl Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTELOX,The First Trust Combined Srs 31,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

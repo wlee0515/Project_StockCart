@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RLF.BSE,RLF Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+RLFIX,RiverFront Asset Allocation Agrsv I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLF.SWI,Relief Therapeutics Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+RLF.FRK,Longfor Group Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RLF.BER,LONGFOR GR.HLD.REGS HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RLF.JOH,Rolfes Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+RLF.MUN,LONGFOR GR.HLD.REGS HD-10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RLFL.BSE,Ramchandra Leasing and Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+512618.BSE,RLF Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286

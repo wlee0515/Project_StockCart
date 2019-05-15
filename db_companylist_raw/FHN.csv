@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHN,First Horizon National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FHN-PA,First Horizon National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHNIX,Fidelity Advisor High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHNIY,The Foschini Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHNFX,Fidelity Series Government Bd Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHNUSX,FT 7130: Dow Target 5 1Q '18 - ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHNHRX,FT 4658: Core Holdings Growth T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHNSTX,FT 7444: Income Allocation Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHNDX,Fidelity Freedom Blnd 2020 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHNCX,Fidelity Advisor High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

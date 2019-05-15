@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUCRF,Lucara Diamond Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMLEX,Mount Lucas US Focused Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+LCPDF,Lucapa Diamond Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+LUC.TRT,Lucara Diamond Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BOLS.AMS,Lucas Bols N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.4000
+AJL.AUS,AJ Lucas Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+NHY.FRK,Lucapa Diamond Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+FW9.BER,AJ LUCAS GROUP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2581
+LOM.AUS,Lucapa Diamond Company Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2353

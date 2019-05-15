@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ARTI.JKT,PT. Ratu Prabu Energi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5714
+530309.BSE,Chandra Prabhu International Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+CHANDRAP.BSE,Chandra Prabhu International Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+PTIL.BSE,Prabhat Telecoms (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+531855.BSE,Prabhav Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+PRABHAT.BSE,Prabhat Dairy Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+PRABHAT.NSE,Prabhat Dairy Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2759
+PRABHAVIN.BSE,Prabhav Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667
+PRABHAT-EQ.NSE,PRABHAT DAIRY LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2162

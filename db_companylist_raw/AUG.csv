@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUG,Auryn Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AUGR,Defiance Future Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+AUGAX,Columbia Quality Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTLGF,St. Augustine Gold and Copper Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AUGCX,Columbia Quality Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FWEKLX,FT 7477: Dow Target 10 Aug. '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+FMTUSX,"FT 6878: ADR Portfolio, August ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765

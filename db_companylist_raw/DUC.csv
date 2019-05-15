@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DUC,Duff & Phelps Utility & Corpora,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DCO,Ducommun Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DUCK.JKT,PT Jaya Bersama Indo Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+DUCON.BSE,Ducon Infratechnolgies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+DUCON.NSE,Ducon Infratechnolgies Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+000778.SHZ,Xinxing Ductile Iron Pipes Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4444
+DUM.BER,"DUCOMMUN INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2353
+024900.KOR,Duckyang Ind. Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2308
+DYNATECH-EQ.NSE,DUCON INFRATECHNOL INR1,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1538

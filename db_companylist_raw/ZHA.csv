@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1818.HKG,Zhaojin Mining Industry Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+600794.SHH,Zhangjiagang Freetrade Science & Technology Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2222
+002507.SHZ,Chongqing Fuling Zhacai Group Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+002598.SHZ,Shandong Zhangqiu Blower Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+GJF.BER,ZHONG FA ZHAN HLDGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+ZVL.HAM,ZHAOJIN MINING IND.H YC 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2000
+ZVL.MUN,ZHAOJIN MINING IND.H YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1667
+ZVL.STG,Zhaojin Mining Industry Co.LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1667
+1660.HKG,Zhaobangji Properties Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1667
+002839.SHZ,Jiangsu Zhangjiagang Rural Commercial Bank  Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.0968

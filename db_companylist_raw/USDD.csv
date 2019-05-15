@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEDM.LON,iShares MSCI EM IMI ESG Scrn ETF USDDist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+SPMD.LON,iShares Edge S&P 500 MinVol ETF USDDist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+UFSD.LON,iShares Edge MSCI USA Mltfct ETF USDDist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000

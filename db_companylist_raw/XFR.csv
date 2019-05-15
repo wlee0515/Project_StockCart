@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XFRAX,BlackRock Floating Rate Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFR.TRT,iShares Floating Rate ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XFRM.LON,ETFS Ex-Agriculture and Livestock ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

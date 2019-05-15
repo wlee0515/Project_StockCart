@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSQTX,Goldman Sachs Small Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSQPX,Goldman Sachs Strategic Fac Allc P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSQRX,Goldman Sachs Small Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROST,Ross Stores Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ROSE,Rosehill Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RST,Rosetta Stone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EXSR,"Exchange Bank (Santa Rosa, CA)",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROSGQ,Rosetta Genomics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OJSCY,Public Joint Stock Company Rosneft Oil Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROSEU,Rosehill Resources Inc. UT 1CL A & 1WT,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROSSX,Royce Micro-Cap Opportunity Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ROSYY,Public Joint Stock Company Long-Distance and International Telecommunications Rostelecom,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ROSFX,Royce Micro-Cap Opportunity Invmt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

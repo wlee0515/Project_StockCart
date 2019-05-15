@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWCMY,Alumina Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AWCMF,Alumina Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AWC.AUS,Alumina Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+AWC.BER,"AMERICAN WATER WKS DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AWCF.KLA,AWC BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+AWC.STG,American Water Works Co. Inc. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AWC.DUS,"AMERICAN WATER WKS DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+7579.KLA,AWC Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+AWC.FRK,American Water Works Company Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AWC.SGP,Brook Crompton Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4615

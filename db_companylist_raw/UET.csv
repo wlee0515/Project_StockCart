@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFC.BER,UET AG  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8571
+UETH,"United Ethanol, LLC.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UETMF,Universal Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UETAAX,ADT 1905 UBS Longer Term Invest,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+CFC.FRK,UET United Electronic Technology AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+JK8.SGP,UETF - United SSE 50 China ETF,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.2143
+JSRI.MUN,BNPPE.-MSCI JAP.SRI UETFD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+X023.HAM,CS.-CS S+P S.C.600 UETF I,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.1818
+SC0D.STG,I.M.-I.EURO STOXX 50 UETF Regis,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+C051.DUS,COMS.-E.STOXX SD30 UETF I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1579

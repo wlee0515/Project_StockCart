@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETH,Ethan Allen Interiors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PEIX,Pacific Ethanol Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EOMN,Ethos Media Network Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ETCG,Ethereum Classic Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADJEX,Azzad Ethical,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ETHO,Etho Climate Leadership US ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+ETHSX,Eaton Vance Worldwide Health Sci A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+ETHOF,Ethos Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ETHIX,Eaton Vance High Income Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+DTSRF,Ether Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4GXA.BER,GL.X MSCI CH.COM.SERV.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+4GXA.DUS,GL.X MSCI CH.COM.SERV.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3077
+ZCS3.DUS,CSOP CH.CSI 300 SMART ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3077

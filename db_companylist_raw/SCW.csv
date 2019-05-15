@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCWX,SecureWorks Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCWFX,American Funds SMALLCAP World F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCWCX,American Funds SMALLCAP World C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCWTF,Schweiter Technologies AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

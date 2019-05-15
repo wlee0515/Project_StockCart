@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNOV,Rhino Novi Inc.	,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RNOTX,RiverNorth/Oaktree High Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNO.PAR,Renault SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+RNO.AUS,Rhinomed Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+RNO.MIL,Renault SA,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+RNO.LON,Renold plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RNO.SWI,Renault SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+RNO.VIE,Renault SA,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+RNON.MEX,Renault SA,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000

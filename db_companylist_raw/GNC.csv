@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNC,GNC Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GNCA,Genocea Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNCP,C4 Odyssey Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNCC,Genco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNCGF,Greencore Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNCFX,Goldman Sachs Multi-Manager Non,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GNCGY,Greencore Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNC.AUS,GrainCorp Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+GNC.LON,Greencore Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GNC.TRV,Gainey Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

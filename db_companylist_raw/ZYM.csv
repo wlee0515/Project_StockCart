@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZYME,Zymeworks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZYME.TRT,Zymeworks Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+0OX.FRK,Zymeworks Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529

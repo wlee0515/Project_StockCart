@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNS,Cohen & Steers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CNST,Constellation Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNSL,Consolidated Communications Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VSCGX,Vanguard LifeStrategy Cnsrv Gr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RHS,Invesco S&P 500 Eql Wt Cnsm Stapl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+CNSWF,Constellation Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FXD,First Trust Cnsmr Discret AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+FXG,First Trust Cnsmr Staples AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+INPFX,American Funds Cnsrv Gr & Inc F-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+KEMQ,KraneShares Em Mkts Cnsmr Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463

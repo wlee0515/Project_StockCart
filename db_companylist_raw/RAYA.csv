@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRUK.JKT,PT Guna Timur Raya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+SRHHYPOLTD.NSE,Sree Rayalaseema Hi-Strength Hypo Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+NRCA.JKT,PT Nusa Raya Cipta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3077
+BBRM.JKT,PT Pelayaran Nasional Bina Buana Raya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2424
+SRHHYPOLTD.BSE,Sree Rayalaseema Hi-Strength Hypo Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353
+SRHHYPOLTD-EQ.NSE,SREE RAYALASEEMA H,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2353
+IDPR.JKT,PT Indonesia Pondasi Raya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1818

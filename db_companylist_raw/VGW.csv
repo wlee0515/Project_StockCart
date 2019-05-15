@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGWIX,Vanguard Global Wellesley Income Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGWLX,Vanguard Global Wellington Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGWAX,Vanguard Global Wellington Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGWD.FRK,VA.FTSE A.W.H.D.Y.UETFDLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VGWL.FRK,VANG.FTSE A.-WO.U.ETF DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VGWD.FRK,VA.FTSE A.W.H.D.Y.UETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VGWL.FRK,VANG.FTSE A.-WO.U.ETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VGWD.BER,VA.FTSE A.W.H.D.Y.UETFDLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VGWD.DUS,VA.FTSE A.W.H.D.Y.UETFDLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

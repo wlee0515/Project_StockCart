@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRRTX,Lord Abbett Floating Rate R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRVX,Lord Abbett Floating Rate R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRCX,QS Strategic Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRKX,Lord Abbett Floating Rate R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRREX,Resource Real Estate Diversifie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRRX,Lord Abbett Floating Rate R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRAX,QS Strategic Real Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRSX,QS Strategic Real Return IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRRIX,QS Strategic Real Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

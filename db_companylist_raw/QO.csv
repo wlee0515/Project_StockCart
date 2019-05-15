@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QRVO,Qorvo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QOIL,Quest Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QOPYX,Oppenheimer Fundamental Alternatives Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QOPNX,Oppenheimer Fundamental Alternatives R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QOPIX,Oppenheimer Fundamental Alternatives I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QOPCX,Oppenheimer Fundamental Alternatives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QOWI,"Quality One Wireless, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSPA,ANKAA Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANKOF,Angkor Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANK.TRV,Angkor Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ANKITMETAL.NSE,Ankit Metal & Power Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ANKIN.BSE,Anka India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+ANK.FRK,Sompo Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+ANK.BER,SOMPO HOLDINGS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+ANK.MUN,SOMPO HOLDINGS INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3750

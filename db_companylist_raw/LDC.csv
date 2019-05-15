@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDCVX,Lord Abbett Short Duration Core Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDCFX,Lord Abbett Short Duration Core Bond F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDCCX,Lord Abbett Short Duration Core Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDCRX,Lord Abbett Short Duration Core Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDCAX,Lord Abbett Short Duration Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDC.BAK,LDC Dental Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+LDCE.FRK,PFIS ETF-P.LD EO C.B. EOI,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LDCU.LON,PIMCO LowDur US CorpBd Sour ETF USD Inc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LDCA.BER,PFISETF-ST HY CB ISU.LSIH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LDCC.SWI,PIMCO LowDur US CorpBd Sour ETF CHFH Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

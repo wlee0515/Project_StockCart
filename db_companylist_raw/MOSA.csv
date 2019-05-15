@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOS,The Mosaic Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MOSC,Mosaic Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOSAX,MassMutual Select Overseas A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSC-UN,Mosaic Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+M.TRV,Mosaic Capital Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+MOS.MEX,The Mosaic Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+02M.BER,"MOSAIC CO. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3810
+UMI.BAK,The Union Mosaic Industry Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+MOSC34.SAO,The Mosaic Company,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2857
+02M.FRK,The Mosaic Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

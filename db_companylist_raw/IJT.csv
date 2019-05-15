@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJT,iShares S&P Small-Cap 600 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+7315.TOK,IJT Technology Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+IJT.MEX,iShares S&P Small-Cap 600 Growth ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.2222

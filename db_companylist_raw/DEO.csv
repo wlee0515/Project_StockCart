@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DEO,Diageo plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DEOPX,Davenport Equity Opportunities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOSCF,"Deoleo, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+DEON.MEX,Diageo plc,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+LYMS.BER,LYX.NASDAQ-100 U.ETF DEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+JR6T.MUN,JPM INV-GL.MAC.OPP.A DEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2308
+LYY4.MUN,LYX.JAP.(TOPIX)(DR) DEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222
+SC5A.BER,"DEOLEO S.A.  EO -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+HV84.FRK,SISF-EUR.DIV.MAX.A DEOQF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

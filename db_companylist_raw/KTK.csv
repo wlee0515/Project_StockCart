@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3035.TOK,ktk Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5455
+KTKBANK.NSE,The Karnataka Bank Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+KTKSENSEX.BSE,Kotak Mahindra Mutual Fund - Kotak Sensex ETF,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+603680.SHH,KTK Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+KTKBANK.BSE,The Karnataka Bank Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+KTKIND4RG.BSE,Kotak Mahindra Mutual Fund,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AYCP.FRK,AutoWeb Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AYCP.MUN,"AUTOWEB INC.  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+AYCP.STG,AutoWeb Inc. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

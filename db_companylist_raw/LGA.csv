@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGANX,Loomis Sayles Ltd Term Govt and Agency N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGASX,ClearBridge Small Cap FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGAS.LON,ETFS 2x Daily Long Gasoline ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LGA.MUN,LG DISPLAY CO.ADR SW 5000,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LGA.FRK,LG Display Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LGA.BER,LG DISPLAY CO.ADR SW 5000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LGA.STG,LG Display Co. Ltd. Reg. Shs(Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LGAS.MIL,ETFS 2x Daily Long Gasoline ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+FR0011660919.PAR,LGA Coverage I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6000
+LGA.VIE,LG Display Co. Ltd.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3529

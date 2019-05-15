@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEZ,VictoryShares Emerging Market Vol Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CEZ.FRK,"CEZ, a. s.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CEZ.BER,CEZ AS INH.  KC 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CEZ.DUS,CEZ AS INH.  KC 100,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CEZ.MUN,CEZ AS INH.  KC 100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CEZ.STG,CEZ AS Inhaber-Aktien KC 100,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+0NZF.ILN,CEZ AS CEZ ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+HE05.VIE,RCB OE TrackX2 l CEZ,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+HE06.VIE,RCB OE TrackX3 l CEZ,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2609

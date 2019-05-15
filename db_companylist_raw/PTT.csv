@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTTRX,PIMCO Total Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PTTAX,PIMCO Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTTCX,PIMCO Total Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTTPX,PIMCO Total Return I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTTN,Patten Energy Solutions Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTTTS,Palmetto Real Estate Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTXLF,PTT Exploration and Production Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PEXNY,PTT Exploration and Production Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PCHUY,PTT Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PTTIX,Principal LifeTime 2010 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

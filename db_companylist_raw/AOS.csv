@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOS,A. O. Smith Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AOSL,Alpha and Omega Semiconductor Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+002913.SHZ,"AoshikangTechnologyCo. ,Ltd",Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.7500
+AOS.FRK,Amdocs Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AOS.MUN,"AMDOCS LTD.  LS-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AOS.STG,AMDOCS LTD. Registered Shares L,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AOS.MEX,A. O. Smith Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2000

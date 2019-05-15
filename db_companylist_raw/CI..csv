@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CI.BAK,Charn Issara Development Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+CI.MEX,Cigna Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500

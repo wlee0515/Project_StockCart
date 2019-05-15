@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDPYX,AB Multi-Manager Select 2055 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDPRX,AB Multi-Manager Select 2055 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDPKX,AB Multi-Manager Select 2055 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDPZX,AB Multi-Manager Select 2055 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDPAY,TOD'S S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDPORTCONFOR.TRT,TD Comfort Aggressive Growth Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+TDPORTEFEUIL.TRT,TD Comfort Balanced Portfoli,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3750
+TDPRECIOUSME.TRT,TD Precious Metals - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDPM.JKT,PT Tridomain Performance Materials Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3333
+TDPOWERSYS.NSE,TD Power Systems Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333

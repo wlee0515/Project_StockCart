@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEXYY,Jiangsu Expressway Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JEXYF,Jiangsu Expressway Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JEXE.FRK,Invesco STOXX Japan Exporters ETF EURH,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+JEXE.FRK,Source Markets plc - Source STOXX Japan Exporters UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+JEXE.STG,I.M.-I.STOXX Japan Export.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+JEXE.DUS,IM-I.STOXX JAP.EXP. AEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLN,Olin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OLNCF,Omni-Lite Industries Canada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OLNK,OneLink Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OLN.MUN,OLIN CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+OLN.FRK,Olin Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OLN.STG,OLIN CORP. Registered Shares DL,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

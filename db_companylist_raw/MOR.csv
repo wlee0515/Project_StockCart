@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOR,MorphoSys AG,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KMI,Kinder Morgan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MS,Morgan Stanley,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+PM,Philip Morris International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FNMA,Federal National Mortgage Association,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NYMT,New York Mortgage Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MORL,UBS ETRACS Mthly Py 2xLvg Mortg REIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+BXMT,Blackstone Mortgage Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CPOAX,Morgan Stanley Multi Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+WMC,Western Asset Mortgage Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

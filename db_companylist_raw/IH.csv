@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IHI,iShares US Medical Devices ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+INFO,IHS Markit Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IHF,iShares US Healthcare Providers ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IHG,InterContinental Hotels Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IHC,Independence Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IHRTQ,iHeartMedia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IHT,InnSuites Hospitality Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IHE,iShares US Pharmaceuticals ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IHSI,Intelligent Highway Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IHD,Voya Emerging Markets High Dividend Equity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRE,Duke Realty Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GLDD,Great Lakes Dredge & Dock Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DHF,Dreyfus High Yield Strategies Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DSM,Dreyfus Strategic Municipal Bond Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LEO,Dreyfus Strategic Municipals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DMF,Dreyfus Municipal Income Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DGAGX,Dreyfus Appreciation Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+DMB,Dreyfus Municipal Bond Infrastructure Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DLDRX,Dreyfus Natural Resources I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DISSX,Dreyfus Small Cap Stock Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

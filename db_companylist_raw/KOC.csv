@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOCL.BSE,Kome-on Communication Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+8416.TOK,The Bank Of Kochi Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+088260.KOR,E Kocref Cr-Reit,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6667
+KOC.FRK,Kopin Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+KOC.MUN,"KOPIN CORP.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3158
+KOC.STG,KOPIN CORP. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+KRKA.BER,KOC HOLDING ADR/5 TN 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308

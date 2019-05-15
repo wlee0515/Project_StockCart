@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+41O.SGP,LHN Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+LHN.VSX,LafargeHolcim Ltd,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+LHN.PAR,LafargeHolcim Ltd,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4286
+1730.HKG,LHN Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4286

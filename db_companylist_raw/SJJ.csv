@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SJJ.FRK,Serviceware SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SJJ.FRK,Serviceware SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SJJ.BER,SERVICEWARE SE  INH O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SJJ.STG,Serviceware SE Inhaber-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+F000001RZ9.BCL,SJJ Valores Corolypso SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+SJJVALORESCO.BCL,SJJ Valores Corolypso SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+SJJ.DUS,SERVICEWARE SE  INH O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

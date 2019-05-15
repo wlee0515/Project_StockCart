@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEN,Zendesk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AEZS,Aeterna Zentaris Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZENO,Zenosense Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZXAIY,China Zenix Auto International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZENYF,Zenyatta Ventures Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZNKKY,ZENKOKU HOSHO Co. Ltd..,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZENG,Zenergy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZNTR,Zentric Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ZDEC,Zenovia Digital Exchange Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+AEZS.TRT,Aeterna Zentaris Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2500

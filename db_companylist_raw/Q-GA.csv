@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GARPMX,ADT 1872 Q-GARP Portfolio Serie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+GARPLX,ADT 1859 Q-GARP Portfolio Serie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+GARPKX,ADT 1837 Q-GARP Portfolio Serie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+GARPOX,ADT 1909 Q-GARP Portfolio Serie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+GARPNX,ADT 1894 Q-GARP Portfolio Serie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000

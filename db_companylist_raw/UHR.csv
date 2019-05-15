@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UHR.VSX,The Swatch Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+UHRN.SWI,The Swatch Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+U1D.FRK,Uhr.de AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UHR.HAM,"SWATCH GRP AG INH.SF 2,25",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+UHR.FRK,The Swatch Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+U1D.BER,UHR.DE AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UHR.BER,"SWATCH GRP AG INH.SF 2,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UHR.FRK,The Swatch Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+UHR.DUS,"SWATCH GRP AG INH.SF 2,25",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+UHR.MUN,"SWATCH GRP AG INH.SF 2,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000

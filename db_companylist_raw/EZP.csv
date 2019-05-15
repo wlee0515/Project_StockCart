@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZPW,EZCORP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EZP1.FRK,Comet Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EZP1.STG,Comet Holding AG Nam.-Akt. SF 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+EZP1.BER,COMET HLDG AG NA  SF  1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

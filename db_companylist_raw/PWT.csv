@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PWTAX,UBS US Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PWTYX,UBS US Allocation P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PWTN.SWI,Panalpina Welttransport (Holding) AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+PWT.FRK,TFS Financial Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PWT.BER,"TFS FINANCIAL CORP DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+F00000QNO5.TRT,Symmetry Balanced Port Cl PWT8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+F00000QNOP.TRT,Symmetry Conservative Inc Port Cl PWT8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1935
+F00000QOC5.TRT,Symmetry Conservative Port Cl PWT8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000QOCT.TRT,Symmetry Growth Port Cl PWT8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1622

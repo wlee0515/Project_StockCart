@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EWW,iShares MSCI Mexico Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EWW.FRK,Energy World Corporation Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EWW.HAM,ENERGY WORLD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

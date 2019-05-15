@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RS,Reliance Steel & Aluminum Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RSLS,ReShape Lifesciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RSX,VanEck Vectors Russia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RSP,Invesco S&P 500 Equal Weight ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RSG,Republic Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RSHN,RushNet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RSYS,Radisys Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RST,Rosetta Stone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RSSS,Research Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RSCF,Reflect Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

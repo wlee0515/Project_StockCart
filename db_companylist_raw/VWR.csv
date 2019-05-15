@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VWRL.AMS,Vanguard Funds Public Limited Company - Vanguard FTSE All-World UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+VWRD.LON,Vanguard FTSE All-World ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+VWRL.LON,Vanguard Funds Public Limited Company - Vanguard FTSE All-World UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+VWRL.SWI,Vanguard FTSE All-World ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+VWRDN.MEX,VANGUARD FUNDS PLC FTSE ALL-WOR,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSDO,Presidio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSDTX,Putnam Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDYX,Putnam Short Duration Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDNF,Poseidon Nickel Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDMF,Gaming Realms plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDSX,Palmer Square Ultra-Short Dur IG,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDAX,PIMCO Short-Duration Muni Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDLX,Putnam Short Duration Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDGX,Putnam Short Duration Income M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSDQX,Putnam Short Duration Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

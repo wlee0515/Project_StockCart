@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYXC.FRK,Lyxor EUROMTS 5-7Y Inv Grd(DF)ETF C EUR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYXC.FRK,Multi Units Luxembourg - Lyxor EuroMTS 5-7Y Investment Grade (DR) UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+LYXC.DUS,MUL-LX.EUROM.5-7Y I.G. A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LYXC.MUN,MUL-LX.EUROM.5-7Y I.G. A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+LYXC.STG,MUL-LYX.EuroMTS 5-7Y Inv.GradeI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

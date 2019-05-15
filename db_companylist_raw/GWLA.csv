@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWLADVANCEDP.TRT,GWL Advanced Port (PSG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLADVANCEDI.TRT,GWL Advanced Income Portfolio (PSG) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTCROISC.TRT,GWL Cdn Eq Growth (M) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTCROISS.TRT,GWL Growth Equity (A) 100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTDECROI.TRT,GWL Canadian Eq Growth (M) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTEUROS1.TRT,GWL European Equity (S) 100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTEUROS7.TRT,GWL European Equity (S) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTEXTORI.TRT,GWL Far East Equity (CLI) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTINTPUT.TRT,GWL Intl Equity (PUT) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLACTIONSAM.TRT,GWL U.S. Equity (G) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

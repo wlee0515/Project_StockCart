@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PE.TRV,Pure Energy Minerals Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+PE.BAK,Premier Enterprise Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+EXH7.STG,iSh.ST.Eu.600 Pe.&H.G.U.ETF DEI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+JR68.BER,JPM-INCO.OPPO.A PE.ACEOH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+JR68.DUS,JPM-INCO.OPPO.A PE.ACEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+JR68.HAM,JPM-INCO.OPPO.A PE.ACEOH,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LEGH,Legacy Housing Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+LGCY,Legacy Reserves Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LEAI,Legacy Education Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTXB,LegacyTexas Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MERDX,Meridian Growth Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LEGAX,Columbia Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MVALX,Meridian Contrarian Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3077
+LGGNY,Legal & General Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+MSGGX,Meridian Small Cap Growth Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LGC,Legacy Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

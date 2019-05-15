@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFSLF,Amiad Water Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AFS.LON,Amiad Water Systems Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+A5F.BER,AMIAD WATER SYS.LTD.IS-50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+A5F.FRK,Amiad Water Systems Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+A5F.STG,Amiad Water Systems Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

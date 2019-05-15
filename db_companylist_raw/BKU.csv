@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BKU,BankUnited Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BKUH,"Bakhu Holdings, Corp.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BKUCF,Blue Sky Uranium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BKUTK,Bank of Utica,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKUT,Bank of Utica,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

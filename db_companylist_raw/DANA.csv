@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DAN,Dana Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DHR,Danaher Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DAC,Danaos Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SBMSF,Danakali Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+DNKLY,Danakali Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DANR,Dana Resources,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+DLCIX,Dana Large Cap Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+DSCEX,Dana Small Cap Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+DSCIX,Dana Small Cap Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+DLCEX,Dana Large Cap Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

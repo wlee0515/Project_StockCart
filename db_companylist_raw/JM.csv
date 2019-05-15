@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMM.BER,JM AB,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+JMU,JMU Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JMEI,Jumei International Holding Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JMP,JMP Group LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JMF,Nuveen Energy MLP Total Return Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JMGRX,Janus Henderson Enterprise I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JMDA,Jerrick Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JMSB,John Marshall Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JMBS,Janus Henderson Mortgage-Backed Sec ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+JMLP,Nuveen All Cap Energy MLP Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

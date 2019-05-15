@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDL.PAR,Groupe LDLC,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+6CE.STG,Groupe LDLC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5333
+0F2N.LON,Groupe LDLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5333

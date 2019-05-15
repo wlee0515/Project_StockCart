@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HMAD.LON,HSBC MSCI AC FAR EAST ex JAPAN ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HMAF.LON,HSBC ETFs Public Limited Company - HSBC MSCI AC Far East ex Japan UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HMAF.SWI,HSBC MSCI AC FAR EAST ex JAPAN ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+HMAM.TAV,Hamama Meir Trading (1996) Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFO,VictoryShares US 500 Enh Vol Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CFOIX,Calvert Floating-Rate Advantage I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CFOK,Community First Bancorporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFORX,Calvert Floating-Rate Advantage R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFOAX,Calvert Floating-Rate Advantage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFFMF,CFOAM Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFONEXXTFICF.SAO,NEXXT FIC FI MULTIMERCADO CR?DITO PRIVADO INVESTIMENTO NO EXTERIOR,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000
+CFO.FRK,China Outfitters Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529
+CFODELTAFIA.SAO,DELTA FUNDO DE INVESTIMENTO EM A??ES,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3333
+CFOMLTIPLOFI.SAO,M?LTIPLO FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO - INVESTIMENTO ,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3333

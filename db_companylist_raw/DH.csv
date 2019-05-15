@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHI,D.R. Horton Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHR,Danaher Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHCP,Ditech Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHT,DHT Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHXM,DHX Media Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHX,DHI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHY,Credit Suisse High Yield Bond Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DHS,WisdomTree US High Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DHF,Dreyfus High Yield Strategies Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DHIL,Diamond Hill Investment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

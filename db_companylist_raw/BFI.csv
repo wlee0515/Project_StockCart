@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFIN,BankFinancial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFIT,Global X Health & Wellness Thematic ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BFIAX,American Funds Inflation Linked Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFIFX,American Funds Inflation Linked Bd F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFITX,Forefront Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFICX,American Funds Inflation Linked Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFIGX,American Funds Inflation Linked Bd F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

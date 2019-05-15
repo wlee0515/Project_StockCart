@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITKA.MUN,ANHEUSER-BUSCH INBEV ADR,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+ITKA.FRK,ANHEUSER-BUSCH INBEV ADR,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ITKA.BER,ANHEUSER-BUSCH INBEV ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ITKA.STG,Anheuser-Busch InBev S.A./N.V.P,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXMT,Anything Technologies Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXMGF,Excelsior Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EXMXF,Dropsuite Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RCNYX,Rockefeller Interm Tx Exmpt NY Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EXMAX,Eaton Vance Short Duration Muni Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EXM.BRU,Exmar NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+0EEV.LON,Exmar NV,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+4394.TOK,eXmotion Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5455
+EXM.MUN,"EXTREME NETWORKS  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+EXM.STG,EXTREME NETWORKS INC. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500

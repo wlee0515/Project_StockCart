@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSX.BER,KNIGHT-SWIFT TR. HLDGS A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+KSX.FRK,Knight-Swift Transportation Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

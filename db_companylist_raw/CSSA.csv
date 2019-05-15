@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSSAX,Carillon Scout Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CSSA.FRK,AIROPACK TECHN. NAM. SF 5,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+CSSA.BER,AIROPACK TECHN. NAM. SF 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+CSSA.STG,Airopack Technology Group AG Na,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

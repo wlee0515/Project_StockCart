@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJG,PowerShares Dynamic Mid Cap,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PJGQX,PGIM Jennison Mid-Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PJGZX,PGIM Jennison Equity Opportunity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PJGRX,PGIM Jennison Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PJGCX,PGIM Jennison Equity Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

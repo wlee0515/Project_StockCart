@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTWO,Take-Two Interactive Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTAPY,TTW Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TTW.AUS,TopTung Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TTW.BAK,TTW Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+F1P.STG,TTW PCL Reg. Shares (Foreign) B,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+F1P.FRK,TTW Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+F1P.BER,TTW PCL -FGN-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069
+F1P2.FRK,TTW Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2069
+F1P2.STG,TTW PCL Reg. Shares (NVDRs) BA ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+TTWO.VIE,Take-Two Interactive Software Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.1765

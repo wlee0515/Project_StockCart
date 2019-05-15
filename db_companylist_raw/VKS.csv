@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKSCX,Virtus KAR Small-Mid Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VKSEVX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKSC,Viskase Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VKSAX,Virtus KAR Small-Mid Cap Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSUPX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSDMX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSUMX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSRPX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSVPX,Investment Grade Income Trust 7,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKSVTX,Build America Bonds Income Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

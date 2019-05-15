@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBIDX,Sterling Capital Behavioral Intl Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SBID.ILN,STATE BANK OF INDIA GDR (EACH R,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SBID.LON,State Bank of India,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+SBIDYNAMICAS.BSE,SBI Dynamic Asset Allocation Reg Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+SBIDYNAMICBO.BSE,SBI Dynamic Bond,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

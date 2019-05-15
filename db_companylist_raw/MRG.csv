@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRGE,Mirage Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRGAX,MFS Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MRGHX,MFS Core Equity R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MRGN,Mergence Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGR,ProShares Merger,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGKX,MFS Core Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGEX,Morgan Stanley Inst Emerging Mkts IR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGYX,MassMutual RetireSMART Growth Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGLX,MassMutual RetireSMART Growth Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGGX,MFS Core Equity R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

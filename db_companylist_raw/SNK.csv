@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNK.FRK,Sankyu Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+PMD18.ARG,Mendoza (Province of) CL III SNK NT 18,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.1463

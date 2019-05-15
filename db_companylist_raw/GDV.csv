@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GDV,The Gabelli Dividend & Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GDV-PG,The Gabelli Dividend & Income Trust PFD SER G,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GDV-PA,The Gabelli Dividend & Income Trust PFD SER A,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GDVM,Global Developments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GDV-PD,The Gabelli Dividend & Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GDVD,Principal Active Global Dividend Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+GDVE,Global Development & Environmental Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MJMJ,The MaryJane Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MJMD,MediJane Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MJMI,MarilynJean Interactive Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MJMT.FRK,Amundi ETF MSCI Europe Momentum Factor UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MJMT.FRK,Amundi ETF MSCI Eurp Momentum Factor A/I,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

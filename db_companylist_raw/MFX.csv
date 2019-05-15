@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFXAX,Morgan Stanley Inst Core PlsFxdInc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFX.TRV,Minfocus Exploration Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MFX.LON,Manx Financial Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

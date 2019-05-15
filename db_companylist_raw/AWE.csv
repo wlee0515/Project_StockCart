@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWEIX,CIBC Atlas Disciplined Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AWEB,Areti Web Innovations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AWE.TRV,Thunderstruck Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+AWE.SGP,SP Corporation Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+1530.TWN,Awea Mechantronic Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.5000
+AWESGS.SWI,UBS ETF MSCI ACWI ESG Unvsl H CHF A Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AWESGT.SWI,UBS ETF MSCI ACWI ESG Unvsl H CHF A Dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AWESGW.SWI,UBS ETF MSCI ACWI ESG Unvsl H USD A Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AWESGE.SWI,UBS ETF MSCI ACWI ESG Unvsl H EUR A Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AWESGG.SWI,UBS ETF MSCI ACWI ESG Unvsl H GBP A Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.2000

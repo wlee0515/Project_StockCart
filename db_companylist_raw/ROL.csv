@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROL,Rollins Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TR,Tootsie Roll Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ROLL,RBC Bearings Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+RYCEY,Rolls-Royce Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RYCEF,Rolls-Royce Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CMDY,iShares Bloomberg Roll Sel Brd Cmdty ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

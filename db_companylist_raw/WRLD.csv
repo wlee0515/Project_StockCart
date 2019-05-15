@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WRLD,World Acceptance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WRLDX,Scharf Global Opportunity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+XDWI.STG,Xtr.(IE)-MSCI Wrld IndustrialsR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+EMWE.FRK,BNPPE-MSCI WRLD XCW UECEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+EMWE.FRK,BNPPE-MSCI WRLD XCW UECEO,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2857
+NK4S.BER,LYX.MSCI WRLD UETF MHEOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+NK4S.DUS,LYX.MSCI WRLD UETF MHEOD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286

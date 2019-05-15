@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFT.BAK,Hwa Fong Rubber (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+510110.SHH,HFT SSE Cyclical Industry ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.5455
+511220.SHH,HFT SSE Pledge City Bond Index ETF Fd,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2400
+HFT-R.BAK,Hwa Fong Rubber (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1875
+501300.SHH,HFT (HK) China Investment Series - HFT Global USD Bond Fund,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1765
+510120.SHH,HFT SSE non-Cyclical Industry ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1667
+511230.SHH,HFT SSE Cyclical Industrial ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1667
+162307.SHZ,HFT Index CSI 100 Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+511270.SHH,HFT SSE 10-Y Local Gover Debt ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1579
+F00000NY5X.HKG,HFT (HK) China RMB Fixed Income A,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.0968

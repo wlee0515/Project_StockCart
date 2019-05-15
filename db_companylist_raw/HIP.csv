@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2136.TOK,HIP Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+HIPH,American Premium Water Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HIPS,GraniteShares HIPS US High Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPAX,Hartford Inflation Plus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPYX,Hartford Inflation Plus Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPIX,Hartford Inflation Plus I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPRX,Hartford Inflation Plus R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPTX,Hartford Inflation Plus R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIPCX,Hartford Inflation Plus C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

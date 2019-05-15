@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBV,Invesco DB G10 Currency Harvest,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DBVT,DBV Technologies S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DBVTF,DBV Technologies S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DBV.PAR,DBV Technologies S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+DBV.TRV,Doubleview Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DBV.FRK,DBV Technologies S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DBV.STG,DBV technologies Actions Port. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DBVA.FRK,DBV Technologies S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+0QAJ.ILN,DBV TECHNOLOGIES SA DBV TECHNOL,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+0QAJ.LON,DBV Technologies S.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765

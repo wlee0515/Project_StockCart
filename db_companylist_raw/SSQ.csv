@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSQSX,State Street Instl Small-Cap Equity Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000WTP2.TRT,SSQ Fisher Investments,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+F00000WMNT.TRT,SSQ Celestia Growth GIF GI,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+F00000X2D0.TRT,SSQ Guardian Monthly Income GIF Opt,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2400
+F00000WMN7.TRT,SSQ Carnegie Intl Equity GIF Standard,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2069
+F00000WMO8.TRT,SSQ CI Signature Gl Inc &Grth GIF Stand,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1714
+F00000WMP9.TRT,SSQ Growth Strategy GIF Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F00000WTPF.TRT,SSQ Beutel Goodman U.S. Eq GIF Premium,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+SSQCELESTIAB.TRT,SSQ Celestia Balanced GIF Enhanced,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+SSQCISIGNATU.TRT,SSQ CI Signature Gl Inc &Grth GIF Basic,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429

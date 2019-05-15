@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGIVX,DGHM V2000 SmallCap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DGMMX,DGHM MicroCap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DGSMX,DGHM V2000 SmallCap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DGMIX,DGHM MicroCap Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DGH.AUS,Desane Group Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+DGH.JOH,Distell Group Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+5TR.HAM,DGH Deutsche Grundwert Holding AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2222

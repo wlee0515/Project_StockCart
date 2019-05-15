@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCGFX,AMG Managers Montag & Caldwell Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MCGIX,AMG Managers Montag & Caldwell Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+CWLPF,The Caldwell Partners International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4211
+MCRGX,AMG Managers Montag & Caldwell Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+COAGX,Caldwell & Orkin - Gator Capital L/S Fd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+CWL.TRT,The Caldwell Partners International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+F00000NOWA.TRT,Caldwell Canadian Value Momentum,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+CALDWELLCANA.TRT,Caldwell Canadian Value Momentum,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222

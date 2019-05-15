@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLXN,Flexion Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLXT,Flexpoint Sensor Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLXS,Flexsteel Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLXP,Flex-Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLXI,FlexiInternational Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLXNF,Flex LNG Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLXCX,Fidelity Flex Core Bond Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLXSX,Fidelity Flex Small Cap Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLX.LON,Falanx Group Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

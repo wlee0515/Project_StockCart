@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HVPQF,HARBOURVEST GL PE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HVP.FRK,Hopson Development Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HVP.STG,Hopson Development Holdings Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HVP.BER,"HOPSON DEV. HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HVP.MUN,"HOPSON DEV. HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HVPE.LON,HarbourVest Global Private Equity Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HVPD.LON,HARBOURVEST GLOBAL PRIVATE EQUI,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

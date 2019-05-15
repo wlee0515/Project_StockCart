@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UJN3.FRK,Unity Energy Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UJN3.BER,UNITY ENERGY CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+UJN3.MUN,UNITY ENERGY CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+UJN3.STG,Unity Energy Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

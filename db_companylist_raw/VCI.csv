@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VCIT,Vanguard Interm-Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VCISY,VINCI SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VCITX,Vanguard CA Long-Term Tax-Exempt Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCII,ViviCells International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VCISF,VINCI SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VCIGX,VALIC Company I Dividend Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCINX,VALIC Company I International Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCIEX,VALIC Company I International Eqs Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCIPX,Vertical Capital Income Fund Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCIFX,VALIC Company I International Govt Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

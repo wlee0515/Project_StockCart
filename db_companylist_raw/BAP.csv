@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAP,Credicorp Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BAPEX,BlackRock LifePath Smart Beta 2030 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPDX,BlackRock LifePath Smart Beta 2025 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPJX,BlackRock LifePath Smart Beta 2045 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPKX,BlackRock LifePath Smart Beta 2050 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPAX,Blackrock Lifepath Smart Beta 2060 Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZB,FaithShares Baptist Values Fund,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPGX,BlackRock LifePath Smart Beta 2035 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPCX,BlackRock LifePath Smart Beta 2020 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAPRX,Blackrock Lifepath Smart Beta 2060 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATTU,Attunity Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATTBF,Abattis Bioceuticals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATIS,Attis Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATTO,Atento S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATTLF,Atlas Copco AB,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATTTX,Transamerica Dynamic Allocation T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATTIX,American Century One Choice In Ret I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AURT,"Attune RTD, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATTYX,AB Tax-Aware Fixed Income Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ATTAX,AB Tax-Aware Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

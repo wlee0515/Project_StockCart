@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKM,SK Telecom Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SKMEGGPROD.BSE,SKM Egg Products Export (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+SKMEGGPROD-EQ.NSE,SKM EGG PRODUCTS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+SKM.FRK,SKY Perfect JSAT Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SKM.BER,SKY PERFECT JSAT HLDG.INC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SKML-SM.NSE,SRI KRISHNA METCOM,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+SKMEGGPROD.NSE,SKM Egg Products Export (India) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+SKMD.LON,SK Telecom Co. Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750
+SKMD.ILN,SK TELECOM CO LD ADS(REPR 1/9 K,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3158

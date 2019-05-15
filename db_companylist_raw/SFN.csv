@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFNC,Simmons First National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFNNX,Schwab Fdmtl Intl Lg Co Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFN.FRK,Safety Insurance Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SFN.JOH,Sasfin Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+SFNP.JOH,Sasfin Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+SFND11.SAO,FD INV IM SAO FERN,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

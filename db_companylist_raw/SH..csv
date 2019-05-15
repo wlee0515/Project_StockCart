@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ORIN.TAV,Orian Sh.M. Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+PJSR.FRK,PFISETF.-EO SH.MAT.S.EOA.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+19YA.STG,Yirendai Ltd. Reg. Sh.(Sp.ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+DXSV.STG,Xtr.II Eur.Gov.Bd Sh.Da.Swap In,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+3SE.STG,Smartsheet Inc. Reg. Sh. Class ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158
+SHO.BER,SH.JIN JI.INTL HOT.-H-YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+CVH3.STG,CST Group Ltd. Reg. Cons. Sh. H,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+DX2K.BER,XTR.FTSE 100 SH.DA.SW. 1C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000

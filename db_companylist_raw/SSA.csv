@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSAIX,SSgA International Stock Selection N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SSAAY,SSAB AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSAFX,State Street Aggregate Bond Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSAGX,Virtus Seix US Govt Secs Ultr-Shrt Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSALX,JPMorgan Systematic Alpha I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSAM,Rockledge SectorSAM ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+003620.KOR,Ssangyong Motor Company,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2308

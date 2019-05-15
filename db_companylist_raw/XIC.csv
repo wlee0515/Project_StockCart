@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XIC.TRT,iShares Core S&P/TSX Capped Compost ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+XIC.FRK,AB Klaipedos nafta,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XIC.BER,"KLAIPEDOS NAFTA AB EO0,29",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XIC.MUN,"KLAIPEDOS NAFTA AB EO0,29",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+XIC.STG,Klaipedos Nafta AB Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+600505.SHH,Sichuan Xichang Electric Power Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1429

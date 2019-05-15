@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECBC.FRK,SI UCITS ETF - UC Thomson Reuters Balanced European Convertible Bond UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ECBC.FRK,UC Thomson Reuters Bal Eurp Cnvrt Bd Dis,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ECBC.DUS,SI U-UC TH.REU.B.E.C.BD D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ECBC.MIL,UC Thomson Reuters Bal Eurp Cnvrt Bd Dis,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+ECBC.SWI,UC Thomson Reuters Bal Eurp Cnvrt Bd Dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

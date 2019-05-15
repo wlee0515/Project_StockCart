@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDWM,IDW Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IDWDVX,The Dow Jones Select Dividend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDWJOX,The Dow Jones Select Dividend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDWDIX,The Dow Jones Select Dividend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDWR.LON,iShares MSCI World ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IDWP.LON,iShares Dev Mkts Prpty Yield ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

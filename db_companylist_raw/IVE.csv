@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVE,iShares S&P 500 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IVDA,Iveda Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IVEIX,Ivy Energy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVENCNX,Ivy Focused Energy Nextshares,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVEINX,Closed-End Strategy: Value Equi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVEEX,Ivy Energy Fund Class E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+IVEOTX,Policy Opportunities Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEBC,Southeastern Banking Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SEBC.FRK,Skandinaviska Enskilda Banken AB (publ.),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SEBC.STG,SKANDINAVISKA ENSKILDA BANKEN N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

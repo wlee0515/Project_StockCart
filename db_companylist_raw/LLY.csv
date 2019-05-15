@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLY,Eli Lilly and Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LLY.FRK,Eli Lilly and Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LLY.HAM,ELI LILLY,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+LLY.MUN,ELI LILLY,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LLY.MEX,Eli Lilly and Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+LLY.SWI,Eli Lilly and Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+LLY.BER,ELI LILLY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LLY.FRK,Eli Lilly and Company,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+LLY.DUS,ELI LILLY,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

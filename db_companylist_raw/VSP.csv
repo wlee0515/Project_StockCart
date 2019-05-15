@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSPC,VIASPACE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VSPMX,Vanguard S&P Mid-Cap 400 Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPVX,Vanguard S&P 500 Value Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPGX,Vanguard S&P 500 Growth Index F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPTX,Voya Solution 2060 Port T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPSX,Voya Solution 2060 Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPAX,Voya Solution 2060 Port ADV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPIX,Victory Special Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSPRX,Voya Small Company Port R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSP.TRT,Vanguard S&P 500 ETF CAD-H,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

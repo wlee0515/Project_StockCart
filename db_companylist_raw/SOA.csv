@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOAEX,Spirit of America Energy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SOAN,AngioSoma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SOACF,Southern Arc Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAAX,Spirit of America Real Estate Inc & Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAIX,Spirit of America Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAVX,Spirit of America Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAMX,Spirit of America Municipal T/F Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAOX,Spirit of America Income & Opp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SOAN.BER,UNIPOLSAI ASSICU.SPA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

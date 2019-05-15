@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCEI.KLA,MCE HOLDINGS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.8571
+MUX,McEwen Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCEP,"Mid-Con Energy Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCET,MultiCell Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCEM,The Monarch Cement Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCELQ,Millennium Cell Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IDMIX,iM Dolan McEniry Corporate Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+MCESF,Macro Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MCEF,First Trust Municipal CEF Income Opp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

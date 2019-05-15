@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZUP-U.TRT,BMO US PREFERRED SHARE INDEX ET,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZUP.TRT,BMO US Preferred Share ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

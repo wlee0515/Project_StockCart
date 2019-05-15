@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNRN,First Northern Community Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNRCX,Fidelity Advisor Energy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNRAX,Franklin Natural Resources Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNRTAX,FT 7300: Target Global Dvd. Lea,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNRCDX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNRAIX,FT 6271: Limited Duration Fixed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNRVJX,FT 7464: Technology Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNRAGX,The First Trust Combined Srs 41,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNRC,1st NRG Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNRG,ForceField Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCVBLX,ADT 1794 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBJX,ADT 1739 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBOX,ADT 1852 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBNX,ADT 1832 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBMX,ADT 1812 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBKX,ADT 1772 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBRX,ADT 1902 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBQX,ADT 1888 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVBPX,ADT 1866 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GCVB.LON,SPDR Thomson Reuters Glb Convert Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FEN,First Trust Energy Income and Growth Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FENY,Fidelity MSCI Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FENC,Fennec Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FENG,Phoenix New Media Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FETM,Fentura Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMCD,Detwiler Fenton Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FENSX,Fidelity U.S. Sustainability Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FENTDX,FT 7420: Biotechnology Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ELGSF,Fengro Industries Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

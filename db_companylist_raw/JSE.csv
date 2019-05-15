@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSE.JOH,JSE Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.7500
+JSERX,JPMorgan Small Cap Equity R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSEAX,JPMorgan International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSEQX,JPMorgan Small Cap Equity R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSEZX,JPMorgan Small Cap Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSEPX,JPMorgan Small Cap Equity R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSECX,JPMorgan Small Cap Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSE.LON,Jadestone Energy Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+JSE.TRV,Jadestone Energy Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

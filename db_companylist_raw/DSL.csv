@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSL,DoubleLine Income Solutions Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSLV,VelocityShares 3x Inverse Silver ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DSLEF,Desert Lion Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSL-UN.TRT,DoubleLine Income Solutions Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

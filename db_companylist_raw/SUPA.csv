@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUPAX,DWS Multi-Asset Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SAEI,Supatcha Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+SPALI-R.BAK,Supalai Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+SPMA.JKT,PT Suparma Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+SPALI.BAK,Supalai Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4286
+NYVL.FRK,Supalai Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963
+NYVL.BER,SUPALAI PCL-NVDR-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+NYVL.MUN,SUPALAI PCL-NVDR-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2353
+NYVL.STG,Supalai PCL Reg. Shs (NVDRs) BA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

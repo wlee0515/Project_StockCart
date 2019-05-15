@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWTSX,Schwab Total Stock Market Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWTUY,Swedish Orphan Biovitrum AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWTQ.SWI,Schweiter Technologies AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+UC94.LON,UBS ETF MSCI Swtzl 20/35 GBPH A dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+S2EUBH.MIL,UBS ETF MSCI Swtzl 20/35 H EUR A acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+SWTZ.AUS,Switzer Dividend Growth,ETF,Australia,10:00,16:00,UTC+11,AUD,0.3333
+SW2CHB.MIL,UBS ETF MSCI Swtzl 20/35 CHF A acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1667
+SWTF.FRK,Intouch Holdings Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1579

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHW,The Sherwin-Williams Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SHWK,Seahawk Deep Ocean Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SHWGY,Shandong Weigao Group Medical Polymer Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHWDY,Showa Denko K.K.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHWDF,Showa Denko K.K.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHWGF,Shandong Weigao Group Medical Polymer Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHWE.LON,Myanmar Strategic Holdings Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SW1.FRK,SHW AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SW1.FRK,SHW AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SHW.MEX,The Sherwin-Williams Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667

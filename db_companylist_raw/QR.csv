@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QRVO,Qorvo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QRTEA,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QRHC,Quest Resource Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QREARX,TIAA Real Estate Account,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QRON,Qrons Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+QRMLF,Quest Rare Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+QRPRX,AQR Alternative Risk Premia R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QRTEB,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+QRPIX,AQR Alternative Risk Premia I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QRSVX,Queens Road Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

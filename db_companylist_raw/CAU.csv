@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEMIX,Causeway Emerging Markets Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CIVIX,Causeway International Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CGAVX,Causeway Global Absolute Return Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CIVVX,Causeway International Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CVISX,Causeway International Small Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CGAIX,Causeway Global Absolute Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CIISX,Causeway International Small Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CIOIX,Causeway International Opps Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CGVIX,Causeway Global Value Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CIVECNX,Causeway International Value Ne,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

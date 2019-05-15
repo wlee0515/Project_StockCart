@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNGA,Conair Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNGO,Cengage Learning Holdings II Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNGGF,Cann Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNGAX,American Funds New Economy 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNGLX,Commonwealth Global,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNGCX,American Funds New Economy 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNGEX,American Funds New Economy 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNGI,Concordis Group Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNGFX,American Funds New Economy 529F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

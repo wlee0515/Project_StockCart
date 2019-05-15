@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWTR,Twitter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TWTIX,American Century IntermTrm Tx-Fr Bd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWTCX,American Century IntermTrm Tx-Fr Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWTR.MEX,Twitter Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+TWTR.SWI,Twitter Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+TWTR-USD.SWI,Twitter,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+TWTR34.SAO,Twitter Inc.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6000
+TWTR.VIE,Twitter Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.5000

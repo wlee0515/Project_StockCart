@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWZ,Swiss Helvetia Fund Inc. (The),Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SWZNF,Swiss National Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWZCF,Swisscom AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWZ6.DUS,SWISSC(L)EQ-GL ENER.AT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SWZ8.DUS,SWISSCAN.(LU)EQ.S.S.IN.AT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SWZ9.DUS,SWISSC.LU EQ.-GL CL.IN.AT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

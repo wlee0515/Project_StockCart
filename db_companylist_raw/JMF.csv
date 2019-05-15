@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMF,Nuveen Energy MLP Total Return Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JMFINANCIL.NSE,JM Financial Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+JMFINANCIL.BSE,JM Financial Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+JMF.LON,JPMorgan Mid Cap Investment Trust Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750
+JMFLOATERLTB.BSE,JM Floater Long Term Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMFLOATERLTD.BSE,JM Floater L/T Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMFLOATERLTG.BSE,JM Floater L/T Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMFLOATERLTH.BSE,JM Floater L/T HY Bns Princ,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMFLOATERLTM.BSE,JM Floater L/T Mn Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMFLOATERLTP.BSE,JM Floater L/T Premium Dl Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

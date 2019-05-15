@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GV,The Goldfield Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GVA,Granite Construction Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GVP,GSE Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GVI,iShares Intermediate Govt/Crdt Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+GVAL,Cambria Global Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+GVIP,Goldman Sachs Hedge Industry VIP ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+GVXXF,GoviEx Uranium Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GVMCX,Government Street Mid-Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+GVDNY,Givaudan SA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMJIX,PIMCO RAE US Small Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMJAX,PIMCO RAE US Small A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMJPX,PIMCO RAE US Small I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMJCX,PIMCO RAE US Small C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMJ21.ARG,Mendoza (Province of) FRN 09/06/21 ARS1000,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+PMJU.KLA,PERMAJU INDUSTRIES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455

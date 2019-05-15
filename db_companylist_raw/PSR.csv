@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSR,Invesco Active US Real Estate,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PSRU,PureSpectrum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSRAX,Pioneer Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSRVF,Prospero Silver Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSRZX,PIMCO Senior Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSRPX,PIMCO Senior Floating Rate I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSRIX,PIMCO Senior Floating Rate Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

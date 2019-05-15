@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1788.HKG,Guotai Junan International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3636
+2611.HKG,Guotai Junan Securities Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+GUE.BER,GUOTAI JUNAN INTL.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2162
+601211.SHH,Guotai Junan Securities Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2162
+GUE.FRK,Guotai Junan International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1702

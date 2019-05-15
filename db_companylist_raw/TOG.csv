@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOGL,Toga Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TOGOF,TomaGold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TOG.TRT,TORC Oil & Gas Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+TGTR.TAV,Together Pharma Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+KR5364AH9426.KOR,ASSETPLUS China Rich Together pension 1 Equity,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6667
+TOG.BAK,Thai Optical Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TOG.FRK,Tokyo Gas Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+KR5364848295.KOR,ASSETPLUS China Rich Together Master Equity,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+TOG.DUS,TOKYO GAS CO. LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1304
+KR5364AS1537.KOR,Assetplus Korea Rich Togthr Fdr Eq 1 F,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1224

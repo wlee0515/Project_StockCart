@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QUBSF,Qantas Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QABSY,Qantas Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QAN.AUS,Qantas Airways Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+QAN.BER,QANTAS AIRWAYS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+1Q0.FRK,QANTM Intellectual Property Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QAN.FRK,Qantas Airways Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+1Q0.BER,QANTM INTELL. PROP. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+QAN.DUS,QANTAS AIRWAYS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2500
+QAN.MUN,QANTAS AIRWAYS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500
+QAN.STG,QANTAS AIRWAYS LTD. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

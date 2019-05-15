@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAFCX,Natixis ASG Global Alternatives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+GAFC.DUS,GAM Star Fund p.l.c. - GAM Star Keynes Quantitative Strategies,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+GAFC.HAM,GAM STAR KEYNES QU.S.A.EO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273

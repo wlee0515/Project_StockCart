@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAI,Western Asset Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PTIE,Pain Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAIDX,PIMCO Short Asset Investment Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDPYF,Painted Pony Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAYD,PAID Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAIAX,PIMCO Short Asset Investment A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIUTQ,Paiute Oil & Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PAIPX,PIMCO Short Asset Investment I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+PAIIX,PIMCO Global Bond Opps (USD-Hdg) A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PAIKX,T. Rowe Price Emerging Markets Bond Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

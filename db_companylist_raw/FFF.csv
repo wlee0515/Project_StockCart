@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFFDX,Fidelity Freedom 2020,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FFFAX,Fidelity Freedom Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFFX,Fidelity Freedom 2040,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFCX,Fidelity Freedom 2010,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFEX,Fidelity Freedom 2030,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFC,Fastfunds Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFHX,Fidelity Freedom 2050,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFGX,Fidelity Freedom 2045,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFTX,Fidelity Advisor Freedom 2045 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFFQX,Fidelity Advisor Freedom 2050 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

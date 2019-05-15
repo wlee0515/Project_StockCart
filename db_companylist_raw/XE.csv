@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRX,Xerox Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XEL,Xcel Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XEC,Cimarex Energy Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XES,SPDR S&P Oil & Gas Equipment&Svcs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XBIO,Xenetic Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XENE,Xenon Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XNCR,Xencor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XERS,Xeris Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+XENT,Intersect ENT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+XELB,Xcel Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

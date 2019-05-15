@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSFTF,Kingsoft Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KSF1.FRK,Shinhan Financial Group Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KSF1.BER,SHINHAN FINL ADR/1 SW5000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

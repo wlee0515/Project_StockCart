@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSF,Morgan Stanley Emerging Markets Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MSFT,Microsoft Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MSFRX,MFS Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFYX,Destra Multi-Alternative Fund C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFDX,Destra Multi-Alternative Fund C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFKX,MFS Total Return R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFJX,MFS Total Return R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFLX,Morgan Stanley Inst Global Franchise L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSFAX,Morgan Stanley Inst Global Franchise I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

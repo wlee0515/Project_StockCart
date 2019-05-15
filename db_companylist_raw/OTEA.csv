@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0010738153.PAR,Otea PEA,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.8000
+FR0011033943.PAR,Otea 1,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.8000
+F000002O4Z.PAR,Otea 1 A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6667
+F000003Z12.PAR,Otea PEA,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6667
+F00000NBTW.PAR,Otea 1,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6667
+F00001036Y.PAR,Otea Energy R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4706
+F00001036Z.PAR,Otea Energy I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4706

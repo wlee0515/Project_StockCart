@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DKC.FRK,Asia Tele-Net and Technology Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DKC.BER,ASIA TELE-NET CONS. HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DKC.STG,Asia Tele-Net Consolidated Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

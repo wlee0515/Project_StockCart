@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBAX,JPMorgan BetaBuilders Dev Asia ex-JpnETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BBALX,Northern Global Tactical Asset Allc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BBAL,New York Health Care Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BBAVY,BBA Aviation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BBAGF,BB BIOTECH AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BBAVF,BBA Aviation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

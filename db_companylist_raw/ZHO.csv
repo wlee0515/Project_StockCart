@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DZSI,DASAN Zhone Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHZHF,China Zhongwang Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZHDM,Zhong Hui Dao Ming Copper Holding Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SZSN,Shandong Zhou Yuan Seed and Nursery Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZHOK,SPDR Solactive Hong Kong ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ZZHGF,ZhongAn Online P & C Insurance Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

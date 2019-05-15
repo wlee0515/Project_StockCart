@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNN.DUS,B.R.A.I.N. NA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+BNN.STG,B.R.A.I.N. BIOTECHNOLOGY AG Nam,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+THNK.TRT,Coincapital STOXX B.R.AI.N. ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BNN.FRK,B.R.A.I.N. Biotechnology Research and Information Network AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+BNN.BER,B.R.A.I.N. NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+BNN.FRK,B.R.A.I.N. Biotechnology Research and Information Network AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+BNN.MUN,B.R.A.I.N. NA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+LYYX.BER,LYX.ST.E.600 B.R.U.ETF A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+LYYX.DUS,LYX.ST.E.600 B.R.U.ETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+LYYX.HAM,LYX.ST.E.600 B.R.U.ETF A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2000

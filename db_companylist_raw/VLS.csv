@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLSRX,Virtus KAR Long/Short Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLSAX,Virtus KAR Long/Short Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLSCX,Virtus KAR Long/Short Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLSIX,Virtus KAR Long/Short Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLS.LON,Velocys plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+VLS.AUS,Vita Life Sciences Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+VLS.MIL,Valsoia SpA,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+VLSFINANCE.BSE,VLS Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+VLSFINANCE.NSE,VLS Finance Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+VLSFINANCE-EQ.NSE,VLS FIN LTD INDIA,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3158

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNC,The PNC Financial Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PNC-PQ,The PNC Financial Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNC-PP,The PNC Financial Services Group Inc. DEPOSITARY SHS REP 1/4000TH PERP PFD SER P,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNCYX,Putnam Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PLOIX,PNC Multi Factor Small Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PFLCX,PNC Limited Maturity Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PNCOY,Pioneer Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PLWAX,PNC Multi Factor Small Cap Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PLFAX,PNC Limited Maturity Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PTVIX,PNC Total Return Advantage I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

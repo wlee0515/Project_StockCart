@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZMU.TRT,BMO MT US IG Corp Bd Hdgd to CAD ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZMU1.BER,M.F.-M.SH.DUR.HIGHY.REOA.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZMULTIPU.BSE,Multipurpose Trading and Agencies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+ZMU1.DUS,M.F.-M.SH.DUR.HIGHY.REOA.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ZMU1.MUN,M.F.-M.SH.DUR.HIGHY.REOA.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4286

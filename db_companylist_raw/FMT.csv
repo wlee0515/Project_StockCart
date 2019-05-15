@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMTIX,Franklin Moderate Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTNF,Point Loma Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTKRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTNX,First Investors Tax Exempt NC A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTQX,First Investors Tax Exempt NC B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTUSX,"FT 6878: ADR Portfolio, August ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTLX,Franklin LifeSmart 2035 Retire Trgt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTFX,Franklin MI Tax-Free Inc Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMTUX,First Investors Tax Exempt NC Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMTAX,Federated Shrt-Interm Dur Muni Trust A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPIAX,FA 529 PORT 2022-CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FPIANX,FT 6643: Income Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FPIA.FRK,Fidelity Investment Funds - Fidelity China Consumer Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FPIA.BER,FID.FDS-CHINA CONSUM.A DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FPIA.MUN,FID.FDS-CHINA CONSUM.A DL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FPIA.DUS,FID.FDS-CHINA CONSUM.A DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

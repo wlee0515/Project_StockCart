@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HQH,Tekla Healthcare Investors,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+THQ,Tekla Healthcare Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+THW,Tekla World Healthcare Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HQL,Tekla Life Sciences Investors,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TKMR,Tekmira Pharmaceuticals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TKGL,TekeGldMpire Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+TEKI,Tek Digitel Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2069
+ECTX,Eco Tek 360 Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2069
+XHQLX,Tekla Life Sciences Investors,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+XHQHX,Tekla Healthcare Investors,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

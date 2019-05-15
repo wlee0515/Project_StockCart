@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCFYX,SEI Core Fixed Income Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SCFLF,Schaeffler AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFR,GamesGamesGames Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFFF,Spot Coffee (Canada) Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFFX,Shenkman Capital Short Dur Hi Inc F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFKX,Global Fixed Income Individual ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFHX,International Equity Individual,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFAX,Shenkman Capital Short Dur Hi Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFJX,International Equity Individual,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCFCX,Shenkman Capital Short Dur Hi Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

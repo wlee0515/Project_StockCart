@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLV.BER,"SLOVNAFT INH.  EO 33,2",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+VSA2.BER,VALEO SA INH.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+DBPD.STG,Xtr.ShortDAX x2 Daily Swap Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+IXD1.DUS,"INDITEX INH.  EO 0,03",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2500
+OG8K.HAM,BL-EQUIT.AMERICA INH.B,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+ACR.HAM,ACCOR SA INH.  EO 3,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+IXD1.BER,"INDITEX INH.  EO 0,03",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+XCS6.STG,Xtrackers MSCI China Inhaber-An,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+NQ65.STG,Amundi Discount Balanced Inhabe,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+XDUK.STG,Xtrackers FTSE 100 Inhaber-Ante,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

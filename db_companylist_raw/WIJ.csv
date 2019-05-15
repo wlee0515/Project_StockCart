@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WIKA.JKT,PT Wijaya Karya (Persero) Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+WTON.JKT,PT Wijaya Karya Beton Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+WEGE.JKT,PT Wijaya Karya Bangunan Gedung Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+WK0.FRK,PT Wijaya Karya Beton Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+5AA.BER,PT WIJAYA KARYA (P.)RP100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+5AA.MUN,PT WIJAYA KARYA (P.)RP100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+5AA.FRK,PT Wijaya Karya (Persero) Tbk.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+5AA.STG,PT Wijaya Karya (Persero) Tbk.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1818
+WIJ.BER,"WILLIS LEASE FIN.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1765

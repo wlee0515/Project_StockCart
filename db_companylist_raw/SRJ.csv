@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRJAX,JPMorgan SmartRetirement 2035 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJCX,JPMorgan SmartRetirement 2035 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJQX,JPMorgan SmartRetirement 2035 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJZX,JPMorgan SmartRetirement 2035 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJSX,JPMorgan SmartRetirement 2035 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJYX,JPMorgan SmartRetirement 2035 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJIX,JPMorgan SmartRetirement 2035 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJPX,JPMorgan SmartRetirement 2035 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRJ.FRK,SpartanNash Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SRJ.BER,SPARTANNASH CO.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESG,FlexShares STOXX US ESG Impact ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+ESGR,Enstar Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESGV,Vanguard ESG US Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VSGX,Vanguard ESG International Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SUSA,iShares MSCI USA ESG Select ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+ESGE,iShares ESG MSCI EM ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+PXNIX,Pax MSCI EAFE ESG Leaders Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+NUBD,NuShares ESG US Aggregate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SUSC,iShares ESG USD Corporate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+ESML,iShares MSCI USA Sml-Cp ESG Optmzd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500

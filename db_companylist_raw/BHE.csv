@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BHE,Benchmark Electronics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BHEL.NSE,Bharat Heavy Electricals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+BHEL.BSE,Bharat Heavy Electricals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+WXL5.BER,CSIF13-CS(L)GR.BD FD BHEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+WXL5.DUS,CSIF13-CS(L)GR.BD FD BHEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+WXL5.MUN,CSIF13-CS(L)GR.BD FD BHEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

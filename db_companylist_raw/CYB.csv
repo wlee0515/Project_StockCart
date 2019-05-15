@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CYB,WisdomTree Chinese Yuan Strategy ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CYBR,CyberArk Software Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HACK,ETFMG Prime Cyber Security ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CYBF,Cyberfort Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CIBR,First Trust NASDAQ Cybersecurity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CYBE,CyberOptics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CYBQY,CYBERDYNE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OCSY,Optium Cyber Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CYGIY,CyberAgent Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CYBG,Cybergy Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

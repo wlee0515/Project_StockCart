@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGUNF,Arctic Glacier Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGUAX,American Beacon Frontier Mkts Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGLAF,AGUILA AMERICAN GO,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+APLN.JKT,PT Agung Podomoro Land Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+SMRA.JKT,PT Summarecon Agung Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4615
+AGUAS-A.SAN,Aguas Andinas S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.4444
+AGUA.MEX,Grupo Rotoplas S.A.B. de C.V.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2308
+AGR.AUS,Aguia Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2069
+F000001YDW.BCL,Inversiones Aguaviva I SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1935
+F000001Z61.BCL,Rio de Aguas Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1818

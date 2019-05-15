@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DU13.FRK,L.IBOXX GE.1-3Y(DR)UETF A,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+DU13.MUN,L.IBOXX GE.1-3Y(DR)UETF A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2759
+DU13.DUS,L.IBOXX GE.1-3Y(DR)UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759

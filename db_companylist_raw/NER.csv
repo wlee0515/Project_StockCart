@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NERV,Minerva Neurosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NERYX,Loomis Sayles Core Plus Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NERNX,Loomis Sayles Core Plus Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NERG,NuTech Energy Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NERCX,Neuberger Berman Emerging Mkts Dbt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NERIX,Neuberger Berman Emerging Mkts Dbt Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NERAX,Neuberger Berman Emerging Mkts Dbt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLVIS.PAR,Visio Nerf,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4615

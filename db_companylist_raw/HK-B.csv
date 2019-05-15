@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HK0000200599.HKG,Amundi HK-Balanced Classic USD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+HK0000059771.HKG,Amundi HK-Balanced Classic USD,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+HK0000251790.HKG,Amundi HK-Balanced Classic HKD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+HK0000251808.HKG,Amundi HK-Balanced Classic AUD H Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+F00000SPQO.HKG,Amundi HK-Balanced Classic USD,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+F00000VXOG.HKG,Amundi HK-Balanced Classic USD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+F00000VZ3C.HKG,Amundi HK-Balanced Classic AUD H Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2353
+F00000W24L.HKG,Amundi HK-Balanced Classic HKD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2105
+F00000WQL5.HKG,Amundi HK-Balanced Classic A USD Acc,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2105
+F00000WQL6.HKG,Amundi HK-Balanced Classic NZD H Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2105

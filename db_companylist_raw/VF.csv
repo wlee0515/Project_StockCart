@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFFIF,Village Farms International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VFC,V.F. Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VFINX,Vanguard 500 Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFIAX,Vanguard 500 Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFH,Vanguard Financials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+VFSTX,Vanguard Short-Term Investment-Grade Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFSUX,Vanguard Short-Term Investment-Grade Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFIIX,Vanguard GNMA Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFIDX,Vanguard Interm-Term Investment-Grde Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VFORX,Vanguard Target Retirement 2040 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

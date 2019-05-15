@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LVUS,Hartford Multifactor LowVolatil US EqETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DBUK,Xtrackers MSCI United Kingdom Hdg EqETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+EQEU.FRK,Invesco EQQQ NASDAQ-100 ETF (EUR Hdg),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+EQE.AUS,Equus Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+EQEU.FRK,IMIII-I.EQ.NA.-100- AEOH,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EQEU.MIL,INVESCO EQQQ NASDAQ-100 UCITS E,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1429
+EQEU.SWI,Invesco EQQQ UCITS ETF EUR Hdg,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1395
+GB00BRJL8200.LON,Aberdeen Northern Amr EqEnhIdx Net X Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+F00000WUQT.LON,Aberdeen Northern Amr EqEnhIdx Net X Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

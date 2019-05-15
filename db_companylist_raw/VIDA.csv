@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIDA,Vidaroo Corp,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PGNYF,Pura Vida Energy NL,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+VIDAX,Delaware Tax-Free ID A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+PVD.AUS,Pura Vida Energy NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3478
+P6V.STG,Pura Vida Energy NL Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158
+AXAIM65A.MEX,"Ciclo De Vida 2065, S.A. De C.V. Fondo De Inversion De Renta Variable",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3077
+BRASILPREVCI.SAO,BRASILPREV RENDA TOTAL CICLO DE VIDA III 2040 FUNDO DE INVESTIMENTO EM COTA,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2667
+BTRVB.LIS,"GNB - Companhia de Seguros de Vida, S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.2286
+FIVN11.SAO,Vida Nova Fundo Investimento Immobiliere,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1818

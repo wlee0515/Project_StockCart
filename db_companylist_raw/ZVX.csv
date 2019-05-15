@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZVX.STG,Sports Direct Intl PLC Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+ZVX.FRK,Sports Direct International plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZVX.BER,"SPORTS DIRECT INTL LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZVX.DUS,"SPORTS DIRECT INTL LS-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ZVX.MUN,"SPORTS DIRECT INTL LS-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

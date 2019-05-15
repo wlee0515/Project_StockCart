@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OXC.TRT,Oryx Petroleum Corporation Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+OXCT.LON,DB ETC INDEX PLC BRNT CRD OIL B,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

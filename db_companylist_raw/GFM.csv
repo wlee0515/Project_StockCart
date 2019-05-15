@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFMH,Goliath Film & Media Holdings,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GFMGX,Gerstein Fisher Multi-Factor Growth Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFMRX,Gerstein Fisher Mlt-Ftr Gl Rl Est Sec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFMULTIO.MEX,"Grupo Financiero Multiva, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+AEPB.KLA,GFM SERVICES BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+GFM.LON,Griffin Mining Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+0039.KLA,GFM SERVICES BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4286
+GFMH.TRV,GFM RESOURCES LTD.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3158
+GFM-H.TRV,GFM Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2727
+XS0480096469.AMS,GFM10 B FRNNOV99,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2727

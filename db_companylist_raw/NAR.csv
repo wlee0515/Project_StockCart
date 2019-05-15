@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NARAX,Virtus Newfleet Multi-Sector S/T Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRGSP,The Narragansett Electric Company PFD 4.50%,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NITFX,Aquila Narragansett Tax-Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+NITYX,Aquila Narragansett Tax-Free Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NITIX,Aquila Narragansett Tax-Free Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NITCX,Aquila Narragansett Tax-Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NARCX,Voya Multi-Manager International Sm Cp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NIFFX,Aquila Narragansett Tax-Free Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NRWS,Narrowstep Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NRSKF,Narasaki Sangyo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

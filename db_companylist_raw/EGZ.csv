@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGZ.FRK,Edgewell Personal Care Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EGZ.BER,"EDGEWELL PERS.CARE DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EGZ.MUN,"EDGEWELL PERS.CARE DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EGZ.STG,Edgewell Personal Care Co. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

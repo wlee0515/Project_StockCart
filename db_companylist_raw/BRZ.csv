@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRZU,Direxion Daily MSCI Brazil Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BRZV,Breezer Ventures Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRZL,Scepter Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRZ.TRV,Bearing Lithium Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+BRZ.LON,Amundi ETF MSCI Brazil ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGTXU,Hugoton Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HGV,Hilton Grand Vacations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+STLY,HG Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HGSH,China HGS Real Estate Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HGOAX,Hartford Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HGH,The Hartford Financial Services Group Inc. DEB FIX/FLT 42,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HGEN,Humanigen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HGBL,Heritage Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HGOIX,Hartford Growth Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+HGKGY,Power Assets Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2105

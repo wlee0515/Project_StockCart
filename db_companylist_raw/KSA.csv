@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSA,iShares MSCI Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KSANF,Kansai Paint Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DXQE.DUS,KSAM EINKOMMEN AKTIV B,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2727
+DXQE.HAM,KSAM EINKOMMEN AKTIV B,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+H617.HAM,KSAM-RICAM-VALUE2 R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2400

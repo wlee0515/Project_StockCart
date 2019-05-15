@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GACR,Green Automotive Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GACIX,Gabelli Small Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GACPX,Goldman Sachs Concentrated Growth P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GACFX,Gotham Absolute 500 Core Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GACCX,Gabelli Global Rising Income and Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GACA.LON,General Accident plc 8 7/8% CUM IRRD PRF GBP1,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GACB.LON,General Accident plc 7 7/8% CUM IRRD PRF GBP1,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1OBA.BER,AMP.ETF TR-AM.TR.DA.S.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+1OBA.MUN,AMP.ETF TR-AM.TR.DA.S.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2759
+1OBB.BER,AMP.ETF TR-AM.ONL.RET.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759

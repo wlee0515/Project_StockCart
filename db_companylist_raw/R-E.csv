@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0010619882.PAR,Natixis Actions US Value R-E,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0011929686.PAR,Vega Monde Equilibre R-E,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+F000002KFX.PAR,Natixis Actions US Value R-E,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935
+F00000VSZL.PAR,Vega Monde Equilibre R-E,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDX,"Becton, Dickinson and Company",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BDSI,BioDelivery Sciences International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BDRBF,Bombardier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BDCL,UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+BDCI,Global Consortium Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BDC,Belden Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BDRAF,Bombardier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BDR,Blonder Tongue Laboratories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BDJ,BlackRock Enhanced Equity Dividend Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BDN,Brandywine Realty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

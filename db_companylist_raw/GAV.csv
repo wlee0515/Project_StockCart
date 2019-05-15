@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAVIX,KL Allocation Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAVAX,KL Allocation Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGHS.LON,BOUSSARD & GAVAUDAN HOLDING LIM,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GAV.SWI,Carlo Gavazzi Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4000
+BGHL.AMS,Boussard & Gavaudan Holding Limited,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2222
+D9N.FRK,Carlo Gavazzi Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+D9N.BER,GAVAZZI -C.- INH. B SF 15,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+D9N.STG,CARLO GAVAZZI HOLDING AG Inhabe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143

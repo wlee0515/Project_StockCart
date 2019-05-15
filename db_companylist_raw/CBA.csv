@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBA,ClearBridge American Energy MLP Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBAY,CymaBay Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBAK,CBAK Energy Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBAI,CBA Florida Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBAN,Colony Bankcorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBAQF,Cannabis Strategies Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBALX,Columbia Balanced Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBAIX,Calvert Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBAUF,Commonwealth Bank of Australia,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBAEX,American Funds Moderate Gr & Inc 529-E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

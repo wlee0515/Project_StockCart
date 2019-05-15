@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZNGA,Zynga Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZNGY,Zenergy Brands Inc.	,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZNGRIX,Nuveen Global Cities REIT Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ZNGRTX,Nuveen Global Cities REIT Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZNGRSX,Nuveen Global Cities REIT Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZNGRDX,Nuveen Global Cities REIT Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZNG.TRV,Group Eleven Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+ZNGA.SWI,Zynga Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

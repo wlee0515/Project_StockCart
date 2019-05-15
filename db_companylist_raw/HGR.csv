@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGRDX,Janus Henderson US Growth Opps D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HGRVF,Hargreaves Services Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRRX,Janus Henderson US Growth Opps N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRAX,Janus Henderson US Growth Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRTX,Janus Henderson US Growth Opps T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRIX,Janus Henderson US Growth Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRCX,Janus Henderson US Growth Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRSX,Janus Henderson US Growth Opps S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGRL,Holy Grail Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGR.TRT,Harvest Global REIT Leaders Income ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

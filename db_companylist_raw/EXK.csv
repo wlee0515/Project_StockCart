@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXK,Endeavour Silver Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EXK.FRK,Exact Sciences Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EXK.MUN,"EXACT SCIEN.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EXK.STG,EXACT SCIENCES CORP. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+A0M6W7.FRK,DWS Qi Exklusiv Renten Chance,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1875

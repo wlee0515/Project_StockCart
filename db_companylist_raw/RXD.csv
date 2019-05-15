@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RXD,ProShares UltraShort Health Care,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RXD-U.TRT,RBC QUANT EMERGING MKTS DIV LEA,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+RXD.TRT,RBC Quant Em Mkts Dividend Ldrs ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

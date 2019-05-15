@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HF,HFF Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HFFG,HF Foods Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+H2L.BER,"HFF INC.  A  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+H2L.FRK,"HFF INC.  A  DL -,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HFF.STG,The Hartford Financial Services Group Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HFF.FRK,The Hartford Financial Services Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HFF.BER,HARTFORD FINL SVCS GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HFF.DUS,HARTFORD FINL SVCS GRP,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+HFF.MUN,HARTFORD FINL SVCS GRP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2609

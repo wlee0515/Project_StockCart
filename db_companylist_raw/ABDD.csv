@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABDDF,AB Dynamics Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ABDD.BER,AB.GL-S.EM.B. AAHEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ABDD.DUS,AB.GL-S.EM.B. AAHEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ABDD.MUN,AB.GL-S.EM.B. AAHEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

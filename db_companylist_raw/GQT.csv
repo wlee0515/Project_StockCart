@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GQTX.FRK,DryShips Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GQTX.BER,"DRYSHIPS INC. 7/17 DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GQTX.DUS,"DRYSHIPS INC. 7/17 DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GQTX.MUN,"DRYSHIPS INC. 7/17 DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+GQTX.STG,Dryships Inc. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

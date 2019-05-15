@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFIVX,JHT Floating Rate Income NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHTFX,JHancock High-Yield Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHTRX,JHFunds 2 Total Return NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+JHTN.KLA,JOHORE TIN BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500

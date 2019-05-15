@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTTAMSTL.NSE,Uttam Galva Steels Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+UTTAMSUGAR.BSE,Uttam Sugar Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+UTTAMSUGAR.NSE,Uttam Sugar Mills Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+UVSL.NSE,UTTAM VALUE STEELS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+UTTAMSTL.BSE,Uttam Galva Steels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+UTTAMVALUE.BSE,Uttam Value Steels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+UTTAMSUGAR-EQ.NSE,UTTAM SUGAR MILLS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636

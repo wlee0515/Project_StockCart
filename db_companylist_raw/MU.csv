@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MU,Micron Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MUX,McEwen Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MWA,Mueller Water Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MUR,Murphy Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MUFG,Mitsubishi UFJ Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MUB,iShares National Muni Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+MLI,Mueller Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LABL,Multi-Color Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MUSA,Murphy USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MBIO,Mustang Bio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1600

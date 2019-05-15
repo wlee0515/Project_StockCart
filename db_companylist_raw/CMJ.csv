@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMJAX,Calvert US Mid Cap Core Rspnb Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMJIX,Calvert US Mid Cap Core Rspnb Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMJ.FRK,"Poly Property Group Co., Limited",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CMJ.BER,POLY PPTY GR.CO.LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CMJ.STG,Poly Property Group Co. Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+K55101B72036.KOR,KIM Sinjong for Inst Investors MMF15 CMJ,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395
+F00000W9G5.KOR,KIM Sinjong for Inst Investors MMF15 CMJ,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+L,Loews Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LEGH,Legacy Housing Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LTHM,Livent Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LOGC,LogicBio Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LQDA,Liquidia Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LAIX,LAIX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LOACU,Longevity Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LMT,Lockheed Martin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+LITE,Lumentum Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

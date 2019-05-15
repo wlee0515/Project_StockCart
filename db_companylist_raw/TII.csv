@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIIRX,TIAA-CREF Growth & Income Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIILX,TIAA-CREF Inflation Link Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIIEX,TIAA-CREF International Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIIWX,TIAA-CREF Inflation Link Bd W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIIUX,Consulting Group Core Fixed Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIIHX,TIAA-CREF Inflation Link Bd Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIICX,Timothy Plan Conservative Growt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIISX,TIAA-CREF Quant Intl Sm-Cp Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIIPX,T. Rowe Price Inflation Protected Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TII.TRV,Terra Firma Capital Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

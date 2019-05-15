@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCX.HAM,"PAYCHEX INC.  DL-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7500
+PCX.FRK,Paychex Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PCX.BER,"PAYCHEX INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PCX.DUS,"PAYCHEX INC.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+PCX.MUN,"PAYCHEX INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+PCX.STG,PAYCHEX INC. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

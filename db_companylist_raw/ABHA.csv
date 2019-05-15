@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABHA.MUN,HASEN-IMMOBILIEN AG  NA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ABHA.STG,Hasen-Immobilien AG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

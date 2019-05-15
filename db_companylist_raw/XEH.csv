@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XEHIX,Western Assets Global High Inco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEHTX,Eaton Vance High Income 2021 Ta,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEH.TRT,iShares MSCI Europe IMI ETF (CAD-Hedged),ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4PIF.BER,I.S+P SC HC.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+4PIF.DUS,I.S+P SC HC.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

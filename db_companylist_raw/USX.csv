@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USX,U.S. Xpress Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+USX1.FRK,United States Steel Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+USX1.BER,UNITED STATES STEEL  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+USX1.DUS,UNITED STATES STEEL  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+USX1.HAM,UNITED STATES STEEL  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+USX1.MUN,UNITED STATES STEEL  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+USX1.STG,United States Steel Corp. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

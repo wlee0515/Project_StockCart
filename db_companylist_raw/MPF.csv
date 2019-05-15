@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPFDX,Morgan Stanley Inst Corporate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPFRF,"Mapfre, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPFIX,Morgan Stanley Inst Core PlsFxdInc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F000000NV3.HKG,Invesco MPF Asian Equity H,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.4615
+F00000215B.FRK,MPF ATHENE,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4615
+515386.FRK,MPF Global Fonds-Warburg,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4286
+A0M6MX.FRK,MPF ATHENE,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3529
+A0M8HA.FRK,MPF ALLEGRO,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2222
+A0M8HB.FRK,MPF TRUE VALUE,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2069

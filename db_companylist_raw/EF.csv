@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFA,iShares MSCI EAFE ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EFX,Equifax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EFOI,Energy Focus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EFII,Electronics for Imaging Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EFC,Ellington Financial LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EFAV,iShares Edge MSCI Min Vol EAFE ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EFSC,Enterprise Financial Services Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EFV,iShares MSCI EAFE Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+EFR,Eaton Vance Senior Floating-Rate Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EFT,Eaton Vance Floating-Rate Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

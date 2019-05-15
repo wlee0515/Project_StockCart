@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUSA.FRK,iShares S&P 500 ETF USD Dist,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+IUSA.AMS,iShares Public Limited Company - iShares S&P 500 UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.8000
+IUSA.MIL,iShares S&P 500 ETF USD Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+IUSA.FRK,ISHS-S+P 500 DL D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+IUSA.LON,iShares Public Limited Company - iShares S&P 500 UCITS ETF (Dist),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+IUSA.BER,ISHS-CORE S+P 500 DL D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IUSA.DUS,iShares S&P 500 ETF USD Dist,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+IUSA.HAM,ISHS-CORE S+P 500 DL D,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+IUSA.MUN,ISHS-CORE S+P 500 DL D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+IUSA.STG,iShares S&P 500 ETF USD Dist,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

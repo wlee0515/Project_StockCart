@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VB-PA.TRT,VERSABANK PREF SERIES 1,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+VB-PB.TRT,VERSABANK PREF SERIES 3,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NO61.VIE,RCB OETrackX3 l NatGas,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+NQ61.VIE,RCB OETrackX2 s Dt Bank,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+IE54.VIE,RCB OETrackX3lBrentCrudeOil,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2400
+HE07.VIE,RCB OETrackX2 l Komercni Banka,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2400
+HE08.VIE,RCB OETrackX3 l Komercni Banka,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2400
+IX66.VIE,RCB OETrackX2 s AT&S,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2308
+IX67.VIE,RCB OETrackX3 s AT&S,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000
+JE63.VIE,RCB OETrackX2 s Copper,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000
+LL21.VIE,RCB OETrackX2 s RWE St,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000

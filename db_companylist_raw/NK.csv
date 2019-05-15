@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NK,NantKwest Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NKE,NIKE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NKTR,Nektar Therapeutics,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NKSH,National Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NKG,Nuveen Georgia Quality Municipa,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NKRKY,Nokian Renkaat Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NKOSF,Labrador Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NKWFF,Naikun Wind Energy Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NKWEF,Nkwe Platinum Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

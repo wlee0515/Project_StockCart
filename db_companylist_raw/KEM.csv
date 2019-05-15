@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KEM,KEMET Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KMPH,KemPharm Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KMPR,Kemper Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KEMQ,KraneShares Em Mkts Cnsmr Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+KMPA,Kemper Corporation SUB NT 54,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FAKDX,Kempner Multi-Cap Deep Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FIKDX,Kempner Multi-Cap Deep Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVRA.FRK,URU Metals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NVRA.BER,URU METALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NVRA.STG,URU Metals Ltd. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

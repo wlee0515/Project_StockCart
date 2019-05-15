@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RZU.FRK,PT Summarecon Agung Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RZU.BER,SUMMARECON  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RZU.MUN,SUMMARECON  RP 500,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RZU.STG,"SUMMARECON AGUNG, PT Registered",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

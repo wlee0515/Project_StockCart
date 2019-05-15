@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AKW.PAR,AKWEL,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+0F8V.LON,AKWEL,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MW4.STG,"Akwel S.A. Actions Port. EO 0,8",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

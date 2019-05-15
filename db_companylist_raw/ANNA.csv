@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT0000A1U2A5.VIE,ANNA,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,1.0000
+NLY,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+NLY-PD,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NLY-PG,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NLY-PC,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NLY-PF,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+NLY-PH,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+ACBD,Annabidiol Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+ANNAX,AllianzGI Convertible Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+A52.SGP,AnnAik Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2286

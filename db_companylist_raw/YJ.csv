@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YJEB.FRK,CORENERGY INFR.TR. NEW,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+YJ3A.BER,JBS S.A.  ADR/2O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+YJ3A.STG,JBS S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+YJEB.BER,CORENERGY INFR.TR. NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+YJHR.SGP,AusGroup R^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444
+YJIR.SGP,AusGroup R1^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000JYB0.TRT,Manulife GIF Sel TrimarkGl Fdmtl Eq F-Cl,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000UOM2.TRT,Manulife Bal GIF Sel (M-M) F-Class EstP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000UOM3.TRT,Manulife Bal GIF Sel (M-M) F-Class IncP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000UOMA.TRT,Manulife Canadian Bal GIF Sel F-Cl EstP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000UOMB.TRT,Manulife Canadian Bal GIF Sel F-Cl IncP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

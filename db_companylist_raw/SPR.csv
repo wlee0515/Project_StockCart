@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPR,Spirit AeroSystems Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+S,Sprint Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPRWF,The Supreme Cannabis Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFM,Sprouts Farmers Market Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRLP,Sprague Resources LP,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SPOXF,Sprott Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CEF,Sprott Physical Gold and Silver Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+SPRO,Spero Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PSLV,Sprott Physical Silver Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SPRV,Web To Door Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500

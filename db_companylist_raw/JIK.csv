@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002691.SHZ,Jikai Equipment Manufacturing Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.5000
+JIKIND.BSE,JIK Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+JIKIND.NSE,JIK Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1429

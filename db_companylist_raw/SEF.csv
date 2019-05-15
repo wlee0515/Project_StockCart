@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEF,ProShares Short Financials,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SEFIX,SEI International Fixed Income F (SIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEFCX,SEI International Equity Y (SIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEFA.LON,Shefa Yamim (A.T.M.) Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SEFA.TAV,Shefa Yamim Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+SEFER.PAR,SergeFerrari Group SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGFYX,Western Assets Variable Rate St,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XGFNX,New Germany Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XGFN.STG,GFPT Public Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTHM,Livent Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LTHUQ,Lithium Technology Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTHIF,InZinc Mining Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTHHF,Lithium Power International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTHM.LON,James Latham plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LTH.BER,CIMIC GROUP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LTH.DUS,CIMIC GROUP,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+LTH.MUN,CIMIC GROUP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LTH.STG,CIMIC Group Ltd. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LTH.FRK,CIMIC Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSG,Republic Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RSGEX,Russell Inv US Dynamic Equity E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGCX,Russell Inv US Dynamic Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGSX,Russell Inv US Dynamic Equity S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGRX,Victory RS Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGGX,Victory RS Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGUF,Rogers Sugar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGAX,RiverSource Strategic Inc Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSGFX,Victory RS Select Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

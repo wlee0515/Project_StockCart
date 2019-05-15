@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOMC.BER,FOM.ECON.MEX.SAB D.CV UTS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+4FY.STG,Grupo Financie.Inburs.SAB d.CVR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+PAC6.FRK,PARV.-EQ.EU.SM.CAP D.CLE,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+FOMA.STG,Fomento Econom.Mexica.SAB D.CVR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+FOMC.MUN,FOM.ECON.MEX.SAB D.CV UTS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+FOMC.STG,Fomento Econom.Mexica.SAB D.CVR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+PAC6.BER,PARV.-EQ.EU.SM.CAP D.CLE,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+PAC6.MUN,PARV.-EQ.EU.SM.CAP D.CLE,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2000

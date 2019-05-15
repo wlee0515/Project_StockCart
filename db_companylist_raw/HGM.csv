@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGM.AUS,High Grade Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+HGM.LON,Highland Gold Mining Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+HGM.BER,"HIGHLAND GOLD MNG LS-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HGM.DUS,"HIGHLAND GOLD MNG LS-,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HGM.MUN,"HIGHLAND GOLD MNG LS-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HGM.FRK,Highland Gold Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HGM.STG,Highland Gold Mining Ltd Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HGM.TRT,Horizons Managed Global Opp ETF E,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRTS,Gritstone Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLVS,Clovis Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZIOP,ZIOPHARM Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LOXO,Loxo Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ONCE,Spark Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ONCS,OncoSec Medical Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ONTX,Onconova Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ONCY,Oncolytics Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+OMED,OncoMed Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+SRRA,Sierra Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVE,Tennessee Valley Authority PARRS A 2029,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TVER,Terrace Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TVEFX,Guggenheim RBP Dividend P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVECX,Guggenheim RBP Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVETF,Traverse Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TVEIX,Guggenheim RBP Dividend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVEAX,Guggenheim RBP Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVE.TRT,Tamarack Valley Energy Ltd,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+TVEW.SGP,$ Transcorp,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000

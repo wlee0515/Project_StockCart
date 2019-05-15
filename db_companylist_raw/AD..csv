@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AD.AMS,Koninklijke Ahold Delhaize N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7500
+AD.TRT,Alaris Royalty Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+AD.MIL,Koninklijke Ahold Delhaize N.V.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+AD.TWN,ABITL Income Umb Mlti-ast Inc FOF AD TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.7500
+AD.VIE,Koninklijke Ahold Delhaize N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+JP5C.FRK,JPM-US SM.CAP GWTH AD.DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+JP5C.BER,JPM-US SM.CAP GWTH AD.DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+JP5C.DUS,JPM-US SM.CAP GWTH AD.DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

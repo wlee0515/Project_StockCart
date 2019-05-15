@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSD,Nuveen Short Duration Credit Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JSDA,Jones Soda Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JSDHX,JPMorgan Short Duration Core Plus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSDUX,JPMorgan Short Duration Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSDCX,JPMorgan Short Duration Core Plus C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSDEX,JHancock Short Duration Credit Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSDSX,JPMorgan Short Duration Core Plus I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSDRX,JPMorgan Short Duration Core Plus R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

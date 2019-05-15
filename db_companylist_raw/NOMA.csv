@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOMD,Nomad Foods Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0NH.STG,Nomad Foods Ltd. Reg.Shares (DI,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+0NH.FRK,Nomad Foods Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+NOMDN.MEX,Nomad Foods Limited,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2286

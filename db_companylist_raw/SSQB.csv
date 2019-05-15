@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSQBALANCEDS.TRT,SSQ Balanced Strategy GIF Standard,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SSQBEUTELGOO.TRT,SSQ Beutel Goodman U.S. Eq GIF Basic,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SSQBLACKROCK.TRT,SSQ BlackRock Can Index GIF GIA B,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMN,AMN Healthcare Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMRX,Amneal Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMNF,Armanino Foods of Distinction Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMNB,American National Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMNL,Applied Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMNAX,AB Municipal Income II Minnesota A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AMNE,American Green Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMNP,American Sierra Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMNCX,AB Municipal Income II Minnesota C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

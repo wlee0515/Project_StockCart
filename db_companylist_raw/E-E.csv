@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYYH.BER,LYX.CTR/C.CRB E-E UE A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+LYYH.DUS,LYX.CTR/C.CRB E-E UE A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2400
+LYYH.HAM,LYX.CTR/C.CRB E-E UE A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+LYYH.MUN,LYX.CTR/C.CRB E-E UE A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2400

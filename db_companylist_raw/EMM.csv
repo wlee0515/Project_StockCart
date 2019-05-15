@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMMBF,Emblem Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMMS,Emmis Communications Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DEI,Douglas Emmett Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMMF,WisdomTree Emerging Markets Mltfctr,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+XSOE,WisdomTree EmMkts ex-Stt-Ownd EntrprsETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+EMGF,iShares Edge MSCI Multifactor EmMkts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+EMMOX,Lazard Emerging Markets Multi Asset Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+EMMD,eMedia Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SMSVX,Hartford Schroders EmMkts Mlt-Sect Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SMSNX,Hartford Schroders EmMkts Mlt-Sect Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

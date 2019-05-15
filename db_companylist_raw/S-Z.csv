@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT0000649967.VIE,S-ZukunftAktien 1,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3000
+AT0000649975.VIE,S-ZukunftRenten 1,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3000
+AT0000A0H0R1.VIE,s-Zukunft Aktien 4,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2857

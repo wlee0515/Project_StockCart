@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MXAPX,Great-West Aggressive Profile Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAWX,Great-West Lifetime 2030 L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAIX,Touchstone Small Cap Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXABX,Great-West Lifetime 2015 L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXACX,Great-West Lifetime Cnsrv 2020 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAKX,Great-West Lifetime 2020 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAZX,Great-West Lifetime 2035 L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAUX,Great-West Lifetime 2030 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAYX,Great-West Lifetime 2030 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXAEX,Great-West Lifetime Cnsrv 2020 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

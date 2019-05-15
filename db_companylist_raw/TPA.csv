@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPAC,Trans-Pacific Aerospace Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DBBDX,Miller/Howard Drill Bit to Burner TpAdv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPAIX,Timothy Plan Israel Common Values A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TPA.BAK,Thai Poly Acrylic Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TPA1.FRK,Orange Polska S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TPA1.BER,ORANGE POLSKA SA A  ZY 3,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TPA1.MUN,ORANGE POLSKA SA A  ZY 3,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TPA1.STG,Orange Polska SA Inhaber-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TPAC.BAK,Thai Plaspac Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1429

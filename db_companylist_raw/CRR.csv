@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CRR,CARBO Ceramics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CRRFY,Carrefour SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRVF,CVR Medical Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRSQ,Corporate Resource Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZHUZF,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRREX,Resource Real Estate Diversifie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRVX,Columbia Real Estate Equity Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRIX,Columbia Global Infrastructure Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRTF,Crescita Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRRYX,Columbia Small Cap Value II Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500

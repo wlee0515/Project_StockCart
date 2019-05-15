@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEI,Camber Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CEIX,CONSOL Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CEIPDX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEIPCX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEIPEX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEIPAX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEIPBX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEIPFX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CBA.LON,Ceiba Investments Ltd,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500

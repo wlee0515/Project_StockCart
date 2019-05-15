@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EIP,Eaton Vance Pennsylvania Municipal Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EIPC,Enable IPC Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EIPIX,EIP Growth and Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIPAF,Eni S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EIPFX,EIP Growth and Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIPCX,Parametric Commodity Strategy Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIPDX,Parametric Dividend Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIPAX,Eaton Vance PA Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

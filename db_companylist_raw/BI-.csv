@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XE6B.BER,NORDEA 1-EUR.H.YLD BI-EUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+XE6B.MUN,NORDEA 1-EUR.H.YLD BI-EUR,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+108730.BSE,IDFC SS Inc M/T Reg Bi-M Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143
+118399.BSE,IDFC SS Inc M/T Dir Bi-M Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1935
+XE6B.DUS,NORDEA 1-EUR.H.YLD BI-EUR,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1935
+F00000PH2A.BSE,IDFC SS Inc M/T Dir Bi-M Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1935
+F0GBR06SLQ.BSE,IDFC SS Inc M/T Reg Bi-M Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1935

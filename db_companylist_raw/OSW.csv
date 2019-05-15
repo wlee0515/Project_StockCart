@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+N100.NSE,Motilal Oswal NASDAQ 100 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+MOTILALOFS.BSE,Motilal Oswal Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+OSWALAGRO.BSE,Oswal Agro Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+OSW1.LON,ETFS WTI 1yr ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+OSW.BER,BAKRIE SUMATRA  RP 1000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+N100.BSE,MOTILAL OSWAL MOST SHARES NASD,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+BINDALAGRO.NSE,Oswal Greentech Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+OSW.FRK,PT Bakrie Sumatera Plantations Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+M50.NSE,Motilal Oswal M50 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000
+OSW.STG,PT Bakrie Sumatra Plantations R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

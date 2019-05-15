@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBU.TRV,Gabriel Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GBUR.LON,ETFS Long EUR Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GBUS.LON,ETFS Long USD Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GBUD.TAV,Gabay Urban Development Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EDAP,EDAP TMS S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+300206.SHZ,Edan Instruments Inc.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.7500
+ED4.FRK,EDAG Engineering Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EDA.FRK,EDAP TMS S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+ED4.FRK,EDAG Engineering Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+ED4.MUN,"EDAG ENGINEERING G.SF-,04",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+ED4.BER,"EDAG ENGINEERING G.SF-,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+ED4.DUS,"EDAG ENGINEERING G.SF-,04",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+ED4.STG,EDAG Engineering Group AG Inhab,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+EDA.BER,"EDAP TMS S.A. ADR EO -,13",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400

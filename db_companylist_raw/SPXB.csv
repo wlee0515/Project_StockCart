@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPXB,ProShares S&P 500 Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SPXB.STG,Suzano Papel e Celulose S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

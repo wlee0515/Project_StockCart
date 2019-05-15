@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHE,SPDR SSGA Gender Diversity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8889
+GENDX,Gotham Enhanced Index Plus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+ELLE.LON,Lyxor Global Gender Eqlty (DR) ETF C USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+GEND.LON,LYXOR INDEX FUND LYXOR GLOBAL G,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

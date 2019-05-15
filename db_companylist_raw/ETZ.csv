@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETZ.FRK,Esterline Technologies Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ETZ.BER,"ESTERLINE TECHS  DL -,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ETZ.PAR,BNPP Easy Stoxx Europe 600 ETF C,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ETZ.SWI,Easy ETF - BNP Paribas Easy STOXX Europe 600 UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+ETZD.PAR,BNPP Easy Stoxx Europe 600 ETF H A/I,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

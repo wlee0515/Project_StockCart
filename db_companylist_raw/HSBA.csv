@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSBA.LON,HSBC Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+HSBAA.PAR,HSBCSFH2%16OCT23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+HSBAB.PAR,HSBCSFH1.875%OCT20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTEM,Molecular Templates Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTEX,"Mannatech, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTEHF,Maxtech Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTEC,MTech Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTENY,Mahanagar Telephone Nigam Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTECU,MTech Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTERX,MFS Technology R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTEI,Mountain Energy Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTEDUCARE.NSE,MT Educare Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000

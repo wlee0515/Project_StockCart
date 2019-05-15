@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WGO,Winnebago Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WGP,"Western Gas Equity Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WGROX,Wasatch Core Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WGIFX,American Funds Capital World Gr&Inc F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WGRNX,Wintergreen Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WGLCO,Washington Gas Light Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WGBFX,Wells Fargo WealthBuilder Gr Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WGCFX,Wells Fargo WealthBuilder Gr Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WGFCX,Wells Fargo Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WGTB,Washington Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2436.TOK,Kyodo Public Relations Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+6881.TOK,"Kyoden Company, Limited",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+7914.TOK,Kyodo Printing Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+9849.TOK,Kyodo Paper Holdings,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WM.TRT,Wallbridge Mining Company Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+MZP.STG,"MORRISON SUPERMARKETS PLC, WM.R",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

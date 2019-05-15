@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTP,Tortoise Pipeline & Energy Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TTPH,Tetraphase Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTPPF,Total Produce plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TTP.TRT,TD Canadian Equity Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+TTPX.FRK,Amundi ETF Japan Topix UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TTPX.FRK,Amundi ETF Japan Topix Daily Hdg EUR A/I,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+TTPX.STG,AIS-Amundi JAPAN TOPIX Namens-A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

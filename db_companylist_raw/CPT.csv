@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPT,Camden Property Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CPTA,Capitala Finance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LDVAX,Leland Thomson Reuters Vntr Cptl Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LDVIX,Leland Thomson Reuters Vntr Cptl Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPTNX,American Century Government Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPTFF,XTRACKERS (IE) PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSEGX,Touchstone Sands Cptl Emerg Mkts Gr Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CPTAL,Capitala Finance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TSEMX,Touchstone Sands Cptl Emerg Mkts Gr Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+CPTP,Capital Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1463

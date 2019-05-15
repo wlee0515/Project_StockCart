@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5714.TOK,Dowa Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+DMI.FRK,Dowa Holdings Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+DMI.BER,DOWA HOLDINGS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+DMI.DUS,DOWA HOLDINGS INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2963

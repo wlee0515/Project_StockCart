@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEM,Newmont Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NMUS,Nemus Bioscience Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NMRD,Nemaura Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NMKEF,Nemaska Lithium Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DD-PB,E. I. du Pont de Nemours and Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DD-PA,E. I. du Pont de Nemours and Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NEMIX,Neuberger Berman Emerg Mkts Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+NEMCX,Neuberger Berman Emerg Mkts Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NEMCF,New Energy Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+NEMRX,Neuberger Berman Emerg Mkts Eq R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538

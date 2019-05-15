@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELNOF,El Nino Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELSA.JKT,PT Elnusa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+ELN.MIL,EL.En. S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+ELNET.BSE,Elnet Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+ELN.TRV,El Nino Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+ELN.FRK,Elanix Biotechnologies AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+5EL.BER,"ELNUSA TBK, PT",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+5EL.STG,"Elnusa Tbk, PT Registered Share",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+6972.TOK,ELNA Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+ELN.BER,ELANIX BIOTECHN.AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3529

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPG,Crescent Point Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WTSLX,Segall Bryant & Hamill Sml CpGr II Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGAX,PL Growth LT 529 MT A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGRX,Columbia Mid Cap Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGCX,American Funds Global Growth Port 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGLF,Cpl Resources plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGSF,CropEnergies AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPG.TRT,Crescent Point Energy Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CPG.LON,Compass Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

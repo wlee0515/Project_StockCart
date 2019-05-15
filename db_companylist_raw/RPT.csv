@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPT,RPT Realty,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RPTIX,T. Rowe Price Mid-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPT-PD,Ramco-Gershenson Properties Trust PERP PFD-D CV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RPTFX,T. Rowe Price Target 2045,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPTTX,T. Rowe Price Diversified Mid Cap Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPT.LON,Regal Petroleum plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+R4F.FRK,RPT Realty,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615

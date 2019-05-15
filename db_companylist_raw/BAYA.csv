@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BYAN.JKT,PT Bayan Resources Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.8000
+BAYA.FRK,Bayer Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+BAYA.BER,BAYER ADR /1/4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+BAYA.STG,BAYER AG Namens-Aktien(Sp.ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+BNB.MUN,BAYAN RESOURCES GROUP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+BNB.STG,Bayan Resources Group Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+BAYA.FRK,Bayer Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3200
+BNB.FRK,PT Bayan Resources Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+BNB.BER,BAYAN RESOURCES GROUP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+BAYA.MUN,BAYER ADR /1/4,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

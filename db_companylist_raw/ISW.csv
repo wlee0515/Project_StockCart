@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISWIX,Voya Solution Income Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISWSX,Voya Solution Income Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISWTX,Voya Solution Income Port T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISWAX,Voya Solution Income Port ADV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISWD.LON,iShares II Public Limited Company - iShares MSCI World Islamic UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ISW.FRK,Information Services International-Dentsu Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ISWD.SWI,iShares MSCI World Islamic ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+ISWI.BER,"IWG PLC  LS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ISWL.BSE,India Steel Works Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

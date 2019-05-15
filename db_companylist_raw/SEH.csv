@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEHKF,Seahawk Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SEHAX,SEI US Equity Factor Allocation A (SIIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEHI,Stadium Entertainment Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SEH.FRK,Shin-Etsu Chemical Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SEH.STG,SHIN-ETSU CHEMICAL CO. LTD. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SEH.BER,SHIN-ETSU CHEM.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SEH.DUS,SHIN-ETSU CHEM.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SEH.MUN,SHIN-ETSU CHEM.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+027970.KOR,Seha Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3158

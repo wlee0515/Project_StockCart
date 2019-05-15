@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTH,Invesco DWA Healthcare Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PTHAX,Putnam Tax-Free High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTHRF,Pantheon Resources Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTHIX,Dreyfus High Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTHYX,Putnam Tax-Free High Yield B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

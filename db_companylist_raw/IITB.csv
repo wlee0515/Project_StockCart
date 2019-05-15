@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IITB.MIL,iShares Italy Govt Bond ETF EUR Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.8000
+IITB.LON,iShares Italy Govt Bond ETF EUR Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+IITB.SWI,iShares Italy Govt Bond ETF EUR Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFAACTIONSAM.TRT,DFA US Core Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+DFAACTIONSCA.TRT,DFA Canadian Core Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+DFAACTIONSIN.TRT,DFA International Core Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

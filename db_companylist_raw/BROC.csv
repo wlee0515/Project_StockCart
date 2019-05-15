@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BROCX,BlackRock Advantage International Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BROC.FRK,"BRIGHTHOUSE FINANC.DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+BROCK.BAK,Baan Rock Garden Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+WA2.BER,BROCKMAN MINING LTD.HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+2706.TOK,Broccoli Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+BROC-P.TRV,Brockton Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4000
+1RO.STG,Broccoli Co. Ltd.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+BCK.AUS,Brockman Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3636
+0159.HKG,Brockman Mining Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2963
+BROC.MUN,Brighthouse Financial Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759

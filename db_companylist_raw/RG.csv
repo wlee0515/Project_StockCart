@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGSE,Real Goods Solar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RGRX,RegeneRx Biopharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RGLS,Regulus Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RGLD,Royal Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RGNX,REGENXBIO Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RGR,"Sturm, Ruger & Company Inc.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RGEN,Repligen Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RGS,Regis Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RGAGX,American Funds Growth Fund of Amer R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RGA,"Reinsurance Group of America, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VEC,Vectrus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GDX,VanEck Vectors Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GDXJ,VanEck Vectors Junior Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+OIH,VanEck Vectors Oil Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VGR,Vector Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SMH,VanEck Vectors Semiconductor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2143
+RSX,VanEck Vectors Russia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+CNY,Market Vectors Chinese Renminbi/USD ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1765
+PEK,VanEck Vectors ChinaAMC CSI 300 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1714
+VECO,Veeco Instruments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500

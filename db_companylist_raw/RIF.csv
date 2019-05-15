@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIF,RMR Real Estate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RIFYX,Victory RS Science and Technology Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIFKX,Victory RS Science and Technology R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIFEX,Russell Inv International Devd Mkts E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIFTX,Resource Credit Income Fund Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFC.TRV,Rifco Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+RIFS.LON,Reliance Infrastructure Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+RIFS.ILN,RELIANCE INFRASTRUCTURE LD GDR ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

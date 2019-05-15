@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENB,Enbridge Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EEP,"Enbridge Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENBL,"Enable Midstream Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EEQ,"Enbridge Energy Management, L.L.C.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENBA,Enbridge Inc. 6.375 SNT18 B 78,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EBGUF,Enbridge Income Fund Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ENBN,Enterprise Bank NJ,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ENBP,ENB Financial Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ENBBF,Enbridge Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EBBNF,Enbridge Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

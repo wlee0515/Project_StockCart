@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTZHAX,"FT 7108: Select DSIP Portfolio,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTZLBX,First Trust Combined Srs 306:Bu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTZCHX,FT 6493: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTZYNX,FT 7319; Income Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTZFX,Fuller & Thaler Behavioral Unco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTZIX,Fuller & Thaler Behavioral Unco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTZ.AUS,Fertoz Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+FTZ.FRK,Elders Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FTZ.BER,ELDERS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

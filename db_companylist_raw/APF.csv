@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APF,Morgan Stanley Asia-Pacific Fun,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+APFDX,Artisan Global Discovery Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APFBX,Cavanal Hill Moderate Duration Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APF.LON,Anglo Pacific Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+APF.JOH,Accelerate Property Fund Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+5194.KLA,APFT Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4286
+AW47.BER,AXA WLD-OPT.INCOME A APF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+AW47.DUS,AXA WLD-OPT.INCOME A APF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+AW47.HAM,AXA WLD-OPT.INCOME A APF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+AW47.MUN,AXA WLD-OPT.INCOME A APF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222

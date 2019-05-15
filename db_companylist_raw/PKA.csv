@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PKAIX,PIMCO RAE US Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKACX,PIMCO RAE US C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKARX,Principal SmallCap Value II R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKAPX,PIMCO RAE US I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKAAX,PIMCO RAE US A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKA.STG,Packaging Corporation of America,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+PKA.FRK,Packaging Corporation of America,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PKA.MUN,PACKAGING CORP. OF AMER.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFFIF,Village Farms International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFVX,Vanguard Target Retirement 2055 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFSX,Vanguard 500 Index Institutional Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFIX,Victory INCORE Fund for Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFRX,Victory INCORE Fund for Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFCX,Victory INCORE Fund for Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFFYX,Victory INCORE Fund for Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFF.TRT,Village Farms International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+VFF.MUN,Vereinigte Filzfabriken AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+VFF.STG,VEREINIGTE FILZFABRIKEN AG Inha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

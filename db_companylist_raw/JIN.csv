@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JKS,JinkoSolar Holding Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JINFF,China Gold International Resources Corp. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JINRX,JHancock Natural Resources 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JINTX,Johnson International,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JINCX,JPMorgan Unconstrained Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+603657.SHH,Jinhua Chunguang Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.3333
+JINDALSTEL.NSE,Jindal Steel & Power Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3000
+272450.KOR,Jin Air Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2222
+BWM.SGP,China Jinjiang Environment Holding Company Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1538

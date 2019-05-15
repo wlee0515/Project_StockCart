@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SJW,SJW Group,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+76W.STG,SJW Group,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SJW.STG,Ambienthesis S.p.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

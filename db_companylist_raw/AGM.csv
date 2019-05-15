@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGM,Federal Agricultural Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AGMH,AGM Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AGM-A,Federal Agricultural Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AGMIF,Aldridge Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGM-PB,Federal Agricultural Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGM-PC,Federal Agricultural Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGMAX,AllianzGI Emerging Markets Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGM-PA,Federal Agricultural Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AGMA,Federal Agricultural Mortgage C,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AGMZX,361 Macro Opportunity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

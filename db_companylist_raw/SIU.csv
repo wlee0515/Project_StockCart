@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIUSX,Guggenheim Investment Grade Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SIUPX,Guggenheim Investment Grade Bond P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SIUIF,Semiconductor Manufacturing International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SIUMF,Solium Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SIU.FRK,Stewart Information Services Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

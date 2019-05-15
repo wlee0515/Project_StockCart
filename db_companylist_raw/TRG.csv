@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRGP,Targa Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VTTWX,Vanguard Instl Trgt Retire 2030 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+VITWX,Vanguard Instl Trgt Retire 2020 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RRCTX,American Funds 2020 Trgt Date Retire R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VRIVX,Vanguard Instl Trgt Retire 2025 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VITVX,Vanguard Instl Trgt Retire 2015 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AALTX,American Funds 2050 Trgt Date Retire A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VITRX,Vanguard Instl Trgt Retire Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VITFX,Vanguard Instl Trgt Retire 2035 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RHATX,American Funds 2010 Trgt Date Retire R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

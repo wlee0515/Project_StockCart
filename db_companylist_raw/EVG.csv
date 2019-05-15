@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVG,Eaton Vance Short Duration Diversified Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EVGN,Evogene Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EVGBC,Eaton Vance Global Income Builder NS,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EVGOX,Eaton Vance Government Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGBCNX,Eaton Vance Global Income Build,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGLX,EValuator Growth RMS Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGBX,Evermore Global Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGIX,Evermore Global Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGI,Evergreen International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGRX,EValuator Growth RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000

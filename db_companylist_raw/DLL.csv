@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FXA,Invesco CcyShrs Australian Dllr Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+USDU,WisdomTree Bloomberg US Dllr Bullish ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DLLDX,DoubleLine Long Duration Total Ret Bd N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DLLLX,Test Mutual Fund 3 - CTIF,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+DLLN.STG,R.R. Donnelley & Sons Company,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+DLLN.FRK,R.R. Donnelley & Sons Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+FP7E.BER,DWS I.-GLOB.EM EQTS. DLLC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+FP7E.DUS,DWS I.-GLOB.EM EQTS. DLLC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+FP7E.HAN,DWS I.-GLOB.EM EQTS. DLLC,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.2143
+FP7E.HAM,DWS I.-GLOB.EM EQTS. DLLC,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.1500

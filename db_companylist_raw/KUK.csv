@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KUKAF,KUKA Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KUKAY,KUKA Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KU2.FRK,KUKA Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+0JOE.LON,KUKA Aktiengesellschaft,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+KU2.STG,KUKA AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+KU2.FRK,KUKA Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+KU2.BER,KUKA AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+KU2.DUS,KUKA AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308

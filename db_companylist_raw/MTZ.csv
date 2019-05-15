@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTZ,MasTec Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTZPY,Mitsubishi Tanabe Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZXF,Mitsubishi Tanabe Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZRX,Manning & Napier Target 2055 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZKX,Manning & Napier Target 2055 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZIX,Manning & Napier Target 2055 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZZX,Manning & Napier Target 2055 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTZ.FRK,M&T Bank Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MTZ.DUS,"M+T BANK  DL-,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

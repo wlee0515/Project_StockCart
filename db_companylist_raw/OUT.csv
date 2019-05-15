@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OUT,Outfront Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AEO,American Eagle Outfitters Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OLLI,Ollie's Bargain Outlet Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+URBN,Urban Outfitters Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SKT,Tanger Factory Outlet Centers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DECK,Deckers Outdoor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AOBC,American Outdoor Brands Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+VSTO,Vista Outdoor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SHOS,Sears Hometown and Outlet Stores Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+JOUT,Johnson Outdoors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

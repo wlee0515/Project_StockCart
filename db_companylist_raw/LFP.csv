@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFPI,LifePoint Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FR0011269042.PAR,LFPI Short Duration I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.7500
+LFP.FRK,Travis Perkins plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LFP.MUN,"TRAVIS PERKINS  LS-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LFP.STG,TRAVIS PERKINS PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+F0000023UU.PAR,ERES LFP Obligataire M,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+F00000U3Q5.PAR,ERES LFP Obligataire H,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+ERESLFPOBLIG.PAR,ERES LFP Obligataire P,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0010361642.PAR,LFP Strat?gie Actions Master,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0012904654.PAR,LFPI Global Bond I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

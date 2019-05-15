@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KDHAX,DWS CROCI Equity Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHRX,DWS CROCI Equity Dividend R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHSX,DWS CROCI Equity Dividend S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHIX,DWS CROCI Equity Dividend Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHCX,DWS CROCI Equity Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHUX,DWS CROCI Equity Dividend T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDHTX,DWS CROCI Equity Dividend R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDH.BAK,Thonburi Medical Centre Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+KDH-R.BAK,Thonburi Medical Centre Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

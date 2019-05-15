@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDOCX,Future Scholar 529 College Savings Plan - Balanced Growth Portfolio (Advisor Sold),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+CGAGX,Future Scholar 529 College Savings Plan - Growth Portfolio (Advisor Sold) (6-8 Years),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4211
+CGCGX,Future Scholar 529 College Savings Plan - Growth Portfolio (Advisor Sold) (6-8 Years),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+CMCNX,Future Scholar 529 College Savings Plan - Balanced Growth Portfolio (Advisor Sold),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0930
+CMCTX,Future Scholar 529 College Savings Plan - Balanced Growth Portfolio (Advisor Sold),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0930
+CGAMX,Future Scholar 529 College Savings Plan - Balanced Growth Portfolio (Advisor Sold),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0930
+6553.TOK,SoldOut Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.0899
+SOLDECASTILL.BCL,Sol de Castilla Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.0899

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SARA,Saratoga Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SAR,Saratoga Investment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAF,Saratoga Investment Corp 6.25% ,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SAB,Saratoga Investment Corp. NT 23,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SMBPX,Saratoga Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SMNUF,PT Sarana Menara Nusantara Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SFPAX,Saratoga Financial Service A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SCEXF,Saracen Mineral Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2759
+SRMMF,Sarama Resources Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.2353
+SRTSF,Gr. Sarantis S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

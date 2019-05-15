@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MU.MEX,Micron Technology Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+MU.MIL,Micron Technology Inc.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+WB7.MUN,WAHANA OTTOMITRA MU.RP100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+MU.SWI,Micron Technology Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+MU.VIE,Micron Technology Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4444
+WB7.BER,WAHANA OTTOMITRA MU.RP100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+WB7.FRK,WAHANA OTTOMITRA MU.RP100,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

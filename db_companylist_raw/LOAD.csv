@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WWNPX,Kinetics Paradigm No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4211
+KSCOX,Kinetics Small Cap Opportunities No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963
+WWWFX,Kinetics Internet No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+HCMAX,Hillman No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2759
+MEDRX,Kinetics Medical No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2759
+LSHEX,Kinetics Spin-Off and Corp Rest No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+KWINX,Kinetics Alternative Income No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+KMDNX,Kinetics Multi-Disciplinary Inc No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+KMKNX,Kinetics Market Opportunities No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2051
+WWWEX,Kinetics Global No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1951

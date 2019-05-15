@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEIC,SEI Investments Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SUNGX,Test Mutual Fund 4 - SEIC,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+SEICONSERVAT.TRT,Conservative Monthly Income Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+FR0011319086.PAR,Fondo BNPP Seicedole A A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4211
+FR0011319110.PAR,Fondo BNPP Seicedole B A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2759
+FR0011319128.PAR,Fondo BNPP Seicedole Classic A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2667
+FR0011628296.PAR,Fondo BNPP Seicedole P A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2667
+SEICANADIENR.TRT,SEI Canadian Fixed Income Cl E,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2667
+SEIC.MEX,SEI Investments Co.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2667
+F00000P2HG.PAR,Fondo BNPP Seicedole A A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

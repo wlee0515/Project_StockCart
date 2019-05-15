@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGFB.BER,COL.ETF T.II-EGSHS EM QU.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EGFB.DUS,COL.ETF T.II-EGSHS EM QU.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

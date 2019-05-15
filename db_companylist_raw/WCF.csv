@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WCFB,WCF Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WCFRX,WCM Alternatives Credit Event Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WCFIX,WCM Alternatives Credit Event Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

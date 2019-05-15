@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAND,Sandstorm Gold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LVS,Las Vegas Sands Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SND,Smart Sand Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PER,SandRidge Permian Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SAFM,Sanderson Farms Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SD,SandRidge Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SDR,SandRidge Mississippian Trust II,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SDT,SandRidge Mississippian Trust I,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+SASR,Sandy Spring Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+SSPXF,Sandspring Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2759

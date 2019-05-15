@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYHSI.SWI,Lyxor Hong Kong (HSI) ETF D-USD A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYHLTW.SWI,Lyxor MSCI World HealthCare TR ETF C USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYHLT.SWI,Lyxor Stoxx Eurp 600 Hlthcr ETF Acc A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

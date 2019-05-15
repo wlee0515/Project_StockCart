@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKHCX,MainStay MacKay High Yield Corp Bd B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+6114.KLA,MKH Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4615
+METR.KLA,MKH BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4615

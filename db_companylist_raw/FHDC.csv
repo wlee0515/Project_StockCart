@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHDCX,Fidelity Advisor Freedom Blnd 2060 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FHDC.BER,AMUNDI EAST.EUR.STOCK T,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FHDC.MUN,AMUNDI EAST.EUR.STOCK T,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FHDC.DUS,AMUNDI EAST.EUR.STOCK T,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

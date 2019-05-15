@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKOU.KLA,SERN KOU RESOURCES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+VL6.SGP,Koufu Group Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+9367.TOK,Daito Koun Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+KOU.FRK,KWG Group Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+7554.TOK,Kourakuen Holdings Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+8835.TOK,Taiheiyo Kouhatsu Incorporated,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609
+9035.FRK,Daiichi Koutsu Sangyo Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818
+KOU.BER,"KWG GROUP HOLDINGS HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818
+KOU.STG,KWG Group Holdings Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1818

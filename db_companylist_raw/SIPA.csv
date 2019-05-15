@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPO.FRK,Sipa Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SRI.AUS,Sipa Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+SIPADANINVER.BCL,Sipadan Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+SPO.HAM,SIPA RESOURCES LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+F00000J41E.BCL,Sipadan Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

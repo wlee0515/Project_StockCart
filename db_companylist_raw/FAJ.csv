@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAJTX,American Funds 2055 Trgt Date Retire F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAJEX,Frost Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAJNQX,FT 6890: S&P Target 24 4Q '17 -,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAJOBX,FT 6334: Stonebridge Preferred ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAJGZX,The First Trust Combined Srs 32,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+BEST.JKT,PT Bekasi Fajar Industrial Estate Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+FASW.JKT,P.T. Fajar Surya Wisesa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+FAJA.KLA,FAJARBARU BUILDER GRP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000
+7047.KLA,Fajarbaru Builder Group Bhd.,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1935
+B73.STG,PT Bekasi Fajar Industrial Estate Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1500

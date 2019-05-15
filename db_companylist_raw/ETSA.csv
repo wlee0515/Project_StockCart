@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETSA.BER,BNPPEFR-ST.EUR.600 UETF I,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ETSA.DUS,BNPPEFR-ST.EUR.600 UETF I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

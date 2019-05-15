@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATEA,Astea International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ATAZF,Atea ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MKL.STG,Atea ASA Navne-Aksjer NK 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+88A.FRK,Ateam Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+MKL.FRK,Atea ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+3662.TOK,Ateam Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+MKL.BER,ATEA ASA  NK 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+MKL.MUN,ATEA ASA  NK 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2667

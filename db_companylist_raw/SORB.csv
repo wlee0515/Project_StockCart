@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLOSA.PAR,O Sorbet D'amour SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3478
+F00000X4ES.LON,VT Sorbus Vector B GBP Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+F00000WWNC.LON,VT Sorbus Vector Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+GB00BD3B7P48.LON,VT Sorbus Vector B GBP Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+GB00BYXFB401.LON,VT Sorbus Vector Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667

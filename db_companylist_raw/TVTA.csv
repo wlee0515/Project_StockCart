@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVTA.BER,THAI VEGETABLE -FGN- BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+TVTA.MUN,THAI VEGETABLE -FGN- BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TVTA.STG,THAI VEGETABLE OIL PCL Reg. Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

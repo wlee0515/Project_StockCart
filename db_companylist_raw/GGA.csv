@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGAL,Grupo Financiero Galicia S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GGAZF,Goldgroup Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGASX,GMO Global Equity Allocation Series R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGAIX,Invesco Global Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGABF,Grupo Financiero Galicia S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGAL.ARG,Grupo Financiero Galicia S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+GGA.TRT,Goldgroup Mining Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+GGAN.MEX,Goldgroup Mining Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+GGALN.MEX,Grupo Financiero Galicia S.A.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+GGAB.PAR,GPEGORGE5.40%DEC18,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455

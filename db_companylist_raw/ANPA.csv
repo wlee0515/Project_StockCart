@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANP.LON,Anpario plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+KI9A.BER,"ANPARIO PLC  LS -,23",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333

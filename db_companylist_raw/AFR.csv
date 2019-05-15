@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZA,iShares MSCI South Africa ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+AFK,VanEck Vectors Africa ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+AOIFF,Africa Oil Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRAMX,T. Rowe Price Africa & Middle East,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+AFRYX,Invesco Floating Rate Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AFRAX,Invesco Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+AFRCX,Invesco Floating Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2727
+HPMCF,Africa Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+GRYEF,AU Min Africa PTY Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+STLXF,Stellar AfricaGold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

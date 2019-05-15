@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUESX,JPMorgan International Uncons Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUENX,JPMorgan International Uncons Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUERX,JPMorgan International Uncons Eq R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUEFX,JPMorgan International Uncons Eq R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUES.AMS,SP 500 EH,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+IUE.STG,TRUWORTHS INTERNATIONAL LTD. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IUES.LON,iShares S&P 500 Energy Sect ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IUE.BER,"TRUWORTHS INTL  RC-,00015",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IUES.SWI,iShares S&P 500 Energy Sect ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIND,Findex.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FDIT,Findit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+EGYF,Energy Finders Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+TNSGF,Findev Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+FINDX,Franklin India Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+HMTF,Home Treasure Finders Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+FINDEP.MEX,Financiera Independencia S.A.B. de C.V. SOFOM E.N.R.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FDI.TRV,Findev Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+FND.AUS,Finders Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+FIND11.SAO,It Now IFNC Index Fund ETF,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2581

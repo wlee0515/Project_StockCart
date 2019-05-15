@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUY,Yamana Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YAMHF,Yamaha Motor Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YAMCY,Yamaha Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YATRY,Yamato Holdings Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+YMTKF,Yamato Kogyo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+YRI.TRT,Yamana Gold Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4000
+7272.TOK,Yamaha Motor Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+2144.TOK,Yamane Medical Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+6392.TOK,Yamada Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+YMA.FRK,Yamaha Motor Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667

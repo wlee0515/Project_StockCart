@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UWV.FRK,W&T Offshore Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UWV.MUN,W+T OFFSHORE INC.DL-00001,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UWV.STG,W&T Offshore Inc. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RQM.FRK,Garibaldi Resources Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RQM.BER,GARIBALDI RESOURCES CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RQM.STG,Garibaldi Resources Corp. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

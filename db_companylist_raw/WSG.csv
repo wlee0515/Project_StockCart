@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSGF,WSOG LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WSGAX,Ivy Small Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSGIX,Wells Fargo Short Duration Govt Bd Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSGBX,Ivy Small Cap Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSGRX,Ivy Small Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSG.LON,Westminster Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+WSG.BER,CHINA TRADITION C.MEDI.H.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WSG.STG,China Tradition.C.Med.Hldg.Co.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

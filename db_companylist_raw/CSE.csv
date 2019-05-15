@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSEIX,Cohen & Steers Real Estate Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSEAF,Clearwater Seafoods Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSECX,Calvert Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSEYX,Columbia Select Global Equity Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSYJF,CSE Global Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSYJY,CSE Global Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSERX,Columbia Select Large Cap Value Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CSETX,Columbia Moderate 529 Portfolio,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+544.SGP,CSE Global Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+CSE.AUS,Copper Strike Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857

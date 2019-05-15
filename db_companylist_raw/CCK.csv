@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCK,Crown Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCKTX,American Funds 2060 Trgt Date Retire C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCKRF,CLICKS GROUP LTD,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCKC.FRK,Coca-Cola HBC AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+7035.KLA,CCK Consolidated Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+CCKH.KLA,CCK CONSOLIDATED HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+CCK.TRV,Canada Coal Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+CCK-H.TRV,CCK-H.V,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2000

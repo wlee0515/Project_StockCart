@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVDA,NVIDIA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NVDA.MEX,NVIDIA Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+NVD.FRK,NVIDIA Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+NVD.FRK,NVIDIA Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+NVDA.SWI,NVIDIA Corporation,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+NVD2.LON,Leverage Shares 2x NVIDIA ETC A,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+NVD.MUN,"NVIDIA CORP.  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+NVD.STG,NVIDIA CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+0R1I.LON,NVIDIA CORP NVIDIA ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667

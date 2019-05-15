@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWU-B.TRT,First Asset MSCI USA LRWgt ETF Uhgd Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+RWX-B.TRT,First Asset MSCI Intl LRWgt ETF Uhgd,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.1905
+UXM-B.TRT,First Asset MstarUSDivTgt50 ETF UhgdComm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+YXM-B.TRT,First Asset Mstar US Mom ETF Uhgd Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+16301.AUS,Grant Samuel Epoch Gbl Eq Shldr Yield Uhgd,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818
+XXM-B.TRT,First Asset Mstar US Value ETF Uhgd Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.1818

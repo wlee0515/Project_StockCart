@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSIAX,Morgan Stanley Inst Intl Advtg C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+0155.KLA,MSIAN GENOMICS RES CENTRE BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3636
+MSES.KLA,PANASONIC MANUFACTURING MSIA,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+PSTM.KLA,PSAHAAN SADUR TIMAH MSIA,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2424

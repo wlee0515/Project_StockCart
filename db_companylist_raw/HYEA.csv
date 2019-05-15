@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYEA.FRK,Hyster-Yale Materials Handling Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+HYEA.LON,ISHARES PLC ISHARES GL HYLD CRP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000

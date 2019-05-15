@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHI,John Hancock Investors Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JHIGX,JHancock International Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHIKX,JHancock Multi-Index 2060 Lifetime R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHIUF,James Hardie Industries plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

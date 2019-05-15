@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DX2I.BER,XTR.MSCI EUROPE M.CAP 1C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+DX2I.DUS,XTR.MSCI EUROPE M.CAP 1C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+DX2I.MUN,XTR.MSCI EUROPE M.CAP 1C,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2857
+XDGM.STG,Xtr.(IE)-Ger.Mittelst.& M.Cap R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857

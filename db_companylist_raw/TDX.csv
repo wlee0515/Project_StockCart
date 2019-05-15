@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDXPEXN.MEX,iShares TecDAX UCITS ETF (DE),ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+TDXPEX.SWI,iShares TecDAX (DE),ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4615

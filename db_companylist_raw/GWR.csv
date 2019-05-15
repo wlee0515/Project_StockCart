@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWR,Genesee & Wyoming Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GWRE,Guidewire Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GWRS,Global Water Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GWRRF,EnGold Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWR.TRT,Global Water Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GWR.AUS,GWR Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+UK4.FRK,GWR Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3750
+UK4.HAM,GWR GROUP LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3000

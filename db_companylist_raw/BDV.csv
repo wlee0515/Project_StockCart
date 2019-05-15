@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDVB,Bagger Dave's Burger Tavern Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BDVSY,The Bidvest Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BDVSX,BMO Conservative Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDVRX,BMO Conservative Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDVIX,BMO Conservative Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDVYX,BMO Conservative Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDVSF,The Bidvest Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

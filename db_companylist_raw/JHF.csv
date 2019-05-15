@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JIHDX,JHFunds 2 High Yield 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHFIX,JHancock Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JIRRX,JHFunds 2 Real Return Bond 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JIREX,JHFunds 2 Real Estate Securities 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JICPX,JHFunds 2 Capital Appreciation 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2727
+JIMSX,JHFunds 2 Mid Cap Stock 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JIVIX,JHFunds 2 International Value 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JHCPX,JHFunds 2 Capital Appreciation NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JHTRX,JHFunds 2 Total Return NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JIVTX,JHFunds2 Heritage 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

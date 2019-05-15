@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9861.TOK,Yoshinoya Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3529
+2884.TOK,Yoshimura Food Holdings K.K.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+3221.TOK,Yossix Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+5280.TOK,Yoshicon Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+6488.TOK,Yoshitake Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1935
+ESFERAYOSEMI.BCL,Esfera Yosemite Absolute Return FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1935
+F00000X242.BCL,Esfera Yosemite Absolute Return FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1622

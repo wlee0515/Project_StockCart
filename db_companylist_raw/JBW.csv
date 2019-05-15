@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBW0007AU.AUS,Goldman Sachs Emerging Leaders Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+JBW0114AU.AUS,Yarra Australian Equities Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+JBW0018AU.AUS,Goldman Sachs Enhanced Income WS,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+JBW0030AU.AUS,Yarra Australian Real Assets Securities Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

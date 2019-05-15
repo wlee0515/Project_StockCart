@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IKHK.FRK,StarDSL AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+5268.KLA,IKHMAS JAYA GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+IKHK.BER,STARDSL AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IKHK.DUS,STARDSL AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+IKHK.HAM,STARDSL AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+IKHK.STG,StarDSL AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

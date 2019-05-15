@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNB,Union Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UNPA,UNB Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UNBK,United National Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UNBLF,Unibail-Rodamco-Westfield,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UNBL.PAR,Unibel S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+UNBA.FRK,Kindred Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+UNBA.STG,Unibet Group plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+UNBA.BER,"KINDRED GR.PLC LS-,000625",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714

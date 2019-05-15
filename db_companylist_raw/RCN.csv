@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCNTX,American Funds 2060 Trgt Date Retire R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCNYX,Rockefeller Interm Tx Exmpt NY Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCN.LON,Redcentric plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

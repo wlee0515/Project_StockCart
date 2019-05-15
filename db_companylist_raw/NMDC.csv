@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMDC.NSE,NMDC Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.8889
+NMDCX,Nuveen MD Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+NMDC.BSE,NMDC Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273

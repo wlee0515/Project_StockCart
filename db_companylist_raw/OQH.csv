@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OQH.FRK,Slater and Gordon Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OQH.BER,SLATER AND GORDON LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RINAX,Invesco International Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F00000Z1DD.PAR,Echiquier Rinascimento A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+F00000ZW0U.PAR,Echiquier Rinascimento G,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857

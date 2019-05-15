@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FZV1.FRK,APAC Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FZV1.STG,APAC Resources Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

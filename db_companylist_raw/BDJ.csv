@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDJ,BlackRock Enhanced Equity Dividend Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BDJ.FRK,Bendigo and Adelaide Bank Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BDJ.DUS,BENDIGO + ADELAIDE BK LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BDJ.STG,Bendigo & Adelaide Bank Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BDJ.MUN,BENDIGO + ADELAIDE BK LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

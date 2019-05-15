@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+POKARNA.NSE,Pokarna Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714
+532486.BSE,Pokarna Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+POKARNA.BSE,Pokarna Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

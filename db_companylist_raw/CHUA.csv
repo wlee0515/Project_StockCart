@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+C33.SGP,Chuan Hup Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8000
+1201.TWN,Wei Chuan Foods Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.4000
+2371.HKG,China Chuanglian Education Financial Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2857
+CUG.BER,"CHUANG'S CH.  HD-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667
+0367.HKG,Chuang's Consortium International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2581
+CHUA.FRK,China Petroleum & Chemical Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2162
+300505.SHZ,Kunming Chuan Jin Nuo Chemical Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2105
+603012.SHH,Shanghai Chuangli Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1818
+0298.HKG,Chuang's China Investments Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1818
+7016.KLA,Chuan Huat Resources Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1818

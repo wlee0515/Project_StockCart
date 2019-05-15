@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDVI,Signature Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SDVKY,Sandvik AB,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SDVY,First Trust SMID Cp Rising Dividend Achv ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVRX,PGIM QMA Mid-Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVGX,Sit Dividend Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVWX,AIG Select Dividend Growth W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVSX,Sit Dividend Growth S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVCX,AIG Select Dividend Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVAX,AIG Select Dividend Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDVKF,Sandvik AB,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

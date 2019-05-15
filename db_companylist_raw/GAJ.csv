@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAJPX,Goldman Sachs Dynamic Municipal Inc P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GJTL.JKT,PT. Gajah Tunggal Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+GH8.BER,PT GAJAH TUNG.  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+GH8.STG,PT Gajah Tunggal Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+GH8.FRK,PT. Gajah Tunggal Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+GH8.MUN,PT GAJAH TUNG.  RP 500,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2400
+GAJRA.BSE,Gajra Bevel Gears Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2400
+505711.BSE,GAJRA BEVEL GEARS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

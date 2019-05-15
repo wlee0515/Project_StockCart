@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWBO,Northwest Biotherapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWBI,Northwest Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWBD,New World Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWBB,New Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWBIX,Nationwide Destination 2030 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XS0592584519.AMS,NWB FRN25FEB26D,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3333

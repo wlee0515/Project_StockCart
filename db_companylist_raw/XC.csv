@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XEL,Xcel Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XELB,Xcel Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XCUR,Exicure Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XCOOQ,EXCO Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XCLMX,Cornerstone Strategic Value Fun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XCAPX,ACAP Strategic Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XCLL,XcelMobility Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XCOMQ,Xtera Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+XCEM,Columbia EM Core ex-China ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333

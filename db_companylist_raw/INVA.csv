@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INVA,Innoviva Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IVC,Invacare Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BAPEX,BlackRock LifePath Smart Beta 2030 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPKX,BlackRock LifePath Smart Beta 2050 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPDX,BlackRock LifePath Smart Beta 2025 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPJX,BlackRock LifePath Smart Beta 2045 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPLX,BlackRock LifePath Smart Beta 2055 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPBX,BlackRock LifePath Smart Beta Retr InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPCX,BlackRock LifePath Smart Beta 2020 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BAPGX,BlackRock LifePath Smart Beta 2035 InvA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

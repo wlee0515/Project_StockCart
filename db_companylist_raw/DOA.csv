@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DOA2.FRK,"SOLIGENIX INC.  DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DOA2.BER,"SOLIGENIX INC.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DOA2.STG,Soligenix Inc. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

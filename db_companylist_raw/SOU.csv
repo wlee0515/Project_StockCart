@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9270.TOK,SOU Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8000
+SWN,Southwestern Energy Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SO,The Southern Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LUV,Southwest Airlines Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+CPB,Campbell Soup Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SXE,"Southcross Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NSC,Norfolk Southern Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+KSU,Kansas City Southern,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SCCO,Southern Copper Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ZNH,China Southern Airlines Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATPT,All State Properties Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATPAX,Aquila Three Peaks High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ATPGQ,ATP Oil & Gas Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATPCX,Aquila Three Peaks High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATPYX,Aquila Three Peaks High Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATPWF,Atlantic Power Preferred Equity Ltd. PFD-3,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATPL,Atlantis Plastics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATP.AUS,Atlas Pearls Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ATP.TRT,Atlantic Power Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ATP.BER,"ATN INTL INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BTW.FRK,Brown & Brown Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BTWEIRONBARK.AUS,BT Wrap Essentials - Ironbark GTP Global Equity Thematic,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BTWEABERDEEN.AUS,BT Aberdeen Emerging Opportunities,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BTW.BER,"BROWN + BROWN  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BTW.BAK,BT Wealth Industries Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3529
+BTWD.TWN,TCB Global High Dividend B TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.3333
+BTWEUBSCASH.AUS,BT UBS Cash,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+BTWEADVANCEA.AUS,BT Wrap Essentials - Advance Australian Fixed Interest Multi-Blend,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+BTWEADVANCEB.AUS,BT Advance Balanced Multi-Blend,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+BTWEADVANCED.AUS,BT Advance Defensive Multi-Blend,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCV.FRK,F.C.C. Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+7296.TOK,F.C.C. Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+6KSB.BER,KRANESHS-E F.CH.CO.PA.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+6KSB.DUS,KRANESHS-E F.CH.CO.PA.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

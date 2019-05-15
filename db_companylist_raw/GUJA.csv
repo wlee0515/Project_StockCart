@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNFC.BSE,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+GIPCL.NSE,Gujarat Industries Power Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+GUJAPOLLO.NSE,Gujarat Apollo Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+GSPL.NSE,Gujarat State Petronet Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2424
+500173.BSE,Gujarat Fluorochemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353
+511441.BSE,Gujarat Credit Corporation Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286
+GPPL.NSE,Gujarat Pipavav Port Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2105
+GSFC.NSE,Gujarat State Fertilizers & Chemicals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1818
+GUJBOROS.BSE,Gujarat Borosil Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818
+506879.BSE,Gujarat Themis Biosyn Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UGI,UGI Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UGI.FRK,Sugi Holdings Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UGI.MUN,SUGI HOLDINGS CO. LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+3U6.FRK,UGI Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+3U6.BER,UGI CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+3U6.STG,UGI CORP. Registered Shares o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333

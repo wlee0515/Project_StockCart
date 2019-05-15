@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EAJD.FRK,ValiRx plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EAJD.MUN,ValiRx plc,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPYC.FRK,SPDR MSCI Europe Consumer Staples ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+SPYC.BER,SSGA S.E.E.II-M.EU.CON.S.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SPYC.FRK,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI Europe Consumer Staples UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+SPYC.MUN,SSGA S.E.E.II-M.EU.CON.S.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+SPYC.STG,SSGA S.ETF E.II-M.Eu.Con.Stap.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SPYC.DUS,SSGA S.E.E.II-M.EU.CON.S.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

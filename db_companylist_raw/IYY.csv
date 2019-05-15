@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IYY,iShares Dow Jones US ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IYY.MEX,iShares Dow Jones US ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+IYYA.BER,"INVESTEC LTD  RC-,0002",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IYYA.MUN,"INVESTEC LTD  RC-,0002",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+IYYA.FRK,Investec Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

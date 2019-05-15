@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VDXX.FRK,Vanguard DAX ETF EUR Inc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VDXX.FRK,VGDAX EOD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VDXX.LON,VANGUARD FUNDS PLC VANGUARD DAX,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+VDXX.SWI,Vanguard DAX ETF EUR Inc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+VDXX.BER,VGDAX EOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VDXX.STG,Vanguard DAX U.ETF Reg. EUR Dis,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

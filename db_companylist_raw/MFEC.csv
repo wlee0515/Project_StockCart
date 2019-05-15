@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFECX,MFS Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+MFEC.BAK,MFEC Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+MFEC.SWI,Lyxor MSCI EMU DR ETF Monthly Hdg C CHF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+MFEC-R.BAK,MFEC Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWGFF,IWG PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGIX,Ivy Wilshire Global Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGNX,Ivy Wilshire Global Allocation N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGAX,Ivy Wilshire Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGCX,Ivy Wilshire Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGYX,Ivy Wilshire Global Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGRX,Ivy Wilshire Global Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWGBX,Ivy Wilshire Global Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IWG.LON,IWG PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+IWG.BER,"IWG PLC  LS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

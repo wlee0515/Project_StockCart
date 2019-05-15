@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OWX.MUN,"YPSOMED HLDG  SF 14,15",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+OWX.STG,Ypsomed Holding AG Nam.-Aktien ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+OWX.FRK,Ypsomed Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+OWX.BER,"YPSOMED HLDG  SF 14,15",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+0QLQ.ILN,YPSOMED HOLDING AG YPSOMED HOLD,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+0QLQ.LON,Ypsomed Holding AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+YPSN.SWI,Ypsomed Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.1765

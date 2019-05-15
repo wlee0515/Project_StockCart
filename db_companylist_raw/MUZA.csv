@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0GBR06NH8.BCL,La Muza Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6154
+LAMUZAINVERS.BCL,La Muza Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+M9Z.STG,Muza S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759

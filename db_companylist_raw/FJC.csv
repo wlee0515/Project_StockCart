@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJCHQX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJCHRX,FT 6156: Corporate Investment G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJCYHX,FT 7225: Capital Strength Oppor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJC.FRK,Fujitec Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

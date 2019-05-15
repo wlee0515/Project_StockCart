@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYMG.FRK,Lyxor MSCI Brazil ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+LYMG.STG,Lyxor MSCI Brazil UCITS ETF Act,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LYMD.FRK,Lyxor UCITS ETF MSCI India,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYMS.FRK,Lyxor UCITS ETF Nasdaq-100,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYMTX.SWI,Lyxor EuroMTS AM InvstGrd DR ETF A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+LYMS.BER,LYX.NASDAQ-100 U.ETF DEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LYMTC.SWI,Multi Units Luxembourg - Lyxor EuroMTS 5-7Y Investment Grade (DR) UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYMTF.SWI,Lyxor UCITS ETF EuroMTS 15Y+ Investment Grade (DR),ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYM7.STG,Lyxor MSCI Emerging Mkts U.ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+LYMWO.SWI,Lyxor FTSE Epr/Nrt Glbl Dev ETF DUSD Inc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455

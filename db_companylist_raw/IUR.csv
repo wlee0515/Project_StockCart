@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUR.FRK,KAP AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IUR.BER,KAP AG  INH O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IUR.DUS,KAP AG  INH O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+IUR.STG,KAP AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+F0GBR04J3O.BCL,Gesiuris Iurisfond FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+GESIURISIURI.BCL,Gesiuris Iurisfond FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

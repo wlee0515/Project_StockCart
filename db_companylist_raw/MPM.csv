@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPMQ,MPM Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MPML,MPM Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MPMAX,MFS MA Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MPMNX,MFS Municipal Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPMSX,MFS MS Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPME,Medisun Precision Medicine Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPMDX,MFS MD Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPMCX,BNY Mellon Mid Cap Multi-Strategy M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPMX.JKT,PT Mitra Pinasthika Mustika Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+MPM.FRK,Micron Solutions Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTG,Reaves Utility Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UTGN,UTG Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UTG RT WI,REAVES UTILITY INCOME FUND,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UTG.LON,The Unite Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+UTG.BER,UNILEVER INDONESIA  RP 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UTG.MUN,UNILEVER INDONESIA  RP 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UTG.STG,"Unilever Indonesia Tbk, PT Regi",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002234.SHZ,Shandong Minhe Animal Husbandry Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1778
+300106.SHZ,Xinjiang Western Animal Husbandry Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1778
+600195.SHH,China Animal Husbandry Industry Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1739
+300313.SHZ,Xinjiang Tianshan Animal Husbandry Bio-engineering Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538

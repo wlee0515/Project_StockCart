@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRF,VanEck Vectors Brazil Small-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+BRFH,Barfresh Food Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRFS,BRF S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRFRF,Burford Capital Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRFRY,Burford Capital Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

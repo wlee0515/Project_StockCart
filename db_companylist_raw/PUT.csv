@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGEOX,George Putnam Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PPT,Putnam Premier Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PNOPX,Putnam Sustainable Leaders A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PEYAX,Putnam Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PDINX,Putnam Diversified Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PDVYX,Putnam Diversified Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PSDTX,Putnam Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PCF,Putnam High Income Securities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+POGAX,Putnam Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PSDYX,Putnam Short Duration Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

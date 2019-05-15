@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAC,TransAlta Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TACO,Del Taco Restaurants Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TCMD,Tactile Systems Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TACT,TransAct Technologies Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TOTL,SPDR DoubleLine Total Return Tact ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+AIF,Apollo Tactical Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HYLS,First Trust Tactical High Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SMDLX,ClearBridge Tactical Dividend Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+EASI,Amplify EASI Tactical Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579
+NTBIX,Navigator Tactical Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

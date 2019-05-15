@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWXPF,Newport Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXNX,Nationwide Inflation-Prot Secs Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXIX,Nationwide Amundi Glbl Hi Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXBX,Nationwide Emerging Mkts Dbt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXLX,Nationwide Amundi Glbl Hi Yield Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXMX,Nationwide Amundi World Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXCX,Nationwide Emerging Mkts Dbt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXHX,Nationwide Amundi Strat Inc Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWXKX,Nationwide Amundi Glbl Hi Yield R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

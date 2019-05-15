@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAZ,Lazard Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LGI,Lazard Global Total Return and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+LZEMX,Lazard Emerging Markets Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+LOR,Lazard World Dividend & Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+GLIFX,Lazard Global Listed Infrastructure Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+GLFOX,Lazard Global Listed Infrastructure Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+LISIX,Lazard International Strategic Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+LZOEX,Lazard Emerging Markets Equity Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+LZFOX,Lazard Equity Franchise Open Shares,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+LISOX,Lazard International Strategic Eq Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

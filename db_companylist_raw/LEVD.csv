@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LVD.PAR,MU Lux Lyxor Daily LevDAX ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+3LDE.LON,Boost LevDAX 3x Daily ETP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+0MUD.ILN,LYXOR DAILY LEVDAX UCITS ETF LY,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+3DEL.STG,Boost Issuer PLC LevDAX 3xLev.E,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+DBPE.FRK,X LevDAX Daily Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+E043.FRK,ComStage LevDAX x2 ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+LYLVD.SWI,MU Lux Lyxor Daily LevDAX ETF Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.2286
+3DEL.LON,Boost LevDAX 3x Daily ETP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EADSY,Airbus SE,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ABWN,Airborne Wireless Network,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EADSF,Airbus SE,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+ABSSF,AirBoss of America Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+ABPR,Airborne Security & Protective Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+AIR.PAR,Airbus SE,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6154
+AIR.FRK,Airbus SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5000
+AIR.BER,AIRBUS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+BOS.TRT,AirBoss of America Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+AIR.FRK,Airbus SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857

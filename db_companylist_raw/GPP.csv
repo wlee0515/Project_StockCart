@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPP,Green Plains Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GPPIX,Goldman Sachs Short-Term Cnsrv Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPPRF,Cerro de Pasco Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPPAX,Goldman Sachs Short-Term Cnsrv Inc Admn,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPPOX,Goldman Sachs Short-Term Cnsrv Inc Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPPSX,Goldman Sachs Short-Term Cnsrv Inc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPPPX,Goldman Sachs Short-Term Cnsrv Inc Pref,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

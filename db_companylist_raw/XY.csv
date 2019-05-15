@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XYF,X Financial,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XYL,Xylem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XYZZX,Test Closed End Fund 2 - FSIN,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XYNH,Xynergy Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XYLTF,Sweet Natural Trading Co. Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XYIGF,Xinyi Glass Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XYIGY,Xinyi Glass Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XY4P.FRK,db x-trackers II - iBoxx Sovereigns Eurozone Yield Plus UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+XYLD.LON,X iBoxx USD Corporate Bd Yield Pl ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OMKARCHEM.NSE,Omkar Speciality Chemicals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+OMKAR.BSE,Omkar Overseas Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+OMKARCHEM.BSE,Omkar Speciality Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+531496.BSE,OMKAR OVERSEAS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3478

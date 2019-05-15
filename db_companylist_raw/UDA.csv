@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UDA-UN.TRT,CALDWELL US DIVIDEND ADV FUND,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+UDAYJEW.BSE,Uday Jewellery Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+UDAICEMENT.BSE,Udaipur Cement Works Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750

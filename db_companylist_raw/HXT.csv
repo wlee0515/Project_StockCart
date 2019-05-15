@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HXT.TRT,Horizons S&P/TSX 60 ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HXT-U.TRT,HORIZONS SP TSX 60 INDEX ETF US,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

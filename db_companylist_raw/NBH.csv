@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBH,Neuberger Berman Intermediate Municipal Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NBHC,National Bank Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NBHIX,Neuberger Berman Equity Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBHAX,Neuberger Berman Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBHRX,Neuberger Berman Equity Income R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBHCX,Neuberger Berman Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBH.MUN,Hoftex Group AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

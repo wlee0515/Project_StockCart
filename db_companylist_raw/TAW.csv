@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAWNF,Thai Airways International Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TAW.AUS,Tawana Resources NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TAW.JOH,Tawana Resources NL,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+TJR.FRK,Tawana Resources NL,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+TJR.BER,TAWANA RESOURCES N.L,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+TAWARZAR2S1S.BCL,Tawarzar 2 S-1 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609
+F000001YZH.BCL,Tawarzar 2 S-1 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609

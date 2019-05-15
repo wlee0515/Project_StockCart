@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IKF.FRK,China Shenhua Energy Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IKF.BER,CHINA SHENHUA EN. H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IKF.FRK,CHINA SHENHUA EN. H  YC 1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+IKF.DUS,CHINA SHENHUA EN. H  YC 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+IKF.HAM,CHINA SHENHUA EN. H  YC 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+IKF.MUN,CHINA SHENHUA EN. H  YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+IKF.STG,China Shenhua Energy Co. Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IKFTECH.BSE,IKF Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+532414.BSE,IKF Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

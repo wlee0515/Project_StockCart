@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDNXF,London Stock Exchange Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+ABCYX,American Beacon The London Co Inc Eq Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+PPLFY,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+ABCIX,American Beacon The London Co Inc Eq Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+DWVYF,Derwent London Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+UGBLF,"UBS AG, London Branch WT EXP 033120",Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+LNSTY,London Stock Exchange Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.1905
+ABCVX,American Beacon The London Co Inc Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1905
+CLIUF,City of London Investment Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.1818
+ABCAX,American Beacon The London Co Inc Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818

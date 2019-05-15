@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WQTEF,Weiqiao Textile Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WQNI,WQN Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WQFRX,Wells Fargo Target 2050 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WQDV.LON,iShares II Public Limited Company - iShares MSCI World Quality Dividend UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+WQF1.BER,HAO TIAN DEV.GR.LTD HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+WQ9.FRK,Wilson Bayly Holmes-Ovcon Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+WQ9.BER,WILSON BAYLY HOL.-OVCON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+WQDS.LON,ISHARES II PLC IS WORLD QUALITY,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+WQG.AUS,WCM GLOBAL FPO,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444

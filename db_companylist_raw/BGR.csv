@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGR,BlackRock Energy and Resources Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BGRFX,Baron Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BGRP,Bluestem Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRIX,Baron Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRQX,BMO Balanced Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRHX,BMO Balanced Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRYX,BMO Balanced Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRUX,Baron Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRSX,Boston Partners Global Long/Short Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGRWX,Barrett Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

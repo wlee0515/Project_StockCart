@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASLN,ASLAN Pharmaceuticals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASLRF,Alien Metals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASLAX,AB Select US Long/Short A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASLM,American Silver Mining Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASLGX,American Century Select R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASLWX,American Century Select Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASLEF,Asaleo Care Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASLKX,AB Select US Long/Short K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASL.AUS,Ausdrill Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+ASL.FRK,Akasol AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

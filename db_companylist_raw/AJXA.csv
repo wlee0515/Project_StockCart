@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AJXA,Great Ajax Corp. 7.25 CV SR NT 24,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AJXA.FRK,AFC Ajax NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+AJXA.DUS,"AFC AJAX N.V.  EO -,45",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+AJXA.MUN,"AFC AJAX N.V.  EO -,45",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+AJXA.STG,AFC Ajax N.V. Aandelen op naam ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

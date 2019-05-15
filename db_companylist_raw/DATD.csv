@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000MPUQ.LON,Janus Henderson Instl Lg Datd Gilt A Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F000002XYG.LON,Janus Henderson Instl Lg Datd Gilt Z Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR04SBR.LON,Janus Henderson Instl Lg Datd Crdt A Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR04SBT.LON,Janus Henderson Instl Lg Datd Crdt I Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR04SBV.LON,Janus Henderson Instl Lg Datd Crdt I Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR04SBY.LON,Janus Henderson Instl Lg Datd Gilt A Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F0GBR04SC0.LON,Janus Henderson Instl Lg Datd Gilt I Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PVH,PVH Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PVHO,Provision Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+0KEQ.LON,PVH Corp.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+PVH.BER,PVH CORP.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PVH.MUN,PVH CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+PVH.FRK,PVH Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PVH.STG,PVH Corp. Registered Shares DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

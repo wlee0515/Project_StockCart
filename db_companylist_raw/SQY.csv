@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SQY1.FRK,AFI Development Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SQY1.BER,"AFI DEVL.GDR REGS DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SQY1.MUN,"AFI DEVL.GDR REGS DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SQY1.STG,AFI Development PLC Reg.Shs (Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

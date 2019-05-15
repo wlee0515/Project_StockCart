@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTDD.BER,WISDOMTREE UK EQ.INC. ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WTDD.DUS,WISDOMTREE UK EQ.INC. ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

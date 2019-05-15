@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CRM,"salesforce.com, inc.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CRMD,CorMedix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRMT,America's Car-Mart Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRMZ,CreditRiskMonitor.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRMBQ,Crumbs Bake Shop Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRMMX,CRM Mid Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRIHX,CRM Long/Short Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRISX,CRM Small Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRMSX,CRM Small Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CRIMX,CRM Mid Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

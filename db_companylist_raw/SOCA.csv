@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOCA.FRK,Subsea 7 S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SOCA.HAM,SUBSEA 7 S.A. ADR/1 DL 2,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+0983.HKG,SOCAM Development Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2759
+HU8.FRK,SOCAM Development Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+HU8.BER,SOCAM DEVELOPMENT LTD HD1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+HU8.MUN,SOCAM Development Limited,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759

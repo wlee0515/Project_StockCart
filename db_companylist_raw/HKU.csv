@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HKU.BER,H2O RETAILING CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+HKU.FRK,H2O Retailing Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GJRTX,Goldman Sachs Absolute Ret Trckr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+GJH,"STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJV,STRATS Trust for News Corporation Securities Series 2006-4 CTF 7% CL A-1,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJS,"STRATS Trust for Goldman Sachs Group Securities, Series 2006-2",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJR,Strats Trust For Procter & Gambel Security CTF 2006-1,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJP,"STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GJST,GEO JS Tech Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GJNSY,Gjensidige Forsikring ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD",Equity,United States,09:30,16:00,UTC-05,USD,0.5714

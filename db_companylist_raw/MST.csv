@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSTR,MicroStrategy Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GUNR,FlexShares Mstar Glbl Upstrm Nat Res ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TILT,FlexShares Mstar US Market Factors Tilt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TLTE,FlexShares Mstar EmgMkts FctTilt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TLTD,FlexShares Mstar DevMks exUS FctTilt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MSTIX,MainStay MacKay Short Term Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSTZX,MassMutual Premier Short-Duration Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+MSTNX,MFS TN Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+MSTFX,Morningstar International Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+MSTVX,Morningstar Alternatives,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

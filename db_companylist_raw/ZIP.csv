@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YRR.FRK,Zip Co Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZIPIAX,Jones Lang LaSalle Income Prope,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZIPTAX,Jones Lang LaSalle Income Prope,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZIPTMX,Jones Lang LaSalle Income Prope,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZIPIMX,Jones Lang LaSalle Income Prope,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZIP.AUS,Ziptel Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4615
+002098.SHZ,Fujian SBS Zipper Science&Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4444
+DN9.HAM,ZIPTEL LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3529
+Z1P.AUS,Zip Co Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.1667

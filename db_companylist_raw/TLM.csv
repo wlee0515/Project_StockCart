@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLMPX,TIAA-CREF Lifecycle Index 2045 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLMHX,TIAA-CREF Lifecycle Index 2045 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLMIX,Thornburg Low Duration Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLMAX,Thornburg Low Duration Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLMRX,TIAA-CREF Lifecycle Index 2045 Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLM.AUS,Talisman Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TLM.JOH,TeleMasters Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+TLMM.KLA,TELEKOM MALAYSIA BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

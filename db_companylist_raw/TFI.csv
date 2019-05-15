@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TFI,SPDR Nuveen Blmbg Barclays Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TFIV,Global X TargetIncome 5 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TFIAX,Timothy Plan Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFIFX,T. Rowe Price Financial Services I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFILX,T. Rowe Price Tax Free Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFICX,Timothy Plan Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TFIIX,TIAA-CREF Quant Intl Eq Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIIEX,American Funds Intl Gr and Inc R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIIHX,State Farm International Index R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIITX,State Farm International Index R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIIOX,State Farm International Index R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIINF,Braveheart Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RII-H.TRV,Richco Investors Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+RIII.LON,Rights and Issues Investment Trust Public Limited Company,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

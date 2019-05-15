@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UPRO,ProShares UltraPro S&P500,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+UPUPX,Upright Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+UPAAX,Upright Assets Allocation Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+UPDDX,Upright Growth & Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+UPRM,"USA Performance Products, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.5000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AKZOY,Akzo Nobel N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AKZOF,Akzo Nobel N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AKZA.AMS,Akzo Nobel N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+AKZOINDIA.NSE,Akzo Nobel India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+AKU.DUS,AKZO NOBEL  EO 2,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+WZFJ.HAM,AKZENT INV.(LUX)1-BONUS 1,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+AKU.FRK,Akzo Nobel N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+AKU.BER,AKZO NOBEL  EO 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+AKU.MUN,AKZO NOBEL  EO 2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143

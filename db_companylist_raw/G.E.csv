@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTG4.BER,FTGF.-FT G.E.I.U.ETF AADL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FTG4.DUS,FTGF.-FT G.E.I.U.ETF AADL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+GNA1.DUS,AMUNDI-BD G.EM.L.C.AU C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

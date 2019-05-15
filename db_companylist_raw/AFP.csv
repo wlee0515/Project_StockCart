@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFPW,AlumiFuel Power Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFPAX,AmericaFirst Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFPTX,AMG Managers Fairpointe ESG Equity N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFPIX,AmericaFirst Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFPUX,AmericaFirst Income U,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFP.AUS,AFT Pharmaceuticals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AFPR.TAV,Africa Israel Properties Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+CUPRUM.SAN,AFP Cuprum S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3750
+AFPCAPITAL.SAN,Administradora de Fondos de Pensiones Capital S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3333

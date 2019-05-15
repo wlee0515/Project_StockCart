@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHW,Calamos Global Dynamic Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CHWE,Chinawe.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHWTF,Coolpad Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHWRF,China Tower Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHWWF,Chesswood Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHWRX,Columbia Capital Alloc Mod Cnsrv Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHW.TRT,Chesswood Group Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CHWD.FRK,Chunghwa Telecom Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CHWD.MUN,CHUNGHWA ADR NEW 2011TA10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+CHWD.STG,Chunghwa Telecom Co. Ltd. R.Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSBC,HSBC Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HBCYF,HSBC Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+HSBC-PA,HSBC Holdings plc ADR A 1/40PF A,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RESCX,HSBC Opportunity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HSOAX,HSBC Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+RINEX,HSBC Investor International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HCGAX,HSBC Emerging Markets Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HOPCX,HSBC Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HSFAX,HSBC Frontier Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HOPBX,HSBC Opportunity B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

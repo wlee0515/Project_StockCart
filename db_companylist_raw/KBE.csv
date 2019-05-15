@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBE,SPDR S&P Bank ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KBEVF,Koios Beverage Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBEPF.AMS,KEMPEN EURO PROP,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+KBE.MEX,SPDR S&P Bank ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+5079.KLA,KBES Bhd.,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5000

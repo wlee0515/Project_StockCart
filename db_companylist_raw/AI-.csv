@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AI-PB,Arlington Asset Investment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+K55365B13155.KOR,Meritz AI-ROKCMS PF DLS-Derivatives 1 C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+K55365B13171.KOR,Meritz AI-ROKCMS Private DLS-Derivatives 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+K55365B84750.KOR,Meritz AI-SingA330 Private Special Asset Aircraft 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+K55365B84768.KOR,Meritz AI-SingA330 Private Special Asset Aircraft 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5365AW5630.KOR,Meritz AI-A380 Private Special Asset Aircraft,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000UIRB.KOR,Meritz AI-A380 Private Special Asset Aircraft,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000VHX8.KOR,Meritz AI-ROKCMS Private DLS-Derivatives 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000VHXA.KOR,Meritz AI-ROKCMS PF DLS-Derivatives 1 C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111
+F00000WGAU.KOR,Meritz AI-SingA330 Private Special Asset Aircraft 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNNLF,Bannerman Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNN.DUS,B.R.A.I.N. NA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+BNN.STG,B.R.A.I.N. BIOTECHNOLOGY AG Nam,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BNN.FRK,B.R.A.I.N. Biotechnology Research and Information Network AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BNN.BER,B.R.A.I.N. NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BNN.FRK,B.R.A.I.N. Biotechnology Research and Information Network AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+BNN.MUN,B.R.A.I.N. NA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+BNN.HAM,B.R.A.I.N. NA,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

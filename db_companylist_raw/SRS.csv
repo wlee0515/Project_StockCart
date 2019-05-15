@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRS,ProShares UltraShort Real Estate,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+NDWICX,Nasdaq Dorsey Wright SRS Intern,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SRSG,Spirits Time International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRSCQ,Sears Canada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+FTPMRX,The First Trust Combined Srs 28,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+FMUNEX,The First Trust Combined Srs 33,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+FTXBRX,First Trust Combined Srs 292 In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+FBLCKX,First Trust Combined Srs 288 Ta,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+IAAAUX,Invesco Unit Tr Srs 1384 Conser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765

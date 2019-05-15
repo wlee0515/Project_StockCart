@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETFAX,Stadion Tactical Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+EMQQ.LON,EMQQ Emerging Mkts Internet&Ecomm ETFAcc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+ETFA.TWN,Shin Kong Global ETF fund of funds A,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.3636
+FLOT.MIL,Lyxor Barclays Fltng Rt Euro 0-7Y ETFAcc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2286
+FLOT.PAR,Lyxor Barclays Fltng Rt Euro 0-7Y ETFAcc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.2286
+LYSX.STG,LYXOR EURO ST.50 (DR)UCITS ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+LYSZ.STG,Lyxor MSCI Indonesia UCITS ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+LYY5.STG,Lyxor MSCI Europe(DR)UCITS ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1818

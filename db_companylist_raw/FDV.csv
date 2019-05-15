@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDV,First Trust Capital Strength ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FDVV,Fidelity High Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FDVLX,Fidelity Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FDVA,The Freedom Bank of Virginia,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FDVAX,Fidelity Advisor Diversified Intl A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDVIX,Fidelity Advisor Diversified Intl I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDVKX,Fidelity Value Discovery K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

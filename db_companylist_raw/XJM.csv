@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XJMFX,Nuveen Energy MLP Total Return ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XJMMX,Nuveen Multi-Market Income Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XJMLX,Nuveen All Cap Energy MLP Oppor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XJMTX,Nuveen Mortgage Opportunity Ter,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

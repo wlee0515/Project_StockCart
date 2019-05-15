@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GHC,Graham Holdings Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GHCAX,Leland Currency Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHCIX,Leland Currency Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHCCX,Leland Currency Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHC.MIL,Garofalo Health Care S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+GHCL.NSE,GHCL Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+GHCL.BSE,GHCL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+500171.BSE,GHCL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+GHC.FRK,Garofalo Health Care S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000

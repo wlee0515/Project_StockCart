@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIIB,Biogen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BIICX,BlackRock Multi-Asset Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BIIEX,Brandes International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIO,Bionovate Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIPX,iShares Short-Term TIPS Bond Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIVX,BlackRock International Index V,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIIX,BlackRock Impact Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIMX,iShares Edge MSCI Mltfact Intl Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIIB.MEX,Biogen Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+CN6.FRK,BII Railway Transportation Technology Holdings Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.0923

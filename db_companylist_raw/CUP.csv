@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCUPF,The Second Cup Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CUPUF,Caribbean Utilities Company Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCU.TRT,The Second Cup Ltd,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+CUP.AUS,Countplus Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CUPID.BSE,Cupid Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+CUP-U.TRT,Caribbean Utilities Company Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CUP.BER,CHUGAI PHARMACEUT'L,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+CUP.DUS,CHUGAI PHARMACEUT'L,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455
+CUPU.TRT,CARIBBEAN UTIL US,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+CUP.FRK,Chugai Pharmaceutical Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444

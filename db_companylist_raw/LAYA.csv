@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLTZ.JKT,PT Graha Layar Prima Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4211
+LAYARDINVEST.BCL,Layard Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F000001Z6T.BCL,Layard Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857

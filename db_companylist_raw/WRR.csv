@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WRRNF,WESTCORE ENERGY LT,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WRREX,Resource Real Estate Diversifie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WRR.TRV,Walker River Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+WRR.AUS,World Reach Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

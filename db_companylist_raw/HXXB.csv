@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HXXB.FRK,Idera Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+HXXB.BER,"IDERA PHARMAC.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HXXB.STG,Idera Pharmaceuticals Inc. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

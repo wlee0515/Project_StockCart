@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNCL,Fidelity MSCI Financials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FNCMX,Fidelity NASDAQ Composite Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNCB,FNCB Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNCRX,Franklin Natural Resources C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCX,Function(x) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCFX,Franklin Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCSF,NORTH AMERI FINCL,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCSX,Franklin Natural Resources R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCZX,Franklin NC Tax-Free Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNCCX,Nuveen NM Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

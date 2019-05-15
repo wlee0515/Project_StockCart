@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCBBX,American Funds Corporate Bond R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+RCBB.BER,CO.CCBI RQFII MON.MK.B LS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+RCBB.DUS,CO.CCBI RQFII MON.MK.B LS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

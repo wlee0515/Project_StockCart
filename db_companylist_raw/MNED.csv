@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNED.BER,BNY M.I.-NE.GL INC.LS INC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+MNED.FRK,BNY M.I.-NE.GL INC.LS INC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+MNED.DUS,BNY M.I.-NE.GL INC.LS INC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+MNED.MUN,BNY M.I.-NE.GL INC.LS INC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

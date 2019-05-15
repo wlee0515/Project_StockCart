@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADFS,American Defense Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADFAX,American Century Diversified Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ADFIX,American Century Diversified Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADFJF,ADF Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADFT,Adfitech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADFSX,Alpine Financial Services Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRX.TRT,ADF Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ADFFOODS.NSE,ADF Foods Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ADF.BER,"EVOLVA HOLDING AG  SF-,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+ADF.MUN,"EVOLVA HOLDING AG  SF-,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3529

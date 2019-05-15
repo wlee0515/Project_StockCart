@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UWT,VelocityShares 3x Lng Crude Oil ETN New,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+UWTIF,VelocityShares 3x Long Crude Oil ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UWN,Nevada Gold & Casinos Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UWM,ProShares Ultra Russell2000,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+UWRL,US Wireless Online Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UWEFF,U3O8 Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UWPIX,ProFunds UltraShort Dow 30 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+UWHR,Uwharrie Capital Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

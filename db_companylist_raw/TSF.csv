@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSFCX,Touchstone Small Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSFIX,Touchstone Small Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSFAX,Touchstone Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSFYX,Touchstone Small Cap Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSFA.BER,TAIWAN SEMICON.MANU.ADR/5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TSFA.VIE,Taiwan Semiconductor Manufacturing Company Limited,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+TSF.BAK,Three Sixty Five Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+TSFA.FRK,Taiwan Semiconductor Manufacturing Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TSFA.DUS,TAIWAN SEMICON.MANU.ADR/5,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+TSFA.MUN,TAIWAN SEMICON.MANU.ADR/5,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

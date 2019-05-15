@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHT,Chunghwa Telecom Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CHTR,Charter Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHTRX,Invesco Charter A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHTTX,AMG Managers Fairpointe Mid Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHTFX,Aquila Churchill Tax-Free Fund of KY A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHTYX,Invesco Charter Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHTVX,Invesco Charter R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHTCX,Invesco Charter C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHT.FRK,Covia Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

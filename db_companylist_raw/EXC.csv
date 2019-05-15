@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXC,Exelon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ICE,Intercontinental Exchange Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARSC,Bitcoin Crypto Currency Exchange Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IAI,iShares US Broker-Dealers&Secs Exchs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+XCOOQ,EXCO Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EXLLF,Excellon Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GBBEF,iPath GBP/USD Exchange Rate ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EXMGF,Excelsior Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+EXSR,"Exchange Bank (Santa Rosa, CA)",Equity,United States,09:30,16:00,UTC-05,USD,0.1818
+TLSRP,Telos Corporation PFD EXCH 12%,Equity,United States,09:30,16:00,UTC-05,USD,0.1395

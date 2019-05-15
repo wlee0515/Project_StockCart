@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAC,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IBA,"Industrias Bachoco, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BAC-PK,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BAC-PL,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBR,Corporate Backed Call Trust Certificates JCP 06-1CTF A1,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BAC-PW,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBN,"Corporate Backed Callable Trust Certificates, J.C. Penny Debenture-Backed Series 2007-1 Trust CORTS A-1 7%",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BACHY,Bank of China Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BAC-PB,Bank of America Corporation 6 NCUM PFD SR GG,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BAC-PC,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

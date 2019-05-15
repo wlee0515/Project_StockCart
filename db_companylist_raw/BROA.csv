@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVGO,Broadcom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BR,Broadridge Financial Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SCHB,Schwab US Broad Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4706
+SBGI,Sinclair Broadcast Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BBGI,Beasley Broadcast Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+BVSN,BroadVision Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+BWEN,Broadwind Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LBRDA,Liberty Broadband Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+LBRDK,Liberty Broadband Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+COM,Direxion Auspice Broad Cmdty Strat ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNY4.BER,LYXOR MSCI E.M.U.ETF C-DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+LNY4.DUS,LYXOR MSCI E.M.U.ETF C-DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

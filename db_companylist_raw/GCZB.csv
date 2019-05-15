@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCZB.STG,Gray Television Inc. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+GCZB.FRK,Gray Television Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+GCZB.BER,GRAY TELEVISION  DL-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFHG.LON,Grand Fortune High Grade Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GFHENRY200FI.SAO,HENRY 200 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMER,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3333

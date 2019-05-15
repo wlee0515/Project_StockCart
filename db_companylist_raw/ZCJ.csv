@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XS0149727496.AMS,NEDWBK USD ZCJUL22,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2857
+XS0149727736.AMS,NEDWBK USD ZCJUL22,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2857
+XS0171957433.AMS,NEDWBK USD ZCJUL33,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2857

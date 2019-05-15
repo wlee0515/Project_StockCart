@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBCAX,Gabelli Dividend Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+GBCAMERICANG.TRT,GBC American Growth Fund Inc.,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.8000
+GBCA.LON,ETFS Long CAD Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4211

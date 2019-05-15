@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2BN.MUN,"BARNES + NOBLE ED. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+51A.BER,"AMERICAN PUBLIC ED.DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+MDD.BER,"MONDADORI ED.  EO 0,26",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+MDD.DUS,"MONDADORI ED.  EO 0,26",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+MDD.MUN,"MONDADORI ED.  EO 0,26",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+6RE.MUN,RISE ED.CAYM.LTD SP.ADR/2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

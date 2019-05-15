@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCPGX,Fidelity Small Cap Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FCPT,Four Corners Property Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCPVX,Fidelity Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPEX,Fidelity Small Cap Enhanced Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPIX,Fidelity Advisor Intl Capital App I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPAX,Fidelity Advisor Intl Capital App A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPMOX,FT 7622: 75/25 Strategic Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPB,First Capital Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPCX,Fidelity Advisor Intl Capital App C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCPOX,FA 529 COLLEGE PORT-OLD CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

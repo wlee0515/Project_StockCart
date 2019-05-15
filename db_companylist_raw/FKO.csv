@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FKO,First Trust South Korea AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FKORLX,FT 6330: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKORQX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKONLX,FT 7630: Dow Target 5 4Q '18 - ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

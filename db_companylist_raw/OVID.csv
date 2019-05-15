@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OVID,Ovid Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+1OT.BER,"OVID THERAPEUTICS DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+1OT.FRK,Ovid Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+1OT.MUN,"OVID THERAPEUTICS DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759
+F00000YK6Y.FRK,Perspektive OVID Equity R,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+F00000YK6Z.FRK,Perspektive OVID Equity I,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759

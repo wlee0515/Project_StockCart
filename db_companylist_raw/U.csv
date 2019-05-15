@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTC,Uranium Trading Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+UGAZ,VelocityShares 3x Long Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+UPWK,Upwork Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+UXIN,Uxin Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+UROV,Urovant Sciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+UTX,United Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+UVXY,ProShares Ultra VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+UNG,United States Natural Gas,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+USO,United States Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+UPS,United Parcel Service Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

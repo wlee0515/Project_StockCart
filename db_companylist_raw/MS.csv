@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MS,Morgan Stanley,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MSFT,Microsoft Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MSC,Studio City International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MSI,Motorola Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MSB,Mesabi Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MSCI,MSCI Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MSG,The Madison Square Garden Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MSF,Morgan Stanley Emerging Markets Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MSRT,MassRoots Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MSEX,Middlesex Water Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

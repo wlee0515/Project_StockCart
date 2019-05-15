@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+POOL,Pool Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DPDEX,Macquarie Pooled Large Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DELPX,Macquarie Pooled Labor Select Intl Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DPHYX,Macquarie Pooled High Yield Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+POOSF,Poseidon Concepts Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DCPFX,Macquarie Pooled Core Plus Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DPEGX,Macquarie Pooled Emerging Markets II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+POOCX,Putnam OH Tax Exempt Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DPEMX,Macquarie Pooled Emerging Markets,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+POOL.JKT,PT. Pool Advista Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500

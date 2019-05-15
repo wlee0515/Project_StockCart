@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLWS,1-800-FLOWERS.COM Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLWPF,The Flowr Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLWGKX,FT 7070: BofA Merrill Lynch ESG,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLWTPX,FT 6404: Municipal Advantage Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FLWTF,Flowtech Fluidpower plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FLWR.TRV,The Flowr Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+FLW1.BER,FLUGHAFEN WIEN AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FLW1.FRK,Flughafen Wien Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FLW1.MUN,FLUGHAFEN WIEN AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FLW1.STG,Flughafen Wien AG Inhaber-Aktie,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

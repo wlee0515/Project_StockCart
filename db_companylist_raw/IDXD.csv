@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAFAX,Western Asset Inflation Idxd Plus Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IDXDX,Voya Index Solution 2020 Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WAFCX,Western Asset Inflation Idxd Plus Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WAFRX,Western Asset Inflation Idxd Plus Bd R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+WAFSX,Western Asset Inflation Idxd Plus Bd IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+LWICX,Western Asset Inflation Idxd Plus Bd C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+WAIIX,Western Asset Inflation Idxd Plus Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+WATPX,Western Asset Inflation Idxd Plus Bd FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+F00000PUIQ.LON,UBS Sterling Corporate Bd Idxd A Grs Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

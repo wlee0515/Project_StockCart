@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKX,Skechers U.S.A. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+0L73.LON,Skechers U.S.A. Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+SKAA.FRK,Skechers U.S.A. Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+SKAA.BER,"SKECHERS U.S.A A  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+SKAA.STG,SKECHERS U.S.A. INC. Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3200

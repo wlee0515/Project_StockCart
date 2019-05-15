@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CDAY,Ceridian HCM Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDAZX,Multi-Manager Directional Alt Strat Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CDAAX,Multi-Manager Directional Alt Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDAB,Coeur d'Alene Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDA.PAR,Compagnie des Alpes SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+CDAY.TRT,Ceridian HCM Holding Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+KML-PC.TRT,KINDER MORGAN CDA LTD PREF SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+RYC.MUN,ROYAL BK CDA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+CDA.TRV,Canuc Resources Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3529
+NBC.MUN,NATL BK OF CDA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1765

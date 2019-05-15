@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XOMA,XOMA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+X0M1.FRK,XOMA Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+X0M1.BER,"XOMA CORP.  DL -,0005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+X0M1.DUS,"XOMA CORP.  DL -,0005",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636
+X0M1.MUN,"XOMA CORP.  DL -,0005",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+X0M1.STG,XOMA Corp. Registered Shares DL,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

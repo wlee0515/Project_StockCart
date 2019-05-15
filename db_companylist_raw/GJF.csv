@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GJF.BER,ZHONG FA ZHAN HLDGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+GJF.FRK,Zhong Fa Zhan Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

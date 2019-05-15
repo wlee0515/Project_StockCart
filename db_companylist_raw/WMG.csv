@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TEKA.KLA,WMG HOLDINGS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.8571
+WMGI,Wright Medical Group N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGIZ,Wright Medical Group N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGAX,Ivy Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGRX,Ivy Mid Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGCX,Ivy Mid Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGYX,Ivy Mid Cap Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMGBX,Ivy Mid Cap Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455
+WMGIN.MEX,Wright Medical Group N.V.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2727

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIFE,aTyr Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATYG,Atlas Technology Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATYAX,Ascendant Tactical Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATYIX,Ascendant Tactical Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATYGX,American Century International Gr Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATYM,Asia Time Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATY.TRV,Atico Mining Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ATYM.LON,Atalaya Mining Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ATY.FRK,Artemis Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ATY.LON,Athelney Trust,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000

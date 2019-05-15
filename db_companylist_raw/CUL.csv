@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFR,Cullen/Frost Bankers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CULP,Culp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JWCAF,James E. Wagner Cultivation Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CFR-PA,Cullen/Frost Bankers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CHDEX,Cullen High Dividend Equity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CULAX,Calvert Ultra-Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CEMDX,Cullen Emerging Markets High Dividend Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CVLVX,Cullen Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CEMFX,Cullen Emerging Markets High Dividend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CHDVX,Cullen High Dividend Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0000029563.PAR,Fructifrance Euro C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.8000
+FR0011005461.PAR,Fructi Flexible 100,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+FRUC.LON,Franklin Libertyshares Icav - Franklin Liberty Usd Investment Grade Corporate Ucits Etf,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.3478
+FR0000437741.PAR,Fructi France Small et Mid Cap,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3478
+FR0000437774.PAR,Fructi Actions France,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+FR0000437782.PAR,Fructi Actions France D,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3200
+FR0000029571.PAR,Fructifrance Euro,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2963
+FR0000437824.PAR,Fructifonds Valeurs du Japon R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2353
+FR0000437881.PAR,Fructifonds Profil 3,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2353

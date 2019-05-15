@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIC,Macquarie Infrastructure Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMD,Advanced Micro Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MU,Micron Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MSFT,Microsoft Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KORS,Michael Kors Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MCHP,Microchip Technology Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MFGP,Micro Focus International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SMCI,Super Micro Computer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MVIS,MicroVision Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SMSI,Smith Micro Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

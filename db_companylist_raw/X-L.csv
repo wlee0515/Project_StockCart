@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+REML,Credit Suisse X-LinksMP2xLvgMortREIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+GLDI,Credit Suisse X-Links Gold Cov Call ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+USOI,Credit Suisse X-Lnks Crde OlShrsCvCllETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SLVO,Credit Suisse X-Links Silver CovCall ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+AMJL,Credit Suisse X-Links Monthly Pay 2xLeveraged Alerian MLP Index ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+MLTI,Credit Suisse X-Links Mlt-Ast Hi Inc ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1714
+4994.TWN,X-Legend Entertainment Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1395

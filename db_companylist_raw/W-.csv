@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+W-PH.TRT,Westcoast Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+W-PJ.TRT,WESTCOAST 8 PR,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+W-PK.TRT,WESTCOAST ENERGY INC PREF SERIE,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+W-PM.TRT,WESTCOAST ENERGY INC PREF SERIE,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+5JW.STG,W-SCOPE Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+6619.TOK,W-SCOPE Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1905

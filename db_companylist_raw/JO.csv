@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JO,iPath B Bloomberg Coffee Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JNJ,Johnson & Johnson,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCI,Johnson Controls International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JONE,Jones Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JNCE,Jounce Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JLL,Jones Lang LaSalle Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JSDA,Jones Soda Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JOE,The St. Joe Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JOBS,51job Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JBT,John Bean Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

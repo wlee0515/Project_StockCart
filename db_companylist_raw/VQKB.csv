@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VQKB.FRK,RENESOLA LTD ADR 10,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+VQKB.BER,RENESOLA LTD ADR 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+VQKB.DUS,RENESOLA LTD ADR 10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+VQKB.MUN,RENESOLA LTD ADR 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+VQKB.STG,Renesola Ltd. Reg.Shs (Sp.ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

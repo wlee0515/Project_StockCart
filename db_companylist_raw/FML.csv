@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMLTX,Franklin LifeSmart 2045 Retire Trgt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMLWTX,FT 7524: Equity Closed-End Oppo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMLLYX,FT 7103: Sabrient Small Cap Gro,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMLSX,Wasatch Long/Short Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMLYDX,FT 7720: Target Dividend Double,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FML-P.TRV,Fusion Gold Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+FML.AUS,Focus Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000

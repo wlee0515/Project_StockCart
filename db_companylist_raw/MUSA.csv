@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUSA,Murphy USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+8336.TOK,The Musashino Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+7220.TOK,Musashi Seimitsu Industry Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+7521.TOK,Musashi Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3810
+9635.TOK,Musashino Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+MUSANDAMSICA.BCL,Musandam SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+F00000S6P2.BCL,Musandam SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2051

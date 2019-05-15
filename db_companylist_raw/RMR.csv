@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RMR,The RMR Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RIF,RMR Real Estate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RMRK,Rimrock Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XRIFX,RMR Real Estate Income Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMRDF,Radisson Mining Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RMRPX,American Funds Retire Inc Port-Cnsrv R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+RMRGX,Highland Resolute I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+26R.BER,"RMR GROUP INC.CL.A DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+26R.STG,RMR Group Inc. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

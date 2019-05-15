@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TUU.FRK,Solartron Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TUU.BER,SOLARTRON -NVDR-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TUU.MUN,SOLARTRON -NVDR-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TUU.STG,Solartron PCL Reg. Shares (NVDR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TUUF.FRK,Solartron Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TUUF.BER,SOLARTRON -FGN-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TUUF.MUN,SOLARTRON -FGN-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TUUF.STG,Solartron PCL Reg. Shares (Fore,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

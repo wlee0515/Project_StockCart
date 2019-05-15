@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDOC,"DERMAdoctor, LLC.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TANNI,TravelCenters of America LLC SR NT 8.25%2028,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TANNL,TravelCenters of America LLC SR NT,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MDLQ,Medley LLC NT 24,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+ELC,"Entergy Louisiana, LLC COLLATERAL TR MT",Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+JMPB,JMP Group LLC SR NT 23,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ELU,"Entergy Louisiana, LLC 1ST MTG BD",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ELJ,"Entergy Louisiana, LLC 1ST MTG5.25%",Equity,United States,09:30,16:00,UTC-05,USD,0.2400
+OAK-PA,"Oaktree Capital Group, LLC 6.625% PFD UT A",Equity,United States,09:30,16:00,UTC-05,USD,0.1333
+MDLX,Medley LLC SR NT 26,Equity,United States,09:30,16:00,UTC-05,USD,0.1277

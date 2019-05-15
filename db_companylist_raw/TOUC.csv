@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TFFYX,Touchstone Focused Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+TSMCX,Touchstone Dynamic Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4211
+SAGWX,Touchstone Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+CFSIX,Touchstone Sands Capital Select Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963
+SENCX,Touchstone Large Cap Focused A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+CISGX,Touchstone Sands Capital Inst Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+PTSGX,Touchstone Sands Capital Select Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+THYAX,Touchstone High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+TEQAX,Touchstone Sustainability & Imp Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+TSBA,Touchstone Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMT,Walmart Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DIS,The Walt Disney Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBA,Walgreens Boots Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+W,Wayfair Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WM,Waste Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+1762.HKG,Wanka Online Inc,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+WATT,Energous Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WPG,Washington Prime Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WAL,Western Alliance Bancorporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+WAB,Westinghouse Air Brake Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1600

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROY1.DUS,R-CO CLUB C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4286
+ROY2.DUS,R-CO MIDCAP EURO C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+ROY3.DUS,R-CO CONVICTION EURO CEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2609
+ROY4.DUS,R-CO EURO CREDIT DEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

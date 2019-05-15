@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNTC,Benitec Biopharma Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+00715L.TWN,Paradigm S&P GSCI BntCrd2XLvrgdERFutsETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.1818
+00716R.TWN,Paradigm S&P GSCI BntCrd1XInvrsERFutsETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.1818

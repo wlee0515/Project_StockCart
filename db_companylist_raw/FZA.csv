@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FZAEX,Fidelity Advisor Emerging Markets Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAHX,Fidelity Advisor Growth Opps Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZANX,Fidelity Advisor New Insights Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAPX,Fidelity Advisor Stock Sel All Cp Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAAX,Fidelity Advisor Balanced Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAJX,Fidelity Advisor International Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZANFX,FT 6394: Diversified High Incom,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZABX,Fidelity Advisor Diversified Intl Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAOX,Fidelity Advisor Small Cap Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FZAGX,Fidelity Advisor Equity Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

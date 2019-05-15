@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NJR,New Jersey Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SJI,South Jersey Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JRSH,Jerash Holdings (US) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JCAP,Jernigan Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NJMC,New Jersey Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MYJ,BlackRock MuniYield New Jersey Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JMDA,Jerrick Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BKJ,Bancorp Of New Jersey Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

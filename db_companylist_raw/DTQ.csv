@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTQ,DTE Energy Company SUB DEB 62,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DTQ.BER,"NORDIC SHIPHOLDING DK 0,1",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

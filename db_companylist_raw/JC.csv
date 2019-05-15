@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JCP,J. C. Penney Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCI,Johnson Controls International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCOM,j2 Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCAP,Jernigan Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCS,Communications Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JCTCF,Jewett-Cameron Trading Company Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JCE,Nuveen Core Equity Alpha Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JCAP-PB,Jernigan Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JCO,Nuveen Credit Opportunities 2022 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JCBUX,JPMorgan Core Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444

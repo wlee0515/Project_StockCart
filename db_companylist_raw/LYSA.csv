@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CRUSADEREQUI.TRT,Lysander-Crusader Equity Income Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.7273
+LYSA.KLA,LYSAGHT GALVANIZED STEEL BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3636
+F00000UHTM.TRT,Lysander Short Term and Floating Rate Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+F00000WRAY.TRT,Lysander-Seamark Balanced Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3077
+PR.TRT,Lysander-Slater Preferred Share ActivETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+9199.KLA,Lysaght Galvanized Steel Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2353
+F00000PF9U.TRT,Lysander Balanced Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2105
+F00000PF9W.TRT,Lysander Bond Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2105
+F00000PF9Y.TRT,Lysander Corporate Value Bond Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000UHTO.TRT,Lysander Equity Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1739

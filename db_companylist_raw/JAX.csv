@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAX,J. Alexander's Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JXMNF,Jaxon Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JAX.TRV,Jaxon Mining Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+0U31.FRK,Jaxon Mining Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529
+0U31.MUN,JAXON MNG INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000
+0U31.STG,Jaxon Mining Inc. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

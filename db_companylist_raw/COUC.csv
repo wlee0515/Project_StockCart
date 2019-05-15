@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANCUF,Alimentation Couche-Tard Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+ANCTF,Alimentation Couche-Tard Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2424
+ATD-B.TRT,Alimentation Couche-Tard Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2424
+ATD-A.TRT,Alimentation Couche-Tard Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2424
+CJA.FRK,Alimentation Couche-Tard Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2424
+CJA.STG,ALIMENTATION COUCHE-TARD INC. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

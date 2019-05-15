@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MZB.MIL,Massimo Zanetti Beverage Group S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+MZB.FRK,Mexco Energy Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MZB.STG,Mexco Energy Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

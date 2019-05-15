@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RXK2.BER,SELLAS LIFE SCIENCES GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RXK2.FRK,SELLAS Life Sciences Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+RXK2.STG,SELLAS Life Sciences Group IncR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

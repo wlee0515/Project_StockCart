@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALZC.BER,"ASSA-ABLOY AB B  SK-,33",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+ALZC.STG,Assa-Abloy AB Namn-Aktier B SK ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ALZC.FRK,ASSA ABLOY AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+SFP1.FRK,AlzChem Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+ALZC.DUS,"ASSA-ABLOY AB B  SK-,33",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+SFP1.BER,ALZCHEM GROUP AG INH. ON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+SFP1.MUN,ALZCHEM GROUP AG INH. ON,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+SFP1.STG,AlzChem Group AG Inhaber-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

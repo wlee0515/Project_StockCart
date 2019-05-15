@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSDAX,Touchstone Ultra Short Dur F/I A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDUX,Consulting Group Ultra-Shrt Trm F/I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDCX,Touchstone Ultra Short Dur F/I C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDOX,Touchstone Ultra Short Dur F/I Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDIX,Touchstone Ultra Short Dur F/I Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDRF,Tsodilo Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDOF,Tessenderlo Group NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDBX,TIAA-CREF Short Duration Impact Bd Retl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDFX,TIAA-CREF Short Duration Impact Bd Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDDX,TIAA-CREF Short Duration Impact Bd Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NE,Noble Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HLTH,Nobilis Health Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NBL,Noble Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BKS,Barnes & Noble Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NOBL,ProShares S&P 500 Dividend Aristocrats,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+NBLX,Noble Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+NROM,Noble Roman's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BNED,Barnes & Noble Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AKZOY,Akzo Nobel N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NOBH,Nobility Homes Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2609

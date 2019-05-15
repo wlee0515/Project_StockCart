@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATTAX,AB Tax-Aware Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+7099.KLA,Atta Global Group Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6154
+ATT.JOH,Attacq Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+SMPC.KLA,ATTA GLOBAL GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+7099PA.KLA,ATTA GLOBAL GROUP BERHAD - IRRE,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+ATTA7L.SAO,ATIAIA PEC  PNC*,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2286

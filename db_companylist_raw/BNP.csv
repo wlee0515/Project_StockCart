@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNPQY,BNP Paribas SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ENG,BNPP E NMX 30 Infrastructure Glbl ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPUF,Bonavista Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPQF,BNP Paribas SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPCX,UBS Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPVX,BNP Paribas AM US Small Cap Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPPX,BNP Paribas AM Emerging Markets Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPOX,BNP Paribas AM Emerging Markets Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPLX,BNP Paribas AM EM Ttl Ret Fxd Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNPUX,BNP Paribas AM US Small Cap Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

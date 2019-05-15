@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCKT,The Hackett Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HCKAX,Hartford Checks and Balances A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HCKIX,Hartford Checks and Balances I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKCX,Hartford Checks and Balances C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKSX,Hartford Checks and Balances R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKTX,Hartford Checks and Balances R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKRX,Hartford Checks and Balances R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKG,Hocking Valley Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKFX,Hartford Checks and Balances F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+7105.KLA,HCK Capital Group Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222

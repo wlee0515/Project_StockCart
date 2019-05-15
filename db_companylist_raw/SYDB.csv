@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYANY,Sydbank A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+TM2.BER,SYDBANK  NAM.  DK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5333
+TM2.DUS,SYDBANK  NAM.  DK 10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5333
+TM2.STG,Sydbank A/S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+TM2.FRK,Sydbank A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+0MGE.ILN,SYDBANK A/S SYDBANK ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333
+XS0205055675.AMS,SYDBANK   2.812%PL,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2581
+F000001A6W.FRK,Sydbank Verm?gensverwaltung Dynamisch A,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2353
+F00000Z6S8.FRK,Sydbank Verm?gensverwaltung Dynamisch I,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1860

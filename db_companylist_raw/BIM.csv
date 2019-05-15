@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRBMF,"Grupo Bimbo, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BMNM,Bimini Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BIMVX,iShares Edge MSCI Min Vol USA Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIMUF,Pascal Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BIMBX,BlackRock Alternative Cptl Strats Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIMIX,Baird Intermediate Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMBOY,"Grupo Bimbo, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BIMFX,iShares Edge MSCI Mltfact USA Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BIMTX,iShares Edge MSCI USA Momnt Fact Index Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BIMSX,Baird Intermediate Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

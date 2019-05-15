@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMVAX,Nuveen VA Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NMVA.FRK,Captor Capital Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NMVA.STG,Captor Capital Corp. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

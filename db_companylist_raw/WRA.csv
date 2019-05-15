@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WRTC,Wrap Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WRAAX,Wilmington Global Alpha Equities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WRAIX,Wilmington Global Alpha Equities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BTWEIRONBARK.AUS,BT Wrap Essentials - Ironbark GTP Global Equity Thematic,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+WFS0417AU.AUS,BT Wrap Essentials - Ironbark Global Property Securities,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2667
+14138.AUS,BT Wrap Essentials - BlackRock Scientific Indexed Australian Listed Propert,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818
+16318.AUS,BT Wrap Essentials - Ironbark GTP Global Equity Thematic,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818
+16321.AUS,BT Wrap Essentials - Ironbark Global Property Securities,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818
+17541.AUS,BT Wrap Essentials - Advance International Fixed Interest Multi-Blend,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMGGF,DMG Blockchain Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSKY,DMG Mori Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMGBX,PGIM QMA Defensive Equity B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DMGI.TRV,DMG Blockchain Solutions Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+GIL.FRK,DMG MORI AKTIENGESELLSCHAFT,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+DMGT.LON,Daily Mail and General Trust plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+0OP0.LON,DMG MORI AKTIENGESELLSCHAFT,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2308
+DMG.AUS,Dragon Mountain Gold Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222
+6AX.BER,DMG BLOCKCHAIN SOL. NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+19800.AUS,DMG Diversified Portfolio,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2000

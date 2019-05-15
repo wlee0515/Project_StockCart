@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6635.TOK,Di-Nikko Engineering Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2069
+FR0011453885.PAR,Oddo Convertible Europe DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2069
+FR0011540541.PAR,Oddo Optimal Income DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2069
+F00000PVC2.PAR,Oddo Convertible Europe DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1875
+F00000QGEU.PAR,Oddo Optimal Income DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1818
+F00000YDOK.PAR,Oddo BHF ProActif Europe DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1818
+F00000YDVM.PAR,Oddo BHF Haut Rendement 2023 DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1818
+F00000ZPPT.PAR,Oddo BHF Immobilier DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1765
+F0000103AE.PAR,Oddo BHF Haut Rendement 2025 DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1579
+F000010G5T.PAR,Oddo BHF Avenir Europe DI-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1579

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NXR,Nuveen Select Tax-Free Income Portfolio 3,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NXRT,NexPoint Residential Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NXRA,Nextera Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NXR.LON,Norcros plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NXR-UN.TRV,Nexus Real Estate Investment Trust,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5455

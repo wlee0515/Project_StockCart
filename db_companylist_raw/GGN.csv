@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GGN-PB,"GAMCO Global Gold, Natural Resources & Income Trust",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGNPF,PT Gudang Garam Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGNDF,GN Store Nord A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGNPX,Goldman Sachs High Yield Fl Rate P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGNNW,GENOCEA BIOSCIENCE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGN.FRK,Ceragon Networks Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GGN.MEX,Goldcorp Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+GGN.STG,CERAGON NETWORKS LTD. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

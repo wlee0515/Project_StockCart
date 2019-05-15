@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNARX,Fidelity Select Natural Resources Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNAM,Evolutionary Genomics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNASX,Fidelity Sustainability Bond Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNAKEX,FT 6383: Precious Metals Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNAMX,Fidelity Long-Term Trs Bd Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNACIX,FT 6738: Equity Income Select P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNAPX,Strategic Advisers S-M Cp Multi-Mgr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNAEZX,FT 6275: SMid High Dividend Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNAREX,FT 7532: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNALGX,FT 6920: Diversified High Incom,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

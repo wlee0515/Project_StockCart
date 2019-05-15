@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHFCF,Flow Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHFP,Artisanal Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHFI,Absolute Health and Fitness Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHFD,Active Health Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHF.AUS,Australian Dairy Farms Group,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AHFL.BSE,Apex Home Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+U2I6.BER,AHF GLOBAL SELECT,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3000
+U2I6.DUS,AHF GLOBAL SELECT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+U2I6.HAM,AHF GLOBAL SELECT,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.3000
+U2I6.MUN,AHF GLOBAL SELECT,ETF,Munich,08:00,20:00,UTC+01,EUR,0.3000

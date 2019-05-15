@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDIS,Fidelity MSCI Consumer Discret ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FDIVX,Fidelity Diversified International,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FDIKX,Fidelity Diversified International K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FDIT,Findit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FDIV,First Trust Strategic Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FDIIX,FA 529 DIVERSIFIED INTL PORT-CL,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDIGX,Fidelity Advisor Consumer Staples I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDIAX,Fidelity Advisor Limited Term Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

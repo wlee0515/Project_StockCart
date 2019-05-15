@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVRA,Savara Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SISXF,Savaria Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SVVYF,Savary Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAVAX,Virtus Newfleet Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+SIS.TRT,Savaria Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5333
+SAVP.LON,Savannah Petroleum Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+SAV.LON,Savannah Resources Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3478
+9SP.FRK,Savannah Petroleum Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+SCA.TRV,Savary Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3077
+511577.BSE,Savani Financials Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759

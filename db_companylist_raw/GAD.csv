@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GADGX,Goldman Sachs Enhanced Dividend Gbl Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GADVX,Gabelli ABC Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GDG,Gadsden Dynamic Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+GADPX,Goldman Sachs Equity Growth Strat P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GDMA,Gadsden Dynamic Multi-Asset ETF New,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+GAD.DUS,"GAM HOLDING AG NA.SF -,05",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GADA.KLA,GADANG HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+GAD.FRK,GAM Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GAD.BER,"GAM HOLDING AG NA.SF -,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GAD.HAM,"GAM HOLDING AG NA.SF -,05",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5714

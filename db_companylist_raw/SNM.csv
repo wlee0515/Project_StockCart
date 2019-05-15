@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNMP,Sanchez Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNMX,Senomyx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNMSF,Spin Master Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNMMF,Sunrise Communications Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNMRY,Snam S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNMN,SNM Global Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNMRF,Snam S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNMCY,Suncorp Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

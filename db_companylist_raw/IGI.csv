@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IGIB,iShares Intermediate-Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IGIFX,American Funds Intl Gr and Inc F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IGICX,American Funds Intl Gr and Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIH,Xtrackers Inv Grd Bd Intst Rt Hdg ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIFF,IGM Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIVX,Integrity Growth & Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIIX,Ivy Global Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIAX,Integrity Growth & Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

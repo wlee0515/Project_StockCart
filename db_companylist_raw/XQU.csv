@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XQUA.LON,X USD Emerging Mkts Bd Qual Wght ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XQUA.FRK,db x-trackers iBoxx USD Emerging Sovereigns Quality Weighted UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XQUE.FRK,db x-trackers iBoxx USD Emerging Sovereigns Quality Weighted UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XQUA.FRK,X USD Emerging Mkts Bd Qual Wght ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XQUE.FRK,X USD Em Mkts Bd Qual Wght ETF 2D EUR H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XQUI.MIL,X Portfolio ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XQUA.MIL,XTR USD EM MKT BOND QU WEIG UCI,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XQUA.MUN,X(IE)-DL EM BD Q.WGHT.1D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XQUA.STG,Xtr.(IE)-USD EM Bd Q.Weighted R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XQUE.DUS,X(IE)-DL EM BD Q.WE.2DEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

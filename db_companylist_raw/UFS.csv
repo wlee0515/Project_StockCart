@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UFS,Domtar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UFS.TRT,Domtar Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+UFSD.LON,iShares Edge MSCI USA Mltfct ETF USDDist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RTBBF,Rathbone Brothers Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RTBRF,Restaurant Brands New Zealand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RTBEX,Russell Inv Tax-Exempt Bond E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

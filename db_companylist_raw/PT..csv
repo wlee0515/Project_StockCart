@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMDKY,PT. Mitra Adiperkasa Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PTPIF,PT. Chandra Asri Petrochemical Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FILM.JKT,PT. MD Pictures Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2727
+GIAA.JKT,PT. Garuda Indonesia (Persero) Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2727
+MNCN.JKT,PT. Media Nusantara Citra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2609
+INDY.JKT,PT. Indika Energy Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+BRIS.JKT,PT. Bank BRISyariah,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+GJTL.JKT,PT. Gajah Tunggal Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2069
+HRUM.JKT,PT. Harum Energy Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2000
+ADMG.JKT,PT. Polychem Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2000

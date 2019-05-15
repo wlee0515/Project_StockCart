@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIT,BlackRock Multi-Sector Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GBTC,Bitcoin Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BITA,Bitauto Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTSC,Bitcoin Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BITCF,First Bitcoin Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARSC,Bitcoin Crypto Currency Exchange Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BITRF,Biotron Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BFCH,BitFrontier Capital Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BLLCF,Bitfarms Technologies Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.1277

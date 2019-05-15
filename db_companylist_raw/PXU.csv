@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PXUS,Principal International Multi-Fac ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PXUS.KLA,PROLEXUS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+PXU-F.TRT,PowerShares FTSE RAFI U.S. Fundamental Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

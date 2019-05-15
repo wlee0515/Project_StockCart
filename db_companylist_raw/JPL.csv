@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JPLS,JPMorgan Long/Short ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JPLMX,JHancock Multimanager Lifestyle Mod R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLNX,Janus Henderson Large Cap Value N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLCX,JHancock Multimanager Lifestyle Cnsrv R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLBX,JHancock Multimanager Lifestyle Bal R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLAX,JHancock Multimanager Lifestyle Agrsv R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLGX,JHancock Multimanager Lifestyle Gr R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPLTX,Janus Henderson Large Cap Value T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

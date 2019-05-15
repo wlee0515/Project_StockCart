@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBRAF,General Shopping e Outlets do Brasil S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+GBRA.FRK,Geberit AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+GBRA.DUS,GEBERIT AG NA DISP. SF-10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+GBRA.FRK,Geberit AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+GBRA.BER,GEBERIT AG NA DISP. SF-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+GBRA.HAN,GEBERIT AG NA DISP. SF-10,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+GBRA.STG,Geberit AG Nam.-Akt. (Dispost.),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+GBRA.MUN,GEBERIT AG NA DISP. SF-10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

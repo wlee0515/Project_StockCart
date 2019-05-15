@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLMAF,Dollarama Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DLMIX,Delaware Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DLMAX,Delaware Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLMCX,Delaware Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLMV,Delmarva Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLMI,Diamond Lake Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLMRX,Delaware Mid Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLMT-M.TAV,Dolomite Holdings Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000

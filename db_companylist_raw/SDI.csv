@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDI,Standard Diversified Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SDIV,Global X SuperDividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SDIWX,AIG Strategic Bond W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDIVX,Stock Dividend,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDITX,Dreyfus Tax Sensitive Total Return Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDISY,Sports Direct International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SDIBX,AIG Strategic Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDIAX,AIG Strategic Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDICX,Guggenheim Investment Grade Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

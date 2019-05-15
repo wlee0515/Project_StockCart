@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWP,Forward Pharma A/S,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FWPHLX,FT 7497: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWPLDX,FT 7697: New York Municipal Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWPL.LON,Worldwide Healthcare Ord,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+FWP.LON,Worldwide Healthcare Ord,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

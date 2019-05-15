@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AV.LON,Aviva plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+ODAA.FRK,ODDO BHF AV.EURO CR-EUR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+ODAB.HAM,ODDO BHF AV. EUR.CR-EO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+ODAA.DUS,ODDO BHF AV.EURO CR-EUR,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+ODAB.DUS,ODDO BHF AV. EUR.CR-EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

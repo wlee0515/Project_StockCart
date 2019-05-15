@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RZL.TRV,Rizal Resources Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+RFU2.FRK,Rizal Resources Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+RFU2.BER,RIZAL RES CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2581
+RFU2.STG,Rizal Resources Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

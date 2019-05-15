@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNSAX,Putnam Small Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNSIX,T. Rowe Price New Asia I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNSCX,Putnam Small Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNSBX,Putnam Small Cap Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PNSE.JKT,PT Pudjiadi and Sons Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+PNS.LON,Panther Securities Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PNS.STG,Ponsse Oyj,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+010420.KOR,Hansol PNS Co. Ltd..,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2727
+KR5301AQ3499.KOR,MiraeAsset Pns Sv Smrt LS Fdr Eq Bl 1 Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

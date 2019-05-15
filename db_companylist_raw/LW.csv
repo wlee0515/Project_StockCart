@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LW,Lamb Weston Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LWAY,Lifeway Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LWLG,Lightwave Logic Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LWSAX,Lord Abbett Multi-Asset Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+LWCL,Lewis & Clark Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LWSCF,Sienna Senior Living Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LWMSX,Western Asset Mortgage Backed Sec C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LWOFX,BrandywineGLOBAL Intl Opp Bond FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LWSCX,Lord Abbett Multi-Asset Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LWLAX,QS Defensive Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

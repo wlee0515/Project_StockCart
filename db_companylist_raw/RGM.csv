@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGMFX,American Funds Preservation Port R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGM.TRV,Remington Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+RGM.LON,Regency Mines Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

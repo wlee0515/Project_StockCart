@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFECX,Ashmore Emerging Mkts Frontier Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F00000NAR6.BCL,Plancaixa Efecto 10 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+PLANCAIXAEFE.BCL,Plancaixa Efecto 5 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3200
+F00000NAQU.BCL,Plancaixa Efecto 5 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3077

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNM.FRK,Nanometrics Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NNM.BER,NANOMETRICS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NNM.MUN,NANOMETRICS INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NNM.STG,NANOMETRICS INC. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NNMIX.AMS,NN WM Fund P,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFM.FRK,J. Front Retailing Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+JFM.BER,J.FRONT RETAILING,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+F000001YHR.BCL,JFM 2001 Cartera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+JFM2001CARTE.BCL,JFM 2001 Cartera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2400

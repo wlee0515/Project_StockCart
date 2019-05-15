@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETIC,ETI International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000NPBD.MIL,Etica Bilanciato,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4211
+F000011597.MIL,Etica Impatto Clima R,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4211
+IT0004735202.MIL,Etica Azionario I,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4000
+F00000NPBE.MIL,Etica Azionario I,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3810
+IT0001083424.MIL,Eurizon Azionario Internazionale Etico,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3810
+IT0004097405.MIL,Etica Azionario,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3636
+IT0005117533.MIL,Etica Rendita Bilanciata,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3200
+F0000004KJ.MIL,Etica Azionario,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2857
+F0GBR04WOQ.MIL,Etica Bilanciato R,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2105

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGO,The Gabelli Go Anywhere Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GGOIX,Goldman Sachs Growth Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOAX,Goldman Sachs Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOTX,Goldman Sachs Growth Opportunities Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOUX,Goldman Sachs Growth Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOCX,Goldman Sachs Growth Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGO-PA,The Gabelli Go Anywhere Trust S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGORX,Goldman Sachs Growth Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOPX,Goldman Sachs Hi Quality Float Rt P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGOSX,Goldman Sachs Growth Opportunities Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

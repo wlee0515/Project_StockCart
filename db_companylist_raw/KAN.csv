@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KNDI,Kandi Technologies Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KSU,Kansas City Southern,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KANG,iKang Healthcare Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KCLI,Kansas City Life Insurance Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KSU-P,Kansas City Southern,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SEKSX,American Indep Kansas Tax-Exempt Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+KTHGF,Kantone Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+KNBIF,Kane Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+KANP,"Kaanapali Land, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+KAEPY,"The Kansai Electric Power Company, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.2500

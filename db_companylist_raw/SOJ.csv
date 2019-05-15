@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOJC,The Southern Company JR 2017B NT 77,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SOJA,The Southern Company JR SUB NT 2015A,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SOJB,The Southern Company JR SUB NT 76,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SJRNF,Sojourn Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SOJ.TRV,Sojourn Exploration Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+XEB.FRK,Sojitz Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+2768.TOK,Sojitz Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+XEB.BER,SOJITZ CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+XEB.DUS,SOJITZ CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+XEB.STG,Sojitz Corp. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

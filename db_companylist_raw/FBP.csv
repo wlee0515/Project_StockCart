@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBP,First BanCorp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FBPRO,First BanCorp. PFD PERP B 8.35%,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBPI,First Bancorp of Indiana Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPVMX,FT 7614: E-Commerce Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPRL,First BanCorp. PFD PERP SER E,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPBX,FBP Appreciation & Income Opportunities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPRM,First BanCorp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPEX,FBP Equity & Dividend Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBPVNX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBPRN,First BanCorp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LVWD,LiveWorld Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LVWL.TRV,LiveWell Canada Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+F000010CDA.LON,Fidelity MltAsst Bal Inc Lvwl Blk FP Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+F000010CDB.LON,Fidelity MltAsst Income Lvwl Blk FP Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+F000010CDC.LON,Fidelity MltAsst Inc & Gr LvwlBlk FPInc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+F000010CDD.LON,Fidelity MltAsst Open Adv LvwlBlk FP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+F000010CDE.LON,Fidelity MltAsst Open Def LvwlBlk FP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+F000010CDF.LON,Fidelity MltAsst Open Gr Lvwl Blk FP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+F000010CDG.LON,Fidelity MltAsst Open Str LvwlBlk FP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDRMX,AB Multi-Manager Select 2035 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDRRF,Tudor Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDRN.TAV,Tadiran Holdings Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+TDRESOURCED.TRT,TD Resource Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+TDRESOURCEI.TRT,TD Resource - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+TDREVENUDEDI.TRT,TD Dividend Income Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529
+TDRESOURCEA.TRT,TD Resource - A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDREALRETURN.TRT,TD Real Return Bond Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDRERPGRCROI.TRT,TD Mgd Aggressive Growth Port A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+TDRESSOURCES.TRT,TD Resource - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333

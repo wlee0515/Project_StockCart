@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALUCON.BAK,ALUCON Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+ALUCI.PAR,Lucibel SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ALUCR.PAR,Ucar SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6154
+ALUCON-R.BAK,ALUCON Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5333

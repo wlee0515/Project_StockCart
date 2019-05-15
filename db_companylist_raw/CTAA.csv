@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTAA,Qwest Corp. NT 7% 2056,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTAA.FRK,Capita plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+CTAA.BER,"CAPITA PLC  SL-,02066666",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+CTAA.MUN,"CAPITA PLC  SL-,02066666",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+CTAA.DUS,"CAPITA PLC  SL-,02066666",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+CTAA.STG,"Capita PLC Reg. Shares LS -,020",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

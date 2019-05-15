@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LBNDX,Lord Abbett Bond-Debenture A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNYX,Lord Abbett Bond-Debenture I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNOX,Lord Abbett Bond Debenture F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNPX,Lord Abbett Bond-Debenture P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNBX,Lord Abbett Bond-Debenture B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNVX,Lord Abbett Bond Debenture R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNSX,Lord Abbett Bond Debenture R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNRX,Lord Abbett Bond-Debenture R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNTX,Lord Abbett Bond Debenture R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBNQX,Lord Abbett Bond-Debenture R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROX,Castle Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ROGFF,Roxgold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROXIF,Caspian Sunrise plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROXG.TRT,Roxgold Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+WF8B.FRK,Roxgold Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ROX.TRV,Canstar Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+WF8B.STG,Roxgold Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+ROX.FRK,EXPAT ROMANIA BET-BK U.E.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+RR3.FRK,Rox Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+E8Z.SGP,Roxy-Pacific Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1875

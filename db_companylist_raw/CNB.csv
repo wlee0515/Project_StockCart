@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNBZ,CNB Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNBX,Cannabics Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCNE,CNB Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNBKA,Century Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNBRX,Columbia AMT-Free CA Interm MuniBd Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CNBIX,City National Rochdale Govt Bond Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNBB,CNB Community Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNBI,China BCT Pharmacy Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNBL,Citizens National Bancshares of Bossier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNBTX,Columbia Aggressive Track Ages ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

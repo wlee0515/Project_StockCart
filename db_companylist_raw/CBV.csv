@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBVRX,Columbia Capital Allocation Cnsrv R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBVZX,Columbia Capital Allocation Cnsrv Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBV.TRV,Cobra Venture Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+CBVS.SWI,CBVS.SW,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+CBVS-EUR.SWI,CBVS-EUR.SW,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+CBVSO.SWI,CBVSO.SW,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4286
+CBVSD-EUR.SWI,CBVSD-EUR.SW,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4000

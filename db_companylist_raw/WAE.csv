@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAEMX,Wasatch Emerging Markets Small Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAEOX,Western Asset Emerging Markets Dbt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAESX,Wasatch Emerging Markets Select Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTA.BER,WAERTSILAE,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4615
+MTA.MUN,WAERTSILAE,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4615
+MTA.DUS,WAERTSILAE,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4615

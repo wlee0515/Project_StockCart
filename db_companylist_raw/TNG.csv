@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNG.AUS,TNG Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8571
+TNGNQ,Tengion Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNGL,Tonogold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNGS,Titan Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNGMD,True North Gems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNGRY,88 Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNGMF,True North Gems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNG.PAR,Transgene SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+HJI.FRK,TNG Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TNG.FRK,Tong Ren Tang Technologies Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4286

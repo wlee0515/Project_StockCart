@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKTX,Viking Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VKTRSX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTNTX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTXFX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTSLX,Quality Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTDIX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTNSX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTTWX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTIFX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKTWRX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

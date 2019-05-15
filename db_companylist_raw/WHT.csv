@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WHTGF,Mangazeya Mining Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WHT1.FRK,Whiting Petroleum Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WHT1.BER,"WHITING PETROLEUM DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

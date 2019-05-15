@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXBAX,Columbia Capital Allocation Agrsv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AXBIX,American Century IntermTrm Tx-Fr Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AXBSF,Axios Mobile Assets Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXB.LON,Axis Bank Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+AXB.ILN,AXIS BANK LIMITED GDR EACH REPR,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+AXB3.HAM,AB Sicav I - Thematic Research Portfolio,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+AXBC.DUS,AB FCP I-AM.INC.PTF A2 EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+AXBN.MEX,Axis Bank Limited,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+AXB.SGP,Yongnam Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000

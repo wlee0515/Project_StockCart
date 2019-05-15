@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000TP3F.LON,M&G Global Fltng Rt Hi Yield Euro A-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+GB00BQSC1T56.LON,M&G Optimal Income SGD A-H M Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+GB00B1VMCY93.LON,M&G Optimal Income Euro A-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+GB00B3LTM884.LON,M&G Global High Yield Bond Euro A-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B4WS3X34.LON,M&G Optimal Income USD A-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00B78PJC09.LON,M&G Global Macro Bond Euro A-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+AH50.FRK,db x-trackers - Harvest FTSE China A-H 50 Index UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1714
+AH50.LON,X Harvest FTSE China A-H 50 ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1622
+AH50.FRK,X Harvest FTSE China A-H 50 ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1429
+MZRK.DUS,M+G OPTIMAL INC.EO A-H A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1429

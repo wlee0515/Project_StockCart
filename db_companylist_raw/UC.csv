@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UCO,ProShares Ultra Bloomberg Crude Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+UCTT,Ultra Clean Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UCBI,United Community Banks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UURAF,Ucore Rare Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UCLE,US Nuclear Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UCFC,United Community Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UCAGX,USAA Cornerstone Aggressive,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+UCC,ProShares Ultra Consumer Services,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+UCPA,United Communications Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UCBB,US-China Biomedical Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

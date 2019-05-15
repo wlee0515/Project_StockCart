@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFNH,BioForce Nanosciences Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFNC,Bank First National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFNI1.LIS,"Montepio Holding, S.G.P.S., S.A. 7%-FRN 31/12/2049 EUR1000",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.5455

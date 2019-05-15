@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OUGA.FRK,CardioComm Solutions Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+OUGA.STG,CardioComm Solutions Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

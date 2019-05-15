@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KRMA,Global X Conscious Companies ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+KRM453607959.KOR,DarbyHana Private Emerging Infrastructure Fund,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRM105649110.KOR,Samsung Index Premium Equity-Deriv A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRM103567140.KOR,Hanwha Income Plus 10 Feeder Bond Balanced 4,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRM213AN5495.KOR,Hanwha Energy Infra MLP SA Fdr FoF Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KRM213AN5545.KOR,Hanwha QtrDiv EnrgInfra MLP SA Fdr FoF A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3333

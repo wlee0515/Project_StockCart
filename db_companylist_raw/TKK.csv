@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TKKS,TKK Symphony Acquisition Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TKKSU,TKK Symphony Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKKSR,TKK Symphony Acquisition Corporation COM NPV (S/R SUBS RTS),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKKHF,Tikehau Capital,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKK1.FRK,Taisei Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TKK1.BER,TAISEI CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TKK1.MUN,TAISEI CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TKK1.STG,TAISEI CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TKK1.DUS,TAISEI CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

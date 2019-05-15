@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTM,White Mountains Insurance Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WTMF,WisdomTree Managed Futures Strategy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+WTMVX,Segall Bryant & Hamill Glb Lrg Cp Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WTMCX,Segall Bryant & Hamill MidCp ValDiv Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

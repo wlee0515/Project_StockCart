@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LEN,Lennar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LC,LendingClub Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TREE,LendingTree Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TSLX,TPG Specialty Lending Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LII,Lennox International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+OCSL,Oaktree Specialty Lending Corpo,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CLDC,China Lending Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+LNVGY,Lenovo Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LENS,Presbia PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LNVGF,Lenovo Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

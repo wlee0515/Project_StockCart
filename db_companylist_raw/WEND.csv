@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEN,The Wendy's Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WNDLF,Wendel,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+0HZD.ILN,WENDEL SE WENDEL ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+MF.PAR,Wendel,Equity,Paris,09:00,17:30,UTC+01,EUR,0.8000
+WIS.BER,WENDEL S.A. INH.  EO 4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+TQK.FRK,The Wendy's Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+WIS.FRK,Wendel,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+TQK.BER,"THE WENDY'S CO. A  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+TQK.STG,"Wendy's Co., The Reg. Shares Cl",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+WIS.DUS,WENDEL S.A. INH.  EO 4,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDA,Telephone & Data Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TDACU,Trident Acquisitions Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TDAPX,AB Multi-Manager Select 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDAC,Trident Acquisitions Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDADX,Templeton Developing Markets Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDAAX,AB Multi-Manager Select Retire Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDACX,AB Multi-Manager Select Retire Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDAKX,AB Multi-Manager Select Retire Allc K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDAGX,AB Multi-Manager Select 2025 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDAZX,AB Multi-Manager Select Retire Allc Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJSC.MIL,iShares EURO STOXX Small ETF EUR Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.8000
+DJSC.LON,iShares Public Limited Company - iShares EURO STOXX Small UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+DJSC.AMS,iShares Public Limited Company - iShares EURO STOXX Small UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+DJSC.SWI,iShares EURO STOXX Small ETF EUR Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

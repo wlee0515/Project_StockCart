@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RE-B.LON,R.E.A. Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+101667.BSE,Reliance S/T Dividend Re-invest,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+F0GBR06R5A.BSE,Reliance S/T Dividend Re-invest,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069
+RELIANCESHOR.BSE,Reliance S/T Dividend Re-invest,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069

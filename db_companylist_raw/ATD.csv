@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATDRY,Auto Trader Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDRF,Auto Trader Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDFX,Invesco Endeavor R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDRX,Invesco Endeavor R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDAX,Invesco Endeavor A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDCX,Invesco Endeavor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDYX,Invesco Endeavor Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDIX,Invesco Endeavor R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATDEF,Montana Exploration Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATD-B.TRT,Alimentation Couche-Tard Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455

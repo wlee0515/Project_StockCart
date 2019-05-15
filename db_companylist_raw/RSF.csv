@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSFCX,Victory Floating Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSFYX,Victory Floating Rate Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSFLX,Victory Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSFKX,Victory Floating Rate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

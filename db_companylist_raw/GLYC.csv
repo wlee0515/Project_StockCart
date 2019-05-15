@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLYC,GlycoMimetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GKO.FRK,GlycoMimetics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+GKO.BER,GLYCOMIMETICS INC. DL-001,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+GKO.STG,GlycoMimetics Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3478
+INDIAGLYCO.BSE,India Glycols Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+INDIAGLYCO.NSE,India Glycols Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286

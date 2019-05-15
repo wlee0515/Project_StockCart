@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOSIX,Northern Stock Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NOSGX,Northern Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NOSOF,Noront Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSTRY,Nostrum Oil & Gas PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NOS.LIS,"NOS, S.G.P.S., S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6667
+NOG.LON,Nostrum Oil & Gas PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+SANOSTRA5PLU.BCL,SA Nostra 5 Plus PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5000
+NTOG.LON,Nostra Terra Oil and Gas Company plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+PMV.FRK,"NOS, S.G.P.S., S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+3NO.STG,Nostrum Oil & Gas PLC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2727

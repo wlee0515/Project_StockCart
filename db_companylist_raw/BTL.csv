@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BTLLF,BTL Group Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BTLCY,British Land Company Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTLN,Brightlane Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTLSX,Baillie Gifford Intl Concntr Gr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTLKX,Baillie Gifford Intl Concntr Gr K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTL.TRV,BTL Group Ltd,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+F00000OHZ9.KOR,Consus Education BTL Private Special Asset Loan 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1176
+F00000QIHA.KOR,DarbyHana Injae Military BTL Private Special Asset Infra Business,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1154
+K55101AZ9016.KOR,KIM Private BTL Infra Special Asset Money Bond 40,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1154
+KR5101988008.KOR,KIM Private BTL Infra Special Asset Money Bond 3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.0882

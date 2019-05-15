@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBN,ICICI Bank Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICIVX,Invesco Conservative Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICIFX,Invesco Conservative Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICIZF,Innovative Composites International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICIEX,Ivy Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICITF,iPath Optimized Currency Carry ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICIAX,ICON Industrials A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICISX,VY Columbia Small Cap Value II I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

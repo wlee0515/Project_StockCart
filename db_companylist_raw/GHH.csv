@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GHHC,GH Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GHHH,Global House Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GHH.LON,Gooch & Housego PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GHH.FRK,Geox S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GHH.DUS,"GEOX S.P.A.  EO-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GHH.MUN,"GEOX S.P.A.  EO-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GHH.BER,"GEOX S.P.A.  EO-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GHH.STG,"Geox S.p.A. Azioni nom. EO -,10",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

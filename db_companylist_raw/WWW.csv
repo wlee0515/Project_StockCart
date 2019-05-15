@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WWW,Wolverine World Wide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WWWFX,Kinetics Internet No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WWWEX,Kinetics Global No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F000000655.PAR,www Perf,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+FR0010346817.PAR,www Perf,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAD,Rite Aid Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RADA,RADA Electronic Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RDUS,Radius Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RDN,Radian Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RLGT,Radiant Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RDDTF,Radient Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RDNT,RadNet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RDCM,Radcom Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RDWR,Radware Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RSYS,Radisys Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

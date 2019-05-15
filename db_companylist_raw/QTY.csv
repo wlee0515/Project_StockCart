@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+102261.BSE,HSBC Mthly Inc Plan Svngs Pln Qty Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+120075.BSE,HSBC Mthly Inc Plan Svngs Pln Qty DvDtPl,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143
+127182.BSE,IDBI Debt Opp Reg Qty Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143
+133052.BSE,ICICI Pru Equity Income Dir Qty Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765
+133053.BSE,ICICI Pru Equity Income Qty Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1579
+HSBCMTHLYINC.BSE,HSBC Mthly Inc Plan Svngs Pln Qty DvDtPl,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1500
+F00000PFEC.BSE,HSBC Mthly Inc Plan Svngs Pln Qty DvDtPl,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1395
+F00000T0IL.BSE,IDBI Debt Opp Reg Qty Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1395

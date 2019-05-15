@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBOT,Microbot Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MBOAX,Madison Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBOFF,M1 Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBOVX,M Large Cap Value Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBOYX,Madison Core Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBOBX,Madison Core Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBO.FRK,MTI Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MBO.LON,MobilityOne Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MBO.TRV,Mobio Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MBO.MUN,MTI LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

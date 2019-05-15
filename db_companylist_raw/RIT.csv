@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAD,Rite Aid Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RTTR,Ritter Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBA,Ritchie Bros. Auctioneers Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RITT,RiT Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RITE,MineralRite Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RITAX,American Funds American High-Inc R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RITCX,American Funds American High-Inc R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+RITTW,RiT Technologies Ltd. WT EXP 120118,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RITPF,RIT Capital Partners Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RTTO,Rito Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

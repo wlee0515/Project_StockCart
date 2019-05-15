@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRR,Red Rock Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RRRRX,DWS RREEF Real Estate Securities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RRREX,DWS RREEF Real Estate Securities S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RRRI,Rock Ridge Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRZX,DWS RREEF Real Estate Securities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRAX,DWS RREEF Real Estate Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRSX,DWS RREEF Real Estate Securities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRTX,DWS RREEF Real Estate Securities T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRT,R-Three Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RRRPX,American Funds Retire Inc Port-Mod R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

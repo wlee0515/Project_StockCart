@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CL,Colgate-Palmolive Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CLF,Cleveland-Cliffs Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CLVS,Clovis Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CLDR,Cloudera Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CLNE,Clean Energy Fuels Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CLDX,Celldex Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CLB.AUS,Candy Club Hldg Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CLD,Cloud Peak Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CWEN,Clearway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CLSN,Celsion Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

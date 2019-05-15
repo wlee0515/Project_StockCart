@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDSY,I.D. Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IMA.MIL,I.M.A. Industria Macchine Automatiche S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444
+2722.TOK,I.K Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+0999.HKG,I.T Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3077
+0LD1.LON,I.M.A. Industria Macchine Automatiche S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+4PIG.BER,I.S+P SC.FI.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+J10L.BER,I.CS.B.P.S.T DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222

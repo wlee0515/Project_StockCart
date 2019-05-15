@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KLGBX,MainStay MacKay Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLGNX,MainStay MacKay Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLGCX,Keystone Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLGRX,MainStay MacKay Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLGAX,MainStay MacKay Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLGIX,MainStay MacKay Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+530771.BSE,KLG Capital Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+KLGCAP.BSE,KLG Capital Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+KLGSYSTEL-EQ.NSE,KLG SYSTEL INR10,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1935

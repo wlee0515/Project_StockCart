@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZOM,Zomedica Pharmaceuticals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ZOM.TRV,Zomedica Pharmaceuticals Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+603767.SHH,Zhejiang Zomax Transmission Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.3333
+CAPITALZOMEG.BCL,Capital Zomeg SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2727
+F00000QE1N.BCL,Capital Zomeg SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1500

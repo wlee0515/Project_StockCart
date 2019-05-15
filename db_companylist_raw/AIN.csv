@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AIN,Albany International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AINV,Apollo Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AINC,Ashford Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AINSF,Ainsworth Game Technology Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AINIX,Ariel International Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AINAX,Invesco International Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AINTX,Ariel International Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AINGX,American Century Inflation-Adjs Bond G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AINYX,Invesco International Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AINOX,American Century Inflation Adjs Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

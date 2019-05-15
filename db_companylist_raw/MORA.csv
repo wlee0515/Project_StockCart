@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1FS.FRK,FM Mattsson Mora Group AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+GBMM3BH.MEX,GBM Fondo para Personas Morales Exentas SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+DHARAMSI.BSE,The Dharamsi Morarji Chemical Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+MORARJEE.BSE,Morarjee Textiles Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667
+MORARJEE.NSE,Morarjee Textiles Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2581
+MORARKFI.BSE,Morarka Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+GB0033010017.LON,CF Morant Wright Japan A Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB0033010124.LON,LF Morant Wright Japan Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

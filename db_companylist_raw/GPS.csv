@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPS,The Gap Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GPSTX,GuidePath Growth Allocation Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GPSCX,Victory RS Small Cap Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPSI,General Payment Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPS.TRT,BSM Technologies Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GPSS.LON,GOLDEN PROSPECT PRECIOUS METALS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GPSI34.SAO,The Gap Inc.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+GPS.MEX,The Gap Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+GPS.STG,Rare Earth Magnesium Technology Group Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GPSC.BAK,Global Power Synergy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

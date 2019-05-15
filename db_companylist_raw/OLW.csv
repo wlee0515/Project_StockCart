@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLWP.LON,ETFS OIL SECURITIES LIMITED ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+OLWN.FRK,First BanCorp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OLWN.BER,FIRST BANCORP. NEW  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+OLWN.STG,First BanCorp. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

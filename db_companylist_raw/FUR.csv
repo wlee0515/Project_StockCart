@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HOFT,Hooker Furniture Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSET,"Bassett Furniture Industries, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HVT,Haverty Furniture Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FUGMF,Fura Gems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FURIX,Fidelity Advisor Simplicity RMD 2015 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+HVTA,Haverty Furniture Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LEFUF,Leon's Furniture Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+FURTX,Fidelity Advisor Simplicity RMD 2015 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+FURGF,Fugro N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.1333

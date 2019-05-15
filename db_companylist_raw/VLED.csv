@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLED.FRK,BNPPE.-E.L.V.E.UEDEO,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+VLED.PAR,BNPP E Equity Low Vol Europe ETF D,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+VLED.FRK,BNP Paribas Easy - Equity Low Vol Europe,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+VLED.DUS,BNPPE.-E.L.V.E.UEDEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

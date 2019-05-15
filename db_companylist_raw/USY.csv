@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USYNF,Unisync Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+USY1.FRK,Unisys Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+USY1.BER,"UNISYS CORP. NEW  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+USY1.DUS,"UNISYS CORP. NEW  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+USY1.MUN,"UNISYS CORP. NEW  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+USY1.STG,Unisys Corp. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+USYH.MIL,Lyxor BofAML $ High Yield Bd ETF MH DEUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNNDX,Gotham Index Plus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GINDX,Gotham Index Plus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GENIX,Gotham Enhanced Return Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GOTRF,Goliath Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GONFX,Gotham Neutral 500 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GONIX,Gotham Neutral Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GARIX,Gotham Absolute Return Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GTRNX,Gotham Total Return N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GHPLX,Gotham Hedged Plus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GFIVX,Gotham Absolute 500 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

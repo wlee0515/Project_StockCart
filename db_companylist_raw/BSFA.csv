@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSFA.MUN,"ANI PHARMACEUT.  DL-,0001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+BSFA.FRK,ANI Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+BSFA.STG,ANI Pharmaceuticals Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

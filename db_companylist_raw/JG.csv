@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JG,Aurora Mobile Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JGH,Nuveen Global High Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BWEL,JG Boswell Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JGMNX,Janus Henderson Triton N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JGVVX,JPMorgan Growth Advantage R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JGLDF,Japan Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JGSVX,JPMorgan Small Cap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JGMIX,Janus Henderson Triton S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JGMAX,Janus Henderson Triton A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JGACX,JPMorgan Growth Advantage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

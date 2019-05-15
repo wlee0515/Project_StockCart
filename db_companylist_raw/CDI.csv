@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CDIIQ,CD International Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDIX,Cardiff Lexington Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDID,Quad Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDIRX,Columbia Dividend Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDIVX,Copeland Risk Managed Dividend Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDICX,Calvert Short Duration Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDIPX,Columbia Dividend Income 529 Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDIV,Cascadia Investments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDI.PAR,Christian Dior SE,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+3FN.FRK,ADRIATIC METALS PLC CDIS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

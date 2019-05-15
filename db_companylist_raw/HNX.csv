@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNX1.FRK,Conzzeta AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HNX1.BER,CONZZETA AG NAM.  SF 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HNX1.STG,Conzzeta AG Namens-Aktien A SF ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EICOX,Eaton Vance Emerg & Frntr Countrs Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICAX,Eaton Vance CA Municipal Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICTX,Eaton Vance CT Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICBX,Eaton Vance 1-to-10 Yr Lad Corp Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICVX,EIC Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICCX,EIC Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICIX,EIC Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICSX,Eaton Vance Commodity Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICGX,Eaton Vance Greater China Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EICHERMOT.NSE,Eicher Motors Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000

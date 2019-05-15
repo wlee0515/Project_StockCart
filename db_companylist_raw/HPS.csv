@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPS,John Hancock Preferred Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HPS-A.TRT,Hammond Power Solutions Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+HPSBAS.MIL,HPS BASIC FUND CLASSE Q EUR,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5000
+HPSDYN.MIL,SUMUS STRATEGIC FUND CLASSE Q E,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5000

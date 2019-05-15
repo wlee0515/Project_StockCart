@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNST,Renasant Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RNSGF,Renaissance Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RNSIX,RiverNorth Doubleline Strategic Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNSFF,Renaissance Oil Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNSHF,Renishaw plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNSGP,Resolute Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNSC,First Trust Small Cap US Equity Sel ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RNSDF,Renault SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TEO,Telecom Argentina S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+9369.KLA,Teo Guan Lee Corp. Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+TGLB.KLA,TEO GUAN LEE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+TEO.FRK,Telecom Argentina S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+IWTC.FRK,ESPA ST.EUR.EM.EURR01 TEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TEO.BER,TELECOM ARGENT.  B ADR/5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+TEO.MUN,TELECOM ARGENT.  B ADR/5,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2308
+TEO.STG,Telecom Argentina S.A. Reg. Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+7252.KLA,Teo Seng Capital Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

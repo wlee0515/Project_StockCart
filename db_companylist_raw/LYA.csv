@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYAN.KLA,THETA EDGE BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+LYAEJ.SWI,Lyxor MSCI AC AsiaPac ex Jap ETF C-USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYAFS.SWI,Lyxor MSCI South Africa ETF Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYASI.SWI,Lyxor China Enterprise (HSCEI) ETF C-USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+LYAU2.SWI,Lyxor Australia (S&P/ASX 200) ETF D USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455

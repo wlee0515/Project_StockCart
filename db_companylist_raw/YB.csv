@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YBAO,YBCC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YBRHF,Yellow Brick Road Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+YBR.AUS,Yellow Brick Road Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5714
+0025.KLA,YBS INTERNATIONAL BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5714
+YBOX.TAV,Ybox Real Estate Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000
+YB3.FRK,Shin Nippon Biomedical Laboratories Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+YBB.FRK,Carnavale Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+YB1A.FRK,Youbisheng Green Paper AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1538

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGP,"Ferrellgas Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GSM,Ferroglobe PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RACE,Ferrari N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FOE,Ferro Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FERGY,Ferguson plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FERIX,Fidelity Advisor Emerging Asia I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+POTRF,SOPerior Fertilizer Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SOIL,Global X Fertilizers/Potash ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+FERGX,Fidelity SAI Emerging Markets Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FHBC,Fernhill Beverage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCS,The Marcus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCSMX,Matthews China Small Companies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSIX,MFS Commodity Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSGX,MainStay MacKay Government B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSSX,MainStay MacKay Common Stock Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSFX,MFS Commodity Strategy B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSRX,MFS Commodity Strategy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSAX,MFS Commodity Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCSPX,BlackRock Advantage US Total Market Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

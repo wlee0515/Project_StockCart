@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSCAX,Oppenheimer Main Street Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+OSCARGLO.BSE,Oscar Global Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+OSCAR.BSE,Oscar Investments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+501179.BSE,Oscar Investments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+7O4.FRK,Oscar Properties Holding AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+530173.BSE,Oscar Global Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

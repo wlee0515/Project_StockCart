@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OD6X.FRK,WARB.GL.WERTE STABILI.-F.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+A111ZL.FRK,Warburg - Corporate Bonds Social Responsibility - Fund,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3333
+515361.FRK,Warburg Privat Consult-Fonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3333
+976530.FRK,Warburg - Multi-Asset - Select-Fonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3077
+A0NAUV.FRK,Warburg Portfolio Flexibel T,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+A0RHEE.FRK,Warburg Zukunft-Strategiefonds B,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+DXQA.FRK,WARBURG VALUE FUND A,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+DXQA.BER,WARBURG VALUE FUND A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+DXQA.DUS,WARBURG VALUE FUND A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+OD6E.BER,WARB.CLASS.VERMOEGENSM.F.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1538

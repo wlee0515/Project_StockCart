@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSRI,TSR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSRO,Tesaro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSRYY,Treasury Wine Estates Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSRRX,Thornburg Strategic Income R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRYF,Treasury Wine Estates Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRMF,Treasury Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRIX,Thornburg Strategic Income R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRSX,Thornburg Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRPX,TIAA-CREF Quant Small-Cap Equity Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSRR,Tradestar Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

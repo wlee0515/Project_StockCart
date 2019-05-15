@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOAA.FRK,"NOKIA OYJ A ADR 1/EO-,06",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NOAA.BER,"NOKIA OYJ A ADR 1/EO-,06",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NOAA.FRK,Nokia Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+NOAA.DUS,"NOKIA OYJ A ADR 1/EO-,06",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+NOAA.MUN,"NOKIA OYJ A ADR 1/EO-,06",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+NOAA.STG,Nokia Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

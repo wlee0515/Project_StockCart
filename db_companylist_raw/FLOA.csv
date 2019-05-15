@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFLT,PennantPark Floating Rate Capital Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLOT,iShares Floating Rate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+FFRHX,Fidelity Floating Rate High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+USFR,WisdomTree Floating Rate Treasury ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+OOSYX,Oppenheimer Senior Floating Rate Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+EIFAX,Eaton Vance Floating-Rate Advantage I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+LFRAX,Lord Abbett Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+JFR,Nuveen Floating Rate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+AFT,Apollo Senior Floating Rate Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+JRO,Nuveen Floating Rate Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRETF,Martinrea International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRESX,AMG Managers CenterSquare Real Estate N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MREZX,AMG Managers CenterSquare Real Estate Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRES,Institute of Biomedical Research Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRETX,Morgan Stanley Inst US Real Estate IR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRERX,MFS Core Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MREGX,BlackRock Long-Horizon Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MREFX,BlackRock EuroFund R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRE.TRT,Martinrea International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MREI.JKT,PT Maskapai Reasuransi Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

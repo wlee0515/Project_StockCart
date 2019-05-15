@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RFTA,RAIT Financial Trust 7.125% SR NT 19,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RFTT,RAIT Financial Trust 7.625% SR NT 24,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RFTTX,American Funds 2010 Trgt Date Retire R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFTDX,Ranger Quest for Income and Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFT.AUS,Rectifier Technologies Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

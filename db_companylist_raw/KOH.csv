@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSS,Kohl's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+NHNKY,Nihon Kohden Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KSS.MEX,Kohl's Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4444
+0JRL.LON,Kohl's Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333
+2676.TOK,Takachiho Koheki Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+KHP.STG,Kohl's Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+KBRO.SGP,Koh Bros,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2500
+KHP.FRK,Kohl's Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+5HV.SGP,Koh Brothers Eco Engineering Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2143

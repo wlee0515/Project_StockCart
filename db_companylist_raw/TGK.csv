@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGKA.JKT,PT Tigaraksa Satria Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+TGKD.MOS,Public Joint Stock Company Quadra - Power Generation,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+TGKA.MOS,Public Joint Stock Company Territorial Generating Company No. 1,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+TGKB.MOS,Public Joint-Stock Company Territorial Generation Company No.2,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+TGKN.MOS,Public Joint Stock Company Territorial Generation Company No. 14,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+TGKP.BER,"PRECIPIO INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TGKP.MUN,"PRECIPIO INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TGKP.STG,Precipio Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TGKBP.MOS,Public Joint-Stock Company Territorial Generation Company No.2,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.5455
+TGKDP.MOS,Public Joint Stock Company Quadra - Power Generation,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.5455

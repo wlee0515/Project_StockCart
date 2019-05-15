@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSP,iPath S&P GSCI Total Return ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GSPE,"GulfSlope Energy, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSPAQ,Gastar Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSPBQ,Gastar Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSPKX,Goldman Sachs US Eq Dividend and Prem Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSPCX,Goldman Sachs Capital Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSPH,Geospatial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GSPI,Green Star Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

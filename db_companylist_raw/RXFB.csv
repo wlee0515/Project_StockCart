@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RXFB.STG,Skeena Resources Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+RXFB.FRK,Skeena Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

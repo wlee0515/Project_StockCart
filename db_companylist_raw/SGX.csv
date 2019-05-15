@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGXXF,Sound Global Ltd,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SGXL.SGP,SGX,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7500
+BYI.SGP,Phillip SGX APAC Dividend Leaders REIT ETF,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+BYJ.SGP,Phillip SGX APAC Dividend Leaders REIT ETF,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.2222

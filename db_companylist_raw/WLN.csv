@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WLN.PAR,Worldline S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+WLN.FRK,Australian Leaders Fund Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WLN.MUN,AUSTRALIAN LEADERS FD LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

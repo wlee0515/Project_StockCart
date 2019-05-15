@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HWY.TRV,Highway 50 Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+HWY.STG,Allied Motion Technologies IncR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+HWY.FRK,Allied Motion Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

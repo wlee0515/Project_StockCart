@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTFAX,PIMCO RAE Fundamental Advantage PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+XAYC.STG,AB SICAV I-Eurozone Equity PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XAYN.STG,AB SICAV I-American Growth PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XAYP.STG,AB SICAV I-Int.Health Care PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XAYR.STG,AB FCP I-Glob.Equity Blend PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XAYW.STG,AB FCP I-Japan Strat.Value PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

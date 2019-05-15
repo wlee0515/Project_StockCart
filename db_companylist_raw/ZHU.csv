@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZHUZF,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZHUD,Zhuding International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZHUZY,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+000651.SHZ,Gree Electric Appliances Inc. of Zhuhai,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2069
+3898.HKG,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000
+601636.SHH,Zhuzhou Kibing Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1875
+000659.SHZ,Zhuhai Zhongfu Enterprise Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1765
+000532.SHZ,Zhuhai Huajin Capital Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+5131.KLA,Zhulian Corporation Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1667
+002898.SHZ,Zhuhai Sailong Pharmaceutical Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667

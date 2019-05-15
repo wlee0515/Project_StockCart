@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHZHY,Shenzhou International Group Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHZUY,The Shizuoka Bank Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHZH.FRK,Shenzhen Expressway Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SHZ.TRT,Sphere FTSE Emerging Markets Yield ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SHZH.BER,SHENZHEN EXPRESSWAY H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SHZH.MUN,SHENZHEN EXPRESSWAY H YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SHZH.STG,Shenzhen Expressway Co. Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

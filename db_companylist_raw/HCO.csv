@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCOAX,Highland Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCOCX,Highland Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCOYX,Highland Global Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCOAQX,ADT 1892 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOALX,ADT 1799 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOAJX,ADT 1753 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOAPX,ADT 1869 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOAOX,ADT 1857 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOAKX,ADT 1744 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HCOANX,ADT 1835 Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

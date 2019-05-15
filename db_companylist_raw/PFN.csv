@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFN,PIMCO Income Strategy Fund II,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PFNX,Pfenex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFNO,ParaFin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFNCX,PIMCO Low Duration Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PFNAX,PIMCO RealPath 2020 Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFND,Pathfinder Cell Therapy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PFNNX,PIMCO Preferred and Capital Secs I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFNUX,PIMCO Dynamic Bond I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFNIX,PIMCO Low Duration Income I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

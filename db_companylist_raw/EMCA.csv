@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMCAX,Empiric 2500 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+EMCA.LON,iShares JPMorgan $ EM Corp Bd ETF $ Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EMCAN.MEX,ISHARES V PLC J.P. MORGAN USD E,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMKA.STG,Xtr.MSCI Africa Top 50 Swap Inh,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+XMKA.FRK,db x-trackers - MSCI Africa TOP 50 Index UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XMKA.FRK,X MSCI Africa Top 50 Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+XMKA.DUS,XTR.MSCI AFR.T.50 SW.1CDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XMKA.HAM,XTR.MSCI AFR.T.50 SW.1CDL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+XMKA.MUN,XTR.MSCI AFR.T.50 SW.1CDL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

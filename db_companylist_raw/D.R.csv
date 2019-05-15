@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHI,D.R. Horton Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+0I6K.LON,D.R. Horton Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+HO2.FRK,D.R. Horton Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+HO2.BER,"D.R.HORTON INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+HO2.MUN,"D.R.HORTON INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2308
+HO2.STG,D.R. HORTON INC. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+HO2.DUS,"D.R.HORTON INC.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

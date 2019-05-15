@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WNFA.FRK,Saint Jean Carbon Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WNFA.BER,SAINT JEAN CARBON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WNFA.STG,Saint Jean Carbon Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

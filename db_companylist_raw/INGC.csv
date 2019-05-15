@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INGCRX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+INGCETEBO.MEX,SURCETE BOE4,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+INGCORPBD.MEX,SURCORP BDM1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+INGCORPBO.MEX,SURCORP BOM,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+KR5239AH0386.KOR,HyundaiInvestment INGCLO Private Special Asset CLO,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1481
+F00000PQXZ.KOR,HyundaiInvestment INGCLO Private Special Asset CLO,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1481

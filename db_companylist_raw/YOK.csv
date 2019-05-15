@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YOKEY,Yokogawa Electric Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YORUF,The Yokohama Rubber Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YOKEF,Yokogawa Electric Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+YORUY,The Yokohama Rubber Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+5101.TOK,The Yokohama Rubber Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+002409.SHZ,Jiangsu Yoke Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2500
+2874.TOK,Yokohama Reito Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+5911.TOK,Yokogawa Bridge Holdings Corp.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1875
+YKE.FRK,Yokogawa Electric Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818
+YRB.FRK,The Yokohama Rubber Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPHI,China Pharma Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPHC,Canterbury Park Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPHYX,Principal High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPHRF,Cipher Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPHPX,Columbia Small/Mid Cap Value Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPHRX,Columbia Acorn Emerging Markets Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPHNX,Columbia Capital Alloc Mod Agrsv Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPHUX,Columbia Strategic Income Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPH.TRT,Cipher Pharmaceuticals Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

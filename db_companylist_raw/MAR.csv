@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAR,Marriott International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NMCI,Navios Maritime Containers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LMT,Lockheed Martin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VTI,Vanguard Total Stock Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+MPC,Marathon Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MRO,Marathon Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GLBS,Globus Maritime Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EEM,iShares MSCI Emerging Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+MJNA,Medical Marijuana Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+MARK,Remark Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

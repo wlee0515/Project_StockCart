@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVD,American Vanguard Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AVDL,Avadel Pharmaceuticals plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVDX,Avant Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVDRX,American Century Adaptive Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVDIX,American Century Adaptive Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVDMX,American Century Adaptive Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVDAX,American Century Adaptive Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVDWF,ADVENT AWI HLDGS,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVD.MUN,"AVID TECH. INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AVD.STG,AVID TECHNOLOGY INC. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

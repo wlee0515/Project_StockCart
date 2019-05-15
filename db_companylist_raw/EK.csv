@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKSO,Ekso Bionics Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EKJAX,Wells Fargo Premier Large Co Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EKWAX,Wells Fargo Precious Metals A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+EKAR,Innovation Shares NextGen Vhcl andTchETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+EKBAX,Wells Fargo Diversified Cap Bldr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+EKWYX,Wells Fargo Precious Metals Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+EKTAY,Elekta AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EKTAF,Elekta AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EKSAX,Wells Fargo Diversified Income Bldr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+EKHAX,Wells Fargo High Yield Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

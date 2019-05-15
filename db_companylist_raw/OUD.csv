@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0010105882.PAR,Oudart Oblig,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4000
+FR0010166140.PAR,Oudart Opportunit?s France P,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3750
+FR0010233932.PAR,Oudart Investissement,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3529
+FR0010307843.PAR,Oudart Oblig D,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+FR0010330282.PAR,Oudart Court Terme,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+FR0010418053.PAR,Oudart Europe,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0010475772.PAR,Oudart Actions Fran?aises,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2143
+FR0010505438.PAR,Oudart Actions Fran?aises I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2069
+FR0010505446.PAR,Oudart Europe I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000
+FR0010505453.PAR,Oudart Opportunit?s France,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBM,Hudbay Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HBMD,Howard Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HBMCX,Hartford MidCap HLS IB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HBMVX,Hartford MidCap Value HLS IB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HBM.TRT,Hudbay Minerals Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HBM.FRK,HORNBACH Baumarkt AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+5H5A.STG,HBM Healthcare Investments AG N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HBMN.SWI,HBM Healthcare Investments AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+0QOC.LON,HBM HEALTHCARE INVESTMENTS AG H,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+HBM.DUS,HORNBACH BAUMARKT AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMYJX,BlackRock MuniYield New Jersey ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMYDX,BlackRock MuniYield Fund Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMYIX,BlackRock MuniYield Quality  Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMYFX,BlackRock MuniYield Investment ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMYNX,BlackRock MuniYield New York Qu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMYCX,BlackRock MuniYield California ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMY.TRT,iShares Edge MSCI Min Vol Glbl ETF CADH,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+XMY.HAM,MYBET HOLDING SE NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+XMY.STG,mybet Holding SE Namens-Aktien ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XMY.FRK,mybet Holding SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

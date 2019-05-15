@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVLT,Sunvault Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SVLCX,Columbia Select Large Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVLKF,Silver Lake Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVL.AUS,Silver Mines Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SVLL-SM.NSE,SHREE VASU LOGISTI,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615

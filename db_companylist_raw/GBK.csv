@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBKB.FRK,TUERKIYE GAR.BK  ADR S 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GBQ.HAM,GBK Beteiligungen AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+GBQ.MUN,GBK BETEILIG.AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+GBQ.STG,GBK BETEILIGUNGEN AG Inhaber-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCTXF,BriaCell Therapeutics Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+BCT.TRV,BriaCell Therapeutics Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4000
+BDBR.MIL,Banco di Desio e della Brianza S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2581
+8BT.FRK,BriaCell Therapeutics Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581
+BDB.MIL,Banco di Desio e della Brianza S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2581
+BJ7.STG,Banco di Desio e della Brianza S.p.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+8BT.STG,Briacell Therapeutics Corp. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

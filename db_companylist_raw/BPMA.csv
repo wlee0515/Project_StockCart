@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPMAZ30.MIL,BPM AZ 30,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6154
+BPMAZ50.MIL,BPM AZ 50,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6154
+BPMAZ80.MIL,BPM AZ 80,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6154
+BPMAZFLEX.MIL,BPM AZ Flex,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5333

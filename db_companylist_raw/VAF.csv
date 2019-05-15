@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VAFAX,Invesco American Franchise A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAFRX,Invesco American Franchise R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAFIX,Invesco American Franchise Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAFCX,Invesco American Franchise C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAFNX,Invesco American Franchise R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAFFX,Invesco American Franchise R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

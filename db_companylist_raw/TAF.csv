@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAFTX,American Funds Tax-Exempt Fund of CA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAFKX,Transamerica Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAFLX,Transamerica Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+7211.KLA,TAFI Industries Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+TAFG.FRK,True Corporation Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+1434.TWN,Formosa Taffeta Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.6000
+1454.TWN,Taiwan Taffeta Fabric Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.6000
+TAFG.BER,TRUE CORP.PCL -FGN-  BA 4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+TAFG.MUN,TRUE CORP.PCL -FGN-  BA 4,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+TAFG.STG,True Corporation PCL Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZIOC.LON,Zanaga Iron Ore Company Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+6ZA.BER,ZANAGA IRON ORE CO.LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+6ZA.STG,Zanaga Iron Ore Company Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+6ZA.FRK,Zanaga Iron Ore Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286

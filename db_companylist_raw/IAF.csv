@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAF,Aberdeen Australia Equity Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IAFPX,Voya FTSE 100 Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAFWX,Voya Global Multi-Asset W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAFGRX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAFDRX,U.S. Defense Portfolio 2018-3 (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAF.AUS,iShares Core Composite Bond ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667

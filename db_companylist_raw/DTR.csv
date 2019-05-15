@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTRM,Determine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DTRK,DATATRAK International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DTRC,Dakota Territory Resource Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DTRIX,Delaware Limited-Term Diversified Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DTRO,Deltron Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DTRL,The Detroit Legal News Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DTR.AUS,Dateline Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+007340.KOR,Dtr Automotive Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6000
+DTRR.AUS,DATELINE RTS 23JAN,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2069

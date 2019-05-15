@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ULE,ProShares Ultra Euro,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+ULE.LON,Ultra Electronics Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ULEILASANTAM.BCL,Uleila Santa Maria Inver. SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F000001Z1K.BCL,Uleila Santa Maria Inver. SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIMAX,Vanguard Mid Cap Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+VIMALOIL.BSE,Vimal Oil & Foods Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+VIMALOIL.NSE,Vimal Oil & Foods Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+VIMALOIL-EQ.NSE,VIMAL OIL & FOOD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+VIMASOLINVER.BCL,Vimasol Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000001Z3S.BCL,Vimasol Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

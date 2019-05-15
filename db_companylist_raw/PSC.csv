@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSC,Principal US Small Cap Mlt Fac Ind ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PSCH,Invesco S&P SmallCap Health Care ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCU,Invesco S&P SmallCap Ult & Comnc Svc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCE,Invesco S&P SmallCap Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCT,Invesco S&P SmallCap Info Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCC,Invesco S&P SmallCap Consumer Stapl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCF,Invesco S&P SmallCap Financials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCZX,PGIM Jennison Small Company Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PSCM,Invesco S&P SmallCap Materials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PSCSX,PIMCO StocksPLUS Small Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

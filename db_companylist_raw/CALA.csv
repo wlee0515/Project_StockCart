@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CALA,Calithera Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CAMP,CalAmp Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CLBS,Caladrius Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CHI,Calamos Convertible Opportunities and Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CSQ,Calamos Strategic Total Return Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CVGW,Calavo Growers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHY,Calamos Convertible and High Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHW,Calamos Global Dynamic Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CCD,Calamos Dynamic Convertible and Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CMNIX,Calamos Market Neutral Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286

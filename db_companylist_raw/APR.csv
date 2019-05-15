@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APRN,Blue Apron Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APRI,Apricus Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APRU,Apple Rush Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APRWF,Atlantic Power Preferred Equity Ltd. CUM RED PFD 1,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APRDN,Alabama Power Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APRDM,Alabama Power Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APRDP,Alabama Power Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APRO,Allegiant Professional Business Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APRAF,Goldstrike Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APRIX,AAM/Phocas Real Estate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

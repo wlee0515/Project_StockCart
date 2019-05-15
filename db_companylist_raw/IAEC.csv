@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAECFLXACTIO.TRT,IA Ecoflex Canadian Equity (Taylor AM),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXACTCA.TRT,IA Ecflx Canadian Equ (Small Cap.) (QV),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXAMRDI.TRT,IA Ecflx U.S. Dividend Growth,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXAMRIC.TRT,IA Ecflx U.S. Dividend Growth,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXASIAN.TRT,IA Ecflx Asian Pacific (Dynamic),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXASIEP.TRT,IA Ecflx Asian Pacific (Dynamic),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXBONDS.TRT,IA Ecoflex Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXCANAD.TRT,IA Ecflx Canadian Equ (Small Cap.) (QV),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXDIVER.TRT,IA Ecflx Diversified Income,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAECFLXDIVID.TRT,IA Dividend Growth,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

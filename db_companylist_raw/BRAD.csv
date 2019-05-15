@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBD,Banco Bradesco S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DNB,The Dun & Bradstreet Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VRA,Vera Bradley Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BRC,Brady Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BBDO,Banco Bradesco S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BDKCX,Braddock Multi-Strategy Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+BDKNX,Braddock Multi-Strategy Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+EBSZX,Eubel Brady & Suttman Mutual Fund Trust - Eubel Brady & Suttman Income and Appreciation Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+EBSFX,Eubel Brady & Suttman Mutual Fund Trust - Eubel Brady & Suttman Income Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+BDKAX,Braddock Multi-Strategy Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

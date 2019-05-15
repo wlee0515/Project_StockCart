@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XKK.FRK,Showa Shell Sekiyu K.K.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+XKK.BER,SHOWA SHELL SEKIYU,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XKK.DUS,SHOWA SHELL SEKIYU,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+XKK.MUN,SHOWA SHELL SEKIYU,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+XKK.STG,SHOWA SHELL SEKIYU K.K. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

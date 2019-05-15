@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVZ.FRK,EVRAZ plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EVZ.BER,"EVRAZ PLC  DL 0,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EVZ.MUN,"EVRAZ PLC  DL 0,05",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EVZ.AUS,EVZ Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+EVZ.DUS,"EVRAZ PLC  DL 0,05",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+EVZ.STG,Evraz PLC Registered Shares DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EVZDA.AUS,EVZ Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455

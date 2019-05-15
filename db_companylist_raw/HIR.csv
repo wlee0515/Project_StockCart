@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIRU,Hiru Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HRSMF,The Hiroshima Bank Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SDY.LON,Speedy Hire Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+1338.TWN,Hiroca Holdings Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.4000
+2764.TOK,Hiramatsu Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3529
+1ZM.BER,HIRATA CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+6245.TOK,HIRANO TECSEED Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609
+7781.TOK,HIRAYAMA HOLDINGS Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+HIRECT.BSE,Hind Rectifiers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069

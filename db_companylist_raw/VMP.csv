@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMPYX,Wells Fargo Strategic Municipal Bd Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMPAX,Wells Fargo Strategic Municipal Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMPRX,Wells Fargo Strategic Municipal Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

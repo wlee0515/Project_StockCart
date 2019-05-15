@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZWC1.FRK,Zwack Unicum Nyrt.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZWC1.BER,ZWACK UNICUM NA A UF 1000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+ZWC1.MUN,ZWACK UNICUM NA A UF 1000,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+ZWC1.STG,Zwack Unicum Liq.Ind.Tr.Co.LtdN,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HHIAX,Hancock Horizon Diversified Income Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHILF,Hopewell Highway Infrastructure Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HHICX,Hancock Horizon Diversified Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHIIX,Hancock Horizon Diversified Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHILY,Hopewell Highway Infrastructure Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HHI.LON,Henderson High Income Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+HHI.BER,"HOPEWELL HIGHWAY I.HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+HHI.MUN,"HOPEWELL HIGHWAY I.HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HHI.FRK,Hopewell Highway Infrastructure Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HHIF.AMS,Hof Hoorneman Income Fund NV,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000

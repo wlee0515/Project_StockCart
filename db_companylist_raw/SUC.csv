@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1430.HKG,Suchuang Gas Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+HSBCTAIWANSU.TWN,HSBC Taiwan Success Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.3333
+1182.HKG,Success Dragon International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+002289.SHZ,Shenzhen Success Electronics Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+SUC.BAK,Saha-Union Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2143
+BTGSUCUPIRAF.SAO,SUCUPIRA FUNDO DE INVESTIMENTO RENDA FIXA IMA-B,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2143
+LRG.BER,"SUCCESS UNIVERS.GR.HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818
+LRG.STG,Success Universe Group Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1714
+0487.HKG,Success Universe Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1667
+2496.TWN,Success Prime Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1250

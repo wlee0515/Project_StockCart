@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DY,Dycom Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DVAX,Dynavax Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DLNG,Dynagas LNG Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DX,Dynex Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DYSL,Dynasil Corporation of America,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DYNT,Dynatronics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DGAGF,Dynagas LNG Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DYAI,Dyadic International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DLNG-PA,Dynagas LNG Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DYLLF,Deep Yellow Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

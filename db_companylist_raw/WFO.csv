@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFOSX,Wells Fargo Target 2040 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOFX,Wells Fargo Target 2040 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOOX,Wells Fargo Target 2030 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOCX,Wells Fargo Target 2010 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOBX,Wells Fargo Target 2020 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFORX,Wells Fargo Target 2010 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOAX,Wells Fargo Target 2010 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFODX,Wells Fargo Target Today C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFOPX,Wells Fargo Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNACX,Harbor Capital Appreciation Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNASX,Homestead Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+000616.SHZ,HNA Investment Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2609
+2086.HKG,HNA Technology Investments Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+600751.SHH,HNA Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2222
+900938.SHH,HNA Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2143
+CQZ.BER,HNA TECH. INV. HLDGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+000796.SHZ,Hna-Caissa Travel Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818
+300490.SHZ,HNAC Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+600515.SHH,HNA Infrastructure Investment Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1277

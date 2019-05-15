@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSUS,LHA Market State Tactical US Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+LHA.FRK,Deutsche Lufthansa AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+LHA.FRK,Deutsche Lufthansa AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LHA.MIL,Deutsche Lufthansa AG,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+LHAB.FRK,LUFTHANSA AG DM 5 ADR 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LHA.HAM,LUFTHANSA AG VNA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+LHA.MUN,LUFTHANSA AG VNA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LHAB.BER,LUFTHANSA AG DM 5 ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LHA.BER,LUFTHANSA AG VNA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1429

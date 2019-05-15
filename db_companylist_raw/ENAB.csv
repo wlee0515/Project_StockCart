@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENAB,Enable Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ENBL,"Enable Midstream Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EAIN,Enabling Asia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EIPC,Enable IPC Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ENAFF,Enablence Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ENA.TRV,Enablence Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3636
+MEU2.FRK,Enablence Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3077
+18E.FRK,"Enable Midstream Partners, LP",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+18E.MUN,ENABLE MIDSTREAM PART.UTS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2581
+MEU2.BER,ENABLENCE TECHNOLOGIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2424

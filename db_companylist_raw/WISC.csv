@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCOW,1895 Bancorp of Wisconsin Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WELPP,Wisconsin Electric Power Company PFD 3.60%,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+WELPM,Wisconsin Electric Power Company PFD 6%,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+WWTFX,Wells Fargo Wisconsin Tax-Free A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4211
+HWIS,Home Bancorp Wisconsin Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+WWTCX,Wells Fargo Wisconsin Tax-Free C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+WWTIX,Wells Fargo Wisconsin Tax-Free Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+002090.SHZ,Wiscom System Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+024070.KOR,Wiscom Co. Ltd..,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2222

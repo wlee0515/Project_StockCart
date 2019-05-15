@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IHAI,Innovative Holdings Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IHALLX,High Income Allocation Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHALTX,High Income Allocation Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHAYX,Hartford Balanced Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IHACDX,IHACDX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IHA.MUN,CHINA AGRI INDS HLD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+IHA.FRK,China Agri-Industries Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+5999.TOK,Ihara Science Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+IHA.STG,China Agri Inds Hldgs Ltd. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+AT0000619473.VIE,IHAG FLEX INCOME (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2143

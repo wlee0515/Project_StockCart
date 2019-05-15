@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTQ,Focus Morningstar Technology In,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FTQGX,Fidelity Focused Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTQLPX,FT 7624: Diversified Equity Str,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTQKNX,FT 6532: Total Return Opportuni,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTQLMX,FT 7130: Dow Target Dvd. 1Q '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTQMX,Franklin Tennessee Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTQ.FRK,China Fortune Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FTQ.BER,"CHINA FORTUNE HLDG.HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FTQ.MUN,"CHINA FORTUNE HLDG.HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+FTQ.STG,China Fortune Holdings Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

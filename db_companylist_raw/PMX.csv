@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMX,PIMCO Municipal Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PMXO,PMX Communities Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PMXX,Primix Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PMX.TRV,ProAm Explorations Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+PMXSARB2.MEX,PMXSAR B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+F00000JZJH.MEX,SIEFORE PMX-SAR SA de CV S.I.E.F.R.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+4551.TWN,Global PMX Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.5000
+PMXSAR1.MEX,SIEFORE PMX-SAR SA de CV S.I.E.F.R.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+PMXSARA2.MEX,PMXSAR A2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2609
+F00000JZJI.MEX,PMXSAR A2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2500

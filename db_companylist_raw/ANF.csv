@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANF,Abercrombie & Fitch Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ANFI,Amira Nature Foods Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ANFC,Black Ridge Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFLIX,Anfield Universal Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANLDF,Anfield Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANFCX,American Funds New Economy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANFFX,American Funds New Economy F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANFGF,Antofagasta plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AFIF,Anfield Universal Fixed Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+AFLEX,Anfield Universal Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

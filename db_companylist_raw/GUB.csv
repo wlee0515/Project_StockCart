@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GUBGX,Victory RS International A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GUBFX,Victory INCORE Investment Quali,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AZMT-G1F1.MEX,"Mas Fondos Liquidez Gubernamental, S.A. De C.V. Fondo De Inversion En Instrumentos De Deuda",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2857
+NAFG-LPF5.MEX,"Fondo Gubernamental de Largo Plazo Nafinsa, S.A. de C.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1429
+NTEMPGF6.MEX,"Ixe Gub, S.A. De C.V., Fondo De Inversion En Instrumentos De Deuda",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1333
+SURGOBBD.MEX,SURA Gubernamental SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1333
+VALMXESB2.MEX,"Fondo Valmex 19 en Instrumentos de Deuda Gubernamentales, S.A. de C.V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1333

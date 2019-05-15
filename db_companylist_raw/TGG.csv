@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGGCX,Touchstone International Growth Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TGGI,Trans Global Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGGAX,Touchstone International Growth Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGGDF,Taiga Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGGBX,TCW Global Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGGFX,TCW Global Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGGWX,TCW Enhanced Commodity Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGG.AUS,Templeton Global Growth Fund Ltd.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

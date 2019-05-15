@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAFD,Washington Federal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WAFRX,Western Asset Inflation Idxd Plus Bd R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAFMX,Wasatch Frontier Emerg Sm Countrs Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAFSX,Western Asset Inflation Idxd Plus Bd IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAFAX,Western Asset Inflation Idxd Plus Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAFCX,Western Asset Inflation Idxd Plus Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAF.FRK,Siltronic AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+WAF.AUS,West African Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+WAF.TRV,West African Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

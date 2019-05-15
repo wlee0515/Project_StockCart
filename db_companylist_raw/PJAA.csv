@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJAA.JKT,PT Pembangunan Jaya Ancol Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273
+PJAA.STG,Pictet-Global Emerging Debt Nam,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PJAA.BER,PICTET-GL.EMERG.DE.P DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PJAA.HAM,PICTET-GL.EMERG.DE.P DL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+PJAA.MUN,Pictet - Global Emerging Debt,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+PJAA.DUS,PICTET-GL.EMERG.DE.P DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+PJAA.HAN,PICTET-GL.EMERG.DE.P DL,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273

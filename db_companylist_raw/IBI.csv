@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBIO,iBio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IBIBX,Ivy Global Equity Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBIBF,IBI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IBICX,Ivy Global Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBIYX,Ivy Global Equity Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBIEX,Ivy Global Equity Income E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBIAX,Ivy Global Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

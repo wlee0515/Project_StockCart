@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGP,EastGroup Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EGPT,VanEck Vectors Egypt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EFIR,EGPI Firecreek Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGPLF,Eagle Plains Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

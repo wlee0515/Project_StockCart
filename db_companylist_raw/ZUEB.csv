@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+61Z1.BER,"ZUEBLIN IMMO.H.NAM.SF22,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+61Z1.MUN,"ZUEBLIN IMMO.H.NAM.SF22,5",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636

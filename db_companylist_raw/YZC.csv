@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YZCAY,Yanzhou Coal Mining Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YZC.FRK,Yanzhou Coal Mining Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YZC.BER,YANZHOU COAL MNG H ADR/10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YZC.MUN,YANZHOU COAL MNG H ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YZCA.FRK,Yanzhou Coal Mining Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YZCA.BER,YANZHOU COAL MNG  H YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YZCA.FRK,YANZHOU COAL MNG  H YC 1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+YZCA.MUN,YANZHOU COAL MNG  H YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+YZCA.STG,Yanzhou Coal Mining Co. Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WDAY,Workday Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WWE,World Wrestling Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WKHS,Workhorse Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WP,Worldpay Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+INT,World Fuel Services Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WWW,Wolverine World Wide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WK,Workiva Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WWD,Woodward Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WF,Woori Bank Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WRLD,World Acceptance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1212

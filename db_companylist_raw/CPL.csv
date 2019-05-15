@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPL,CPFL Energia S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CPLP,Capital Product Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPLG,CorePoint Lodging Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPLIX,Calamos Phineus Long/Short I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CPLSX,Calamos Phineus Long/Short A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPGLF,Cpl Resources plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPLLF,COLOPL Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPLT,Commerce Planet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPLE6.SAO,Companhia Paranaense de Energia - COPEL,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+CPL.TRV,Copper Lake Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5455

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLD,TopBuild Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+2929.TWN,Topbi International Holdings Limited,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.4444
+28T.FRK,TopBuild Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+28T.BER,"TOPBUILD CORP.  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+28T.MUN,"TOPBUILD CORP.  DL -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+28T.STG,TopBuild Corp. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+002139.SHZ,Shenzhen Topband Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2000

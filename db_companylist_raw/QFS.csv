@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFSEC.MIL,QF SECURFONDO,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+QFSL.BSE,Quest Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+QFSOC.MIL,Fabrica - Socrate Fund,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455

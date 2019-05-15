@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIAB,Viacom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VIA,Viacom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0LPG.LON,Viacom Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5333
+VCX.FRK,Viacom Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+VCX.MUN,"VIACOM INC. B  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5333
+VCX.BER,"VIACOM INC. B  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+VCX.DUS,"VIACOM INC. B  DL-,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+VCX.HAM,"VIACOM INC. B  DL-,001",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+VCX.STG,Viacom Inc. Reg. Shares Class B,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+VCXA.FRK,Viacom Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000

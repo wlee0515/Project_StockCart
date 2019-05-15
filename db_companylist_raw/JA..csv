@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOIB.BER,UBAM-SNAM JA.EQ.V.I A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+313D.BER,DBX-XT.MSCI JA.H.EQ.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2308

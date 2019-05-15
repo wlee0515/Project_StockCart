@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDRDY,Pernod Ricard SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PDRDX,Principal Diversified Real Asset Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PDRDF,Pernod Ricard SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRB,Pandora Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRAX,PIMCO Low Duration ESG Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRGX,Putnam Dynamic Risk Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRX,PD-Rx Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRBX,Putnam Dynamic Risk Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRYX,Putnam Dynamic Risk Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDRTX,Putnam Dynamic Risk Allocation M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

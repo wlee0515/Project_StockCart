@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYCT,Hycroft Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYCTW,HYCROFT MINING COR,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HYCAX,Pioneer Corporate High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYCYX,Pioneer Corporate High Yield Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYCTTX,"High Yield Corporate Trust, 4-7",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYCCX,Pioneer Corporate High Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+002787.SHZ,Suzhou Hycan Holdings Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+CGP.MUN,CHONGQING IRON+STEEL HYC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+TVL.MUN,TRAVELSKY TECHNOLOGY HYC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1765

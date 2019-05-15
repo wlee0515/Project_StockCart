@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAHCX,Fidelity Advisor High Income Advtg I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAHDX,Fidelity Advisor High Income Advtg A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAHYX,Fidelity Advisor High Income Advtg M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAHEX,Fidelity Advisor High Income Advtg C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAHKWX,FT 6901: Technology Dividend Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAHCEX,FT 7079: Capital Strength Buy-W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAH-U.TRT,Fairfax Africa Holdings Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FAHY.LON,PowerShares Global Funds Ireland plc - PowerShares US High Yield Fallen Angels UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+FAHY.FRK,PowerShares Global Funds Ireland plc - PowerShares US High Yield Fallen Angels UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+0239.HKG,Pak Fah Yeow International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000

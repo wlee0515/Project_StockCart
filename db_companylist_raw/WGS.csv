@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WGSCX,Wells Fargo Government Securities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGSDX,Wells Fargo Government Securities Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGSA.BER,"SS+C TECHNOL.HLDGS DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WGSA.FRK,SS&C Technologies Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WGSA.STG,SS&C Technologies Holdings Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

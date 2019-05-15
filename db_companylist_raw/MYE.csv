@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYE,Myers Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MYEMX,Victory Trivalent Emerging Mkts Sm-Cp Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYR.AUS,Myer Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MYE.AUS,Mastermyne Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+0824EA.KLA,MyETF MSCI Malaysia Islamic Dividend,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3077
+MJF.FRK,Myers Industries Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+BMY-USD.SWI,Bristol Myers Squib,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2500
+30M.FRK,Myer Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+30M.MUN,MYER HOLDINGS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+30M.STG,Myer Holdings Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1667

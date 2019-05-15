@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IIBK,Idaho Independent Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IIBOX,Voya Intermediate Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBAX,Voya Intermediate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBIX,Ivy Global Income Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBCX,Invesco Intl Core Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBEX,Ivy Global Income Allocation E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBZX,Voya Intermediate Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBRX,Invesco Intl Core Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBTX,Voya Intermediate Bond Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIBPX,Voya Intermediate Bond Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

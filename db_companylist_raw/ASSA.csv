@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASAZY,ASSA ABLOY AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+ASAZF,ASSA ABLOY AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ASSAMCO.NSE,Assam Company India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ASSA.JKT,PT Adi Sarana Armada Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5714
+HOD.TAV,Hod Assaf Industries Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3636
+ALZC.STG,Assa-Abloy AB Namn-Aktier B SK ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+0R87N.MEX,ASSA ABLOY AB (publ),Equity,Mexico,08:30,15:00,UTC-06,MXP,0.3333
+500024.BSE,Assam Company India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+ALZC.FRK,ASSA ABLOY AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581

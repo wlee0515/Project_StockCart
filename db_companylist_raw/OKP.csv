@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OKPH.SGP,OKP,Equity,Singapore,09:00,17:00,UTC+08,SGD,1.0000
+OKPLA.BSE,OK Play India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+5CF.SGP,OKP Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2609

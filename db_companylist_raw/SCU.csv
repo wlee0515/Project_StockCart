@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCUPF,The Second Cup Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCUPX,Principal SAM Flexible Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCUIX,Hartford Schroders US Small Cap Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCURX,Hartford Schroders US Small Cap Opps SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCUVX,Hartford Schroders US Small Cap Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCU.TRT,The Second Cup Ltd,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SCU.AUS,Stemcell United Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+1399.HKG,SCUD Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+SC9.FRK,SCUD Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+SCUN.MUN,Schuler AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857

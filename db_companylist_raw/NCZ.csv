@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCZ,AllianzGI Convertible & Income Fund II,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NCZ-PA,AllianzGI Convertible & Income ,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NCZ.AUS,New Century Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NCZ.MUN,Nippon Chemi-Con Corporation,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

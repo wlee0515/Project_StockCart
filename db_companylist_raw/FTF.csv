@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTF,Franklin Limited Duration Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FTFT,Future FinTech Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTFMX,Fidelity New York Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FTFEX,Fidelity Advisor Freedom 2030 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTFFX,Fidelity Advisor Freedom 2040 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTFGX,Templeton Foreign R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTFQX,Franklin CA Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTFY,Fit After Fifty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FTFZX,Franklin Federal Lmtd-Term T/F Inc Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

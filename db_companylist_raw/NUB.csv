@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUBD,NuShares ESG US Aggregate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+NBVAF,Nubeva Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUBK,Kinderhook Bank Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUBC,Northumberland Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NUBIX,Neuberger Berman Unconstrained Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NUBCX,Neuberger Berman Unconstrained Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NUBAX,Neuberger Berman Unconstrained Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBNC,Horizon Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HBNC.BER,HUDSONS BAY CO.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+HBNC.FRK,Hudson's Bay Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HBNC.STG,Hudson's Bay Co. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

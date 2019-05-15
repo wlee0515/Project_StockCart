@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WDR,Waddell & Reed Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+REED,Reed's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+REET,iShares Global REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+REEMF,Rare Element Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGRR,Tiger Reef Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+REEM,Oppenheimer Emerging Markets Revenue ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+REETX,American Funds 2030 Trgt Date Retire R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+REECX,Columbia Contrarian Europe C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+REEAX,RBC Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+RCIT,Reelcause Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158

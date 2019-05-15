@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPT-PD,Ramco-Gershenson Properties Trust PERP PFD-D CV,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+RAMCX,American Funds ST Bd Fd of Amer R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5333
+RAMCOCEM.NSE,The Ramco Cements Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+532369.BSE,Ramco Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+RLFL.BSE,Ramchandra Leasing and Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+532370.BSE,Ramco Systems Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+RAMCOCEM.BSE,The Ramco Cements Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+RAMCOIND.BSE,Ramco Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+RAMCOIND.NSE,Ramco Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000
+RAMCOSYS.BSE,Ramco Systems Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1905

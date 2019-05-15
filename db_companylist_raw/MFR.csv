@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFRFX,MFS Research A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRVF,"Minera Frisco, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRCX,MFS Research C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRSX,MassMutual RetireSMART by JPM 2040 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRKX,MFS Research R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRNX,MassMutual RetireSMART by JPM 2040 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRJX,MFS Research R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRIX,Marketfield R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRBX,MFS Research B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFRLX,MFS Research R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

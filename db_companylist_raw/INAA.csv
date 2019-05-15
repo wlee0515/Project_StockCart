@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INAAX,ALPS/Kotak India Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+INAA.LON,iShares Public Limited Company - iShares MSCI North America UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+INAA.AMS,iShares Public Limited Company - iShares MSCI North America UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+INAA.MIL,iShares MSCI North America ETF USD Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+INAA.SWI,iShares MSCI North America ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PXF,Invesco FTSE RAFI Dev Mkts ex-US ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RFL,Rafael Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRF,Invesco FTSE RAFI US 1000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RAFGX,American Funds AMCAP R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PXH,Invesco FTSE RAFI Emerging Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+RAFEX,American Funds AMCAP R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MFUS,PIMCO RAFI Dyn Multi-Factor US Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+RALS,ProShares RAFI Long/Short,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+RAFFX,American Funds AMCAP R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

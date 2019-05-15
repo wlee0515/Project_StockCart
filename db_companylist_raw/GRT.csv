@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRTS,Gritstone Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRTD,Gratitude Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LGNHX,Logan Capital Large Cap Grth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+LGNGX,Logan Capital Large Cap Grth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GRT-UN.TRT,Granite Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+GRTB.LON,Guaranty Trust Bank Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2609
+CANAMCROISSM.TRT,CAN U.S. Grth (PUT) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+CANINCOMEGRT.TRT,CAN Income Grth Plus (PSG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+PERPETUALBAL.AUS,Perpetual Bal Grth 2,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLIA.JKT,PT Mulia Industrindo Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273
+F0CAN05LWJ.TRT,Manulife GIF MLIA A Dividend Income (Cl),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2759
+F0CAN06T0T.TRT,Manulife GIF MLIA B CI Harbour,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2353
+F0CAN06T10.TRT,Manulife GIF MLIA A DCA Advantage,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2162
+F000001W6C.TRT,Manulife GIF MLIA A Fid Monthly Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2162
+F000001W6F.TRT,Manulife GIF MLIA A CI Sign Inc & Gr,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2051
+F000001W6G.TRT,Manulife GIF MLIA A American Equity Idx,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F0000023JU.TRT,Manulife GIF MLIA A CIBC Monthly Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F0000023K1.TRT,Manulife GIF MLIA A CI Camb 80/20,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+F0000023K7.TRT,Manulife Opps Bndl MLIA A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

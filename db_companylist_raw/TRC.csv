@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRC,Tejon Ranch Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TRCO,Tribune Media Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRCH,Torchlight Energy Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRCB,Two River Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GJRTX,Goldman Sachs Absolute Ret Trckr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GARTX,Goldman Sachs Absolute Ret Trckr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRCVX,TIAA-CREF Large-Cap Value Index Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRCY,Tri City Bankshares Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TRCPX,TIAA-CREF Large-Cap Value Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

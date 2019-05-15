@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMSB.BER,IMII-I.EM.MKTS USD BD A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+JMBE.SWI,JPM EMSB UCITS,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4444

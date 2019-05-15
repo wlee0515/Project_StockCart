@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFWFX,American Funds Capital World Bond F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1Z6.STG,BFW Liegenschaft AG Namens-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+BLIN.SWI,BFW Liegenschaften AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.1765

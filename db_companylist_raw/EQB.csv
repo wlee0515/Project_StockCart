@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQBK,Equity Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EQB.TRT,Equitable Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+EQB-PC.TRT,EQUITABLE GROUP INC PREF SER 3,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+KR5203AZ3695.KOR,Daishin GlbSt MA Fdr EqBal-FoF2 A Unhdg,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5217AE0054.KOR,Franklin MthDist US Inc Fdr EqBal-FoF Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+F00000PJ9K.TRT,SunWise Essntl 2 Cl Cam Cdn EqBdl Est,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+F00000PJ9L.TRT,SunWise Essntl 2 Cl Cam Cdn EqBdl Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000PJ9M.TRT,SunWise Essntl 2 Cl Cam Cdn EqBdl Inv,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395
+F00000PJ9N.TRT,SunWise Essntl 2 Cl Cam Cdn EqBdl PIMEst,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

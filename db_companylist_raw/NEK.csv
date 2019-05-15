@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NKTR,Nektar Therapeutics,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NEKAX,Nuveen Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NEKFX,Nuveen Emerging Markets Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NEKIX,Nuveen Emerging Markets Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NEKCX,Nuveen Emerging Markets Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+NKTN.LON,Nektan plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4615
+0UNL.LON,Nektar Therapeutics,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727
+ITH.MUN,NEKTAR THERAPEUTICS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2727
+ITH.BER,NEKTAR THERAPEUTICS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727

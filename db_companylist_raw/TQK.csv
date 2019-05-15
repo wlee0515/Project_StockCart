@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TQK.FRK,The Wendy's Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TQK.STG,"Wendy's Co., The Reg. Shares Cl",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TQK.BER,"THE WENDY'S CO. A  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

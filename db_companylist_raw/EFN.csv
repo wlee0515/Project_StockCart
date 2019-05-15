@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFN,Emerging Markets Financials Tit,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EFLN,eFUEL EFN CORPORATION,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EFNL,iShares MSCI Finland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EFNCF,GO UCITS ETF Solutions plc - ETFS Longer Dated All Commodities GO UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EFN.TRT,Element Fleet Management Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+EFN-PA.TRT,ELEMENT FLEET MGMT CORP PREF SE,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

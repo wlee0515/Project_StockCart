@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHL.JOH,AH-Vest Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+AH-R.BAK,AAPICO Hitech Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444

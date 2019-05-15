@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUMCF,Sumco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SUOPY,Sumco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SUMCX,Saratoga Conservative Balanced Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5333
+S3X.FRK,Sumco Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+3436.TOK,Sumco Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5333
+S3X.BER,SUMCO CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+S3X.DUS,SUMCO CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3810
+S3X.MUN,SUMCO CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3810
+S3X.STG,Sumco Corp. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+3532.TWN,Formosa Sumco Technology Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2000

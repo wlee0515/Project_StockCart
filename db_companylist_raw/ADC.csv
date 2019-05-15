@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADC,Agree Realty Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ADCVX,American Century Disciplined Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ADCIX,American Century Disciplined Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADCYX,American Century Disciplined Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADCCX,American Century Disciplined Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADCV,ADCapital US Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AIP.JOH,Adcock Ingram Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2222
+A7E.BER,"ADCORP HLDGS LTD  RC-,025",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+AAU.AUS,Adcorp Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000LYRD.BCL,Plancaixa Valor en Alza 2027 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581
+F00000QEJ1.BCL,Caser MasxNada Valor en Alza PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581
+CASERVALOREN.BCL,Caser Valor en Alza 2027 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286
+PLANCAIXAVAL.BCL,Plancaixa Valor en Alza 2027 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286
+F00000069E.BCL,Caser Valor en Alza 2027 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

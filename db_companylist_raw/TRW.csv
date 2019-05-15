@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRWAX,Transamerica International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWCX,Transamerica International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWWX,Transamerica International Equity T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWRX,Transamerica International Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWRF,Torino Power Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWIX,Transamerica International Equity I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWFX,Transamerica International Equity R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRWTX,Transamerica International Equity I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRW.FRK,Troy Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

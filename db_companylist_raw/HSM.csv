@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSMCX,Hartford Small Company C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMYX,Hartford Small Cap Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMTX,Hartford Small Cap Value R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMSX,Hartford Small Cap Value R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMAX,Hartford Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMFX,Hartford Small Cap Value F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMRX,Hartford Small Cap Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSMVX,Hartford Small Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSM.TRT,Helius Medical Technologies Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+HSM.LON,Samuel Heath & Sons PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

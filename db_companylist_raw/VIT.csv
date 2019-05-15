@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTL,Vital Therapies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VSI,Vitamin Shoppe Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VBIO,Vitality Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NGVC,Natural Grocers by Vitamin Cottage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VODG,Vitro Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VITAX,Vanguard Information Technology Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VITSX,Vanguard Total Stock Market Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VCBD,Vitalibis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VITPX,Vanguard Instl Ttl Stk Market Index InstlPls,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+VITWX,Vanguard Instl Trgt Retire 2020 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

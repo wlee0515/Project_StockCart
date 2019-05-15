@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACC,American Campus Communities Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ACN,Accenture plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CACC,Credit Acceptance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXDX,Accelerate Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ARAY,Accuray Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XLRN,Acceleron Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ACCO,ACCO Brands Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WRLD,World Acceptance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DAX,MU Lux Lyxor DAX (DR) ETF Acc,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+ANCX,Access National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1935

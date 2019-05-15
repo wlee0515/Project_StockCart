@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSM,Deutsche Strategic Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KSMIX,Keeley Small-Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KSMVX,Keeley Small-Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KSMUX,Kansas Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KSMRF,Contagious Gaming Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KSM.AUS,K2 Australian Small Cap Fund,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667
+KSMT-P.TRV,Kismet Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+KSMS.KLA,KECK SENG (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+KSMJM-D1.TAV,KSM JAMBO CD S1,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000
+KSM-D3.TAV,USD/KSMD CD S3,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4286

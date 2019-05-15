@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EDJ.BER,CALTAGIRONE EDITORE  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EDJ.STG,CALTAGIRONE EDITORE S.P.A. Azio,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JOY.TRT,Journey Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+E9L.SGP,Joyas International Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+600699.SHH,Ningbo Joyson Electronic Corp.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4444
+JYC.AUS,Joyce Corporation Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3000
+0207.HKG,Joy City Property Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2400
+300268.SHZ,Joyvio Agriculture Development Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2143
+JYE.FRK,Joyce Boutique Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818
+3191.TOK,Joyful Honda Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1538
+9942.FRK,Joyfull Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1395

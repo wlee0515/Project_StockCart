@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRBT,iRobot Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRBO,iShares Robotics and Artfcl Intlgc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IRBS,IR Biosciences Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRBAX,Ivy Pictet Targeted Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRBRX,Ivy Pictet Targeted Return Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRBIX,Ivy Pictet Targeted Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRBCX,Ivy Pictet Targeted Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRBYX,Ivy Pictet Targeted Return Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

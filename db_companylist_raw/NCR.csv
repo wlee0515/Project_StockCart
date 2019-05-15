@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCR,NCR Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NCRBF,Nippon Carbon Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NCRIX,Neuberger Berman Core Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCRLX,Neuberger Berman Core Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCRAX,Neuberger Berman Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCRCX,Neuberger Berman Core Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCRA,Nocera Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NCRRP,NCR Corporation 5.5% PFD CNV A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NCR.AUS,NuCoal Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+0K45.LON,NCR Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333

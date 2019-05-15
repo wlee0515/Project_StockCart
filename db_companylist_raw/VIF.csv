@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNHAF,Vifor Pharma AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNHAY,Vifor Pharma AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+VIFN.VSX,Vifor Pharma AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.3333
+VIF.AUS,Vanguard Intl Fxd Intr Index (Hdg) ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.3333
+FK9B.BER,RT VIF VERS.INT.FDS.INH.T,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+G2AA.FRK,Vifor Pharma AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+0RPD.ILN,VIFOR PHARMA AG VIFOR PHARMA AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

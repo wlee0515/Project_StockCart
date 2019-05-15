@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUDZ,WEED Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WDDMF,WeedMD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WDHR,WeedHire International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PVI,Invesco VRDO Tax-Free Weekly ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+WEEMX,Wells Fargo Factor Enhanced Emerg Mkts,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4615
+WEECX,TETON Westwood Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4286
+WEEIX,TETON Westwood Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+WEEEF,Western Energy Services Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1714

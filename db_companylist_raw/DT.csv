@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTEA,DAVIDsTEA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DTE,DTE Energy Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DTRM,Determine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DTO,DB Crude Oil Double Short ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+DTEGY,Deutsche Telekom AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DTH,WisdomTree International High Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DTYS,iPath US Treasury 10-year Bear ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DTRK,DATATRAK International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DTD,WisdomTree US Total Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

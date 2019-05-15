@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KR5105175644.KOR,Samsung J-REITs Real Estate REITs-Fund of Funds 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6667
+1595.TOK,NZAM ETF J-REIT Index,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+1345.TOK,Listed Index Fund J-REIT (Tokyo Stock Exchange REIT Index)Bi-Monthly Dividend Payment Type,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+1597.TOK,MAXIS J-REIT ETF,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+1660.TOK,MAXIS High Yield J-REIT ETF,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+3281.TOK,GLP J-REIT,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+3298.TOK,Invesco Office J-REIT Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1579
+J-R.BAK,JAS Asset Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1579
+KR5105594653.KOR,Samsung J-REITs Real Estate FoF 1 B,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1154
+KR5105597649.KOR,Samsung J-REITs Real Estate FoF 1 A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.0645

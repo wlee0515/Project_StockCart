@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAHYX,Lord Abbett High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LAHO,Lans Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAHL.BSE,Ladam Affordable Housing Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+LAHL.LON,Landscape Acquisition Holdings Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+LAH1.BER,INTERSTAHL HDL  INH.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LAH1.MUN,INTERSTAHL HDL  INH.O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LAHAV.TAV,Lahav LR Real Estate Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5455
+531842.BSE,Lahoti Overseas Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+LAHOTIOV.BSE,Lahoti Overseas Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2308

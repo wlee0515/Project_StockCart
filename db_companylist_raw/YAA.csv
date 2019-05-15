@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YAAA.MUN,CANADIAN TIRE CORP.LTD.CL,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YAAA.FRK,"Canadian Tire Corporation, Limited",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+YAAA.BER,CANADIAN TIRE CORP.LTD.CL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YAAA.DUS,CANADIAN TIRE CORP.LTD.CL,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+YAAA.STG,Canadian Tire Corp. Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+YAAC.TAV,Ya'acobi Brothers Group Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+531482.BSE,SHREE YAAX PHARMA & COSMETICS,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1875

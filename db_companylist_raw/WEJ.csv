@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEJ.FRK,West Japan Railway Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WEJ.BER,WEST JAPAN RWY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WEJ.STG,WEST JAPAN RAILWAY CO. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

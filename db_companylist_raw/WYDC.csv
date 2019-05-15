@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYDC.FRK,Vontobel Fund - Emerging Markets Equity Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WYDC.BER,VONTOBEL-EM.MKTS E.H-EOH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WYDC.DUS,VONTOBEL-EM.MKTS E.H-EOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WYDC.HAM,VONTOBEL-EM.MKTS E.H-EOH,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WYDC.MUN,VONTOBEL-EM.MKTS E.H-EOH,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WYDC.STG,Vontobel-Emerging Markets Equ.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

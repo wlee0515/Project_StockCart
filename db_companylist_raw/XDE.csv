@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDEWX,Delaware Enhanced Global Divide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDEB.LON,X MSCI World Minimum Volatility ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEM.LON,X MSCI World Momentum ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEQ.LON,X MSCI World Quality ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDER.LON,X FTSE Developed Europe Real Estt ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEV.LON,X MSCI World Value ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEW.LON,X S&P 500 Equal Weight ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEX.LON,X FTSE All-World ex UK ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDEV.FRK,X MSCI World Value ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HQE1.FRK,Cytosorbents Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HQE1.BER,"CYTOSORBENTS CORP. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HQE1.STG,Cytosorbents Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+HQE1.MUN,"CYTOSORBENTS CORP. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

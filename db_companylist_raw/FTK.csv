@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTK,Flotek Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FTKFX,Fidelity Total Bond K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTKICX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTKYRX,FT 7574: Market Strength Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTKWBX,FT 6322: Interest Rate Hedge an,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTKIMX,First Trust 2033 Corporate Inve,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTKGPX,FT 6786: Global Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTKBUX,FT 7450: Target Focus 4 3Q '18 ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTK.FRK,FinTech Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FTK.FRK,FinTech Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667

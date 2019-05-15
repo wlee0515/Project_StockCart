@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDUCX,Duff & Phelps Utility and Corpo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDUK.STG,Xtrackers FTSE 100 Inhaber-Ante,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XDUK.LON,X FTSE 100 ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDUH.TRT,iShares Core MSCI US Qual Dividend ETF CADH,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XDU.TRT,iShares Core MSCI US Quality Dividend ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XDUK.DUS,XTR.FTSE 100 1C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XDUK.FRK,db x-trackers - FTSE 100 UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XDUS.LON,Concept Fund Solutions plc - db x-trackers MSCI USA Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+XDUD.SWI,X DAX Income ETF 2C USD H,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XDUE.SWI,X MSCI EMU ETF 3C - CHF Hedged,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCKY,Rocky Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RCKT,Rocket Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RCKSX,Rock Oak Core Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RCKXF,Rocky Mountain Dealerships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RCKTF,Rock Tech Lithium Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RCKE,Rock Energy Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RCKTX,American Funds 2040 Trgt Date Retire R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCKHF,Rockhopper Exploration plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HNRB.STG,Hannover Rck SE Namens-Aktien(S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+RCK.TRV,Rock Tech Lithium Inc,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2000

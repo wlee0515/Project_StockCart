@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DQ,Daqo New Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+5DQ2.BER,DAQO NEW ENERGY CRP.ADR 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+5DQ2.MUN,Daqo New Energy Corp.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+601006.SHH,Daqin Railway Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+603955.SHH,Daqian Ecology & Environment Group Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+5DQ2.FRK,DAQO NEW ENERGY CRP.ADR 5,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+5DQ2.STG,Daqo New Energy Corp. Reg.Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+000985.SHZ,Daqing Huake Company Limited,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2000
+F00000QDL3.TRT,IA SRP Class U.S. DAQ Index,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1935
+F00000WO14.TRT,IA U.S. DAQ Index,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1304

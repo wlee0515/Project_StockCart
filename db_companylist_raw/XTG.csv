@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XTGRF,Xtra-Gold Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XTG.FRK,"TALGO S.A.  EO -,301",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+XTG.TRT,Xtra-Gold Resources Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XTG.BER,"TALGO S.A.  EO -,301",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BI.BSE,Bilcare Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+DX36.BER,DIRE.S.ETF-D.S+P BI.BE.3X,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+DX36.DUS,DIRE.S.ETF-D.S+P BI.BE.3X,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

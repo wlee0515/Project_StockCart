@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NDH1.FRK,Metall Zug AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NDH1.STG,Metall Zug AG Namens-Aktien B S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

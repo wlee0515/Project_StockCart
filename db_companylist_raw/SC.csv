@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SC,Santander Consumer USA Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SLB,Schlumberger Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SCHW,The Charles Schwab Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SCHD,Schwab US Dividend Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+SMG,The Scotts Miracle-Gro Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SCG,SCANA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SCO,ProShares UltraShort Bloomberg Crude Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+SGMS,Scientific Games Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SCVL,Shoe Carnival Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SCON,Superconductor Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCEMX,Dunham Emerging Markets Stock C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+603335.SHH,Guangdong Dcenti Auto-Parts Stock Limited Company,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.5000
+DCEUAS.SWI,UBS ETF Bloomberg Commodity SF EUR A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1154

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISQD.BER,ISHS TR.-US ENERGY ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ISQD.MUN,ISHS TR.-US ENERGY ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ISQD.DUS,ISHS TR.-US ENERGY ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

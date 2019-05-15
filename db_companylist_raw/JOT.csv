@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JOT.FRK,Bittium Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+JOT.BER,BITTIUM OYJ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+JOT.STG,Bittium Oyj Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+JOTACONDEINV.BCL,Jota Conde Inversi?n SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

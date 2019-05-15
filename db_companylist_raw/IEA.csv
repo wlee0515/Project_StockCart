@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IEA,Infrastructure and Energy Alternatives Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IEAOX,Lazard International Equity Advtg Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IEAWX,AIG Income Explorer W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IEAFAX,EAFE Select 20 Portfolio 2018-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IEACX,AIG Income Explorer C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IEASPX,EAFE Select 20 Portfolio 2018-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IEAAX,AIG Income Explorer A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IEASLX,EAFE Select 20 Portfolio 2017-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IEAIX,Lazard International Equity Advtg Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IEAM,Industrial Enterprises of America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

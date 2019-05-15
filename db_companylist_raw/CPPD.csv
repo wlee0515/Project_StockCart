@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPPD,"Circa Pictures and Production Co., Intl. Inc.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FR0011192855.PAR,Lyxor ETF S&P 500 Cppd HlthCar,ETF,Paris,09:00,17:30,UTC+01,EUR,0.2353

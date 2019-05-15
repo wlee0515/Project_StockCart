@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XNET,Xunlei Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XNCR,Xencor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XNXNX,Nuveen Insured New York Select ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XNTK,SPDR NYSE Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+XNNHQ,Xenonics Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XNXCX,Nuveen Insured California Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XNCVX,AllianzGI Convertible & Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XNTCX,Nuveen Connecticut Quality Muni,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XNGSY,ENN Energy Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XNNCX,Nuveen North Carolina Quality M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

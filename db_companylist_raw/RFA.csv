@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RFAP,First Trust RiverFront Dyn Asia Pac ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+RFAAX,Russell Inv Investment Grade Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFAEX,Russell Inv Investment Grade Bond E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFACX,Russell Inv Investment Grade Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFATX,Russell Inv Investment Grade Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFAYX,Russell Inv Investment Grade Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

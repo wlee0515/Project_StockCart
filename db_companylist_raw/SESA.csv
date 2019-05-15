@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SES.MIL,SeSa S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6000
+0QHK.LON,SeSa S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5333
+1S3.FRK,SeSa S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+1S3.STG,Sesa S.p.A. Azioni nom. o. N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+2612.TOK,Kadoya Sesame Mills Incorporated,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+000716.SHZ,Nanfang Black Sesame Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2000

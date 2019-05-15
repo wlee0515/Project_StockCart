@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRUS,Merus N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRU.TRT,Metro Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MRU3.STG,Rich Goldman Holdings Ltd. Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MRU3.FRK,Rich Goldman Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MRU3.MUN,RICH GOLDMAN HLDGS CONS.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

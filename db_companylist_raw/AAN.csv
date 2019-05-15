@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAN,Aaron's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AANR,ANR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AANTX,American Funds 2060 Trgt Date Retire A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAN.TRV,Aton Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+AANANDALAK.BSE,Aananda Lakshmi Spinning Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+WER.STG,WERELDHAVE N.V. Aandelen aan to,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3750
+2DS.STG,Dutch Star Companies ONE NV Aan,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+CNY.MUN,"CURETIS N.V. AAN T.EO-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.1765
+HUD.STG,HUNTER DOUGLAS N.V. Aandelen aa,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+AANCHALISP.BSE,Aanchal Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765

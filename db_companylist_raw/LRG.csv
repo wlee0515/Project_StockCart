@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRGR,Luminar Media Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LRGF,iShares Edge MSCI Multifactor USA ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PQLC,PGIM QMA Strategic Alpha Lrg-Cp Cor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LRGE,ClearBridge Large Cap Growth ESG ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+WTMVX,Segall Bryant & Hamill Glb Lrg Cp Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500
+WTEIX,Segall Bryant & Hamill Lrg Cp Dividend Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+WIMVX,Segall Bryant & Hamill Glb Lrg Cp Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429
+SEECX,Crossmark Steward Lrg Cap Enh Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

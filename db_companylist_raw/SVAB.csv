@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVAB.FRK,Stockholm IT Ventures AB (publ),Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+SVAB.FRK,Stockholm IT Ventures AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+SVAB.BER,STOCKHOLM IT VENTURES AB,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SVAB.MUN,STOCKHOLM IT VENTURES AB,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+SVAB.DUS,STOCKHOLM IT VENTURES AB,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

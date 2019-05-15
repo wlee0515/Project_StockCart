@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GYX.BER,"FUTURA MEDICAL  LS-,002",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GYX.STG,Futura Medical PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

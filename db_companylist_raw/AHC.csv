@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHC,A.H. Belo Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AHCP,Anchorage International Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHCHY,Anhui Conch Cement Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHCHF,Anhui Conch Cement Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHC.STG,Hess Corp. Registered Shares DL,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+AHC-R.BAK,Aikchol Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+AHC.FRK,Hess Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AHC.BAK,Aikchol Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+AHC.DUS,HESS CORP.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+AHC.MUN,HESS CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

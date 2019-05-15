@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXHAX,Manning & Napier Pro-Blend Max Term S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+EXHA.FRK,ISH.EB.REXX GOV.GER.U.ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+EXHA.BER,ISH.EB.REXX GOV.GER.U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EXHA.HAM,ISH.EB.REXX GOV.GER.U.ETF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+EXHA.FRK,iShares eb.rexx GovtGer (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+EXHA.DUS,ISH.EB.REXX GOV.GER.U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+EXHA.MUN,ISH.EB.REXX GOV.GER.U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+EXHA.STG,iSh.eb.r.Gover.Germ.U.ETF DE In,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

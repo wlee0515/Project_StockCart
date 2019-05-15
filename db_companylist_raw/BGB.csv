@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGB,Blackstone/GSO Strategic Credit Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BGBRX,BlackRock US Government Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGBIX,Baillie Gifford The Multi Asset Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGBKX,Baillie Gifford The Multi Asset K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBMV2BGBMF.MEX,GBMV2 BGBMF,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BGB.MUN,Berchtesgadener Bergbahn AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4286
+GBMV1BGBMM.MEX,GBMV1 BGBMM,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+GBMV2BGBMM.MEX,GBMV2 BGBMM,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286

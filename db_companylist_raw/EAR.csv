@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EARS,Auris Medical Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESTE,Earthstone Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EPI,WisdomTree India Earnings ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+EARN,Ellington Residential Mortgage REIT,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+REMX,VanEck Vectors Rare Earth/Strat Mtls ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+ETST,Earth Science Tech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+FTEG,For The Earth Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EXT,WisdomTree US Total Earnings ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+LFER,Life On Earth Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+USMN,U.S. Rare Earth Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

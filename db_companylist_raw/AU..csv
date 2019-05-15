@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AU.TRV,Aurion Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+RWL.MUN,ROCKWELL AU.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+AU.SWI,AngloGold Ashanti Limited,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+AU.BAK,After You Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2857
+RWL.BER,ROCKWELL AU.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+RWL.DUS,ROCKWELL AU.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+RWL.HAM,ROCKWELL AU.  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2857

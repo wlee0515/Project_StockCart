@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPWA.FRK,Deutsche Post AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+DPWA.BER,DEUTSCHE POST SPONS.ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+DPWA.STG,Deutsche Post AG Namens-Aktien ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+DPWA.FRK,Deutsche Post AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

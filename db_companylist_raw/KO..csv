@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KO.MEX,The Coca-Cola Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+KO.ARG,The Coca-Cola Company,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+KO.SWI,The Coca-Cola Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+KO.VIE,The Coca-Cola Company,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COUD.FRK,Computacenter plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+COUD.BER,"COMPUTACENTER  LS-,075555",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+COUD.STG,Computacenter plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

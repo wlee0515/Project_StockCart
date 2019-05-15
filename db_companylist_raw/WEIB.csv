@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WB,Weibo Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+WEIBX,TETON Westwood Intermediate Bond AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+0LUG.LON,WEIBO CORP WEIBO ADR REPRESENTI,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+2WBA.FRK,Weibo Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+2WBA.STG,Weibo Corp. R.Sh.Cl.A(sp.ADRs)/,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+WBN.MEX,Weibo Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.3636
+2WBA.BER,WEIBO SP.ADR A 1 DL-00025,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+2WBA.MUN,WEIBO SP.ADR A 1 DL-00025,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+WBO.VIE,WEIBO CORP ADR,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2286

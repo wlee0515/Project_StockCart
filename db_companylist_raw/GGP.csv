@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGPCX,American Funds Global Growth Port C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGPXF,G-Resources Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGPPX,Goldman Sachs Growth Strategy P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGP.LON,Greatland Gold plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GGP.MIL,Gruppo Green Power S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+GGPL.BSE,Gala Global Products Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HMU.BER,HMS BERGBAU AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+HMU.FRK,HMS Bergbau AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HMU.FRK,HMS Bergbau AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+HMU.DUS,HMS BERGBAU AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HMUD.LON,HSBC MSCI USA ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HMUS.LON,HSBC MSCI USA ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HMUS.SWI,HSBC MSCI USA ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PQX1.FRK,Biotage AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PQX1.MUN,BIOTAGE AB  SK 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+PQX1.STG,Biotage AB Namn-Aktier SK 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

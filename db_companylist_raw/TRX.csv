@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRX,Tanzanian Royalty Exploration Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TRXC,TransEnterix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRXD,Trxade Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRXXF,TerraX Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRXRX,T. Rowe Price Target 2040 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TRXO,T-Rex Oil Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRXA,Trex Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRXAX,Catalyst/MAP Global Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRXPX,T. Rowe Price Institutional Crdt Opps,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRXIX,Catalyst/MAP Global Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOK.TRV,GINSMS Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GOKEX.BSE,Gokaldas Exports Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+GOK.FRK,Government Properties Income Trust,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+2340.TOK,Gokurakuyu Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5455
+GOK.BER,GOVT PPTYS INCOME TR. SBI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+GOKEX.NSE,Gokaldas Exports Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+GOKUL.BSE,Gokul Refoils & Solvent Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+GOKUL.NSE,Gokul Refoils & Solvent Ltd,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2400
+300672.SHZ,Goke Microelectronics Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1875
+532957.BSE,Gokak Textiles Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765

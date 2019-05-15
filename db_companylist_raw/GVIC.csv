@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+777.STG,GVIC Communications Corp.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+GCT.TRT,GVIC Communications Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+GCT-C.TRT,GVIC Communications Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2759

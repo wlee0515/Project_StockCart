@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUX.AUS,Crossland Strategic Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CUX1.BER,CARMILA S.A.S.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+CUX1.STG,Carmila S.A.S. Actions Port. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

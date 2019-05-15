@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVRK,Maverick Technology Solutions,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MVRGX,Monteagle Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MVRRX,MFS Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVRM,Maverick Minerals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MVR.AUS,VanEck Vectors Australian Resources ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.7500
+MVR.BER,MEDIVIR AB B  SK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MVR.FRK,Medivir AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MVR.MUN,MEDIVIR AB B  SK 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MVR.STG,MEDIVIR AB Namn-Aktier B SK 10,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EAMDX,MFS Moderate Allocation 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAMCX,MFS Mid Cap Growth 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAMTX,MFS Massachusetts Investors Tr 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAM.TRV,East Africa Metals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+EAM.FRK,A2A S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EAM.BER,"A2A S.P.A.  EO 0,52",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EAM.DUS,"A2A S.P.A.  EO 0,52",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+EA2.FRK,EAM Solar ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EA2.BER,EAM SOLAR ASA  NK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+EAM.MUN,"A2A S.P.A.  EO 0,52",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGKNX,Franklin Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGKINX,"FT 7246: Mega-Cap Portfolio, Se",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGKNIX,The First Trust Combined Srs 31,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGKYEX,FT 7431: Inflation Hedge Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGKMX,Fidelity Advisor Communication Svcs Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGKB.MUN,MAGNA EASTERN EUROPEAN C,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FGKA.MUN,MAGNA UMB.FD-M.NEW FR.REO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FGKB.BER,MAGNA EASTERN EUROPEAN C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FGKB.DUS,MAGNA EASTERN EUROPEAN C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+FGKB.HAM,MAGNA EASTERN EUROPEAN C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

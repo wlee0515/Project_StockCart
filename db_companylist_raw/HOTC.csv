@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HWHIX,Hotchkis & Wiley High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+HWMIX,Hotchkis & Wiley Mid-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+HWHAX,Hotchkis & Wiley High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+HWAIX,Hotchkis & Wiley Value Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWMAX,Hotchkis & Wiley Mid-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWSAX,Hotchkis & Wiley Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWSIX,Hotchkis & Wiley Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWVAX,Hotchkis & Wiley Sm Cp Divers Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWLAX,Hotchkis & Wiley Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HWAAX,Hotchkis & Wiley Value Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

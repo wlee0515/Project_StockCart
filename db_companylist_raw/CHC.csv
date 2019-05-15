@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHCO,City Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHCT,Community Healthcare Trust Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHCI,Comstock Holding Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNYR,Synergy CHC Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHCYX,AB Discovery Growth Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CHCR,Advanzeon Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHCLX,AB Discovery Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHCCX,AB Discovery Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CHHCF,CHC Group LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHCC,China Chemical Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000

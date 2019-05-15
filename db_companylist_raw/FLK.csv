@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLKS,Flex Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLKSX,Fidelity Low-Priced Stock K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FLKR,Franklin FTSE South Korea ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FLKKF,Frankly Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLKDSX,FT 6907: Municipal Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLKI,Falken Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FLKYRX,FT 7432: Energy Opportunity Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HDMA.FRK,Honda Motor Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+HDMA.BER,HONDA MOTOR ADR/1O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HDMA.STG,HONDA MOTOR CO. LTD. Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

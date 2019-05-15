@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTQ1.FRK,"Siemens Gamesa Renewable Energy, S.A.",Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+GTQ1.DUS,"SIEMENS GAMESA R.E.EO-,17",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GTQ1.STG,Siemens Gamesa Renew. En. S.A.A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GTQ1.FRK,"Siemens Gamesa Renewable Energy, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+GTQ1.BER,"SIEMENS GAMESA R.E.EO-,17",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GTQ1.HAN,"SIEMENS GAMESA R.E.EO-,17",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+GTQ1.MUN,"SIEMENS GAMESA R.E.EO-,17",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KTCC,Key Tronic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KTCAX,DWS Science and Technology A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KTCSX,DWS Science and Technology S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KTCCX,DWS Science and Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KTCIX,DWS Science and Technology Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KTCG.VIE,Kapsch TrafficCom AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+KTC.BAK,Krungthai Card Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+KTC.FRK,KT Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KTC.BER,KT CORP. ADR 1/2/SW 5000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KTC.DUS,KT CORP. ADR 1/2/SW 5000,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

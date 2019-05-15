@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FYERQX,FT 7200: Senior Loan Select Clo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYEQRX,FT 6444: International Capital ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYEHMX,FT 7533: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYENGX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYEGPX,FT 7628: Value Line Target Safe,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYEM.FRK,FIDELITY E.M.QUAL.INC. A,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+FYEM.FRK,FIDELITY E.M.QUAL.INC. A,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FYEM.DUS,FIDELITY E.M.QUAL.INC. A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

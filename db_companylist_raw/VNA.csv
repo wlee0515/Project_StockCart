@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VNA.FRK,Vonovia SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+VNA.FRK,Vonovia SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BLH.HAM,BREMER LAGERH. VNA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+SPR.BER,A.SPRINGER SE VNA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SPR.DUS,A.SPRINGER SE VNA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+SPR.HAN,A.SPRINGER SE VNA,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.3000
+SPR.MUN,A.SPRINGER SE VNA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000
+VNA.DUS,VONOVIA SE NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+VNA.STG,Vonovia SE Namens-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+BLH.BER,BREMER LAGERH. VNA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308

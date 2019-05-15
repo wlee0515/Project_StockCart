@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAGX,Jaguar Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JAZZ,Jazz Pharmaceuticals plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBL,Jabil Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JEC,Jacobs Engineering Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JKHY,Jack Henry & Associates Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JACK,Jack in the Box Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JAG,Jagged Peak Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JASN,Jason Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JHG,Janus Henderson Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JABAX,Janus Henderson Balanced T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

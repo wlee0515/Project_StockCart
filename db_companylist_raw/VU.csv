@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VUZI,Vuzix Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VUG,Vanguard Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VMC,Vulcan Materials Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VUSTX,Vanguard Long-Term Treasury Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VUIAX,Vanguard Utilities Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VUSFX,Vanguard Ultra-Short-Term Bond Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VUVLX,Vanguard US Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VUBFX,Vanguard Ultra-Short-Term Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VVPLX,Vulcan Value Partners,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+VUSUX,Vanguard Long-Term Treasury Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

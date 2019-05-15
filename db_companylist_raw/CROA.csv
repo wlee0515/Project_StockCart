@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECDC.FRK,EXPAT CROAT.CROBEX UCITS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+ECDC.FRK,EXPAT CROAT.CROBEX UCITS,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2857

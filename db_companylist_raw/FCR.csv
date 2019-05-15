@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCRE,FC Global Realty Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCRIX,FS Credit Income Fund Class I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FCRDX,Fidelity Conservative Inc Muni Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCRM,Franklin Credit Management Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCRINX,FT 6522: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCRFX,Fidelity Advisor Managed Ret 2025 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCRJMX,FT 7221: Energy Select Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCRTX,FS Credit Income Fund Class T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCREBX,FT 7075: Strategic Income Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCRDLX,FT 7257: Sabrient Small Cap Gro,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

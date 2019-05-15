@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UGBP,Citigroup ETNs lnkd VS Dly 4X Lng GBPUSD,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+UGB1.FRK,Unigold Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UGB1.STG,Unigold Inc. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

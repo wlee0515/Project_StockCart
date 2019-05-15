@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SU.TRT,Suncor Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+SU.PAR,Schneider Electric S.E.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+SU.MIL,SCHNEIDER ELECTRIC,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+SU.VIE,Schneider Electric S.E.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+4N26.BER,LGT-LGT SU.BD FD GL.HED.B,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+4N26.HAM,LGT-LGT SU.BD FD GL.HED.B,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+4N26.MUN,LGT-LGT SU.BD FD GL.HED.B,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RM,Regional Management Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RMED,Ra Medical Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RMTI,Rockwell Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RMHB,Rocky Mountain High Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMBS,Rambus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMD,ResMed Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMBL,RumbleON Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMR,The RMR Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMCF,Rocky Mountain Chocolate Factory Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RMAX,RE/MAX Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

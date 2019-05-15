@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BEWFF,BeWhere Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BEW.TRV,BeWhere Holdings Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+002148.SHZ,Beijing Bewinner Communications Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.7500
+BEW.FRK,Diversified Royalty Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BEW.SGP,JB Foods Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2500
+S9XC.FRK,BeWhere Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1364

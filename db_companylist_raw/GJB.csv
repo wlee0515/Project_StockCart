@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GJB.FRK,Steelcase Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GJB.BER,STEELCASE INC. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GJB.STG,STEELCASE INC. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

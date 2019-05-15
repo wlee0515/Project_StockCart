@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEBB,Web Global Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GB00B6253G17.LON,Elite Webb Cap Smaller Co Inc & Gr Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+F00000LLCD.LON,Elite Webb Cap Smaller Co Inc & Gr Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+F00000LLCE.LON,Elite Webb Cap Smaller Co Inc & Gr Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B63JD951.LON,Elite Webb Cap Smaller Co Inc & Gr Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+GB00BFRSW948.LON,Elite Webb Capital Smaller Companies Income & Growth,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+GB00BFRSWB62.LON,Elite Webb Cap Smaller Co Inc & Gr B Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000QLQB.LON,Elite Webb Capital Smaller Companies Income & Growth,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+F00000QLQC.LON,Elite Webb Cap Smaller Co Inc & Gr B Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

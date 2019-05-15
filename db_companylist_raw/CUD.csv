@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JNEXF,Cuda Oil and Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CUDA.TRV,Cuda Oil and Gas Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+CUD.FRK,Canadian Utilities Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CUD.STG,CANADIAN UTILITIES LTD. Reg.Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CUD.TRT,iShares US Dividend Grwrs ETF CADH Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3750
+4QO1.FRK,Cuda Oil and Gas Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529
+CUDIAMANTE.MIL,Aviva CU Diamante,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3333
+CUDPRUDENTE.MIL,Aviva Cu D Prudente,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3333
+CUDAZIONARIO.MIL,Aviva Cu D Azionario America,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2500
+CUDOBBLIGAZI.MIL,Aviva CU D Obbligazionario Internazi,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2500

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEIAX,Columbia Large Cap Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NEIACTIONSCA.TRT,NEI Ethical Canadian Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+NEIAA.PAR,NEXITY3.749%DEC18,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NEIAB.PAR,NEXITY3.252%MAY20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NEIAC.PAR,NEXITY3.522%MAY21,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NEIAD.PAR,"NEXITY2,6%29JUN25",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NEIAE.PAR,"NEXITY2,053%11NOV2",Equity,Paris,09:00,17:30,UTC+01,EUR,0.4211

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CZR,Caesars Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CZZ,Cosan Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CZNI,Cruzani Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZWI,Citizens Community Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZNC,Citizens & Northern Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZFS,Citizens Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZFC,Citizens First Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZBS,Citizens Bancshares Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZMWF,Carl Zeiss Meditec AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CZBC,Citizens Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

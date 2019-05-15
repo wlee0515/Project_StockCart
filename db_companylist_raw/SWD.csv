@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWDBY,Swedbank AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDRX,Schwab Target 2030,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDSX,Schwab Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDHF,Skyworth Digital Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDBF,Swedbank AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDAF,Software Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDHY,Skyworth Digital Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWDA.MIL,iShares Core MSCI World ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+SWDA.SWI,iShares Core MSCI World ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+SWDA.LON,iShares III Public Limited Company - iShares Core MSCI World UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

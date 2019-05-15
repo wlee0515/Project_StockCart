@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DEDCX,Delaware Emerging Markets Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+DEDC.FRK,DEKA-FLEX:EO C CAP.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+DEDC.BER,DEKA-FLEX:EO C CAP.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+DEDC.DUS,DEKA-FLEX:EO C CAP.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+DEDC.HAM,DEKA-FLEX:EO C CAP.,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+DEDC.MUN,DEKA-FLEX:EO C CAP.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DEDC.STG,DEKA-FLEX: EURO Inh.-Ant. Klass,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

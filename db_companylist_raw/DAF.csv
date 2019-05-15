@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DAFGX,Dunham Focused Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DAFRX,Dunham Floating Rate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+6111.HKG,DaFa Properties Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+DFAM.JKT,PT Dafam Property Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+DAF.AUS,Discovery Africa Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DAF.FRK,"Be Think, Solve, Execute S.p.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+603081.SHH,Zhejiang Dafeng Industrial Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2500
+DAF.STG,"Be Think, Solve, Execute SpA Az",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1875
+1826.HKG,Dafy Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1538

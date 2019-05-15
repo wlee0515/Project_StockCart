@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWAIX,Redwood AlphaFactor Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWANX,Redwood AlphaFactor Core Equity N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWAY.MIL,Rai Way S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+RWA.FRK,Radware Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RWA.BER,"RADWARE LTD.  IS-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RWA.STG,RADWARE LTD. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RWA.LON,Robert Walters plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+RWA1.BRU,"RWALLO4,25%8APR30",Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6000
+BE0001711622.BRU,RWALLO FRN28SEP19,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.3158
+BE0001712638.BRU,RWALLO 4%28JAN19,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.3000

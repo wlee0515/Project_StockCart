@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRG.PAR,NRJ Group SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NR8.BER,"NRJ GROUP S.A. EO -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+NR8.STG,NRJ GROUP S.A. Actions au Porte,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+NRJ.PAR,Lyxor New Energy ETF Dist A/I,ETF,Paris,09:00,17:30,UTC+01,EUR,0.4444

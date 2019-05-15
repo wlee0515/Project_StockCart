@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BVAOX,Broadview Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BVAL,Brand Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BVAAX,Sterling Capital VA Interm Tax-Free A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVALX,Brown Advisory BeutelGoodmanLg-CpValInst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVACX,Sterling Capital VA Interm Tax-Free C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVASX,BlackRock iShares Alternative S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVATX,Sterling Capital VA Interm Tax-Free I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

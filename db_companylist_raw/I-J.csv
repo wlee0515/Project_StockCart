@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XAYW.MUN,AB FCP I-JP.STR.VAL. A YN,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+XAYW.STG,AB FCP I-Japan Strat.Value PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+XAYW.BER,AB FCP I-JP.STR.VAL. A YN,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+XAYW.DUS,AB FCP I-JP.STR.VAL. A YN,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765

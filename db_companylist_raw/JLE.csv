@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JLEAX,JHancock Multimanager 2025 Lifetime A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEHX,JHancock Multimanager 2025 Lifetime R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEGX,JHancock Multimanager 2025 Lifetime R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEDX,JHancock Multimanager 2025 Lifetime R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEEX,JHancock Multimanager 2025 Lifetime R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEIX,JHancock Multimanager 2025 Lifetime R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEFX,JHancock Multimanager 2025 Lifetime R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLEOX,JHancock Multimanager 2025 Lifetime 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLES.LON,JPMORGAN ETFS (IRELAND) ICAV JP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+JLEN.LON,John Laing Environmental Assets Group Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

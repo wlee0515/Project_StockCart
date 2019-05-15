@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GBAYX,GuideStone Funds Balanced Allc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBATX,GMO Strategic Opportunities Allc III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBAUF,Freedom Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GBAU.LON,ETFS Long AUD Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GBA.ARG,GAS NATURAL BAN SA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+GBAN.ARG,"Gas Natural Ban, S.A.",Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000

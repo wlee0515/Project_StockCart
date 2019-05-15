@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MZI.AUS,MZI Resources Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+OI7.FRK,MZI Resources Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+OI7.BER,MZI RESOURCES LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGBP,Citigroup ETNs lnkd VS Dly 4X Lng USDGBP,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DGBCX,Dreyfus Global Real Estate Securities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGB.AMS,DGB Group N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+139130.KOR,DGB Financial Group Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1875

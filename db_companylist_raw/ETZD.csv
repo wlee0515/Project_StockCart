@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETZD.PAR,BNPP Easy Stoxx Europe 600 ETF H A/I,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+ETZD.SWI,Easy ETF - BNP Paribas Easy STOXX Europe 600 UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

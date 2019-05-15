@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MZA,BlackRock MuniYield Arizona Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MZA.FRK,Mazda Motor Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MZA.DUS,MAZDA MOTOR CORP,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MZA.BER,MAZDA MOTOR CORP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MZA.HAM,MAZDA MOTOR CORP,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+MZA.MUN,MAZDA MOTOR CORP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MZA.STG,MAZDA MOTOR CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

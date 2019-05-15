@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWOG,Midwest Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MWOKX,MFS Global Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOFX,MFS Global Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOBX,MFS Global Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOGX,MFS Global Growth R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOHX,MFS Global Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOJX,MFS Global Growth R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOCX,MFS Global Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWOIX,MFS Global Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWO.PAR,Lyxor FTSE Epr/Nrt Glbl Dev ETF DEUR Inc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667

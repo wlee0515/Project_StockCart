@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IHRTQ,iHeartMedia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHREF,iShares III Public Limited Company - iShares Core MSCI Japan IMI UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHRMF,iShares Public Limited Company - iShares MSCI Japan UCITS ETF USD (Dist),ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IHR.AUS,intelliHR Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+IHR.FRK,Navistar International Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IHR.LON,Impact Healthcare REIT PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IHR.STG,NAVISTAR INTERNATIONAL CORP. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

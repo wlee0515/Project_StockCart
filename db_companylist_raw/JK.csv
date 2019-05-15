@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9896.TOK,JK Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8000
+JKS,JinkoSolar Holding Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JKHY,Jack Henry & Associates Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JKE,iShares Morningstar Large-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JKH,iShares Morningstar Mid-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JKD,iShares Morningstar Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JKF,iShares Morningstar Large-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JKI,iShares Morningstar Mid-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JKG,iShares Morningstar Mid-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+JKK,iShares Morningstar Small-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1739

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXP,Eagle Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AXP,American Express Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZTO,ZTO Express (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXPE,Expedia Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XOP,SPDR S&P Oil & Gas Explor & Prodtn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+NFX,Newfield Exploration Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ESRX,Express Scripts Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PETS,PetMed Express Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OMEX,Odyssey Marine Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EXPI,eXp World Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CENX,Century Aluminum Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RS,Reliance Steel & Aluminum Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ACH,Aluminum Corporation of China Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+KALU,Kaiser Aluminum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AWCMY,Alumina Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NORNQ,Noranda Aluminum Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AHIX,Aluf Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ALMMF,Aluminum Corporation of China Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+AFPW,AlumiFuel Power Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+AWCMF,Alumina Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1538

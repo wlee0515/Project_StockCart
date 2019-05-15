@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QHC,Quorum Health Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QHYG,QHY Group	,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QH.BAK,Quality Houses Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+QHHR.BAK,Quality Houses Hotel and Residence Freehold and Leasehold Property Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+QH3.FRK,Quorum Health Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+QHPF.BAK,Quality Houses Leasehold Property Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+QHD.BER,QINHUANGDAO PORT  H YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+QHH.BER,DAI-ICHI LIFE HOLDINGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444

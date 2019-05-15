@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWAEF,SIIC ENVIRONMENT H,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+0807.HKG,SIIC Environment Holdings Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3636
+BHK.SGP,SIIC Environment Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3478
+A9W1.FRK,SIIC Environment Holdings Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+ALDV.PAR,Alliance Developpement Capital SIIC,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2353
+A9W1.BER,SIIC ENVIRONM. HLDS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2353
+A9W1.HAM,SIIC ENVIRONM. HLDS,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2286
+A9W1.STG,SIIC Environment Holdings Ltd R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2051

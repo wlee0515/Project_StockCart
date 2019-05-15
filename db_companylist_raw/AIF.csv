@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AIF,Apollo Tactical Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AIFS,Agent Information Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AIFRX,Aberdeen Global Infrastructure Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIFBX,Cavanal Hill Moderate Duration Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIF.TRT,Altus Group Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+8515.TOK,Aiful Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+AAU.STG,AIFUL CORP. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+SCOTIPCAIF.MEX,SCOTIPC AIF,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+AAU.FRK,Aiful Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+AIF.LON,Acorn Income Fund Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222

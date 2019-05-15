@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAR,Saratoga Investment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SRPT,Sarepta Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAF,Saratoga Investment Corp 6.25% ,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAB,Saratoga Investment Corp. NT 23,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SARTF,Sartorius Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SARSF,Canada House Wellness Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SMBPX,Saratoga Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SARA,Saratoga Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SMNUF,PT Sarana Menara Nusantara Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+SFPAX,Saratoga Financial Service A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

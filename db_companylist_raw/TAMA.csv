@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNEYF,Tamarack Valley Energy Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+TAMAX,Transamerica Multi-Manager Alt Strat R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455
+TVE.TRT,Tamarack Valley Energy Ltd,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+TAMU.JKT,PT Pelayaran Tamarin Samudra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4211
+TWD.AUS,Tamawood Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+TAMARALIUGAS.BCL,Tamaraliuga SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+TMK.AUS,Tamaska Oil and Gas Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3636
+TMRP.TAV,Tamar Petroleum Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3478
+GLOBALTAMASA.BCL,Global Tamasa XXI SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2667
+1419.TOK,Tama Home Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667

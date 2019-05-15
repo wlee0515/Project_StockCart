@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FC-R.BAK,Food Capitals Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+11313.AUS,CFS FC-UBS W Australian Share,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222
+11807.AUS,CFS FC-APN Wholesale AREIT,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2069
+13550.AUS,CFS FC-PM Capital Glb Companies,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1935
+41108.AUS,CFS FC-Bennelong Kardin W Abs Ret,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1875
+CFSFCBENNELO.AUS,CFS FC-Bennelong Kardin W Abs Ret,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1765
+11307.AUS,CFS FC-Schroder W Credit Sec,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1765
+11324.AUS,CFS FC-Altrinsic W Global Equity,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1714
+11326.AUS,CFS FC-T. Rowe Price W Glb Eqty,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1667
+11809.AUS,CFS FC-Ironbark Karara W Aus Share,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1622

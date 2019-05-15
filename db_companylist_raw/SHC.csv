@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHCAY,Sharp Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SHCMF,Search Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHCC,Shi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHCAF,Sharp Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHCDX,Stone Harbor Emerg Mkts Corp Dbt Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHC.PAR,Lyxor CAC 40 Daily (-1x) Inverse ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SHC.TRT,Sphere FTSE Canada Sustainable Yield ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SHCO.SGP,$ Pollux Prop,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000

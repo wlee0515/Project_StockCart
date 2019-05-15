@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRCAX,Invesco Balanced-Risk Commodity Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BRCAHX,ADT 1855 BRIC Advantage Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BRCAIX,ADT 1881 BRIC Advantage Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BRCA.FRK,Brembo S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+BRCA.BER,BREMBO S.P.A. NOM.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+BRCA.DUS,BREMBO S.P.A. NOM.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+BRCA.STG,Brembo S.p.A. Azioni nom. o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

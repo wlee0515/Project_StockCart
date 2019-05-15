@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPGFX,EuroPac Gold A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EPGAX,Fidelity Advisor Equity Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGG,Empire Global Gaming Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGRQ,Environmental Power Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGCX,Fidelity Advisor Equity Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGNF,Epigenomics AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGNY,Epigenomics AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EPGIX,EuroPac Gold I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EPG.FRK,El Paso Electric Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EPG.LON,EP Global Opportunities Trust,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

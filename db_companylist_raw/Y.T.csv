@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+Y.TRT,Yellow Pages Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.8571
+DX3E.BER,D.S.ETF-D.D.7-10 Y.T.B.1X,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+PS04.DUS,PROSH.ULTR.LEH.7-10 Y.TR.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

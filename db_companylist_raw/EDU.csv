@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EDU,New Oriental Education & Technology Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RYB,RYB Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+3978.HKG,China Beststudy Education Group,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2857
+TAL,TAL Education Group,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LAUR,Laureate Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LOPE,Grand Canyon Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+HMN,Horace Mann Educators Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+STRA,Strategic Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+BEDU,Bright Scholar Education Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+ATGE,Adtalem Global Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1667

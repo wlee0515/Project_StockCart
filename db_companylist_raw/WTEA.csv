@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTEA.FRK,WisdomTree Issuer Public Limited Company - WisdomTree Emerging Asia Equity Income UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WTEA.FRK,WisdomTree Emerging Asia Equity Inc ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+WTEA.MUN,WISDOMTREE E.A.EQ.INC.DZ,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WTEA.DUS,WISDOMTREE E.A.EQ.INC.DZ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WTEA.STG,WisdomTree Em.Asi.Eq.Inc.U.ETFB,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

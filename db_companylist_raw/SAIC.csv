@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAIC,Science Applications International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+600104.SHH,SAIC Motor Corporation Limited,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.5714
+INU.ARG,SOLVAY INDUPA SAIC,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3636
+SAIC11B.SAO,FUNDO INVEST IMOB,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2353

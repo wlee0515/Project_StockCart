@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHO,Sunstone Hotel Investors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UVXY,ProShares Ultra VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SHOP,Shopify Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SQQQ,ProShares UltraPro Short QQQ,ETF,United States,09:30,16:00,UTC-05,USD,0.3000
+SSTI,ShotSpotter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SVXY,ProShares Short VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SPXU,ProShares UltraPro Short S&P500,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SDOW,ProShares UltraPro Short Dow30,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+VIXY,ProShares VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.1714
+SCVL,Shoe Carnival Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1463

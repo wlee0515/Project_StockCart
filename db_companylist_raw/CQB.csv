@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CQB.STG,Breedon Group PLC Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+CQB.FRK,Breedon Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CQB.BER,BREEDON GROUP PLC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

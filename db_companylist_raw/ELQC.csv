@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELQC.FRK,BNP Paribas Easy - Markit iBoxx EUR Liquid Corporates,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ELQC.PAR,BNPP E Mark iBx EUR Liquid Corp ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+ELQC.DUS,BNPPE.-M.IB.EO L.C.UETFCE,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ELQC.MUN,BNPPE.-M.IB.EO L.C.UETFCE,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

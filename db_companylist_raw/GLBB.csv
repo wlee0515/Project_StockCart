@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLBB,Global Quest Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000Z0H5.LON,IFSL Ravenscroft Huntress GlbBlueChpAAcc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000Z0H6.LON,IFSL Ravenscroft Huntress GlbBlueChpAInc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000Z0H7.LON,IFSL Ravenscroft Huntress GlbBlueChpBAcc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000Z0H8.LON,IFSL Ravenscroft Huntress GlbBlueChpBInc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

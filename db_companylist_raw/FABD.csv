@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FABDX,Franklin Flexible Alpha Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FABDCX,FT 5064: Dividend Growth Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FABDRX,FT 7637: Emerging Markets Stren,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

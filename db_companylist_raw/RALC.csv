@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RALCX,Russell Inv LifePoints Growth Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+RALC.KLA,RALCO CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+7498.KLA,RALCO CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+RLCO.TAV,Ralco Agencies Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3200

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+Y.TRT,Yellow Pages Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+QNCO.TAV,Y.Z. Queenco Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4444
+7178.KLA,Y.S.P. Southeast Asia Holding Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+YSPS.KLA,Y.S.P.SOUTHEAST ASIA HOLDING,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+3358.TOK,Y.S.Food Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+6298.TOK,Y.A.C. Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+0075.HKG,Y. T. Realty Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+1339.TWN,Y.C.C. Parts Mfg. Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2222
+MRIN.TAV,Y.D. More Investments Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2222
+DIMRI.TAV,Y.H. Dimri Construction & Development Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2000

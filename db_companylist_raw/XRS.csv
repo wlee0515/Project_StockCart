@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAL,TAL Education Group,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TGE,"Tallgrass Energy, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TLND,Talend S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TALO,Talos Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TNYFX,1290 Global Talents I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1739
+TALK,iTalk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1429
+TALN,Talon International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1000
+TALFX,Transamerica Asset Alloc Long Hrzn R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0909
+TNYAX,1290 Global Talents A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0714
+TLGRF,Talga Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.0000

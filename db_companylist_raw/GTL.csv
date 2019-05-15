@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTL.BSE,GTL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.8571
+GTLS,Chart Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GTLLX,Glenmede Quant US Large Cap Gr Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GTLOX,Glenmede Quant US Large Cap Core Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTLL,Global Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GTLA,GT Legend Automotive Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GTLIX,Glenmede Quant US Large Cap Core EqInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GTLINFRA.BSE,GTL Infrastructure Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+GTLINFRA.NSE,GTL Infrastructure Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+GTL.NSE,GTL Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286

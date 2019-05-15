@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTUZX,PIMCO Total Return IV A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTUIX,PIMCO Total Return IV Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTUCX,PIMCO Total Return IV C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTU.TRV,Purepoint Uranium Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+PTUSA.SWI,UBS ETF (CH) Platinum A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+PTUSA-USD.SWI,UBS ETF Platinum (USD) A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4000

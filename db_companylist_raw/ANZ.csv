@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANZBY,Australia and New Zealand Banking Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZFF,Air New Zealand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZLY,Air New Zealand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZCX,AllianzGI Convertible C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZAX,AllianzGI Convertible A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZRX,AllianzGI Convertible R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANZ.AUS,Australia and New Zealand Banking Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+13695.AUS,ANZ OA IP-UBS Diversified Fixed Inc NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+ANZ0855AU.AUS,ANZ OA IP-Vanguard Property Sec Index EF,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818

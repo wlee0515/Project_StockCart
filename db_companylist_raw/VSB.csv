@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSBSX,Vanguard Short-Term Treasury Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VSBN,VSB Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VSBIX,Vanguard Short-Term Treasury Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSB.TRT,Vanguard Canadian Short-Term Bond ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNZO,Manzo Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MNZ.BER,"GATTACA PLC  LS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MNZS.LON,John Menzies plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MNZC3B.SAO,TERMINAL GARAGEM M,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

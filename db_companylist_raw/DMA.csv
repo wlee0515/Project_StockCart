@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMAC,DiaMedica Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DMAN,Demand Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DMAGX,Driehaus Multi-Asset Gr Economies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMA.TRV,DiaMedica Therapeutics Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DMART.NSE,Avenue Supermarts Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+DMAS.JKT,PT Puradelta Lestari Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+DMART.BSE,Avenue Supermarts Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+DMA1.BER,TRAVELITE HOLDINGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

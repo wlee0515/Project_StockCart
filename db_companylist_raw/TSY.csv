@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSYNX,AMG TimesSquare Global Small Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TSYHY,TravelSky Technology Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSYIX,AMG TimesSquare Global Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSYZX,AMG TimesSquare Global Small Cap Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSYYX,Touchstone Ultra Short Dur F/I Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSYI,Terra Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSYHF,TravelSky Technology Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TSY3.LON,SSgA SPDR ETFs Europe I Public Limited Company - SPDR Barclays 1-3 Year U.S. Treasury Bond UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

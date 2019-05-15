@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTJRX,Manning & Napier Target 2015 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTJIX,Manning & Napier Target 2015 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTJKX,Manning & Napier Target 2015 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTJZX,Manning & Napier Target 2015 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTJ3.BER,INTEK GROUP S.P.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MTJ3.STG,Intek Group S.p.A. Azioni nom. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+MTJ3.FRK,INTEK GROUP S.P.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UIQC.FRK,UBS ETFs plc - HFRX Global Hedge Fund Index SF UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+UIQC.FRK,UBS ETF HFRX Global HF SF EUR A acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+UIQC.DUS,UBS ETFS-HFRX GL.HDG.A EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+UIQC.HAM,UBS ETFS-HFRX GL.HDG.A EO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+UIQC.STG,UBS ETFs-HFRX Gl.Hdg.Fd.UC.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

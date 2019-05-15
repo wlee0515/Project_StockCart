@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBSLX,Neuberger Berman Sustainable Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSSX,Neuberger Berman Focus Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSTX,Neuberger Berman Sustainable Eq Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSRX,Neuberger Berman Sustainable Eq Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSAX,State Farm Equity & Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSBX,State Farm Equity & Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBSMX,Neuberger Berman Small Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBS.LON,Nationwide Building Society,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TASCO.BAK,Tipco Asphalt Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TPY1.BER,TIPCO ASPHALT -FGN-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+TIPCO.BAK,Tipco Foods Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+1TF.STG,Tipco Foods Public Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+TASCO-R.BAK,Tipco Asphalt Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2857
+NVP5.FRK,Tipco Asphalt Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+TPY1.FRK,Tipco Asphalt Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+NVP5.BER,TIPCO ASPH. -NVDR-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2286
+NVP5.MUN,TIPCO ASPH. -NVDR-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2105
+NVP5.STG,Tipco Asphalt PCL Reg. Shares (,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

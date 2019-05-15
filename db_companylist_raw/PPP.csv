@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PPPS,iSocialy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PPP.LON,ComStage PSI 20 ETF,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+PPP.BAK,Premier Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+PPPM.BAK,PP PRIME Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+PPP-R.BAK,Premier Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+PPP.LIS,ComStage PSI 20 ETF,ETF,Lisbon,08:00,16:30,UTC+00,EUR,0.5455
+PPPM-R.BAK,PP PRIME Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HOZ.STG,PHILIPP HOLZMANN AG Inhaber-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+HOZ.FRK,Philipp Holzmann AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HOZ.DUS,PHILIPP HOLZMANN AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

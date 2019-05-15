@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XLY,Consumer Discret Sel Sect SPDR ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+XLY.TRV,Auxly Cannabis Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+XLY.MEX,Consumer Discret Sel Sect SPDR ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+XLYP.LON,Source Markets plc - Source Consumer Discretionary S&P US Select Sector UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XLYS.LON,Invesco Consumer Discr S&P US SelSec ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XLYS.MIL,Invesco Consumer Discr S&P US SelSec ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

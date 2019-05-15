@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAIX,LAIX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LVSDF,Lai Sun Development Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAIAX,Columbia Acorn International A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAIEX,Lord Abbett International Opp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFHLF,Lai Fung Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAICX,Columbia Acorn International C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAIIX,Lord Abbett Intermediate Tax Free I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LAIDX,Lord Abbett International Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

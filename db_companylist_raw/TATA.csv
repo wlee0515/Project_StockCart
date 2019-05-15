@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTM,Tata Motors Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TATAMOTORS.NSE,Tata Motors Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+TCS.NSE,Tata Consultancy Services Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+TATASTEEL.NSE,Tata Steel Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+TATAPOWER.NSE,The Tata Power Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+TCS.BSE,Tata Consultancy Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+TATAMOTORS.BSE,Tata Motors Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+TTST.ILN,TATA STEEL LIMITED GDR (EACH RE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+TATAELXSI.BSE,Tata Elxsi Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2162
+TATASPONGE-EQ.NSE,TATA SPONGE IRON,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2162

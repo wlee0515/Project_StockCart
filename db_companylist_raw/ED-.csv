@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFAG.MIL,ETFS EUR DH Fw Agri DJ-UBS ED-F3 ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2000
+EFCM.MIL,ETFS EUR DH Fw AllCmds DJ-UBS ED-F3 ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2000

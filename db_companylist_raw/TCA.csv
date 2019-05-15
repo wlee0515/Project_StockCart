@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TCAAX,Thrivent Moderately Cnsrv Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TCAIX,Thrivent Moderately Cnsrv Allocation S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TCANF,TransCanada Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TCAGX,Timothy Plan Aggressive Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TCAP.LON,TP ICAP plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+TCA.TRV,TIMIA Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+TCA.LON,Terra Capital plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TCAP.BAK,Thanachart Capital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TCA.STG,Texas Capital Bancshares Inc. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

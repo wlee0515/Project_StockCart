@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BURL,Burlington Stores Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RRGB,Red Robin Gourmet Burgers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BURG,Chanticleer Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LBC,Luther Burbank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHRB,Burke & Herbert Bank & Trust Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BVRDF,Bureau Veritas SA,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BURCA,Burnham Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BURBY,Burberry Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GLBZ,Glen Burnie Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HHBUX,Hancock Horizon Burkenroad Sm Cp Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

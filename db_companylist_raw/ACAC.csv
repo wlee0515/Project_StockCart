@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACIA,Acacia Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ACTG,Acacia Research Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACCA,Acacia Diversified Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABGLF,Acacia Mining plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ACACX,AB Municipal Income California C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ACA.LON,Acacia Mining plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+ACPH.BRU,Acacia Pharma Group plc,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.3810
+GB0031432700.LON,S&W Acacia,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636

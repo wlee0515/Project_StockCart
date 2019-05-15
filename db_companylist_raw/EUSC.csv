@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUSC,WisdomTree Europe Hedged SmallCap Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EUSC.LON,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI Europe Small Cap UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EUSC.MEX,WisdomTree Trust - WisdomTree Europe Hedged SmallCap Equity Fund,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.7273

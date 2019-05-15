@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNH,UnitedHealth Group Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TBCUX,"Tweedy, Browne Global Value II Ccy Unhdg",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CORE.LON,L&G LOIM Global Govt Bd Fdml ETF USD UnH,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+CRED.LON,L&G LOIM Global Corp Bd Fdml ETF USD UnH,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+FWEC.LON,L&G LOIM Euro Corp Bd Fdml ETF EUR UnH,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+LOCL.LON,L&G LOIM EM Lcl Govt Bd Fdml ETF USD UnH,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+GLIN.AUS,AMP Capital Global Infras Secs Unhdg,ETF,Australia,10:00,16:00,UTC+11,AUD,0.1395

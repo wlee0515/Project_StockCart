@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PVPNX,PIMCO RealPath Blend 2040 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PVPRX,PIMCO RealPath Blend 2040 Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PVPAX,PIMCO RealPath Blend 2040 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PVP.BSE,PVP Ventures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+PVP.NSE,PVP Ventures Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+517556.BSE,PVP Ventures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2609

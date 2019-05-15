@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXE,Anixter International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AXEAX,Columbia Contrarian Europe A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AXELF,Axel Springer SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPR.FRK,Axel Springer SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+AXE.AUS,Archer Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AXE.TRV,Acceleware Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3158
+0NV2.LON,Axel Springer SE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3158
+SPR.STG,Axel Springer SE VINK.NAMENS-AK,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

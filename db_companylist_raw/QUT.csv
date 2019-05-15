@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QTT,Qutoutiao Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QUTIF,Questor Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QUTR,Quture International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+F00000O96Y.LON,Schroder Stlg Broad Market Bd X Inc Qutly,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+GB00B71R1N89.LON,Schroder Stlg Broad Market Bd X Inc Qutly,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+QUTAA.PAR,QUARTUS7%19JUN22,Equity,Paris,09:00,17:30,UTC+01,EUR,0.1463

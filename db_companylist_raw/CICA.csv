@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CICAX,American Funds Invmt Co of Amer 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CICANADIENCR.TRT,CI Cambridge Canadian Dividend D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+CICATSOCITSC.TRT,CI Global Health Sciences Corp Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+37L.FRK,Cicada Ventures Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+CID.TRV,Cicada Ventures Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3333
+82C.BER,CICASSIA PHARMACEUTICALS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+F00000PJ9R.TRT,SunWise Essntl 2 CICamCdnAABalBdl PIMInc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJ9T.TRT,SunWise Essntl 2 CICamCdnAABalBdl PIMEst,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJ9U.TRT,SunWise Essntl 2 CICamCdnAABalBdl Est,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000PJ9V.TRT,SunWise Essntl 2 CICamCdnAABalBdl Inv,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAT.BAK,Somboon Advance Technology Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8000
+PSQ.FRK,Somboon Advance Technology Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+PSQ.BER,SOMBOON ADV.TEC.-FGN- BA1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PSQ.MUN,SOMBOON ADV.TEC.-FGN- BA1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+PSQ.STG,Somboon Advance Technology PCLR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+SOMB.FRK,Stockmann Oyj ABP,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+SOMB.BER,STOCKMANN OYJ B  EO 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+SOMB.STG,Stockmann Oyj Abp Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+SAT-R.BAK,Somboon Advance Technology Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222

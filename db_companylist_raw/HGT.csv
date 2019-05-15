@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGTXU,Hugoton Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGTIF,Heng Tai Consumables Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGTX3.SAO,Cia. Hering,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+0E46.LON,LYXOR EUROMTS HGT RTD MCR-WGD G,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+HGT.LON,HgCapital Trust Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HGT.FRK,Hawkeye Gold & Diamond Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HGT.DUS,HAWKEYE GOLD + DIAM.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455
+HGT.STG,Hawkeye Gold & Diamond Inc. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

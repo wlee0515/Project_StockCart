@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEUAX,American Funds Europacific Growth 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEUHHX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEUFX,American Funds Europacific Growth 529F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEUHIX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEUEX,American Funds Europacific Growth 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEUHJX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEUMF,Century Global Commodities Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CEUHGX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEUCX,American Funds Europacific Growth 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CEUSEX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

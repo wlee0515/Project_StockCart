@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDSI,BioDelivery Sciences International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BDSIX,BlackRock Advantage Small Cap Core Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSQX,BMO Aggressive Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSYX,BMO Aggressive Allocation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSCX,BlackRock Advantage Small Cap Core Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSAX,BlackRock Advantage Small Cap Core Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSRX,BMO Aggressive Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMSRX,Hartford Schroders EmMkts Mlt-Sect BdSDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSKX,BlackRock Advantage Small Cap Core K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDSHX,BMO Aggressive Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

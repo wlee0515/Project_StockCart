@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPZ,Domino's Pizza Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DPW,DPW Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DPLO,Diplomat Pharmacy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DPST,Direxion Daily Regional Bnks Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+DPG,Duff & Phelps Global Utility Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DPWWD,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DPK,Direxion Daily MSCI Dev Mkts Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DPWW,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DPLS,DarkPulse Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DPSGY,Deutsche Post AG,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

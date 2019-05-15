@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGCCX,GAMCO Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGCIX,GAMCO Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGCAX,GAMCO Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGCRX,Goldman Sachs Concentrated Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGCTX,Goldman Sachs Concentrated Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGCPX,Goldman Sachs International T/M Eq P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGC.BAK,Global Green Chemicals Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+GGC-R.BAK,Global Green Chemicals Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

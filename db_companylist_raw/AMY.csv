@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMRS,Amyris Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMYZF,American Manganese Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMY.TRV,American Manganese Inc,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+AMYT.LON,Amryt Pharma plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+AMY.FRK,Amer Sports Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+3A01.BER,"AMYRIS BIOTECHN. DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+3A01.FRK,Amyris Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AMY.BER,AMER SPORTS CORP. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+AMY.MUN,AMER SPORTS CORP. A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+AMY.STG,Amer Sports Corp. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143

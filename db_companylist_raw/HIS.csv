@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSGX,Histogenics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HISCX,Hartford Small Cap Growth HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HPVBF,"Hispania Activos Inmobiliarios SOCIMI, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HISAX,Hancock Horizon International SmCp Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HISGX,Harbor Small Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HISIX,Homestead International Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HISVX,Harbor Small Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HISFX,Hennessy Small Cap Financial Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+HCXLF,Hiscox Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+HISOX,Harbor Small Cap Growth Opps Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

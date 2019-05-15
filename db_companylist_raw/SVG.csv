@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVGAF,Silver Grail Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+135790.BSE,Tata Bkg & Finl Svgs Reg Dividend Py,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+119281.BSE,Tata India Tax Svgs Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727
+132756.BSE,Tata India Tax Svgs Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069
+135789.BSE,Tata Bkg & Finl Svgs Dir Dividend Py,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000
+136094.BSE,HDFC Retirement Svgs Equity Dir,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765
+136465.BSE,HDFC Retirement Svgs Hybrid Debt Dir,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765
+300331.SHZ,SVG Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1765
+F00000WX5P.BSE,HDFC Retirement Svgs Equity Dir,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765
+SVG.TRV,Silver Grail Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.1538

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8091.HKG,OOH Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+OML.AUS,oOh!media Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3000
+0OH.FRK,oOh!media Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2609

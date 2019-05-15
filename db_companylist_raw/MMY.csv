@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMYT,MakeMyTrip Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMYAX,MassMutual Select Small Company Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMYLX,MassMutual Select Small Company Val Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMY.TRV,Monument Mining Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MMY.FRK,MAXIMUS Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MMY.STG,MAXIMUS INC. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

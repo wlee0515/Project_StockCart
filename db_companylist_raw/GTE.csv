@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTE,Gran Tierra Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GTES,Gates Industrial Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GGTTF,GTEC Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GTEYX,Gateway Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTENX,Gateway N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTECX,Gateway C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GTEC.TRV,GTEC Holdings Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+GTE.TRT,Gran Tierra Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GTE.AUS,Great Western Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+F00000LN8J.TRT,SunWise Elite CI PSS i30/e70 Full Gtee,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463

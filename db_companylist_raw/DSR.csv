@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+155660.KOR,DSR Corp,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+DSRLF,DiaSorin S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSR.STG,DAH SING FINANCIAL HLDGS LTD. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DSR.FRK,Dah Sing Financial Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DSR.MUN,DAH SING FINL HLDGS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+069730.KOR,DSR Wire Corp,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3750

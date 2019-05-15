@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+Z,Zillow Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ZNGA,Zynga Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZIOP,ZIOPHARM Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZYNE,Zynerba Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZS,Zscaler Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZTO,ZTO Express (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZN,Zion Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZUO,Zuora Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZBRA,Zebra Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZAYO,Zayo Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

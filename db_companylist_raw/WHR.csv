@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WHR,Whirlpool Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WHRL4.SAO,Whirlpool S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+WHR.LON,Warehouse REIT plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+WHRL3.SAO,Whirlpool S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+WHR.FRK,Whirlpool Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WHR.BER,WHIRLPOOL CORP.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WHR.DUS,WHIRLPOOL CORP.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+WHR.MUN,WHIRLPOOL CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+WHR.STG,WHIRLPOOL CORP. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455

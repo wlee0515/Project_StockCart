@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SH,ProShares Short S&P500,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SHOP,Shopify Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SHLDQ,Sears Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SHLD,Sears Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+1877.HKG,Shanghai Junshi Biosciences,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+SHW,The Sherwin-Williams Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSTI,ShotSpotter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SHPG,Shire plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SFL,Ship Finance International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SHAK,Shake Shack Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

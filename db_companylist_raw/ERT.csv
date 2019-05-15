@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERTX.JKT,PT Eratex Djaja Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+DJE001.FRK,DJE Managed Depot Ertrag,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ERT.FRK,Electronic Arts Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AT0000A1KWW5.VIE,KONZEPT \: ERTRAG 2023,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+ERT.BER,"EL. ARTS INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ERT.DUS,"EL. ARTS INC.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ERT.HAM,"EL. ARTS INC.  DL-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+ERT.MUN,"EL. ARTS INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2400
+ERT.STG,ELECTRONIC ARTS INC. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+ODEG.FRK,BfS Nachhaltigkeitsfonds Ertrag,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

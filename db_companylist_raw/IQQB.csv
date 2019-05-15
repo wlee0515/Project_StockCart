@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IQQB.FRK,iShares Public Limited Company - iShares MSCI Brazil UCITS ETF (Dist),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+IQQB.FRK,iShares MSCI Brazil ETF USD Dist,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+IQQB.BER,IS MSCI BRAZ.U.ETF USD D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IQQB.DUS,IS MSCI BRAZ.U.ETF USD D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+IQQB.HAM,IS MSCI BRAZ.U.ETF USD D,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+IQQB.MUN,IS MSCI BRAZ.U.ETF USD D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+IQQB.STG,iShs MSCI Brazil U.ETF USD(D) R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

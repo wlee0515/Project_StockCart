@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSB,Franklin Financial Network Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FSBW,FS Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSBC,FSB Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FSBDX,Fidelity Series Blue Chip Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FSBS,First South Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FSBAX,Fidelity Shrt-Term Trs Bd Index Prm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSBIX,Fidelity Shrt-Term Trs Bd Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSBTX,American Funds ST Bd Fd of Amer F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSBBX,Federated Global Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSBHX,Fidelity Advisor Short Dur Hi Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LWDBL.LON,Law Debenture Corporation,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LWDB.LON,Law Debenture Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LWD.DUS,iVestos AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWHAF,K. Wah International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+K.TRT,Kinross Gold Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+5192.KLA,K.Seng Seng Corporation Bhd.,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5000
+0173.HKG,K. Wah International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+3003.TWN,K.S. Terminals Inc.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2857
+KCPSUGIND.NSE,K.C.P. Sugar and Industries Corporation Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2857
+KCPSUGIND.BSE,K.C.P. Sugar and Industries Corporation Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+KW2.FRK,K. Wah International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+KW2.BER,K.WAH INTL HLDGS  HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+KW2.STG,K. WAH INTL HOLDINGS LTD. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KNCRF,Konecranes Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KNCAY,Konica Minolta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KNCRY,Konecranes Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KNCAF,Konica Minolta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6568.TOK,KNC Laboratories Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2069

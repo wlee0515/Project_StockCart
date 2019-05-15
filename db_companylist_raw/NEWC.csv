@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCMGY,Newcrest Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+NEWCX,American Funds New World C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCMGF,Newcrest Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NWCI,NewCardio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NCM.AUS,Newcrest Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+NC-R.BAK,Newcity (Bangkok) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4000
+N8C.BER,"NEWCORONAT. FD M.RC-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+F00000N9R8.LON,TM NewCourt A 2011 Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3077
+NMA.FRK,Newcrest Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963

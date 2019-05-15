@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AIBNX,Cavanal Hill Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+APWEX,Cavanal Hill World Energy Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CATEX,Cavalier Growth Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+CAFGX,Cavalier Fundamental Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+CADTX,Cavalier Adaptive Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+CAVMX,Cavalier Tactical Economic A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+AISTX,Cavanal Hill Limited Duration Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+CAVAX,SEI Catholic Values Equity F (SCVT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+CDYGX,Cavalier Dynamic Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+AABAX,Cavanal Hill Active Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

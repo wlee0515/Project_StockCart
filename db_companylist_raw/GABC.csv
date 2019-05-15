@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GABC,German American Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GABCX,Gabelli ABC AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+GABC.LON,GCP ASSET BACKED INCOME FUND LI,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000

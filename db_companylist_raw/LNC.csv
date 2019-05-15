@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNC,Lincoln National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LNCLF,Lincoln Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNCAX,Ladenburg Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LNCIX,Ladenburg Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LNCCX,Ladenburg Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LNC.TRV,Lithion Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+LNC.PAR,Les Nouveaux Constructeurs SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+GB00B4P9Z822.LON,Libero Strategic Retl lnc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+GB00BDD2CK71.LON,Schroder European L GBP lnc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

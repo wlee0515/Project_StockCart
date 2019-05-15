@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIMATSEIDE.BSE,Himatsingka Seide Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+SEIDEREVENU4.TRT,SEI Income 40/60 Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4706
+514043.BSE,Himatsingka Seide Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+HIMATSEIDE.NSE,Himatsingka Seide Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4211
+SEIDECROISSA.TRT,CI Marret Short Duration High Yield O,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SEIDEREVENU1.TRT,SEI Income 100 Class S,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SEIDEREVENU2.TRT,SEI Income 20/80 Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SEIDEREVENU3.TRT,CI Marret High Yield Bond Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2759

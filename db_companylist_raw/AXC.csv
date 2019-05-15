@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACLS,Axcelis Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXCG,Eyes on the Go Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXCP,Allixon International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXCBX,AllianzGI Best Styles Intl Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+42U.SGP,Axcelasia Inc.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3529
+XXA1.FRK,Axcelis Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+XXA1.BER,"AXCELIS TECHS  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+XXA1.MUN,"AXCELIS TECHS  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

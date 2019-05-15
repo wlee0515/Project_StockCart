@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWON,Grandwon Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GWOAX,GMO Global Developed Equity Allc III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GWOX,The Goodheart-Willcox Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWO.TRT,Great-West Lifeco Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GWO-PS.TRT,GREAT WEST LIFECO PREF SER S,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GWO-PT.TRT,GREAT WEST LIFECO PREF SER T,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GWO-PP.TRT,GREAT WEST LIFECO INC 5.4 PCT P,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GWO-PR.TRT,GREAT WEST LIFECO INC SER R,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GWO-PM.TRT,GREAT WEST LIFECO PREF SERIES M,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GWO-PF.TRT,GREAT-WEST LIFECO INC.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

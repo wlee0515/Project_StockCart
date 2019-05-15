@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAKK.JKT,PT Cahayaputra Asa Keramik Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+530163.BSE,Kerala Ayurveda Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+KRS.LON,Keras Resources Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4211
+509180.BSE,KERALA RUBBER & RECLAIMS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+KERALAYUR.BSE,Kerala Ayurveda Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963
+KERAD3INVEST.BCL,Kerad 3 Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2424
+F00000PTOP.BCL,Kerad 3 Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353

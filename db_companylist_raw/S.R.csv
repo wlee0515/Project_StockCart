@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+513515.BSE,S.R. Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+F00000ML61.PAR,Multipar Actions S.R.,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+QS0002105TR5.PAR,Multipar Mon?taire S.R.,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+7GXV.BER,GL.X F.-GL.X JPM.US S.RO.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+7GXV.MUN,GL.X F.-GL.X JPM.US S.RO.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2308
+SRAC.TAV,S.R. Accord Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2143
+UIMP.DUS,UBS ETF-MSCI USA S.R.ADDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+UIMP.STG,UBS ETF-U.E.-MSCI USA S.R.U.E.N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+UIMR.STG,UBS ETF-U.E.-MSCI EMU S.R.U.E.N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+SRIND.BSE,S.R. Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

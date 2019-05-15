@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STK,Columbia Seligman Premium Technology Growth Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STKL,SunOpta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IXUS,iShares Core MSCI Total Intl Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ONEQ,Fidelity NASDAQ Composite Tr Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+STKS,The ONE Group Hospitality Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+IPFF,iShares International Preferred Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+MIGFX,MFS Massachusetts Inv Gr Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818
+VITPX,Vanguard Instl Ttl Stk Market Index InstlPls,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+ICPAX,Williston Basin/Mid-North America Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429
+VMMSX,Vanguard Emerg Mkts Sel Stk Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

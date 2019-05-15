@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIBIX,Thornburg Investment Income Builder I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TIBCX,Thornburg Investment Income Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBAX,Thornburg Investment Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBR,Tiberius Acquisition Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBDX,TIAA-CREF Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBHX,TIAA-CREF Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBFX,TIAA-CREF Bond Plus Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBNX,TIAA-CREF International Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBET,Tibet Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TIBRU,Tiberius Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

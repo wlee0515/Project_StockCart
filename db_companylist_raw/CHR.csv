@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCAU,Fiat Chrysler Automobiles N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDXC,ChromaDex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHRW,C.H. Robinson Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHRS,Coherus BioSciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBK,Christopher & Banks Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHRA,Charah Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KKUR,ChromoCure Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CHRI,China Health Resource Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+CHRRF,Chorus Aviation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHRYY,Chorus Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

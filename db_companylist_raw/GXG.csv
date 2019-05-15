@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GXG,Global X MSCI Colombia ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GXG.FRK,Nanoco Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GXG.MEX,Global X MSCI Colombia ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+GXG.STG,Nanoco Group PLC Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

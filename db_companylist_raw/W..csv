@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WPC,W. P. Carey Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GWW,W.W. Grainger Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WRB,W. R. Berkley Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+GRA,W. R. Grace & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WRB-PB,W. R. Berkley Corporation SUB DEB 53,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WRB-PC,W. R. Berkley Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+WRB-PD,W. R. Berkley Corporation SUB DEB 56,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+WTBFA,W.T.B. Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+WRB-PE,W. R. Berkley Corporation 5.70% SB DB 2058,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+WTBFB,W.T.B. Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2105

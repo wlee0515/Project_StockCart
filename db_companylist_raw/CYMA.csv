@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBAY,CymaBay Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+CYMHF,Cymat Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+0I5P.LON,CymaBay Therapeutics Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+C0I.STG,Cymabay Therapeutics Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+CYMA.KLA,CYMAO HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3200
+C0I.FRK,CymaBay Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667
+CYM.TRV,Cymat Technologies Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2667
+5082.KLA,Cymao Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2667

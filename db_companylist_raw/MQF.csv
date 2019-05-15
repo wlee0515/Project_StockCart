@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MQFA.FRK,Avocet Mining plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MQFA.BER,"AVOCET MNG PLC  LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MQFA.STG,Avocet Mining plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

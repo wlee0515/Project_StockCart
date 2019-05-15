@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAA,"Plains All American Pipeline, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBA,Pembina Pipeline Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TCP,"TC PipeLines, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NWPX,Northwest Pipe Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PJC,Piper Jaffray Companies,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TTP,Tortoise Pipeline & Energy Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TORIX,Tortoise MLP & Pipeline Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+IPPLF,Inter Pipeline Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TPYP,Tortoise North American Pipeline,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PIPEX,Cushing MLP Infrastructure I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

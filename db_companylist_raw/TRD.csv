@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+^PSAU,INVESCO EXCH TRDII,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TRDFX,Crossmark Steward Sm-Md Cp Enh Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TRDIX,Transamerica Dividend Focused I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+^PAGG,INVESCO EXCH TRDII,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TRDVX,Trend Aggregation Dividend And Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+TRDX,Trend Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+^LDRI,INVESCO EXCH TRDII,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+^PSCE,INVESCO EXCH TRDII,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+^DWIN,INVESCO EXCH TRDII,ETF,United States,09:30,16:00,UTC-05,USD,0.2857

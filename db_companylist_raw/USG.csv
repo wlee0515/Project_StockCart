@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USG,USG Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+USGCX,Morgan Stanley US Government Secs L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+USGLX,JHancock US Global Leaders Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USGNX,USAA Government Securities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USGA,US Global Nanospace Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+USGRX,USAA Growth & Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USGDF,American Pacific Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+USGFX,American Funds US Government Sec F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USGIX,USAA Growth & Income Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+USGBX,Morgan Stanley US Government Secs B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

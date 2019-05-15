@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NDWICX,Nasdaq Dorsey Wright SRS Intern,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NDWBCX,Nasdaq Dorsey Wright SRS Balanc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NDWACX,Nasdaq Dorsey Wright SRS Aggres,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NDWCCX,Nasdaq Dorsey Wright SRS Core (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NDWGCX,Nasdaq Dorsey Wright SRS Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

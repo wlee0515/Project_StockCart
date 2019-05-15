@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPRO,GoPro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPOR,Gulfport Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPS,The Gap Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPL,Great Panther Silver Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPC,Genuine Parts Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPN,Global Payments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GPRE,Green Plains Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GPMT,Granite Point Mortgage Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GPK,Graphic Packaging Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GPP,Green Plains Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

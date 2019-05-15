@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRPC.BAK,IRPC Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+IRPC-R.BAK,IRPC Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154
+NVPF.FRK,IRPC Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+TPIG.FRK,IRPC Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+NVPF.BER,IRPC PCL -NVDR-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+NVPF.MUN,IRPC PCL -NVDR-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+TPIG.DUS,IRPC PCL -FOREIGN-  BA 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2581
+TPIG.MUN,IRPC PCL -FOREIGN-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2581
+TPIG.STG,IRPC PCL Reg. Shares (Foreign) ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

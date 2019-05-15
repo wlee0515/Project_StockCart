@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZUARI.BSE,Zuari Agro Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+ZUARI.NSE,Zuari Agro Chemicals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+ZUARIGLOB.BSE,Zuari Global Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+ZUARIGLOB.NSE,Zuari Global Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000

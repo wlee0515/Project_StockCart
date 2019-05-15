@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYW.BER,SONNE+WIND BET.I.A. NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYW.STG,Sonne+Wind Beteilig.AG i.A. NAM,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

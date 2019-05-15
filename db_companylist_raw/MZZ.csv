@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MZZ,ProShares UltraShort MidCap400,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MZZ.AUS,Matador Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+MZZ.TRV,Val-d'Or Mining Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+MZZ1.FRK,SEVAK Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MZZ1.BER,SEVAK LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MZZ1.STG,S i2i Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLBS,Globus Maritime Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TBB,AT&T Inc. 5.35% GLB NTS 66,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENG,BNPP E NMX 30 Infrastructure Glbl ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GLBR,Global Brokerage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AGT,iShares MSCI Argentina & Glb Exps ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+EGRIX,Eaton Vance Glbl Macro Abs Ret Advtg I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+GUNR,FlexShares Mstar Glbl Upstrm Nat Res ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+EIGMX,Eaton Vance Glbl Macr Absolute Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VGISX,Virtus Duff & Phelps Glb Rl Estt Secs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GLBD,Global Seed Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

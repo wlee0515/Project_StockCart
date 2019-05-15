@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FILA.MIL,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XRH2.MUN,WW INV.PTF-EM.MKTS F.I. A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000
+FIBI.TAV,F.I.B.I. Holdings Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3636
+XRH2.BER,WW INV.PTF-EM.MKTS F.I. A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+X9IR.STG,Amundi F.II-Emerging Mkts BondR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+BGFGB.MEX,Fondo BBVA Bancomer RV7 SA de CV F.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2500
+CIPLUSBF2.MEX,Ci Rendimiento SA de CV F.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2500
+HSBCBOLBFP.MEX,HSBC-V3 SA de CV F.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2143
+3S0.FRK,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+3S0.BER,F.I.L.A. S.P.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

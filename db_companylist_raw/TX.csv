@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TX,Ternium S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TXMD,TherapeuticsMD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TXN,Texas Instruments Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TXT,Textron Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXRH,Texas Roadhouse Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXHD,Textmunication Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXCCQ,TranSwitch Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXLZF,Tesla Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXSO,Texas South Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TXTM,ProText Mobility Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

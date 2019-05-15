@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCS,PIMCO Strategic Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RZSMF,RCS MediaGroup S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSSX,Royce Small-Cap Portfolio Servi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSAX,Russell Inv Commodity Strategies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSCX,Russell Inv Commodity Strategies C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSEX,Russell Inv Commodity Strategies E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSIX,RBC Small Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCSYX,Russell Inv Commodity Strategies Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RCS.MIL,RCS MediaGroup S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.5000
+HPI2.FRK,RCS MEDIAGROUP  EO 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2609

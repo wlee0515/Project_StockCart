@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LJPC,La Jolla Pharmaceutical Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LJP3.LON,ETFS 3x Long JPY Short USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LJPP.FRK,La Jolla Pharmaceutical Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LJPP.STG,La Jolla Pharmaceutical Co. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LJPY.LON,ETFS Long JPY Short USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

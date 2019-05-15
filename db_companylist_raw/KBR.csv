@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBR,KBR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BMMCF,Kbridge Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBRLF,K-Bro Linen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+KBRI.JKT,PT Kertas Basuki Rachmat Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+KBRO.SGP,Koh Bros,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+K6B.FRK,KBR Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+K6B.BER,"KBR INC.  DL -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+K6B.STG,KBR Inc. Registered Shares DL -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+0JPN.LON,KBR Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2609

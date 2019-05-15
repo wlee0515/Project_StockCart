@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSM,Williams-Sonoma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WSMDX,William Blair Small-Mid Cap Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WSMNX,William Blair Small-Mid Cap Gr N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSMAX,Wells Fargo Short-Term Municipal Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSML,Williamsville Sears Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WSMGX,Wilshire Small Company Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSMIX,William Blair Small-Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSMCX,Wells Fargo Small Company Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSMVX,Wilshire Small Company Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSML.LON,iShares MSCI World Small Cap ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

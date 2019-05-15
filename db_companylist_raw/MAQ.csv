@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAQAF,Atlas Arteria Limited Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAQ.AUS,Macquarie Telecom Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+MAQ0448AU.AUS,Charter Hall Direct Office Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MAQ0787AU.AUS,Macquarie Global Multi-Sector Fixed Income Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MAQ0454AU.AUS,Macquarie Australian Small Companies,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MAQ.FRK,Marriott International Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MAQ.BER,"MARRIOTT INTL A  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MAQ.DUS,"MARRIOTT INTL A  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+MAQ.HAM,"MARRIOTT INTL A  DL-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+MAQ.MUN,"MARRIOTT INTL A  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

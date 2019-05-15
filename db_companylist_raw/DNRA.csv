@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNRA.FRK,Amundi IS MSCI North America ETF DR EUR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+DNRA.FRK,Amundi IS MSCI North America ETF DR EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+DNRA.STG,AIS-AM.ID. MSCI North America A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

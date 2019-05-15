@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+III,Information Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IIIV,i3 Verticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IIIN,Insteel Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HPS,John Hancock Preferred Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+MYI,BlackRock MuniYield Quality Fund III Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PMX,PIMCO Municipal Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+STLR,Stellar Acquisition III Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+PZC,PIMCO California Municipal Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,0.1463
+PYN,PIMCO New York Municipal Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+SCE-PH,SCE Trust III,Equity,United States,09:30,16:00,UTC-05,USD,0.1333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INFO,IHS Markit Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IHSI,Intelligent Highway Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSAX,Hartford Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSZF,ISHARES II PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSFF,iShares II Public Limited Company - iShares $ TIPS UCITS ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSFX,Hartford Small Company F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSUX,Hartford Small Company R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSRF,iShares VI Public Limited Company - iShares Edge S&P 500 Minimum Volatility UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSRX,Hartford Small Company R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHSPX,Voya Hang Seng Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

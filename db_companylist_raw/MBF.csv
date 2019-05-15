@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBFI,MB Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MBFAX,Wells Fargo Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBFIO,MB Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBFJF,Mitsubishi UFJ Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBFIX,Wells Fargo Core Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBFCX,Wells Fargo Core Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBFRX,Wells Fargo Core Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBF.FRK,MB Financial Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

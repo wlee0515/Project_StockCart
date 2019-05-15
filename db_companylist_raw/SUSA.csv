@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUSA,iShares MSCI USA ESG Select ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SUSAX,SEI Ultra Short Duration Bond A (SIIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SUSA.TRT,Scotia Strategic US Eq ETF Port,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7273
+TREDOSDEINVE.BCL,Susak Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F000001YQD.BCL,Susak Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963

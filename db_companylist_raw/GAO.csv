@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAOSX,JPMorgan Global Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOAX,JPMorgan Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOCX,JPMorgan Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOZX,JPMorgan Global Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAONX,JPMorgan Global Allocation R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOPX,Goldman Sachs Balanced Strategy P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOTX,JPMorgan Global Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAOFX,JPMorgan Global Allocation R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAORX,JPMorgan Global Allocation R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AZZ.SGP,China Gaoxian Fibre Fabric Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2222

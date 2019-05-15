@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMRK,A-Mark Precious Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SG9999012355.SGP,Manulife Glb Asst Alct Gr A-MDisSGD H,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+F00000UJG6.SGP,Manulife Glb Asst Alct Mgd Gr A-MDisSGD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1538
+F00000VQQK.SGP,Manulife Glb Asst Alct Gr A-MDis USD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1538
+SG9999012785.SGP,Manulife Glb Asst Alct Gr A-MDis USD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1500
+AND.STG,A-Mark Precious Metals Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1500
+F00000UMXR.SGP,Manulife Glb Asst Alct Gr A-MDisSGD H,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1429
+SG9999012322.SGP,Manulife Glb Asst Alct Mgd Gr A-MDisSGD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1429
+SG9999012777.SGP,Manulife Glb Asst Alct Mgd Gr A-MDis USD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1395
+F00000VXSH.SGP,Manulife Glb Asst Alct Mgd Gr A-MDis USD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1395

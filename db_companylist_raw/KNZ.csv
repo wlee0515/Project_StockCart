@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KNZ.FRK,Konzum Befektetesi es Vagyonkezelo Nyrt.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KNZ.STG,Konzum Befektetesi es Vagyonkezelo Nyrt.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KNZ.BER,KONZUM INVT+AS.MG.UF 2.50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

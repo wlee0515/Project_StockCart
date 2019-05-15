@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8613.KLA,ENRA Group Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3810
+FMIS.KLA,ENRA GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3810
+A12BST.FRK,ENRAK Wachstum und Dividende global,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+F00000VGZD.FRK,ENRAK Wachstum und Dividende global,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+HJ34.HAM,ENRAK WACHSTU.U.DIVI.GL.R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2051
+F00001094P.FRK,ENRAK Wachstum und Dividende global R,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2051
+F000011FLX.FRK,ENRAK High Dynamic global,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1951

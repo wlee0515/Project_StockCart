@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNORX,Fidelity Nordic,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNOITX,FT 7402: Tactical Alpha Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNOYEX,FT 7048: Senior Loan Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNOCWX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNON,Fonon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNORDX,FT 7356: Corporate High Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNOLUX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNOCAX,FT 6293: Dow Jones Global Titan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNOEAX,FT 7780: Interest Rate Hedge Op,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNOR11.SAO,Finor -Ci Fund,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

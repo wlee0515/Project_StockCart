@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHB,Nuveen High Income November 2021 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JHBSX,JHancock Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHBIX,JHancock Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHBPX,John Hancock Variable Insurance,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHBBX,JHancock Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHBTX,Janus Henderson Global Bond T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

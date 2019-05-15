@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SODA,SodaStream International Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JSDA,Jones Soda Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+N76.FRK,Nippon Soda Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+S27.FRK,SodaStream International Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+4046.TOK,Osaka Soda Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+N76.BER,NIPPON SODA CO.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200
+N76.DUS,NIPPON SODA CO.LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+S27.BER,"SODASTREAM INTL  IS-,645",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2424

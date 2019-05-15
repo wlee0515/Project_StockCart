@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZMLP,Direxion Zacks MLP High Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+CVY,Invesco Zacks Multi-Asset Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+PZI,Invesco Zacks Micro Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+ZDIVX,Zacks Dividend Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+ZSCIX,Zacks Small-Cap Core Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+HGI,Invesco Zacks Intl Mlt-Asst Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+CZA,Invesco Zacks Mid-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+ZDIIX,Zacks Dividend Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579

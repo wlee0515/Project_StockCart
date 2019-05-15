@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGCKX,Fidelity Growth Company K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FGCCX,Nuveen GA Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FGCO,Financial Gravity Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCSX,Federated Short-Interm Ttl Ret Bd Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCNVX,ft 4119: Morgan Stanley-Tribeca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCQX,Templeton Global Currency R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCAX,Federated Short-Interm Ttl Ret Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCN,Flagship Global Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FGCIX,Federated Short-Interm Ttl Ret Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

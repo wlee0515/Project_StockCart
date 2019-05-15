@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UWT,VelocityShares 3x Lng Crude Oil ETN New,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+UCO,ProShares Ultra Bloomberg Crude Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+DWT,VelocityShares 3x Invrs Crude Oil ETNNew,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+CRUS,Cirrus Logic Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RCL,Royal Caribbean Cruises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OILU,ProShares UltraPro 3x Crude Oil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SCO,ProShares UltraShort Bloomberg Crude Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+NCLH,Norwegian Cruise Line Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+UWTIF,VelocityShares 3x Long Crude Oil ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+OILD,ProShares UltraPro 3x Shrt Crude Oil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

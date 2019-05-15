@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTMIX,MainStay MacKay Total Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMRX,MainStay MacKay Total Return Bond R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMBX,MainStay MacKay Total Return Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMCX,MainStay MacKay Total Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMNX,MainStay MacKay Total Return Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMAX,MainStay MacKay Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTMY.LON,Matomy Media Group Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MTM.AUS,Mareterram Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MTMY.TAV,Matomy Media Group Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+11087.AUS,Optimix MTM W Global Smaller Companies,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1463

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRC,MRC Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MRCC,Monroe Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRCY,Mercury Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRCR,Moro Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRCCL,Monroe Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRCZX,MassMutual RetireSMART Cnsrv R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRCLX,MassMutual RetireSMART Cnsrv Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRCBX,BlackRock Total Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRCBF,Morguard Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRCVX,MassMutual RetireSMART Cnsrv R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

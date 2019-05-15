@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZTX.FRK,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ZTX.BER,ZHUZHOU CRRC TIME.E.H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZTX.STG,Zhuzhou CRRC Times Electric Co. Ltd.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

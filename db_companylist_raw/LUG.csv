@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUG.TRT,Lundin Gold Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+IT0005014888.MIL,Epsilon Flexible Forex Coupon Luglio 2019,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6667
+LUG.BER,LUOYANG GLASS CO. H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+601599.SHH,Jiangsu Lugang Culture Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1714
+F00000TI53.MIL,Eurizon Cedola Attiva Top Luglio 2021,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1714
+F00000U3QE.MIL,Eurizon Guida Attiva Luglio 2019,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1500
+CNPLINEAPROT.MIL,Cnp Linea Protetta Luglio,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1364

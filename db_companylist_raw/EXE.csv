@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXEL,Exelixis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXC,Exelon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XELA,Exela Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+USATX,USAA Tax Exempt Intermediate-Term,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+USTEX,USAA Tax Exempt Long-Term,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+USSTX,USAA Tax Exempt Short-Term,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EXETF,EXTENDICARE INC,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PTEIX,Putnam NY Tax Exempt Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ELED,ExeLED Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+XELAU,Exela Technologies Inc. UNIT(1 COM & 1 WT)16/01/22,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

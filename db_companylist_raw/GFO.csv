@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFOO,Genufood Energy Enzymes Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GFOX,Grey Fox Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+2686.TOK,Gfoot Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3529

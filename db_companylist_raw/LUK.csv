@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUKOY,PJSC LUKOIL,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LKFLF,Luk Fook Holdings (International) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LKOH.MOS,PJSC LUKOIL,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+LKOD.ILN,PJSC LUKOIL  ADR (EACH REPR 1 O,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LUKY.TRV,Luckystrike Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+LUK.FRK,Public Joint Stock Company Oil Company LUKOIL,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+0590.HKG,Luk Fook Holdings (International) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+LUKN.SWI,Luzerner Kantonalbank AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4286
+LUK2.LON,L&G FTSE 100 Leveraged (Daily 2x) ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+LUK.FRK,PJSC LUKOIL,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

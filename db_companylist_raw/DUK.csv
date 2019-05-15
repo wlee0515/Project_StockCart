@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DUK,Duke Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DRE,Duke Realty Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DUKH,Duke Energy Corporation JR SUB DEB 73,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DUKB34.SAO,Duke Energy Corporation,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000
+DUKE.LON,Duke Royalty Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+BKV.SGP,Dukang Distillers Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+DKN.FRK,Duketon Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+DUR.FRK,Duke Realty Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+DUR.MUN,"DUKE REALTY  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

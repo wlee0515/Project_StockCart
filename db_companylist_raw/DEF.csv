@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DEF,Invesco Defensive Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KTOS,Kratos Defense & Security Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ITA,iShares US Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+FSDAX,Fidelity Select Defense & Aero Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+XAR,SPDR S&P Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+PPA,Invesco Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+DMO,Western Asset Mortgage Defined Opportunity Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+MMD,MainStay DefinedTerm Municipal Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+AUENX,AQR Large Cap Defensive Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622
+FDEF,First Defiance Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1364

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ES0141986002.BCL,Gescooperativo Small Caps Euro FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+ES0137381002.BCL,Gesconsult Renta Variable B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+GESCONSULT30.BCL,Gesconsult 30-75 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+GSC1.SWI,Gesco AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4211
+F000001WF3.BCL,Gescooperativo Small Caps Euro FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3158
+GESCONSULTCO.BCL,Gesconsult Corto Plazo FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3158
+GESCONSULTCR.BCL,Gesconsult Crecimiento Eurozona FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2162

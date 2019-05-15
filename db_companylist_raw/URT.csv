@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+URTY,ProShares UltraPro Russell2000,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+URTH,iShares MSCI World ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LFDEF,UrtheCast Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+URTNX,USAA Target Retirement 2020,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+URTRX,USAA Target Retirement 2030,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+URTAX,JPMorgan Realty Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+URTDX,JPMorgan Realty Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+URTLX,JPMorgan Realty Income L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+URTCX,JPMorgan Realty Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

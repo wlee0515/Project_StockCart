@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPCB,SuperCom Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPCL,Solaris Power Cells Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPCO,The Stephan Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPCAX,SilverPepper Cmdty Strats Glb Macro Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SPCIX,SilverPepper Cmdty Strats Glb Macro Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

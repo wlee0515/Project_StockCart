@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSFXW,MORGAN STANLEY FI.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FI.SWI,FISCHER N,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4000
+LYBF.FRK,MUL-L.EO C.BD EX FI.U.ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+XB4N.FRK,XTR.II EUR CO.BD EX FI.IC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+ELFC.STG,Deka EURO iST.ex Fi.Div.+U.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+LHZ8.DUS,LAZ.GAF.-L.GL FI.IN. BDDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

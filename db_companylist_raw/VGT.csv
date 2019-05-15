@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGT,Vanguard Information Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+VGTSX,Vanguard Total Intl Stock Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VGTL,VGTel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VGTWSX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VGT.MEX,Vanguard Information Technology ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+VGTY.FRK,VANG.USD TREAS.BD UETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

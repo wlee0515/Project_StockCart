@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPH,"Five Point Holdings, LLC",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FPHAX,Fidelity Select Pharmaceuticals Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPHCX,FA 529 PORT 2025-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPHHF,First Philippine Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FPHGTX,FT 6623: Preferred Income Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPHAOX,FT 7272: Innovative Technology ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPHAMX,"FT 7501: Election Portfolio, 20",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPH.AUS,Fisher & Paykel Healthcare Corporation Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+FPH.FRK,Francotyp-Postalia Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

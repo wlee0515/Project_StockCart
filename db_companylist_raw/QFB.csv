@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFB1.BER,ULTRA LITHIUM INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+QFB1.FRK,Ultra Lithium Inc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+QFB1.STG,Ultra Lithium Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

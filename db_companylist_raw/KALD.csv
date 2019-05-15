@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FP7P.STG,DWS Concept Kaldemorgen Inhaber,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+FP7N.STG,DWS Concept Kaldemorgen Inhaber,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.3478
+HVJ9.STG,DWS Concept Kaldemorgen Inhaber,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+KALDICAPITAL.BCL,Kaldi Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286
+F000002DZR.BCL,Kaldi Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

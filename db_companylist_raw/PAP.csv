@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IP,International Paper Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TIS,Orchids Paper Products Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PZZA,Papa John's International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FRSH,Papa Murphy's Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CLW,Clearwater Paper Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+KS,KapStone Paper and Packaging Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+SUZBY,Suzano Papel e Celulose S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+PAPA,WO Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818
+NDGPY,Nine Dragons Paper (Holdings) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+KCNY,KraneShares E China Comrcl Paper ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

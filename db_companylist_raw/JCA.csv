@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JCAP,Jernigan Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JCAP-PB,Jernigan Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JCAPX,Janus Henderson Forty I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCAIX,Janus Henderson Global Allc Cnsrv I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCAFX,JHancock CA Tax-Free Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCASX,Janus Henderson Global Allc Cnsrv S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCAAX,Janus Henderson Global Allc Cnsrv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCACX,Janus Henderson Global Allc Cnsrv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JCA.STG,Compagnie des Alpes SA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJAD.FRK,Multi Units Luxembourg - Lyxor iBoxx $ Treasuries 10Y+ (DR) UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+DJAD.BER,MUL-L.IBOX.USD T.10Y+DR D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+DJAD.FRK,MUL-L.IBOX.USD T.10Y+DR D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

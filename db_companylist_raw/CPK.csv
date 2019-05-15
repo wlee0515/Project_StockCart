@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPK,Chesapeake Utilities Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CPKOF,Castle Peak Mining Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPKF,Chesapeake Financial Shares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPKA,Chase Packaging Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPKPF,C.P. Pokphand Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPKPY,C.P. Pokphand Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPK.FRK,Capcom Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CPK.STG,CAPCOM CO. LTD. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

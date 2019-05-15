@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWBC,MW Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MWB.FRK,mwb fairtrade Wertpapierhandelsbank AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+MWB.FRK,mwb fairtrade Wertpapierhandelsbank AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MWB.BER,MWB FAIRTRADE WPHDLSBK AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MWB.DUS,MWB FAIRTRADE WPHDLSBK AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MWB.HAM,MWB FAIRTRADE WPHDLSBK AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+MWB.MUN,MWB FAIRTRADE WPHDLSBK AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MWB.STG,mwb fairtrade Wphdlsbank AG Inh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

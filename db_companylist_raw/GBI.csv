@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBIM,GlobeImmune Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GBIL,Goldman Sachs Access Treasury 0-1 Yr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GBIAX,Nationwide Bond Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBIRX,Goldman Sachs Global Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBICX,Nationwide Bond Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBIUX,Goldman Sachs Global Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

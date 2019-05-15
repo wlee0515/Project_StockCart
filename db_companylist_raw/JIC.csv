@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JICPX,JHFunds 2 Capital Appreciation 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JICDX,JHFunds 2 Core Bond 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JICTX,JPMorgan Investor Conservative Growth T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JICAX,JPMorgan Intrepid Sustainable Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JICCX,JPMorgan Intrepid Sustainable Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1027.HKG,China Jicheng Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3750
+3597.TOK,JICHODO Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+002819.SHZ,Beijing Oriental Jicheng Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818
+010580.KOR,JICO co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1622

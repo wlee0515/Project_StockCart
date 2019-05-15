@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIU.TRT,BetaPro S&P 500 Daily Inverse ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HIUC.FRK,China Taiping Insurance Holdings Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HIUC.BER,CN TAIPING INS.HLD.(BL200,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HIUC.STG,CN Taiping Insur.Hldgs Co.Ltd.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+HIUC.MUN,CN TAIPING INS.HLD.(BL200,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

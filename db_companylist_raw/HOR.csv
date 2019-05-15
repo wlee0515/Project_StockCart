@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZNP,Horizon Pharma Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DHI,D.R. Horton Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HZN,Horizon Global Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HRL,Hormel Foods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OHGI,One Horizon Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HDP,Hortonworks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HMLSF,Horizons Marijuana Life Sciences Index ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PRNHX,T. Rowe Price New Horizons,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FHN,First Horizon National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+HRZN,Horizon Technology Finance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

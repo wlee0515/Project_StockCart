@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DXC,DXC Technology Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DXCM,DexCom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DXCBX,Direxion Indexed CVT Strategy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DXCIX,Direxion Indexed Cmdty & Inc Strat Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DXCCX,Delaware Tax-Free MN Intermediate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DXCTX,Direxion Indexed Cmdty & Inc Strat Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+2XT.MUN,"DXC TECHNOLOGY CO. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500
+2XT.FRK,DXC Technology Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+0I6U.LON,DXC Technology Company,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+2XT.BER,"DXC TECHNOLOGY CO. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GMO,General Moly Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GMOM,Cambria Global Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GMODX,GMO Opportunistic Income VI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GEDTX,GMO Emerging Domestic Opportunities II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMOYF,GMO Internet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GMOS,Giant Motorsports Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GMFSX,GMO Foreign Small Companies III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GUSTX,GMO US Treasury,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+GEDFX,GMO Emerging Domestic Opportunities VI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GAPOX,GMO Alpha Only IV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

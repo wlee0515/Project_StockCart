@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKAS,Saker Aviation Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAKH,Sakha Enterprises Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAKL,Sack Lunch Productions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SAKUMA.NSE,Sakuma Exports Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+3408.TOK,Sakai Ovex Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+4078.TOK,Sakai Chemical Industry Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+2539.TWN,Sakura Development Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2400
+4761.TOK,SAKURA KCS Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+SAKSOFT.NSE,Saksoft Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2069
+1377.TOK,Sakata Seed Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1667

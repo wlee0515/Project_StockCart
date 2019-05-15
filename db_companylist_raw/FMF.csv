@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMF,First Trust Morningstar Mgd FutsStrt ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FMFAX,Fidelity Advisor Materials A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FMFEX,Fidelity Advisor Materials I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FMFIX,RBB Free Market Fixed Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFP,First Community Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFMX,Fidelity Advisor Series Equity Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFG,Farmers and Merchants Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFTX,Fidelity Advisor Materials M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFCX,Fidelity Advisor Materials C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMFVX,Franklin Mutual Financial Services R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

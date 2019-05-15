@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HMTC,Homasote Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HG1.FRK,HOMAG Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+002668.SHZ,Guangdong Homa Appliances Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4444
+HG1.HAN,HOMAG GROUP AG,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.4444
+HG1.HAM,HOMAG GROUP AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+HG1.FRK,HOMAG Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+HG1.BER,HOMAG GROUP AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+HG1.DUS,HOMAG GROUP AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+HG1.MUN,HOMAG GROUP AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286
+HG1.STG,Homag Group AG Inhaber-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2051

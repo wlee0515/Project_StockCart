@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOGO,Gogo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOGL,Golden Ocean Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOGIX,JHancock International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GOGR,Go Green Global Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GLGDF,GoGold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GOGY,Golden Grail Technology Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GOGFX,Victory Sycamore Small Company Opp R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGD.TRT,GoGold Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+GOG.LON,The Go-Ahead Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444

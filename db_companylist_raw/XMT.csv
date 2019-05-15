@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMTIF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XMTTF,Xmet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XMTTX,Western Asset Municipal Defined,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XMTFF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XMTD.LON,X MSCI Taiwan ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMTW.LON,db x-trackers - MSCI Taiwan Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMTG.BER,ISHS CORE SPI ETF (CH),ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XMTA.DUS,ABERD.(CH)EUROP.OPP.EQ.FD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XMT.BER,ISHARES SMI ETF (CH),ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+XMTA.HAM,ABERD.(CH)EUROP.OPP.EQ.FD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

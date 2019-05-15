@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLAN,Anaplan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ARCE,Arco Platform Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PAA,"Plains All American Pipeline, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PLNT,Planet Fitness Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LEG,"Leggett & Platt, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PLAB,Photronics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PLNHF,Planet 13 Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WCG,WellCare Health Plans Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PLCE,The Children's Place Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PLG,Platinum Group Metals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCN,FTI Consulting Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FCNTX,Fidelity Contrafund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FCNKX,Fidelity Contrafund K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNCA,First Citizens BancShares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBVI,FCN Banc Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNVX,Fidelity Conservative Income Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNAX,Fidelity Advisor Consumer Discret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNCB,First Citizens BancShares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNE,Four Corners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCNBX,Templeton International Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529

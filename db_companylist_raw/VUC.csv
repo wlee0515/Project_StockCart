@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VUCP.MUN,VANG.USD CORP.B.U.ETF DLD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+VUCP.FRK,VANG.USD CORP.B.U.ETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VUCP.LON,Vanguard Funds Public Limited Company - Vanguard USD Corporate Bond UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+VUCP.AMS,Vanguard Funds Public Limited Company - Vanguard USD Corporate Bond UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+VUCP.BER,VANG.USD CORP.B.U.ETF DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VUCP.FRK,VANG.USD CORP.B.U.ETF DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+VUCP.DUS,VANG.USD CORP.B.U.ETF DLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+VUCP.SWI,Vanguard USD Corporate Bond ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+VUCP.STG,Vanguard USD Corporate B.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

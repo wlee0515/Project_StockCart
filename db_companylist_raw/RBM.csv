@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RBMNF,Rugby Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBMTX,American Funds 2055 Trgt Date Retire R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RBMTF,Rambler Metals and Mining PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBMS.JKT,PT Ristia Bintang Mahkotasejati Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

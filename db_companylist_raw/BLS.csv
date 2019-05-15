@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLSP,Blue Sphere Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLSFY,BlueScope Steel Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSKX,BlackRock Advantage Emerging Mkts K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSAX,BlackRock Advantage Emerging Mkts Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSFF,BlueScope Steel Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSSF,Black Sea Copper & Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSIX,BlackRock Advantage Emerging Mkts Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLSCX,BlackRock Advantage Emerging Mkts Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

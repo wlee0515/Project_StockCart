@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCQA.FRK,The Scotts Miracle-Gro Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SCQA.BER,"SCOTTS MIRAC.GRO A DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SCQA.STG,"Scotts Miracle Gro Co., The Reg",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

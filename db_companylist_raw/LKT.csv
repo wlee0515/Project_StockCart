@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LKT.FRK,Lucara Diamond Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LKT.BER,LUCARA DIAMOND CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LKT.STG,Lucara Diamond Corp. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LKTI.KLA,SAM ENGINEERING & EQUIPMENT,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

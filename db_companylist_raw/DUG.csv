@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DUG,ProShares UltraShort Oil & Gas,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DUGAX,Delaware US Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DUGRX,Delaware Strategic Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DUGCX,Delaware Strategic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DUGIX,Delaware Strategic Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DUG.TRV,Distinct Infrastructure Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2332.TWN,D-Link Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2857
+DLINKINDIA.BSE,D-Link (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+DLINKINDIA.NSE,D-Link (India) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500

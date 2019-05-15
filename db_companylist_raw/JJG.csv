@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JJG,iPath B Bloomberg Grains Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JJGB,iPath B Bloomberg Grains Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JJGTF,iPath Bloomberg Grains SubTR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSGM,BioSig Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BSGRX,BlackRock Advantage Small Cap Gr R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BSGCX,Diamond Hill Financial Long-Short C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGPX,Baillie Gifford EAFE Pure I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGLX,Baillie Gifford Long Term Glbl Gr Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGAX,Sterling Capital Short Duration Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGC,BigString Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGSX,Baird Small/Mid Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGIX,Baird Small/Mid Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSGR.AMS,B&S Group S.A.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAZFF,Razer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RZZRY,Razer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RAZCX,Russell Inv Multi-Asset Growth Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RZREF,Razor Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+RAZAX,Russell Inv Multi-Asset Growth Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+1337.HKG,Razer Inc.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+RZE.TRV,Razor Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+5RZ.FRK,RAZER INC.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+RAZB.BER,"RATOS B FRIA  SK 2,083",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4615

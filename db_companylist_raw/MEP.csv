@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEPYX,BlackRock PA Municipal Bond Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEPSX,MassMutual Premier Disciplined Value R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEPAX,MassMutual Premier Disciplined Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEP.AUS,Minotaur Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+MEP.FRK,Recylex S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MEP.BER,"RECYLEX S.A.  EO 0,37",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MEP.BSE,MEP Infrastructure Developers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+MEP.NSE,MEP Infrastructure Developers Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+MEP.STG,Recylex S.A. Actions Port. EO 0,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

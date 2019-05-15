@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDWGX,American Funds Dvlpg Wld Gr&Inc F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDWRNX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWHSX,FT 7063: Tactical Income Opport,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWRPX,FT 6423: Strategic Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWYNX,FT 6302: Senior Loan Select Clo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWGSX,FT 7113: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWKRX,FT 7696: Sabrient Baker's Dozen,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDWJLX,FT 7671: Prime Income and ETF P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

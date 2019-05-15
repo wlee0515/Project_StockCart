@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CQMA.DUS,"COBHAM PLC  LS-,025",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+CQMA.FRK,Cobham plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+CQMA.BER,"COBHAM PLC  LS-,025",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+CQMA.STG,Cobham PLC Registered Shares LS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

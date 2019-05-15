@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KKC.FRK,Kakaku.com Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KKC.BER,KAKAKU.COM INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KKC.BAK,Kulthorn Kirby Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+KKCL.BSE,Kewal Kiran Clothing Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+KKCL.NSE,Kewal Kiran Clothing Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+KKC-R.BAK,Kulthorn Kirby Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

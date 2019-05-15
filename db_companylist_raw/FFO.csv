@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFOLX,Fidelity Freedom Index 2045 Instl Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFOPX,Fidelity Freedom Index 2050 Instl Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFOGX,FA 529 AGGRESSIVE GROWTH PORT: ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFO1.FRK,"FUFENG GROUP LTD  HD -,10",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FFO1.BER,"FUFENG GROUP LTD  HD -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FFO1.MUN,Fufeng Group Limited,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

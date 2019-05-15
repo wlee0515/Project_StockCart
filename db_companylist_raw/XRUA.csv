@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRUA.FRK,AXA World Funds - Optimal Income Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XRUA.DUS,AXA WLD-OPT.INCOME E TPF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

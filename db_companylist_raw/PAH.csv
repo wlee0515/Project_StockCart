@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAH,Platform Specialty Products Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PAHC,Phibro Animal Health Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PAHIX,T. Rowe Price High Yield Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAHRX,T. Rowe Price Target 2015 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAHHX,T. Rowe Price Target 2040 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAHGF,Pets at Home Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAH3.FRK,Porsche Automobil Holding SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+PAH3.FRK,Porsche Automobil Holding SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZJS1.STG,JinkoSolar Holding Co. Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ZJS1.FRK,JinkoSolar Holding Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZJS1.BER,JINKOSOLAR ADR/4 DL-00002,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZJS1.HAN,JINKOSOLAR ADR/4 DL-00002,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+ZJS1.HAM,JINKOSOLAR ADR/4 DL-00002,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+ZJS1.MUN,JINKOSOLAR ADR/4 DL-00002,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

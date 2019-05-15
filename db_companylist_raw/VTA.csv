@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTA,Invesco Dynamic Credit Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VTABX,Vanguard Total Intl Bd Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTAPX,Vanguard Shrt-Term Infl-Prot Sec Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTARX,Virtus DFA 2040 Trgt Date Retire Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTATX,Virtus DFA 2045 Trgt Date Retire Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTA.LON,Volta Finance Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+AT0000A1FV77.VIE,Raiffeisen-GreenBonds (I) VTA,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+VTA.AMS,Volta Finance Limited,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+VTAS.LON,VOLTA FINANCE LIMITED ORD NPV (,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+D5VG.BER,C-QUADRAT ARTS T.R.B. VTA,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1875

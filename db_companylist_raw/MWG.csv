@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWG.LON,Modern Water plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MWG2.FRK,InMed Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MWGT.LON,Miton Global Opportunities Investment Trust Plc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MWG2.BER,INMED PHARMACEUT.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MWG2.MUN,INMED PHARMACEUT.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+MWG2.STG,InMed Pharmaceuticals Inc. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

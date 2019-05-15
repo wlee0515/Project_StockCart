@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDEF,First Defiance Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FDEGX,Fidelity Growth Strategies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FDETX,Fidelity Advisor Capital Development O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEQX,Fidelity Disciplined Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDESX,Fidelity Advisor Diversified Stock O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEU,First Trust Dynamic Europe Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEEX,Fidelity Freedom 2055,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEWX,Fidelity Freedom Index 2055 Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEVX,Templeton Developing Markets R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDEKX,Fidelity Disciplined Equity K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IQLT,iShares Edge MSCI Intl Quality Fctr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IQLYEX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQLTYX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQLTEX,Invesco Unit Tr Investors Quali,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQLMIX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQL.BER,IQ POWER LICENS.NA. SF-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

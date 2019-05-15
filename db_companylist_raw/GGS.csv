@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGSAX,Goldman Sachs Growth Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GGSUX,Goldman Sachs Growth Strategy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSYX,Grandeur Peak Global Stalwarts Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSOX,Grandeur Peak Global Stalwarts Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSM,Gold and GemStone Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSIX,Goldman Sachs Growth Strategy Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSSX,Goldman Sachs Growth Strategy Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSTX,Goldman Sachs Growth Strategy Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSRX,Goldman Sachs Growth Strategy R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGSCX,Goldman Sachs Growth Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

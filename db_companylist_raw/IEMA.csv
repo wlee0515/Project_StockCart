@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IEMAX,Invesco Emerging Markets Select Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IEMA.LON,iShares MSCI EM ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+IEMA.AMS,iShares III Public Limited Company - iShares MSCI Emerging Markets UCITS ETF (Acc),ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+IEMAN.MEX,ISHARES III PLC MSCI EM UCITS E,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

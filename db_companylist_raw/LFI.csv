@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFIN,Longfin Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LFIFX,Leader Floating Rate Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIKX,MFS Lifetime 2055 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIAX,MFS Lifetime 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFITX,MFS Lifetime 2055 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIUX,MFS Lifetime 2055 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIBX,MFS Lifetime 2055 B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFISX,MFS Lifetime 2055 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIIX,MFS Lifetime 2055 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFIRX,MFS Lifetime 2055 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

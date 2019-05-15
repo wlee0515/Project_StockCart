@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESPO,VanEck Vectors Vdo Gaming and eSprts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VDOMF,Val-d'Or Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+VDPH,VDO-Ph International,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VDO-H.TRV,Nevado Resources Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857

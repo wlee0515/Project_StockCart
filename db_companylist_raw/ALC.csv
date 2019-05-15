@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AA,Alcoa Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LQSIF,Alcanna Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABDC,Alcentra Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALCO,Alico Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALCFX,Alger Focus Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCF,Dreyfus Alcentra Global Credit ,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ALCBX,AB Municipal Income California B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ALCKX,AB Large Cap Growth K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+ALCCX,Alger Capital Appreciation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+XSACX,Stira Alcentra Global Credit Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

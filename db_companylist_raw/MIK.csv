@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIK,The Michaels Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MKRS,Mikros Systems Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MIKP,Mike the Pike Productions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MIKOX,Matthews Korea Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+MIKA.JKT,PT Mitra Keluarga Karyasehat Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+MH4N.MUN,"MIKRON HLDG NA  SF 0,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5714
+0112.KLA,MIKRO MSC BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3158
+1247.HKG,Miko International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2308
+MIKO.BRU,Miko NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.2000

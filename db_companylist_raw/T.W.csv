@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+X1T.BER,XINJIANG T.W.SAV.IR.H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+0V1N.BER,VANGUARD T.WLD ST.IDX ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143

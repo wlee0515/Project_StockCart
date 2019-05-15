@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TYMN.LON,Tyman plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6154
+LUO1.BER,"TYMAN PLC LS -,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3810
+LUO1.STG,Tyman PLC Registered Shares LS ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

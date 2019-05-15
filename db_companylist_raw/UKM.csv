@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UKMV.LON,Ossiam FTSE 100 Minimum Var ETF 1C GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+UKML.LON,UK Mortgages Ltd,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MXTMX,Great-West T. Rowe Price Mid Cp Gr L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTLX,Great-West Lifetime Cnsrv 2055 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTBX,Great-West Lifetime 2035 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTOF,Metso Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTRF,Montero Mining and Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTQX,Great-West T. Rowe Price Eq Inc L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTDX,Great-West Short Duration Bond L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTFX,Great-West Loomis Sayles Sm Cp Val Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTLF,Metalex Ventures Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXTL.KLA,BERJAYA ASSETS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

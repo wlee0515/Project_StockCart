@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SQE.FRK,Strategic Education Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SQE.BER,"STRATEGIC EDUCAT.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SQE.STG,Strategic Education Inc. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

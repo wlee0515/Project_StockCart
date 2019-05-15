@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALEX,Alexander & Baldwin Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LEBOX,Leigh Baldwin Total Return,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3636
+BEEI,Bald Eagle Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+28F.BER,FASTIG.AB BALDER B  SK 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+28F.STG,Fastighets AB Balder Namn-Aktie,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+0H2Z.LON,Fastighets AB Balder (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+ABU.FRK,Alexander & Baldwin Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581
+UE3.MUN,Vilniaus Baldai AB,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286
+UE3.STG,Vilniaus Baldai AB Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

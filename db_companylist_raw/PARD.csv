@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PARD,Poniard Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PDER,Pardee Resources Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+PARDX,T. Rowe Price Retirement 2040 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PARDP,Poniard Pharmaceuticals Inc. PFD CV$2.4375,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PARD3.SAO,Instituto Hermes Pardini S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5714
+F000010Y3Q.FRK,Pardus Global UI,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5714
+F0GBR055R8.BCL,Pardo EPSV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5000
+F00000NFU3.BCL,Pardo Espabolsa PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+F0GBR058ME.BCL,Pardo Renta Variable PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3636
+PLUSPLANDEJU.BCL,Pardo EPSV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963

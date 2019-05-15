@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSC,Studio City International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RGR,"Sturm, Ruger & Company Inc.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTOP,Recall Studios Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MVES,The Movie Studio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TKSTF,Tinkerine Studios Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+STBI,Sturgis Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+STUSX,Shelton Short Term US Government Bd Dir,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PDOS,"Platinum Studios, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CUUHF,Stuart Olson Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+STUKX,Shelton Short Term US Government Bd K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1935

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAHO,Tahoe Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TAHYX,Pioneer High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHBX,Transamerica High Yield Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHFX,Transamerica High Yield Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHDX,Transamerica High Yield Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHRX,Transamerica High Yield Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHTX,Transamerica High Yield Bond I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHWX,Transamerica High Yield Bond T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAHEF,Tahera Diamond Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THO.TRT,Tahoe Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444

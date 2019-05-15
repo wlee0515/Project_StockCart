@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALFA,AlphaClone Alternative Alpha ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ALFVY,Alfa Laval AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFVF,Alfa Laval AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFAX,Lord Abbett Alpha Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFRX,Lord Abbett Alpha Strategy R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFCX,Lord Abbett Alpha Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFFX,Lord Abbett Alpha Strategy F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFYX,Lord Abbett Alpha Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALFQX,Lord Abbett Alpha Strategy R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

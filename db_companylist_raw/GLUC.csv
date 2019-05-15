@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLUC,Glucose Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+524480.BSE,Riddhi Siddhi Gluco Biols Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2162
+RIDDHI.BSE,Riddhi Siddhi Gluco Biols Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2162

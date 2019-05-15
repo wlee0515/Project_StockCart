@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNP,Union Pacific Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UNPIX,ProFunds Ultra International Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+UNPA,UNB Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UNPSX,ProFunds Ultra International Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UNPSF,Uni-President China Holdings Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UNP.FRK,Union Pacific Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UNP.BER,"UNION PAC.  DL 2,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UNP.DUS,"UNION PAC.  DL 2,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+UNP.HAN,"UNION PAC.  DL 2,50",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+UNP.HAM,"UNION PAC.  DL 2,50",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

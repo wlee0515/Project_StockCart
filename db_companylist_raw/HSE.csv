@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSEEF,Hill Street Beverage Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HSEIX,Hartford Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSE.TRT,Husky Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HSE-PA.TRT,HUSKY ENERGY INC PREF SERIES 1,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+HSE-PB.TRT,HUSKY ENERGY INC PREF SERIES 2,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+HSE-PG.TRT,HUSKY ENERGY INC PREF SERIES 7,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+HSEN.SGP,Hiap Seng^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+HSE-PC.TRT,HUSKY ENERGY INC PREF SERIES 3,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+HSE-PE.TRT,HUSKY ENERGY INC PREF SERIES 5,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

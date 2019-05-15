@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KRZ.FRK,Kerry Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KRZ.BER,"KERRY GRP PLC A  EO-,125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KRZ.DUS,"KERRY GRP PLC A  EO-,125",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KRZ.STG,KERRY GROUP PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

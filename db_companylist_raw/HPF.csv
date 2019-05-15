@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPF,John Hancock Preferred Income Fund II,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HPF-U.TRT,HARVEST ENERGY LEADERS PLUS INC,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HPF.TRT,Harvest Energy Leaders Plus Income ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HPF.BAK,Hemaraj Industrial Property and Leasehold Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+300350.SHZ,HPF Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3750

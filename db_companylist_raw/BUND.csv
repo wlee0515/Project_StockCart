@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0E6M.LON,Lyxor Index Fund - Lyxor Bund Daily (-1x) Inverse UCITS ETF,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+BTE.SGP,Bund Center Investment Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2500
+5X63.STG,ComStage Commerzbank Bund-Fut DblShrtETF,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+F00000NAJT.TRT,SunWise Elite Camb Core Bundle 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1905
+CR71.VIE,EB OE TL.Z./EURO BUND FUTURE,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.1818
+CR72.VIE,EB OE TL.Z./EURO BUND FUTURE,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.1270

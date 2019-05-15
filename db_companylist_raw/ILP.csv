@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ILPT,Industrial Logistics Properties Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ILPRX,Invesco MLP R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPMF,Permanent TSB Group Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPFX,Invesco MLP R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPCX,Invesco MLP C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPYX,Invesco MLP Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPQX,Invesco MLP R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILPAX,Invesco MLP A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

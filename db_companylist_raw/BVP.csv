@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BVPNX,Baywood ValuePlus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVPIX,Baywood ValuePlus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BVP.SGP,AIMS Property,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667

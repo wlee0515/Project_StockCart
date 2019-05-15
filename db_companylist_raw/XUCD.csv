@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XUCD.LON,X MSCI USA Consumer Discretionary ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+XUCD.FRK,Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Consumer Discretionary UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+XUCD.FRK,Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Consumer Discretionary UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XUCD.MUN,X(IE)-MSCI USA CO.DI.1DDL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XUCD.STG,Xtr.(IE)-MSCI USA Cons.Discr. R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+XUCD.SWI,X MSCI USA Consumer Discretionary ETF 1D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

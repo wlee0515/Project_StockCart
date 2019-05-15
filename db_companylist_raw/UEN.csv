@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UEN.LON,Urals Energy Public Company Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+UEN.FRK,Ubisoft Entertainment SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UEN.BER,"UBISOFT ENTMT IN.EO-,0775",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UEN.DUS,"UBISOFT ENTMT IN.EO-,0775",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+UEN.MUN,"UBISOFT ENTMT IN.EO-,0775",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UEN.STG,Ubisoft Entertainment S.A. Acti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RHRPX,American Funds Retire Inc Port-Mod R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RHRD.FRK,Contagious Gaming Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RHRD.MUN,CONTAGIOUS GAMING INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

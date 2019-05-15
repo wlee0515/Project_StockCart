@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNJCX,Nuveen NJ Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNJAX,Nuveen NJ Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNJ.FRK,Nanjing Panda Electronics Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NNJ.BER,NANJING PANDA ELEC. H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NNJ.MUN,NANJING PANDA ELEC. H YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NNJ.STG,Nanjing Panda Electr. Co. Ltd.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NNJPF.AMS,Ing Bank Japan Fd,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

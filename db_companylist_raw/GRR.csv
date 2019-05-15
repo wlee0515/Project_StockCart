@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRRB,GrandSouth Bancorporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRRBP,GrandSouth Bancorporation PFD SER A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRAX,James Alpha Macro A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRTX,Goldman Sachs Absolute Ret Trckr R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRGX,DWS GNMA R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRPX,Goldman Sachs Em Mkts Eq Insghts R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRCX,James Alpha Macro C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRSX,James Alpha Macro Portfolio S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRIX,James Alpha Macro I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRRMF,Gerresheimer AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

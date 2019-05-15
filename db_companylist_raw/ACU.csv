@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACU,Acme United Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AYI,Acuity Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOLF,Acushnet Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACUR,Acura Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACUIX,Columbia Dividend Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACUIF,AcuityAds Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACUS,Acusphere Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AISCX,Acuitas International Small Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+AT.TRV,AcuityAds Holdings Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857
+ACU.TRV,Aurora Solar Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2308

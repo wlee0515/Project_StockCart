@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLUC.LON,Franklin Liberty USD Invmt Grd CorpBdETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+FLUC.MIL,FRANKLIN LIBERTYQ USD INV CORP ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+FLUC.SWI,Franklin Libertyshares Icav - Franklin Liberty Usd Investment Grade Corporate Ucits Etf,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

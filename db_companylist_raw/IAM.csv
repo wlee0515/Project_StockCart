@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAM,I-AM Capital Acquisition Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IAG,IAMGOLD Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IAMXR,I-AM Capital Acquisition Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IAMOX,Voya MidCap Opportunities Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMRGX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMGPX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMCNX,American Innovation Leaders Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMIVX,American Innovation Leaders Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMITX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAMISX,American Infrastructure Growth ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

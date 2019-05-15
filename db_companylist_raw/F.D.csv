@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDBASDEARSSI.BCL,F.D. Bas de Ar?s SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6000
+ELFC.DUS,DK EO ISTO.EX F.D.+ U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4615
+ELFC.MUN,DK EO ISTO.EX F.D.+ U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4615
+F000001XRY.BCL,F.D. Bas de Ar?s SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+F00000QBC9.PAR,F.D.J.A.86,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0011482090.PAR,F.D.J.A.86,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2400

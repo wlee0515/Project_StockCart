@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMBS,iShares CMBS ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CMBFX,Columbia AMT-Free OR Interm MuniBd Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCRIX,RiverPark Floating Rate CMBS Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMBZX,Columbia Emerging Markets Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMBRX,Columbia Emerging Markets Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

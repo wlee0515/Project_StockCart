@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBRC,iBrands Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IBRC.KLA,IBRACO BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+GENESIS.BSE,GENESIS IBRC INDIA LIMITED,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPGFX,Mairs & Power Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MPGPF,PageGroup plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGLX,MassMutual Premier Disciplined Gr Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGEX,Meritage Growth Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGIX,Meritage Growth Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGAX,MassMutual Premier Disciplined Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGSX,MassMutual Premier Disciplined Gr R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGOX,MFS GA Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPGR,Mining Power Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

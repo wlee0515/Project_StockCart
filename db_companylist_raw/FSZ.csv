@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSZ,First Trust Switzerland AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FSZPX,FA 529 SMALL CAP PORT-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSZUHX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSZ.TRT,Fiera Capital Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

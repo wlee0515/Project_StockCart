@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDCU.LON,PIMCO LowDur US CorpBd Sour ETF USD Inc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+LDCC.SWI,PIMCO LowDur US CorpBd Sour ETF CHFH Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3636
+LDCU.SWI,PIMCO LowDur US CorpBd Sour ETF USD Inc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3636

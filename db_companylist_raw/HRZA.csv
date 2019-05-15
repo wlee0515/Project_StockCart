@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HRZA.FRK,Husqvarna AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+HRZA.BER,HUSQVARNA NAM. A  SK 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

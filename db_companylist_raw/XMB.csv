@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMBD.LON,X MSCI Brazil ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMBR.MIL,X MSCI Brazil ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XMBR.LON,db x-trackers - MSCI Brazil Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+XMBR.SWI,X MSCI Brazil ETF 1C,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

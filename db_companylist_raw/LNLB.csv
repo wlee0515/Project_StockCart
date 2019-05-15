@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNLB.FRK,Li Ning Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LNLB.BER,"LI NING CO.LTD NEW HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+LNLB.MUN,"LI NING CO.LTD NEW HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+LNLB.STG,Li Ning Co. Ltd. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

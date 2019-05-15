@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFGD.FRK,Eurobank Ergasias S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+EFGD.ILN,EFG-HERMES HOLDING S.A.E. GDR (,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EFGD.BER,"EUROBANK ERGASIAS  EO-,30",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EFGD.MUN,"EUROBANK ERGASIAS  EO-,30",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+EFGD.LON,EFG Hermes Holding S.A.E.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+EFGD.DUS,"EUROBANK ERGASIAS  EO-,30",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+EFGD.STG,Eurobank Ergasias S.A. Namens-A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

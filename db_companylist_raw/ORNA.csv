@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ORNAX,Oppenheimer Rochester High Yield Muni A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+VOL.BSE,Veeram Ornaments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+5065.KLA,Ornapaper Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4706
+ORPA.KLA,ORNAPAPER BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4444
+MOKSH-SM.NSE,MOKSH ORNAMENTS LT,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+DARSHANORNA.BSE,Darshan Orna Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857

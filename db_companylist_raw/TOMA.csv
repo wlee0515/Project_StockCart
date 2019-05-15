@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOGOF,TomaGold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LOT.TRV,TomaGold Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7273
+OTM.FRK,TomaGold Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+TOMA.STG,TOYOTA MOTOR CORP. Reg.Shares (,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+8542.TOK,Tomato Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+TOMA.FRK,Toyota Motor Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3810
+TOMA.BER,TOYOTA MOTOR ADR/2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333

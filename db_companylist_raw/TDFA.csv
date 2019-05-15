@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDFAX,Transamerica Dividend Focused A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+TDFAIBLEVOLA.TRT,TD Canadian Low Volatility Ser D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+TDFAA.PAR,TDFINFR2.875%OCT22,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+TDFAB.PAR,TDFINFR2.50%7APR26,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4211

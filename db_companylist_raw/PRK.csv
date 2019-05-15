@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRK,Park National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PRKR,ParkerVision Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRKA,Parks! America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRKZX,PGIM Real Estate Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRKI,Perk International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRKIX,T. Rowe Price US Treasury Interm I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRKCX,PGIM Real Estate Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRKAX,PGIM Real Estate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRKQX,PGIM Real Estate Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXHB.FRK,iShares eb.rexx GovtGer 1.5-2.5yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+EXX6.FRK,iShares eb.rexx GovtGer 10.5+yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+EXVM.FRK,iShares eb.rexx Money Market (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+EXVM.MIL,iShares eb.rexx Money Market (DE),ETF,Milan,09:00,17:30,UTC+01,EUR,0.4000
+EXHA.FRK,iShares eb.rexx GovtGer (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+EXHC.FRK,iShares eb.rexx GovtGer 2.5-5.5yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+EXHD.FRK,iShares eb.rexx GovtGer 5.5-10.5yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6335.TOK,Tokyo Kikai Seisakusho Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+1YM.BER,MARUWA UNYU KIKAN CO.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667
+9090.TOK,Maruwa Unyu Kikan Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+1YM.FRK,Maruwa Unyu Kikan Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667
+6332.TOK,Tsukishima Kikai Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500

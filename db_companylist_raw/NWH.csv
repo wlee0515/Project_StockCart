@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWHM,The New Home Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NWHQX,Nationwide Bailard Tech & Sci M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHYX,Nationwide Geneva Mid Cap Gr Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHUF,NorthWest Healthcare Properties Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHHX,Nationwide Bailard Cogntv Val Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHVX,Nationwide Geneva Mid Cap Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHBX,Nationwide Destination 2025 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHLX,Nationwide Bailard Intl Eqs M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHFX,Nationwide Bailard Cogntv Val M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWHOX,Nationwide Bailard Tech & Sci A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

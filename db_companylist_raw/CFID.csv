@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFIDHS1.SAN,Fondo de Inversion Larrain Vial,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.5714
+CFIDHS2-A.SAN,Fondo De Inversion Larrain Vial Deuda Con Subsidio Habitacional II,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.5000
+CFIDEU2A-E.SAN,Volcomcapital Administradora General De Fondos SA -Volcomcapital Deuda II Fondo De Inversion Fund,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.4706

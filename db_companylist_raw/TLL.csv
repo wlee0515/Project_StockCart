@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLLYF,Trilogy International Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLIX,TIAA-CREF Lifecycle Index 2050 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLPX,TIAA-CREF Lifecycle Index 2050 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLHX,TIAA-CREF Lifecycle Index 2050 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLVX,TIAA-CREF Life Large-Cap Value ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLRX,TIAA-CREF Lifecycle Index 2050 Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLEQ,Teletouch Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLGF,"Talgo, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLLZF,Tilting Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLL-H.TRV,Tilting Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000

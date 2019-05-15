@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOF,Guggenheim Strategic Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GOFF,"Goff, Corp.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOFPY,Greek Organization of Football Prognostics S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GOFIX,GMO Resources III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOFCX,Pioneer Select Mid Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+600538.SHH,Beihai Gofar Marine Biological Industry Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4615
+GOFINNOVATIO.TRT,Golden Opportunities Fund Innovation,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+0CXS.LON,Gofore Oyj,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1154

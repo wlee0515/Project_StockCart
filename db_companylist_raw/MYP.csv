@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F86.SGP,MYP Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7500
+MYPK3.SAO,Iochpe-Maxion S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455
+MYPK12.SAO,IOCHPE-MAXION SA,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455
+MYP.FRK,MYR Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+MYPK11.SAO,IOCHPE-MAXION SA,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

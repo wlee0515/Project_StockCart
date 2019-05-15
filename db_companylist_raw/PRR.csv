@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRRE,Praetorian Property Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRRIX,PIMCO Real Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRRY,Planet Resource Recovery Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRRR,Pioneer Railcorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRAX,Principal Real Estate Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRRX,PIMCO Real Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRVF,Providence Gold Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRWX,Putnam RetirementReady 2035 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRWF,Park Lawn Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRRTX,Putnam RetirementReady 2030 Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

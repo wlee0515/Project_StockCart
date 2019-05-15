@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QSMG,Quest Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QSMNX,AQR Small Cap Multi-Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSMLX,AQR Small Cap Multi-Style I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSMRX,AQR Small Cap Momentum Style R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LM53.STG,LMGF-LM QSMV As.P.e.J.E.G.a.I.N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGEOX,George Putnam Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEJF,Petroleum Geo-Services ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGENY,Pigeon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEYX,George Putnam Balanced Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEZF,Group Ten Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEMX,George Putnam Balanced M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEJX,George Putnam Balanced R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEKX,Pioneer Global Equity K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGELX,George Putnam Balanced R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGEBX,George Putnam Balanced B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

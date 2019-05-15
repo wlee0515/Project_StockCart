@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRI,Thomson Reuters Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NESR,National Energy Services Reunited Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LDVAX,Leland Thomson Reuters Vntr Cptl Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LDVIX,Leland Thomson Reuters Vntr Cptl Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+PARQF,"Parques Reunidos Servicios Centrales, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.1463
+LDPIX,Leland Thomson Reuters Private Eq Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

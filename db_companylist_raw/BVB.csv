@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BVBC,Blue Valley Ban Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BVB.FRK,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+BVB.HAN,BORUSSIA DORTMUND,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+BVB.SWI,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+BVB.FRK,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BVB.BER,BORUSSIA DORTMUND,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BVB.DUS,BORUSSIA DORTMUND,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BVB.HAM,BORUSSIA DORTMUND,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+BVB.MUN,BORUSSIA DORTMUND,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

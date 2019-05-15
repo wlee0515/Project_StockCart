@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYL,Dragon Victory International Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TATYY,Tate & Lyle plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TATYF,Tate & Lyle plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LYLP,LoyaltyPoint Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+TATE.LON,Tate & Lyle plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+TLY.FRK,Tate & Lyle plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+TLYA.BER,"TATE + LYLE ADR/4 LS -,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+LYLTM.SWI,Lyxor UCITS ETF MSCI EM Latin America,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3333
+LYLVD.SWI,MU Lux Lyxor Daily LevDAX ETF Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3333
+LYL.AUS,Lycopodium Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333

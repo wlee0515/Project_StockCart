@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTEC,Valtech SE,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VTEB,Vanguard Tax-Exempt Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VTKLY,Vtech Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VTEAX,Vanguard Tax-Exempt Bond Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTEBX,Vanguard Tax-Exempt Bond Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTEQ,VeriTeQ Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VTKLF,Vtech Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

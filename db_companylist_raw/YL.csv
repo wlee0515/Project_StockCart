@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YLCO,Global X YieldCo ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+YLD,Principal EDGE Active Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+YLWWF,Yellow Pages Limited WT EXP 113022,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YLDGY,Yanlord Land Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+YLDE,ClearBridge Dividend Strategy ESG ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+YLWDF,Yellow Pages Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

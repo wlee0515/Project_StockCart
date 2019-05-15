@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QCEQIX,CREF Equity Index Account - R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCERX,AQR Large Cap Multi-Style R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCEQPX,CREF Equity Index Account - R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCELX,AQR Large Cap Multi-Style I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QCEQRX,CREF Equity Index Account - R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QCENX,AQR Large Cap Multi-Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QCE.TRT,Mackenzie Canadian Large Cap Equity ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+QCE.HAM,Global PVQ SE,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+QCEU.MIL,AMUNDI MSCI EUROPE QUAL FACTOR ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+QCEU.PAR,Amundi IS MSCI Europe Quality Fctr ETF-C,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

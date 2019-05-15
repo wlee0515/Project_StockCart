@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIX,CompX International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CIXPF,"CaixaBank, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CIX.TRT,CI Financial Corp,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+300307.SHZ,Ningbo Cixing Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2400

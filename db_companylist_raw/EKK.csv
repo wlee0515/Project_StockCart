@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKKH,Eason Education Kingdom Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EKK.BER,REED.H.EKKENGA PASSAGIER.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EKK3.BER,REED.H.EKKENGA PASSA. VZO,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EKK0.BER,REED.H.EKKENGA PASS.NA VZ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

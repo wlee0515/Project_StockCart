@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEN,New England Realty Associates Limited Partnership,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NENGX,Northern Engage360,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NEN.BER,RENESAS ELECTRONICS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+NEN.MUN,RENESAS ELECTRONICS CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NEN.FRK,Renesas Electronics Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NEN.STG,Renesas Electronics Corp. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+6671.TWN,San Neng Group Holdings Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1667

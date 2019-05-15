@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BHP,BHP Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BBL,BHP Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHPLF,BHP Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHPBF,BHP Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BHP.AUS,BHP Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BLT.LON,BHP Billiton plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+BIL.JOH,BHP Billiton plc,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3750
+BIL.FRK,BHP Group Plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3750
+BHP.DUS,BHP GROUP LIMITED,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3158
+BHP.MUN,"BHP GROUP ADR 2/DL-,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3158

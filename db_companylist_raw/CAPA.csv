@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAPAX,Federated Capital Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CAPAEX,ADT 1868 Core Angels Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CAPADX,ADT 1834 Core Angels Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CAPACX,ADT 1812 Core Angels Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CAPAFX,ADT 1906 Core Angels Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CAPABX,ADT 1772 Core Angels Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+002484.SHZ,Nantong Jianghai Capacitor Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.5333
+CAPACITE.NSE,Capacit'e Infraprojects Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286
+IUGB.STG,Invesco Pan European Small CapA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2051

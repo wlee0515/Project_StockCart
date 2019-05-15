@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZBA.DUS,KANAM US-GRUNDINVEST FDS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+HZBA.HAM,KANAM US-GRUNDINVEST FDS,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+HZBA.MUN,KANAM US-GRUNDINVEST FDS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+HZBA.STG,KanAM US-grundinvest Fonds Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QSU.STG,SCSK Corp. Registered Shares o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+QSU.FRK,SCSK Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QSU.MUN,SCSK CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

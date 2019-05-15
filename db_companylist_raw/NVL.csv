@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVLN,Novelion Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVLIX,Nuveen Winslow Large-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVL.AUS,National Veterinary Care Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NVLG.TAV,Novolog (Pharm-Up 1966) Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

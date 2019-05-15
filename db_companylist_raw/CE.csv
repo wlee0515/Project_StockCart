@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CE,Celanese Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CNTX,Centrexion Therapeutics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CELG,Celgene Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CTL,CenturyLink Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+CEI,Camber Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+CVM,CEL-SCI Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CLDX,Celldex Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CRNT,Ceragon Networks Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CLSN,Celsion Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FUN,"Cedar Fair, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.2222

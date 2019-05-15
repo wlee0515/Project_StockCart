@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLT,P. H. Glatfelter Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+PTSI,P.A.M. Transportation Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+PVNNF,P.V. Nano Cell Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BGTG.JKT,P.T. Bank Ganesha Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3333
+PNBN.JKT,P.T. Bank Pan Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+AMAG.JKT,P.T. Asuransi Multi Artha Guna Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2222
+7225.KLA,P.A. Resources Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+PCBT.TAV,P.C.B. Technologies Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2222
+PCSGH.BAK,P.C.S. Machine Group Holding Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+BNBA.JKT,P.T. Bank Bumi Arta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1538

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSGRY,LIXIL Group Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LIXT,Lixte Biotechnology Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LIXTX,Lord Abbett Multi-Asset Income R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIXVX,Lord Abbett Multi-Asset Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIXRX,Lord Abbett Multi-Asset Income R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIXSX,Lord Abbett Multi-Asset Income R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+3564.TOK,Lixil Viva Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+5938.TOK,LIXIL Group Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+TJS.FRK,LIXIL Group Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRT,North European Oil Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NRTI,Inergetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NRTHF,Northern Power Systems Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NRTH.TRV,48North Cannabis Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+VIU.TRT,Vanguard FTSE Dev AC ex Nrth Amer ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+N5Z.BER,NRTH AMER.CONST.GRP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+VI.TRT,Vanguard FTSE Dev AC ex Nrth AmerETF C$H,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+F00000P7XS.TRT,Manulife Fid True Nrth (Clsd) GIF MLIA A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+F00000UJCF.TRT,BMO Ins NrthAm IncStrat GIF Prestige,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+BMOASSRCFNDS.TRT,BMO Ins NrthAm IncStrat GIF,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

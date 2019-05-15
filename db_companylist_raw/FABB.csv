@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FILA.MIL,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.3636
+3S0.FRK,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286
+0QIQ.ILN,FILA FABBRICA ITALIANA LAPIS ED,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222

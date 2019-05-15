@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KRH.FRK,Kyushu Railway Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KRH.BER,KYUSHU RAILWAY COMPANY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KRH.DUS,KYUSHU RAILWAY COMPANY,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KRH.MUN,KYUSHU RAILWAY COMPANY,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KRH.STG,Kyushu Railway Company,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

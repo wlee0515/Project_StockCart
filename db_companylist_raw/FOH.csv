@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOHFX,Fidelity Ohio Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOHIX,Fidelity Series 100 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOHCX,Nuveen OH Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOHQX,Franklin OH Tax-Free Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOHGZX,FT 7484: Diversified Income & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOHYEX,FT 6958: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOHYTX,FT 6946: Equity Closed-End Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOHTX,Nuveen OH Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOHEPX,FT 6955: Market Strength Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOHLYX,FT 7509: SMid Capital Strength ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

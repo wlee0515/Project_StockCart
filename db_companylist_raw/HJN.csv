@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HJN1.BER,"HEIJMANS NV CVA  EO-,30",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HJN1.STG,Heijmans N.V. Cert.v.Aandelen E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+HJN1.FRK,Heijmans N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HJN1.DUS,"HEIJMANS NV CVA  EO-,30",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

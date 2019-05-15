@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACOR,Acorda Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACFN,Acorn Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATV,Acorn International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ACRNX,Columbia Acorn Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ACOPF,The a2 Milk Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ACINX,Columbia Acorn International Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LACAX,Columbia Acorn A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+CEARX,Columbia Acorn Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+AUSAX,Columbia Acorn USA Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LTFAX,Columbia Acorn Select A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

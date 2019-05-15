@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UFMC.STG,UBS (Lux) Equity Fund - Global Multi Tech (USD),Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+UFMC.DUS,UBS(L)EF-T.OPP.(DL) DLPA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+UFMC.HAM,UBS(L)EF-T.OPP.(DL) DLPA,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+UFMC.MUN,UBS(L)EF-T.OPP.(DL) DLPA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+UFMC.FRK,UBS(L)EF-T.OPP.(DL) DLPA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+UFMC.HAN,UBS(L)EF-T.OPP.(DL) DLPA,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273

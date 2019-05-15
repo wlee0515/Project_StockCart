@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRQR,ProQR Therapeutics N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRQIX,PIMCO RealPath 2055 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRQAX,PIMCO RealPath Blend 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRQZX,PIMCO RealPath Blend 2055 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRQDX,PIMCO RealPath Blend 2055 Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRQ.TRT,Petrus Resources Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

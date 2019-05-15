@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRTGF,Dart Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DRTAX,Dreyfus Municipal Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRTCX,Dreyfus Sustainable US Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRTHX,Dreyfus Sustainable US Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRTTF,DIRTT Environmental Solutions Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DRT.TRT,DIRTT Environmental Solutions Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+DRT.BAK,Diamond Building Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+DRT-R.BAK,Diamond Building Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+120073.BSE,HSBC Mthly Inc Plan Svngs Pln Gr Drt Pln,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1429
+129193.BSE,HSBC Managed Solutions India Mod Gr Drt,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1395

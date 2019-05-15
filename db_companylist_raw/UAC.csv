@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UAC.BAK,UAC Global Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+5741.TOK,UACJ Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+UAC-R.BAK,UAC Global Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+F4M.FRK,UACJ Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615
+F4M.BER,UACJ CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+UAC.VIE,Under Armour Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3158

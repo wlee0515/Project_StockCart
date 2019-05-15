@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KAEPY,"The Kansai Electric Power Company, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KAEF.JKT,PT Kimia Farma (Persero) Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+KSL-R.BAK,Khon Kaen Sugar Industry Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+KSL.BAK,Khon Kaen Sugar Industry Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818

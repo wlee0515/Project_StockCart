@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSAT,Globalstar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSAH,GS Acquisition Holdings Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSAYX,Goldman Sachs Long Shrt Crdt Strats Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSAH-UN,GS Acquisition Holdings Corp Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRNNX,Altegris GSA Trend Strategy N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSATX,Goldman Sachs Small Cp Val Insghts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSAWX,Goldman Sachs Long Shrt Crdt Strats Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSAOX,Goldman Sachs Small Cap Gr Insghts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+TRNIX,Altegris GSA Trend Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+GSAPX,Goldman Sachs Infl Protected Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

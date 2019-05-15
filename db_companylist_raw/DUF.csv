@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPG,Duff & Phelps Global Utility Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSE,Duff & Phelps Select Energy MLP Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DUC,Duff & Phelps Utility & Corpora,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+VGISX,Virtus Duff & Phelps Glb Rl Estt Secs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PHRAX,Virtus Duff & Phelps Real Estate Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+DUFRY,Dufry AG,Equity,United States,09:30,16:00,UTC-05,USD,0.1429
+PHRIX,Virtus Duff & Phelps Real Estate Secs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429
+DFRYF,Dufry AG,Equity,United States,09:30,16:00,UTC-05,USD,0.1429
+VRREX,Virtus Duff & Phelps Real Estate Secs R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429
+VGSCX,Virtus Duff & Phelps Glb Rl Estt Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

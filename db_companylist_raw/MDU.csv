@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDU,MDU Resources Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MRE.FRK,MDU Resources Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+MRE.BER,MDU RESOURCES GRP  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308

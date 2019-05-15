@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIKMX,Fidelity Advisor Real Estate Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKCX,Fidelity Advisor Health Care Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKDX,Kempner Multi-Cap Deep Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKRX,Fidelity Advisor Limited Term Bond Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKHX,Fidelity Advisor Technology Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKAX,Fidelity Advisor Energy Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKJX,Fidelity Advisor Real Estate Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKPX,Fidelity Advisor Government Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKYX,Fidelity Advisor Asset Manager 40% Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIKTX,Fidelity Advisor Short-Term Bond Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NIU,Niu Technologies,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NIU.AUS,Niuminco Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NIU.MUN,Nihon Unisys Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ASHCONIUL-EQ.NSE,ASHCO NIULAB INDUSTRIES LTD INR,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+0O9.BER,"NIU TECH. ADR/2 A -,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+0O9.STG,Niu Technologies Rg.Sh.(ADRs)/2,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVOAX,SEI US Managed Volatility F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SVOA.BAK,SVOA Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+SVOA-R.BAK,SVOA Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154

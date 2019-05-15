@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPY,SPDR S&P 500 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+NUGT,Direxion Daily Gold Miners Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3158
+VTI,Vanguard Total Stock Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+MJ,ETFMG Alternative Harvest ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609
+XBI,SPDR S&P Biotech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1875
+FAS,Direxion Daily Financial Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+GDX,VanEck Vectors Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463
+XLE,Energy Select Sector SPDR ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463

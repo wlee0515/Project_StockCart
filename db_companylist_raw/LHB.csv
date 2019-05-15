@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LHB,Direxion Daily Latin America 3x,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+LHB.AUS,LionHub Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

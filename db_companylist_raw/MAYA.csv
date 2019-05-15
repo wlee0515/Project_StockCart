@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYAGF,Maya Gold and Silver Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+NRHCF,Mayan Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MYA.TRT,Maya Gold and Silver Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+MAYA.JKT,PT Bank Mayapada Internasional Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4444
+MYN.LON,Mayan Energy Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3810
+0HE1.FRK,MAYA GOLD + SILVER INC.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+0HE1.STG,Maya Gold & Silver Inc. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2963
+0HE1.BER,MAYA GOLD + SILVER INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+519419.BSE,MAYA AGRO PRODUCTS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963
+524770.BSE,MAYA RASAYAN LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286

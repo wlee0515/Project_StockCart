@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OOR.TRV,Opus One Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+OORD.FRK,Orora Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OORD.BER,ORORA LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+OORD.DUS,ORORA LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+OORD.MUN,ORORA LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNVDEDIVCANA.TRT,Manulife Ideal Cnd Dividend Growth7575 FCL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+MNVDEDIVMOND.TRT,Manulife Ideal Glb Dividend Gwth7575 FCL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+MNVDEREVDEDI.TRT,Manulife Ideal Cnd Dividend Income7575 PLTN,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+MNVDESTRATMO.TRT,Manulife Id Glb A Rtn Strgy7575 PLTN,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

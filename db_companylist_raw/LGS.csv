@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGSXY,Light S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSCX,QS US Small Capitalization Equity FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSRX,Lord Abbett Global Select Equity R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSIX,Lord Abbett Global Select Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSOX,Lord Abbett Global Select Equity F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSAX,Lord Abbett Global Select Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSTX,Western Asset Short Term Yield IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSFX,Lord Abbett Global Select Equity F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSWX,Lord Abbett Global Select Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGSVX,Lord Abbett Global Select Equity R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

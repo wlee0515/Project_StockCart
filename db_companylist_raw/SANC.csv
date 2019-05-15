@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SN,Sanchez Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SNMP,Sanchez Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SCAZP,Sanchez Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SNZYP,Sanchez Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+300554.SHZ,Nanjing Sanchao Advanced Materials Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4444
+13S.FRK,Sanchez Energy Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+SN.MEX,Sanchez Energy Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2667
+13S.STG,Sanchez Energy Corp. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2424
+SHY1.FRK,Sanchez Midstream Partners LP,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286
+SHY1.BER,SANCHEZ MIDSTREAM PAR.UTS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1667

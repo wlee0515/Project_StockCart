@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACKB.BRU,Ackermans & Van Haaren NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+F00000LNU6.PAR,Haas Epargne 365,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6000
+HTC-R.BAK,Haad Thip Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3158
+0GYM.LON,Ackermans & Van Haaren NV,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+B3K.BER,ACKERMANS + VAN HAAREN,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+HAA1.FRK,Hana Microelectronics Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+0GYM.ILN,ACKERMANS & VAN HAAREN NV ACKER,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+HAA1.MUN,HANA MICROEL. -FGN-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1818
+B3K.FRK,Ackermans & Van Haaren NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

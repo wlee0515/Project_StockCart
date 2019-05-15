@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWX,SPDR Dow Jones International RelEst ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RWX.TRT,First Asset MSCI Intl LRWgt ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+RWX-B.TRT,First Asset MSCI Intl LRWgt ETF Uhgd,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

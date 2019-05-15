@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZZRA.BER,AGIF-A.GL.ART.INTEL.A EO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+ZZRA.MUN,AGIF-A.GL.ART.INTEL.A EO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ZZRA.FRK,ZZRA.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

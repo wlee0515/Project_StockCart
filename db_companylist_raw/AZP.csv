@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZPN,Aspen Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AZP-PC.TRT,ATLANTIC POWER PREF EQUITY SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+AZP.BER,ARGOSY PROPERTY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AZPN.MEX,Aspen Technology Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+3490.TOK,Azplanning Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+AZP-PA.TRT,ATLANTIC POWER PREF EQUITY SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+AZP-PB.TRT,ATLANTIC POWER PREF EQUITY SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2727

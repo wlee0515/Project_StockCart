@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XCSQX,Calamos Strategic Total Return ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XCS6.STG,Xtrackers MSCI China Inhaber-An,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XCS6.LON,X MSCI China ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XCS.TRT,iShares S&P/TSX Small Cap ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XCS3.LON,db x-trackers - MSCI Malaysia Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XCS4.LON,db x-trackers - MSCI Thailand Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

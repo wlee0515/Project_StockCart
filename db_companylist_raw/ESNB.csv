@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESNB.FRK,EXPAT SERB.BELEX15 UCITS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ESNB.FRK,EXPAT SERB.BELEX15 UCITS,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWEIX,AMG GW&K Small Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GWEFF,Glow Energy Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWEZX,AMG GW&K Small Cap Core Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GWETX,AMG GW&K Small Cap Core N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUGIADA.MIL,Aviva CU Giada,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5714
+AVIVACUGIADA.MIL,Aviva CU Giada,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4444
+F00000M0DK.MIL,Aviva CU Giada,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4444

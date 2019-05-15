@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ICE,Intercontinental Exchange Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ICENX,ICON Energy S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CJNK,SPDR ICE BofAML Crossover Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ICEIX,Ivy International Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RDDCP,Reddy Ice Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ICEAX,ICON Energy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

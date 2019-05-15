@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TYOYY,Taiyo Yuden Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BBYB.JKT,PT Bank Yudha Bhakti Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+6976.TOK,Taiyo Yuden Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2727
+TYC1.BER,TAIYO YUDEN CO. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+TYC1.FRK,Taiyo Yuden Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+TYC1.DUS,TAIYO YUDEN CO. LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2500
+TYC1.MUN,TAIYO YUDEN CO. LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+TYC1.STG,TAIYO YUDEN CO. LTD. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOG.LON,The Go-Ahead Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+G9X.BER,"GO-AHEAD GRP PLC  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+G9X.FRK,The Go-Ahead Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+G9X.STG,"GO-AHEAD GROUP PLC, THE Registe",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OPHT,Ophthotech Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPHC,OptimumBank Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPHRY,Ophir Energy Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPHLY,Ono Pharmaceutical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OPGYF,Ophir Energy Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OPHI,Organic Plant Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DMEDF,Ophectra Real Estate & Investments Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+OPHR.LON,Ophir Energy Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727
+19904.AUS,Ophir Opportunities,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2308
+GKB.BSE,GKB Ophthalmics Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1463

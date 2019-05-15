@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOPZ,Topaz Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TOPAAX,ADT 1877 Transformers Opportuni,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+TOPABX,ADT 1927 Transformers Opportuni,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SONA.JKT,PT Sona Topas Tourism Industry Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636

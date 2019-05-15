@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIZAX,BlackRock LifePath Index 2060 Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+LIZATINVERSI.BCL,Lizat Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+LIZAYEINVERS.BCL,Lizaye Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000002E1Q.BCL,Lizaye Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F00000T65N.BCL,Lizat Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857

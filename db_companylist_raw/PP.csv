@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PPL,PPL Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PPCB,Propanc Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PPG,PPG Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PPERF,PT Bank Mandiri (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PPC,Pilgrim's Pride Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PPLT,Aberdeen Standard Phys Platinum Shrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PPDF,PPDAI Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PPA,Invesco Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PPT,Putnam Premier Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PPBI,Pacific Premier Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

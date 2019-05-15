@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACRX,AcelRx Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACET,Aceto Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACER,Acer Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACEIX,Invesco Equity and Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACETX,Invesco Equity and Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACERX,Invesco Equity and Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANIOY,"Acerinox, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACES,ALPS Clean Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+ACEYX,AB All China Equity Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+TRLPF,Acerus Pharmaceuticals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

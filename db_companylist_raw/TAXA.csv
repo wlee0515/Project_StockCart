@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAXA,Liberty Tax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BAB,Invesco Taxable Municipal Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+BBN,BlackRock Taxable Municipal Bond Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+XGBAX,Guggenheim Taxable Municipal Ma,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+DUTMX,Dupree Taxable Municipal Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+CSHTX,AB Taxable Multi-Sector Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ADTKEX,"Advisor Dis Tr 193, Taxable Mun",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1905

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZTO,ZTO Express (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZTS,Zoetis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZTR,Virtus Global Dividend & Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZTCOF,ZTE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZTCOY,ZTE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZTSTF,ZTEST Electronics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZTMUF,Zimtu Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

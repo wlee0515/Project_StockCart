@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSJ,Invesco Dynamic Software ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PSJIX,Principal Short-Term Income J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSJEY,Petsec Energy Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+F000001YU1.BCL,PSJ Index Gesti?n SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308

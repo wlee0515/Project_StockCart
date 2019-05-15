@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBM,Cambrex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBMG,Cellular Biomedicine Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBMB,CBM Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBMJ,Canna Consumer Goods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBMYX,Wells Fargo C&B Mid Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBMSX,Wells Fargo C&B Mid Cap Value Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBMCX,Wells Fargo C&B Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBMIX,Wells Fargo C&B Mid Cap Value Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBMRX,Columbia Capital Allocation Mod R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBMZX,Columbia Capital Allocation Mod Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

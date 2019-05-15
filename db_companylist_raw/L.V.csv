@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBUR.STG,UBS(I)ETF-Fc.MSCI USA L.V.U.E.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+UBUV.STG,UBS(I)ETF-Fc.MSCI USA L.V.U.E.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

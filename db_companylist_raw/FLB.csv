@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLBAX,Fidelity Long-Term Treasury Bd Index Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FLBR,Franklin FTSE Brazil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FLBIX,Fidelity Long-Term Treasury Bd Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLBL,Franklin Liberty Senior Loan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FLBMIX,FT 4800: Diversified Income & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLBJUX,FT 6516: Richard Bernstein Advi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FLBDNX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FLBCX,FA 529 LIMITED TERM BOND PORT-C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

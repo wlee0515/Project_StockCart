@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCF,Chase Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCFAX,American Funds College 2036 529-A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CCFH,CCF Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCFTX,American Funds 2035 Trgt Date Retire C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CCFN,CCFNB Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCFC,CCSB Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCFODX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCFOAX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CCFYX,Columbia Commodity Strategy Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CCFOCX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

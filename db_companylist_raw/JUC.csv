@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JUCIX,Janus Henderson Global Uncons Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCBX,Janus Henderson VIT Glbl Uncons Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCAX,Janus Henderson Global Uncons Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCTX,Janus Henderson Global Uncons Bd T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCCX,Janus Henderson Global Uncons Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCNX,Janus Henderson Global Uncons Bd N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCDX,Janus Henderson Global Uncons Bd D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCRX,Janus Henderson Global Uncons Bd R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUCSX,Janus Henderson Global Uncons Bd S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLJZY,Berli Jucker Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

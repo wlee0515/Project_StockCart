@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHE.BER,CH. HUARONG ASS. M. H HD1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8571
+CH.TRV,Urban Select Capital Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+CHE.STG,Ch. Huarong Ass. Mngmt Co.Ltd.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CUG.BER,"CHUANG'S CH.  HD-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+CMC2.BER,JPMORGAN CH.DEP.SHS PFD I,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+WYDJ.DUS,VONTOBEL-MTX CH.LEAD.A-DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+CK.BAK,CH. Karnchang Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+4OJ.BER,"ASIA CEMENT CH.HO. HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

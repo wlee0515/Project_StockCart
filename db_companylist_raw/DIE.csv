@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBD,"Diebold Nixdorf, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPWWD,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPWW,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIECX,Dreyfus International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DIERX,Dreyfus International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DIEMX,Driehaus Emerging Markets Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DIEFX,Destinations International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+WNXDY,Diebold Nixdorf AG,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DIEAX,Dreyfus International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+DIEZX,Destinations International Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

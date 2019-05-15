@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLXIX,TIAA-CREF Lifecycle Index 2045 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLXNX,TIAA-CREF Lifecycle 2060 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLXHX,TIAA-CREF Lifecycle 2060 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLXPX,TIAA-CREF Lifecycle 2060 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLXRX,TIAA-CREF Lifecycle 2060 Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLX.AUS,Telix Pharmaceuticals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+TLX.FRK,Talanx Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+TLX.FRK,Talanx Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TLX.STG,Talanx AG Namens-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TLX.BER,TALANX AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

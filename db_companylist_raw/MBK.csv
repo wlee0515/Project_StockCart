@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3121.TOK,MBK Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+MBKL,MBT Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBK.AUS,Metal Bank Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MBKET.BAK,Maybank Kim Eng Securities (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+MBK.FRK,Merkur Bank KGaA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MBK.FRK,Merkur Bank KGaA,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+MBK-UN.TRT,Manulife U.S. Regional Bank Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MBK.BER,MERKUR BANK KGAA .O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+MBK.BAK,MBK Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+MBK.MUN,MERKUR BANK KGAA .O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFRAX,Lord Abbett Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFRFX,Lord Abbett Floating Rate F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFRIX,Lord Abbett Floating Rate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFROX,Lord Abbett Floating Rate F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFRRX,Lord Abbett Floating Rate R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFRTX,Lord Abbett Floating Rate T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FR0010526079.PAR,LFR Euro D?veloppement Durable I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0010585281.PAR,LFR Euro D?veloppement Durable P,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0010610386.PAR,LFR Actions Solidaires I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0010610717.PAR,LFR Actions Solidaires P,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

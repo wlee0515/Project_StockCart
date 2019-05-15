@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALYI,Alternet Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALYA,Alithya Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALYE,Aly Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALYIX,AC Alternatives Equity Market Netr Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALYNX,AC Alternatives Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALYA.TRT,Alithya Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+ALY.TRV,AnalytixInsight Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ALY.LON,Laura Ashley Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ALY.AUS,Alchemy Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000

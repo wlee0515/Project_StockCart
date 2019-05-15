@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAKE,The Cheesecake Factory Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CAKFF,McKesson Europe AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YLLXF,Yellow Cake plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+YCA.LON,Yellow Cake plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+CAKK.JKT,PT Cahayaputra Asa Keramik Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+CBOX.LON,Cake Box Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+7174.KLA,CAB Cakaran Corp. Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4444
+PCAR.JKT,PT Prima Cakrawala Abadi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3333
+8CK.BER,CAKRA MINERAL TBK  RP 250,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+CABC.KLA,CAB CAKARAN CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500

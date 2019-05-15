@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TYO,Direxion Daily 7-10 Yr Trs Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TYOBY,Toyobo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TYOYY,Taiyo Yuden Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+3975.TOK,AOI TYO Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500

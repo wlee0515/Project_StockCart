@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZWU.TRT,BMO Covered Call Utilities ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZWUK.LON,BMO Enhanced Income UK Equity ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ZWUS.LON,BMO Enhanced Income USA Equity ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ZWUU.LON,BMO Enhanced Income USA Equity ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

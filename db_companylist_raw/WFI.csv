@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFIVX,Wilshire 5000 Index Invmt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WFILX,Wells Fargo Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFIG,WisdomTree Fundamental US Corporate Bond,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+WFIOX,Wells Fargo Index Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFIEX,Wells Fargo Diversified Intl Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFIPX,Wells Fargo Core Plus Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFISX,Wells Fargo Diversified Intl Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFINX,Wells Fargo Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFITX,Wells Fargo Intermediate Tax/AMT-Fr Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

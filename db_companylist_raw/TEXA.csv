@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TXN,Texas Instruments Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TPL,Texas Pacific Land Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TXRH,Texas Roadhouse Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TCBI,Texas Capital Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+STXB,Spirit of Texas Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TMRC,Texas Mineral Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EZT,Entergy Texas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+NTX,Nuveen Texas Quality Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WTXR,West Texas Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TXSO,Texas South Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

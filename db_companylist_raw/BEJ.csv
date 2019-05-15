@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BEJ.FRK,Beijing Capital Land Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BEJ.BER,BEIJING CAP. LAND H  YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BEJ.STG,Beijing Capital Land Ltd. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BEJUVIALSICA.BCL,Bejuvial SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3529

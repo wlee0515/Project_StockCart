@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNB,F.N.B. Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FNB-PE,F.N.B. Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FILA.MIL,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444
+F.TRV,Fiore Gold Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+F.SWI,Ford Motor Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4444
+XQ1Q.HAM,F.TEM.INV-T.AS.GR.A A.EUR,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+TEPT.BER,F.TEM.INV-T.EUROLND A ACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+FT9K.HAN,F.TEM.INV-T.G.T.R.A A.EUR,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.2500
+FIBI.TAV,F.I.B.I. Holdings Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2222
+FT9T.DUS,F.TEM.INV.FD-T.GL.T.R.AAC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

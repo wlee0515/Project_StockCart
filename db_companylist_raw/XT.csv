@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XT,iShares Exponential Technologies ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+ASHR,Xtrackers Harvest CSI 300 China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XTYCX,Tri-Continental Corp.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XTNT,Xtant Medical Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XTLB,XTL Biopharmaceuticals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CN,Xtrackers MSCI All China Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+XTHCF,Xanthic Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1081
+XTN,SPDR S&P Transportation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1053
+ASHS,Xtrackers Harvest CSI 500 CHN A SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1026
+HYLB,Xtrackers USD High Yield Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.0952

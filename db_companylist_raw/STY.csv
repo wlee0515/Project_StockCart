@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUENX,AQR Large Cap Defensive Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSPIX,AQR Style Premia Alternative I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AUEIX,AQR Large Cap Defensive Style I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+QSPNX,AQR Style Premia Alternative N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GILIX,Guggenheim StylePlus - Large Core Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+QSLIX,AQR Style Premia Alternative LV I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818
+QSPRX,AQR Style Premia Alternative R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818
+STYAX,Wells Fargo Core Plus Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+AMOMX,AQR Large Cap Momentum Style I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+AMONX,AQR Large Cap Momentum Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

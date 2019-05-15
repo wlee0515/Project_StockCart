@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SXR8.FRK,iShares Core S&P 500 ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SXRV.FRK,iShares VII Public Limited Company -  iShares NASDAQ 100 UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SXRL.FRK,iShares $ Treasury Bd 3-7y ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SXRT.FRK,iShares Core EURO STOXX 50 ETF EUR Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SXR1.FRK,iShares Core MSCI Pac ex-Jpn ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SXRT.STG,iShs VII-Co.EO STOXX 50 U.ETF R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+SXRV.FRK,iShares NASDAQ 100 ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SXRT.FRK,iShares VII Public Limited Company - iShares Core EURO STOXX 50 UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SXR7.FRK,iShares MSCI EMU ETF EUR Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

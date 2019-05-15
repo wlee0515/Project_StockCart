@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FARIX,Fulcrum Diversified Abslt Ret Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+FARYX,Fulcrum Diversified Abslt Ret Spr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FARAX,Fulcrum Diversified Absolute Re,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+FCRM.LON,Fulcrum Utility Services Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B622XS49.LON,TM Fulcrum Diversified Growth C GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+F00000LMZO.LON,TM Fulcrum Diversified Growth D GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B17PF983.LON,TM Fulcrum Diversified Growth Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2051
+GB00B63NMB20.LON,TM Fulcrum Diversified Growth D GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2051
+GB00B7N2V080.LON,TM Fulcrum Diversified Abs Ret A GBP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00B7N2VD17.LON,TM Fulcrum Diversified Abs Ret C GBP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

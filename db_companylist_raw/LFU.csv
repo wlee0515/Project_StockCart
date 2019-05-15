@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFUS,Littelfuse Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LFUGY,Li & Fung Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LFUGF,Li & Fung Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LFU2.MUN,BAKRIE + BRO.  RP 50000,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LFU2.BER,BAKRIE + BRO.  RP 50000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LFU2.STG,"Bakrie & Brothers, PT Registere",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+LFU2.FRK,PT Bakrie & Brothers Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DS,Drive Shack Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSX,Diana Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DSS,Document Security Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DSL,DoubleLine Income Solutions Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DSW,DSW Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DSKE,Daseke Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DSLV,VelocityShares 3x Inverse Silver ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DSPG,DSP Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DSU,BlackRock Debt Strategies Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DSENX,DoubleLine Shiller Enhanced CAPE N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

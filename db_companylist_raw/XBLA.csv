@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBLA.BER,BANGKOK LIFE ASSUR.-NVDR-,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+XBLA.MUN,BANGKOK LIFE ASSUR.-NVDR-,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XBLA.STG,Bangkok Life Assurance PCL Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+XBLA.FRK,Bangkok Life Assurance Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYMMF,MYM Nutraceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYMX,Mymetics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYMSF,Valens Groworks Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYMNF,Young Australian Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYM.HAM,MAYR-MELNHOF KARTON,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7500
+MYM.STG,MAYR-MELNHOF KARTON AG Inhaber-,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+0MY.FRK,MYM Nutraceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MYM.FRK,Mayr-Melnhof Karton AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000

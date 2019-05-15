@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHSA.LON,WisdomTree US Equity Inc ETF Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+DHSA.MIL,WISDOMTREE US EQUITY INCOM UCIT,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+DHSA.SWI,WisdomTree US Equity Inc ETF Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

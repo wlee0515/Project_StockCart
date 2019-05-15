@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBFRX,Harbor Bond Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HBFBX,Hennessy Balanced Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HBF.FRK,HIVE Blockchain Technologies Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HBF.TRT,Harvest Brand Leaders Plus Income ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HBF-U.TRT,Brand Leaders Plus Income ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HBF.STG,HIVE Blockchain Technologies Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HBF.BER,HIVE BLOCKCHAIN TECHS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HBF.MUN,HIVE BLOCKCHAIN TECHS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HBF.DUS,HIVE BLOCKCHAIN TECHS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455

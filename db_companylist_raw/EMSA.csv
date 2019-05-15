@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMSA.LON,iShares JP Morgan ESG $ EM Bd ETF USDAcc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EMSA.AMS,ISHARES JPMESG,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+EMSA.BER,IM-I.G.SACHS EQ.FA.I.EU.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EMSA.DUS,IM-I.G.SACHS EQ.FA.I.EU.A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+F000001YWK.BCL,Emsala SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5000

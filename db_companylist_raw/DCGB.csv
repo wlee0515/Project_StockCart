@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCGBROTHERSI.BCL,DCG Brothers Investment Spain SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6154
+DCGBAS.SWI,UBS ETF Bloomberg Commodity SF GBP A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4211

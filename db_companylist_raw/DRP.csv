@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRPEX,Dreyfus Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+122675.BSE,DHFL Pramerica Insta Csh Pls DrPlAnBsOpt,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667
+138305.BSE,DHFL Pramerica Insta Csh Pls DrPlAnBsOpt,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667
+GB00B3QJYR62.LON,VT Multi-Asset DRP III Retail Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00B3QS0T78.LON,VT Multi-Asset DRP VIII Retail Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1622
+GB00B3TNJH07.LON,VT Multi-Asset DRP VII Platform Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+GB00B3TWGP41.LON,VT Multi-Asset DRP V Platform Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+GB00B5NGJ805.LON,VT Multi-Asset DRP VIII Platform Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+GB00B63PYK15.LON,VT Multi-Asset DRP III Platform Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+GB00B67R3280.LON,VT Multi-Asset DRP VII Retail Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

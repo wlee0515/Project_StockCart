@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSUM,Gridsum Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSUXF,Golden Sun Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUIX,Goldman Sachs US Mortgages Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUTX,Goldman Sachs US Equity Insights Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUSX,Goldman Sachs US Equity Insights C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUAX,Goldman Sachs US Mortgages A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUPX,Goldman Sachs US Mortgages SAI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSUKX,Goldman Sachs International Eq Inc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSURX,Goldman Sachs US Equity Insights R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

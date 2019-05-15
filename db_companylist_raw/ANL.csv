@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANLDF,Anfield Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANLBF,Aton Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANLRX,AllianzGI NFJ Large-Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANLKY,Alkane Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAI.VIE,CA Immobilien Anlagen AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+AT0000A20AJ4.VIE,Gutmann USD Anleihefonds (EUR) ,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+AAA.FRK,A.A.A. Aktiengesellschaft Allgemeine Anlageverwaltung,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ANL.AUS,Amani Gold Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2500
+ANL.BER,ANALOG DEVICES INC.DL-166,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+ANL.DUS,ANALOG DEVICES INC.DL-166,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765

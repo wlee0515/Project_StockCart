@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDSR,DATA443 Risk Mitigation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MITK,Mitek Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MUFG,Mitsubishi UFJ Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMFG,Sumitomo Mitsui Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MITT,AG Mortgage Investment Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MIND,Mitcham Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MITL,Mitel Networks Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MSBHY,Mitsubishi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MITTX,MFS Massachusetts Investors Tr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MMTOF,Mitsubishi Motors Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

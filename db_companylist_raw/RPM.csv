@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPM,RPM International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RPMGX,T. Rowe Price Mid-Cap Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RPMT,Rego Payment Architectures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMRX,Royce Pennsylvania Mutual R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMMX,Reinhart Mid Cap PMV Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMNX,Reinhart Mid Cap PMV Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMFX,Reinhart Genesis PMV Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMIX,Royce Pennsylvania Mutual Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMAX,Reinhart Genesis PMV Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPMVX,Reinhart Mid Cap PMV Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

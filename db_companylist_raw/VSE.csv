@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSEC,VSE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VSEQX,Vanguard Strategic Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSEAX,JPMorgan Small Cap Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSENX,JPMorgan Small Cap Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSEIX,JPMorgan Small Cap Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSEMX,Vanguard Extended Market Index Instl Sel,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

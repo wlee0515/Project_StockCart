@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEXAX,Camelot Excalibur Small Cap Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CEXA.FRK,"CEMEX, S.A.B. de C.V.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+CEXA.BER,CEMEX SAB.CPO SP.ADR/10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+CEXA.MUN,CEMEX SAB.CPO SP.ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+CEXA.STG,Cemex S.A.B. de C.V. Reg.CPO's ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

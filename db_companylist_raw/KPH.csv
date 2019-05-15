@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KPH.FRK,Kampa AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KPH.DUS,KAMPA AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KPH.MUN,KAMPA AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KPH.STG,Kampa AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KR5101A80359.KOR,KIM Private KPHF Portfolio Equity Balanced-Fund of Funds 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000NX00.KOR,KIM Private KPHF Portfolio Equity Balanced-Fund of Funds 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

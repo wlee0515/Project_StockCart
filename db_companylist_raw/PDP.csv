@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDP,Invesco DWA Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PDPYF,Painted Pony Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PDPTF,PUDO Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PDPR,Marathon Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PDPPX,Principal Large Cap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDPAX,Virtus Rampart Alternatives Diver A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDPCX,Virtus Rampart Alternatives Diver C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

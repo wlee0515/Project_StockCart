@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLAB,Mesa Laboratories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MLAIX,MainStay Large Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLAAX,MainStay Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLABX,MainStay Large Cap Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLACX,MainStay Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLALX,MFS AL Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+0085.KLA,MLABS SYSTEMS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+MLAAH.PAR,Amatheon Agri Holding N.V.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+MLATV.PAR,A Toute Vitesse SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+MLARD.PAR,Ardoin ST Amand A,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3000

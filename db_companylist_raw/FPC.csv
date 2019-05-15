@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPCIX,Strategic Advisers Core Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FPCPX,FA 529 PORT 2016-CL P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCRLX,FT 6905: Strategic Opportunity ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCGX,Fort Pitt Capital Total Return,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCHKX,First Trust Combined Srs 297 Bu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCMX,FA 529 PORT 2031-CL P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCDX,FA 529 PORT 2016-CL D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCCX,Nuveen PA Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPCG,First Physicians Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FPCFX,Nuveen Core Plus Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

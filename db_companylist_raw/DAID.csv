@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0544.HKG,Daido Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5333
+008110.KOR,Daidong Electronics Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.4444
+DDL.FRK,Daido Steel Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+3205.TOK,Daidoh Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3478
+5471.TOK,Daido Steel Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+6373.TOK,Daido Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+6743.TOK,Daido Signal Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+7245.TOK,Daido Metal Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+DDL.BER,DAIDO STEEL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BYAGF,Banyan Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BYAN.JKT,PT Bayan Resources Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+BYAR.TAV,B. Yair Building Corporation 1988 Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+BYA1.STG,Clear Leisure plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

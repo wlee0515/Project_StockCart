@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HJMA.FRK,AdUX SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+HJMA.BER,"ADUX S.A.  EO 1,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HJMA.STG,"AdUX S.A. Actions Port. EO 1,50",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

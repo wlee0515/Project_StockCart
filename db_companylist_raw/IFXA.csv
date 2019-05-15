@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFXA.BER,INFINEON TECHNOLOGIES ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+IFXA.STG,INFINEON TECHNOLOGIES AG Nam.-A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+IFXA.FRK,Infineon Technologies AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+IFXA.DUS,INFINEON TECHNOLOGIES ADR,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

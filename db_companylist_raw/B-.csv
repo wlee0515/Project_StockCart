@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCDA,B-Scada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+B-R.BAK,Begistics Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2667
+300451.SHZ,B-SOFT Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2353
+2268.TOK,B-R 31 Ice Cream Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1739
+3452.TOK,B-Lot Company Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1429

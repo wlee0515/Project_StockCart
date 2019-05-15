@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBFZX,BlackRock California Municipal ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBFOX,BlackRock Florida Municipal 202,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBFKX,BlackRock Municipal Income Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBFYX,BlackRock New York Municipal In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRCX,Lam Research Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LRCPF,Lorraine Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LRCDF,Laurentian Bank of Canada,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LRCBX,Lord Abbett Corporate Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LRC.BER,LEGRAND S.A.  INH. EO 4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+LRC.DUS,LEGRAND S.A.  INH. EO 4,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+LRC.MUN,LEGRAND S.A.  INH. EO 4,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LRC.STG,Legrand S.A. Actions au Port. E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LRC.FRK,Legrand SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

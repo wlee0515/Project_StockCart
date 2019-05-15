@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTWS,Flitways Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTWRX,Templeton World R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTWINX,FT 7267: Aerospace & Defense Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTWJRX,FT 7640: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGHNX,Fidelity Global High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHAX,Fidelity Advisor Global High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHRVX,First Trust 4454 Dividend Growt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHTPX,FT 7351: American Agenda Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHCX,Fidelity Advisor Global High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHUSX,FT 6650: Sabrient Dividend Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGHTX,Fidelity Advisor Global High Income M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGHIX,Fidelity Advisor Global High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGHIJX,FT 7647: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGHMX,Fidelity Advisor Communication Svcs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

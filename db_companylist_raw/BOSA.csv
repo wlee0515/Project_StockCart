@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8140.HKG,BOSA Technology Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8000
+BOSA.FRK,HUGO BOSS AG SPON.ADR1/5,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+6744.TOK,Nohmi Bosai Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7273
+BOSA.BER,HUGO BOSS AG SPON.ADR1/5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+BOSA.STG,HUGO BOSS AG Nam.-Aktien(Spon.A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

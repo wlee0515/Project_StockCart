@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VZLB.STG,ETFS Metal Securities Ltd. DT.Z,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+VZLD.STG,ETFS Metal Securities Ltd. DT.Z,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VZLE.STG,ETFS Metal Securities Ltd. DT.Z,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VZLA.TRV,Vizsla Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+VZLA.STG,ETFS Metal Securities Ltd. DT.Z,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VZLC.STG,ETFS Physical Silver ETC,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

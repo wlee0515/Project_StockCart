@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOOCY,S-Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+150164.SHZ,Soochow Asset Management Ltd - CSI Concentrated Bond IX Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2500
+601555.SHH,Soochow Securities Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1538
+150165.SHZ,Soochow Asset Management Ltd - CSI Concentrated Bond IX Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538
+165807.SHZ,Soochow Asset Management Limited - Dingli Classified Bond Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538

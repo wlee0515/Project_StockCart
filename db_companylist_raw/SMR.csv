@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMRT,Stein Mart Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMRN,Smartag International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMREF,San Marco Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMRSX,ALPS/Smith Short Duration Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SMRL,Simtrol Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMRRGX,"Smart Trust, Rising Interest Ra",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMRS,Star Mountain Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMRPX,Salient MLP & Energy Infrastructure R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMRRHX,"Smart Trust, Rising Interest Ra",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMRRJX,"Smart Trust, Rising Interest Ra",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

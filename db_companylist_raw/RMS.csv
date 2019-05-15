@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVFGX,EValuator Aggressive RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RMSYF,Ramsay Health Care Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EVGLX,EValuator Growth RMS Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RMSL,REMSleep Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+EVGRX,EValuator Growth RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+EVMLX,EValuator Moderate RMS Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+EVVCX,EValuator Very Conservative RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1935
+EVVLX,EValuator Very Conservative RMS Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622
+EVFTX,EValuator Tactically Managed RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579
+EVFMX,EValuator Moderate RMS R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

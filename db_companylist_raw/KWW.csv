@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWW.FRK,Volga Gas plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KWW.STG,Volga Gas PLC Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KWW.BER,"VOLGA GAS PLC  LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

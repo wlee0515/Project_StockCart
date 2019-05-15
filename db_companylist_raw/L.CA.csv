@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+11Z2.BER,ISH.TR.-MSCI ACWI L.CA.T.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+11Z2.DUS,ISH.TR.-MSCI ACWI L.CA.T.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759

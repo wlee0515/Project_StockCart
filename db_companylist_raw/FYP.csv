@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FYPBWX,FT 7264: Equity Closed-End Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPQBX,FT 7014: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPVOX,FT 6655: Global Commodities Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPLHX,FT 6558: Senior Loan Select Clo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPBMX,FT 6607: Water Utility & Infras,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPOAX,FT 6888: Income Allocation Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYPCAX,FT 6628: Dow 30 Buy-Write Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RZG,Invesco S&P SmallCap 600 Pure Gr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RZV,Invesco S&P SmallCap 600 Pure Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RZZRY,Razer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RZLT,Rezolute Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RZA,"Reinsurance Group of America, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RZSMF,RCS MediaGroup S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RZB,"Reinsurance Group of America, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RZREF,Razor Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

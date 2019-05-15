@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZUMZ,Zumiez Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZM3.BER,ZUMIEZ INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+ZAG.VIE,Zumtobel Group AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.5000
+T9Z.FRK,Zumtobel Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+ZUM.TRV,ZoomerMedia Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+T9Z.FRK,Zumtobel Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+0MJH.LON,Zumtobel Group AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+T9Z.HAM,ZUMTOBEL GROUP AG INH. A,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3000
+ZM3.FRK,Zumiez Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+T9Z.BER,ZUMTOBEL GROUP AG INH. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

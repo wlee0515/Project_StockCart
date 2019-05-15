@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KG.TRV,Klondike Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+KG.SWI,Kinross Gold Corporation,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500

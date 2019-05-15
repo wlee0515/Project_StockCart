@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BWJN.FRK,Boliden AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BWJN.BER,BOLIDEN AB (POST SPLIT),Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BWJN.STG,Boliden AB Namn-Aktier o.N. (Po,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+BWJN.DUS,BOLIDEN AB (POST SPLIT),Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+BWJN.MUN,BOLIDEN AB (POST SPLIT),Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

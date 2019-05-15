@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGJ,Invesco Golden Dragon China ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PGJZX,PGIM Jennison Global Infrastructure Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGJQX,PGIM Jennison Global Infrastructure R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGJAX,PGIM Jennison Global Infrastructure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGJCX,PGIM Jennison Global Infrastructure C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPOA.FRK,Assertio Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DE000A0D24Z1.AMS,DPOSTB FT3 FRNPL,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+DE000A0DHUM0.AMS,DPOSTB FT2 FRNPL,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+DPOA.BER,"ASSERTIO THERAP. DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+DPOA.STG,Assertio Therapeutics Inc. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158

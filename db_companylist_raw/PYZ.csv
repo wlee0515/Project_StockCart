@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYZ,Invesco DWA Basic Materials Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PYZA.STG,PT Tempo Scan Pacific Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

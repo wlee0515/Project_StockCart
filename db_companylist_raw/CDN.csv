@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CDNA,"CareDx, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDNS,Cadence Design Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDNAF,"Canadian Tire Corporation, Limited",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDUTF,CDN UTILITIES,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HZNSF,BetaPro Cdn Gold Miners 2x DlyBull ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDNTF,CANADIAN TIRE LTD,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDNN,China Industrial Steel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CDNO,Consolidated Capital of North America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CIMVF,CDN IMPERIAL VENTU,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

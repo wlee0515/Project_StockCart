@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GUQ.BER,G.U.D. HLDGS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+10AK.FRK,AIS-AM.I.JPM G.GBI G.UEUD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+10AT.BER,AIS-AM.I.JPM G.GBI G.UEUC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143

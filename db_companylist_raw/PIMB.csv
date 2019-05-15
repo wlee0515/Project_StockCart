@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIMBX,Putnam Intermediate-Term Muni Inc B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PIMB.BER,PICTET-EU.S.M.T.B. P DY,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+PIMB.DUS,PICTET-EU.S.M.T.B. P DY,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+PIMB.HAN,PICTET-EU.S.M.T.B. P DY,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+PIMB.HAM,PICTET-EU.S.M.T.B. P DY,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+PIMB.MUN,PICTET-EU.S.M.T.B. P DY,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+PIMB.STG,Pictet-EUR Short-Mid Term Bds N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PIMB.FRK,PICTET-EU.S.M.T.B. P DY,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

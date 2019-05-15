@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZPR.TRT,BMO Laddered Preferred Share ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZPRG.FRK,SPDR S&P Global Dividend Aristocrats ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ZPRU.FRK,SPDR MSCI USA Value ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ZPRA.FRK,SSgA SPDR ETFs Europe I Public Limited Company - SPDR S&P Pan Asia Dividend Aristocrats UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZPRL.STG,SSGA SPDR ETF EU.II-EO St.L.V.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZPRA.FRK,SPDR S&P Pan Asia Dividend Aristocrats ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ZPRS.DUS,SSGA SP.E.EU.II-M.W.S.C.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ZPRW.FRK,SPDR MSCI Europe Value ETF EUR Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ZPRW.STG,SSGA S.ETF E.II-M.Eur.Val.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZPRG.FRK,SSgA SPDR ETFs Europe I Public Limited Company - SPDR S&P Global Dividend Aristocrats UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

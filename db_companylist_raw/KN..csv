@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KN.PAR,Natixis S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+KN.SWI,Natixis S.A.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500

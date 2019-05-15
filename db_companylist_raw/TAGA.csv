@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAGALODEINVE.BCL,Tagalo de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+KRKOP.MOS,Public Joint Stock Company The Taganrog Boiler-Making Works Krasny Kotelshchik,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.2581
+F000001YZ5.BCL,Tagalo de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.0976

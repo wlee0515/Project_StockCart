@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NISP.JKT,PT Bank OCBC NISP Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3200
+FFB.BER,BK OCBC NISP TBK  RP 125,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+FFB.STG,"Bank OCBC Nisp Tbk, PT Register",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

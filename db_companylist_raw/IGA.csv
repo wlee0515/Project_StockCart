@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGA,Voya Global Advantage and Premium Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IGAP,Integrity Applications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IGAAX,American Funds Intl Gr and Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGMB,iGambit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGAMF,Integrity Gaming Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGAIX,American Funds Intl Gr and Inc F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGARX,Voya Global Real Estate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGAR.JKT,PT Champion Pacific Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+IGAS.LON,IGas Energy plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+IGAA.LON,iShares Em Asia Lcl Govt Bd ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714

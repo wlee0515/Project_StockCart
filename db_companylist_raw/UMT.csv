@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMTAF,Genertec Universal Medical Group Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UMD.FRK,UMT United Mobility Technology AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+UMD.BER,UMT UTD MOB.TECHN.AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+UMD.FRK,UMT United Mobility Technology AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+UMD.HAM,UMT UTD MOB.TECHN.AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+UMD.STG,UMT Utd Mobility Technology AGI,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+UMD.MUN,UMT UTD MOB.TECHN.AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTY,PIMCO Corporate & Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GRYEF,AU Min Africa PTY Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTYMX,Putnam Tax-Free High Yield M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTYAX,PIMCO RealPath 2020 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTYIX,T. Rowe Price Tax Free High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+C4Q.BER,CROMWELL PTY GP STPLD SEC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+H2V.BER,"HAMMERSON PTY  LS-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+H2V.DUS,"HAMMERSON PTY  LS-,25",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2500
+PTY.FRK,The Brink's Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLJMX,Putnam Research R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJIX,Principal LifeTime 2065 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJCX,Principal LifeTime 2065 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJEX,Principal LifeTime 2065 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJBX,Principal LifeTime 2065 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJDX,Principal LifeTime 2065 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJAX,Principal LifeTime 2065 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJTX,Principal LifeTime Hybrid 2050 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLJ2.BER,PLAYMATES HLDGS NEW HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

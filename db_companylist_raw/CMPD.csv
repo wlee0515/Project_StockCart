@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMPD,CompuMed Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OCMPX,Lazard International Cmpds Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ICMPX,Lazard International Cmpds Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

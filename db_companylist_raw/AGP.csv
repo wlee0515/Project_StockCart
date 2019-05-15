@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9377.TOK,AGP Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+AGPDY,Amer Sports Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPPF,Anglo American Platinum Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPIX,AGF Global Sustainable Growth Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPRX,AGF Global Sustainable Growth Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPIF,Anglo Pacific Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPYF,Agile Group Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGPYY,Agile Group Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AGP2.FRK,Aguila American Gold Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333

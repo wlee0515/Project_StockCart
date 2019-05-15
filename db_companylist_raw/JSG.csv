@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSGRY,LIXIL Group Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGAX,JHancock Funds III US Quality Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGIX,JHancock Funds III US Quality Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGCX,JHancock Funds III US Quality Gr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGZX,JPMorgan Small Cap Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGTX,JHancock Funds III US Quality Gr R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSGRX,JHancock Funds III US Quality Gr R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSG.LON,Johnson Service Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+JSGN.DUS,HSBC GIF-EURO HGH YLD A D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+JSGB.HAM,HSBC GIF-ASIA E.J.A C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

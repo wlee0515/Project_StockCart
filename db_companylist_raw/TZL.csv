@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TZL1.FRK,Telkom SA SOC Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TZL.AUS,TZ Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TZL1.BER,TELKOM SA SOC  RC 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TZL1.MUN,TELKOM SA SOC  RC 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TZL1.STG,Telkom SA SOC Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

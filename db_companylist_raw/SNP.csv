@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNP,China Petroleum & Chemical Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SNPS,Synopsys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNPMF,China Petroleum & Chemical Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNPAX,State Farm S&P 500 Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPTF,Sunny Optical Technology (Group) Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPW,Sun Pacific Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPHY,Santen Pharmaceutical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPBX,State Farm S&P 500 Index B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPIX,ProFunds Short Oil & Gas Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNPYX,Western Asset New York Municipals I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

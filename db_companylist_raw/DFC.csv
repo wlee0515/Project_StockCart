@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFCEX,DFA Emerging Markets Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFCIX,Delaware Smid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCO,Dalrada Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCMX,DFA CA Short-Term Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCVX,DFA US Large Cap Value II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCSX,DFA Continental Small Company I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCCX,DFA CSTG&E International Social Core Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCFX,DFA Two-Year Fixed Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFCUX,DFA CSTG&E US Social Core Equity 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFC.TRT,Desjardins Cnd Mltfct-Cntrld Volatil ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

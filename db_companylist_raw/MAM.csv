@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAMS,MAM Software Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TUSK,Mammoth Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMMB,MamaMancini's Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAMAX,MFS Moderate Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAMTX,BlackRock Strategic Muni Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAMHX,MFS Moderate Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HOTF,Hot Mama's Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAMTF,MCAN Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MAMZX,AMG Managers Amundi Intermediate Gov Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+MAMQX,Mutual of America Instl Mid-Cap Eq Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

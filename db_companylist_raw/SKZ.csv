@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKZ3.MUN,Old Mutual Global Investors Series plc - Old Mutual Pacific Equity Fund,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SKZX.MUN,OMGI-O.M.EUR.B.IDEAS ADLA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SKZB.FRK,MGIS-M.G.S.B(IRL) AEOHA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SKZN.FRK,Old Mutual Global Investors Series plc - Old Mutual Total Return USD Bond Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SKZQ.FRK,Old Mutual Global Investors Series plc - Old Mutual North American Equity Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SKZW.FRK,MGIS-MER.EUROP.EQU. BDLA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SKZ1.HAM,MGIS-MER.EUROP.EQU. AEOA,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+SKZ3.BER,MGIS-MER.PAC.EQU. ADLACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SKZ3.DUS,MGIS-MER.PAC.EQU. ADLACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SKZ3.STG,MGIS-Merian Pacific Equity Fd R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

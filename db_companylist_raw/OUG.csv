@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8041.TOK,OUG Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+OUGA.FRK,CardioComm Solutions Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OUGA.STG,CardioComm Solutions Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000

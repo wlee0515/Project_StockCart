@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RXII,RXi Pharmaceuticals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RXMD,Progressive Care Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RXN,Rexnord Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RXL,ProShares Ultra Health Care,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RXI,iShares Global Consumer Discr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+RXD,ProShares UltraShort Health Care,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+RXNRQ,Rex Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RXN-PA,Rexnord Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSTKX,Columbia Premium Technology Gro,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XST.TRT,iShares S&P/TSX Capped Cnsmr Stpls ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+XST.AUS,Xstate Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+XSTC.LON,XTRACKERS (IE) PUBLIC LIMITED C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XSTR.MIL,X II GBP Cash Swap ETF 1D,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XST.FRK,Sanwa Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XST.BER,SANWA HOLDINGS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XST.STG,Sanwa Holdings Corp. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XSTR.LON,X II GBP Cash Swap ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

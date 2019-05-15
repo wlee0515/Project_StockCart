@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCPH,Midland Capital Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCPI,Mansfield-Martin Exploration Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCPCX,BlackRock Asian Dragon Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCPYX,BlackRock PA Municipal Bond Inv C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCPRX,MFS Mid Cap Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCPAX,Miller Convertible Plus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCPIX,Miller Convertible Plus I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCPHY.PAR,McPhy Energy S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+M6P.FRK,McPhy Energy S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+MCP.DUS,"MICROCHIP TECH.  DL-,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000

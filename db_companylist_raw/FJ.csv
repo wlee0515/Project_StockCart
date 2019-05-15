@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJPNX,Fidelity Japan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FJSCX,Fidelity Japan Smaller Companies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJTSY,Fujitsu Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FJRLX,Fidelity Limited Term Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FJSYX,Nuveen High Income Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FJSIX,Nuveen High Income Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FJP,First Trust Japan AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FJHL,Fovea Jewelry Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FJTNY,Fuji Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FEXXF,Fjordland Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IENAX,Invesco Energy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IENYX,Invesco Energy Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IENIX,Invesco Energy R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IENRX,Ivy Energy N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IENRYX,Energy Portfolio 2017-3 (Invesc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IENSX,Invesco Energy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IENGAX,Energy Portfolio 2017-1 (Invesc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IENEPX,Energy Portfolio 2016-4 (Invesc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IENEYX,Energy Portfolio 2018-3 (Invesc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IENERX,Energy Portfolio 2017-2 (Invesc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWALITY.NSE,Kwality Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+KWALITY.BSE,Kwality Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+KPL.BSE,Kwality Pharmaceuticals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+1559.HKG,Kwan On Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3000
+1716.HKG,Most Kwai Chung Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2308
+2038.TWN,Hai Kwang Enterprise Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2222
+6572.KLA,Kwantas Corp. Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+KWAN.KLA,KWANTAS CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIOCF,RioCan Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+RIOCX,Columbia Income Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+REI-UN.TRT,RioCan Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+R7G.FRK,RioCan Real Estate Investment Trust,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615
+R7G.BER,RIOCAN REAL ESTATE INV.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+R7G.MUN,RIOCAN REAL ESTATE INV.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2963
+ES0142986035.BCL,Inversiones Riocobo SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+REI_U.TRT,RIOCAN REAL EST UN,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2759
+F0GBR068BB.BCL,Inversiones Riocobo SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

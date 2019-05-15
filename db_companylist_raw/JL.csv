@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JLL,Jones Lang LaSalle Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JLGMX,JPMorgan Large Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+JLGRX,JPMorgan Large Cap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLPSX,JPMorgan US Large Cap Core Plus I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLVIX,JHancock Fundamental Large Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLS,Nuveen Mortgage Opportunity Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JLPCX,JPMorgan US Large Cap Core Plus C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLCWX,JHancock Fundamental Large Cap Core R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLIEX,JHancock Multimanager 2040 Lifetime R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JLVZX,JPMorgan Large Cap Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

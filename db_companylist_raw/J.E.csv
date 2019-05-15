@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FEQ1.BER,"LABORATORIO REIG J.EO 0,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+F3L5.BER,FDL.-SCIB.HFE J.EQ.6F EW,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000

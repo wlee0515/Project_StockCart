@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MXMSX,Great-West Small Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MXMIX,Great-West International Value L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMGX,Great-West T. Rowe Price Mid Cp Gr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMVX,Great-West Mid Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMDX,Great-West S&P Mid Cap 400 Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMCX,Great-West Ariel Mid Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMPX,Great-West Moderate Profile Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMG,Maxima Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMTX,Great-West Small Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXMLX,Great-West Lifetime Cnsrv 2045 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTZPY,Mitsubishi Tanabe Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+TGFRX,Tanaka Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MTZXF,Mitsubishi Tanabe Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TANEF,Tanager Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+TANAX,State Farm Tax Advantaged Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+TAM.AUS,Tanami Gold NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3077
+4508.TOK,Mitsubishi Tanabe Pharma Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+4952.KLA,Amanah Harta Tanah PNB,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+300461.SHZ,Tanac Automation Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+TAN.TRV,Tanager Energy Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2000

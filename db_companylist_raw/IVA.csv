@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVAC,Intevac Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IVPAF,Ivanhoe Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IVWIX,IVA Worldwide I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVWAX,IVA Worldwide A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVANF,Ivanhoe Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IVAEX,Ivy Asset Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVAL,Alpha Architect Intl Quant Val ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IVALX,Ivy Value N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+IVIQX,IVA International I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+IVICX,IVA International C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

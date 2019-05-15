@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXV1.FRK,iShares STOXX Europe 600 Banks (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+EXV2.FRK,iShares STOXX Europe 600 Telecom (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+EXV2.BER,ISH.S.EU.600 TEL.U.ETF A.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EXV4.STG,iSh.ST.Eu.600 Healt.C.U.ETF DEI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+EXV5.BER,ISH.S.EU.600 A+P U.ETF A.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EXV5.MUN,ISH.S.EU.600 A+P U.ETF A.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+EXVM.BER,I.EB.R.MONEY MARKET U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EXV2.FRK,iShares (DE) I - iShares STOXX Europe 600 Telecommunications UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EXV5.FRK,iShares (DE) I - iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EXV7.FRK,iShares (DE) I - iShares STOXX Europe 600 Chemicals UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

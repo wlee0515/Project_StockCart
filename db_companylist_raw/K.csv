@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+K,Kellogg Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KOD,Kodiak Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KO,The Coca-Cola Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KHC,The Kraft Heinz Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KMI,Kinder Morgan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KGKG,Kona Gold Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KSS,Kohl's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KR,The Kroger Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KBH,KB Home,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KERX,Keryx Biopharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

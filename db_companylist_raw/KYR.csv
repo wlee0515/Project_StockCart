@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KYR.BER,KYOCERA CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+KYR.DUS,KYOCERA CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KYR.MUN,KYOCERA CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KYR.STG,KYOCERA CORP. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KR5345727717.KOR,Hana Alternative Investment New Leader Kyrgyzstan Private REITs 14,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6667
+KYR.FRK,Kyocera Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KYRA.FRK,Kyocera Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+KYRA.STG,KYOCERA CORP. Reg. Shares (ADRs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+F00000NV1A.KOR,Hana Alternative Investment New Leader Kyrgyzstan Private REITs 14,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250

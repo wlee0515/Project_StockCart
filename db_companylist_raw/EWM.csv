@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EWM,iShares MSCI Malaysia ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EWMC,Invesco S&P MidCap 400 Equal Weight ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EWMCX,Evercore Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EWMD,Guggenheim S&P MidCap 400 Equal,ETF,United States,09:30,16:00,UTC-05,USD,0.7500

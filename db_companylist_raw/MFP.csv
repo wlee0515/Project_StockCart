@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFPAX,MFS PA Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFPHX,Morgan Stanley Inst Insight A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFPIX,Morgan Stanley Inst Insight I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFPLX,Morgan Stanley Inst Insight L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFPYX,BlackRock PA Municipal Bond Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

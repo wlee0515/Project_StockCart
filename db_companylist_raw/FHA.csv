@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHAIX,Franklin High Income A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FHAWX,Fidelity Freedom Blnd 2015,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAPX,Fidelity Freedom Blnd 2050,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAQLX,FT 7539: Cybersecurity Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAEX,Fidelity Freedom Blnd 2030 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAQX,Fidelity Freedom Blnd 2045,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHARX,Fidelity Freedom Blnd 2040,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAI,Fountain Healthy Aging Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHALX,Fidelity Advisor Freedom Blnd Inc M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHAOX,Fidelity Freedom Blnd 2055,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

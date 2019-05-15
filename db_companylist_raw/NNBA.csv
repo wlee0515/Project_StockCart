@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NL0012650477.AMS,NNBANK0.5%10OCT24,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3810
+NL0013019375.AMS,NNBAN0.625%11SEP25,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3810
+NL0013088990.AMS,NNBANK1%25SEP2028,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3636

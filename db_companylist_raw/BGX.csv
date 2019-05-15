@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGX,Blackstone / GSO Long-Short Credit Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BGX.LON,Expat Asset Management Ead,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BGX.FRK,Expat Asset Management Ead,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BGX.FRK,Expat Asset Management Ead,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667

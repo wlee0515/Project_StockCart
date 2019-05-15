@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFACX,American Funds Income Fund of Amer C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IFAFX,American Funds Income Fund of Amer F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IFAN,IFAN Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFAIX,Meeder Conservative Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFAM,Infrastructure Materials Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFABF,iFabric Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFAAX,Meeder Conservative Allocation Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFA.TRT,iFabric Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

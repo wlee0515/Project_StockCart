@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUP3.LON,ETFS 3x Long EUR Short GBP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EUP5.LON,ETFS 5x Long EUR Short GBP ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EUPE.FRK,Ossiam Lux - Ossiam Shiller Barclays CAPE Europe Sector Value TR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+6815.KLA,EUPE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+EUPE.FRK,OssiamShillerBarclaysCapeEuSeVlTR ETF1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+EUPE.KLA,Eupe Corporation Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+EUPE.STG,OSS.Shill.Barc.C.Eu.Sec.Val.TRI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609

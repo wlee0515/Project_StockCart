@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OEZVY,VERBUND AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OEZVF,VERBUND AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OEZ.FRK,Phosphagenics Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OEZ.DUS,PHOSPHAGENICS LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+OEZ.HAM,PHOSPHAGENICS LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+OEZ.MUN,Phosphagenics Limited,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+OEZ.STG,Phosphagenics Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LL76.VIE,RCB OEZert./Coffee,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2857

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABFAX,American Beacon Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABFRF,ABERFORTH SMLR COS,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ABF.LON,Associated British Foods plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+2821.HKG,ABF Pan Asia Bond Index Fund,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5455
+A35.SGP,ABF Singapore Bond Index Fund,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.2500
+2819.HKG,ABF Hong Kong Bond Index Fund,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+XAYH.HAM,ABFCPI-SU.US TH.PTF A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.1935
+ABFRL.NSE,Aditya Birla Fashion and Retail Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1935
+1349.TOK,ABF PAN ASIA BOND INDEX FUND,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.1875

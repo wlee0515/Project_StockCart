@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CYX.TRV,Calyx Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+CYX.FRK,Cardlytics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CYX.BER,"CARDLYTICS INC DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CYX.MUN,Cardlytics Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+4CX.FRK,Cyxone AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CYX.STG,Cardlytics Inc. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

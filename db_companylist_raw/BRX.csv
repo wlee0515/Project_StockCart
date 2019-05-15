@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRX,Brixmor Property Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BRXCX,MFS Blended Research Intl Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXUX,MFS Blended Research Intl Eq R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXAX,MFS Blended Research Intl Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXTX,MFS Blended Research Intl Eq R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXVX,MFS Blended Research Intl Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXRX,MFS Blended Research Intl Eq R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXBX,MFS Blended Research Intl Eq B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXSX,MFS Blended Research Intl Eq R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRXIX,MFS Blended Research Intl Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

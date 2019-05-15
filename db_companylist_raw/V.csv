@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+V,Visa Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VAPO,Vapotherm Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DGAZ,VelocityShares 3x Inv Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+UGAZ,VelocityShares 3x Long Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+VIOT,Viomi Technology Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+VCNX,Vaccinex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+VTEC,Valtech SE,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+VZ,Verizon Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TVIX,VelocityShares Daily 2x VIX ST ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.0526
+VKTX,Viking Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.0513

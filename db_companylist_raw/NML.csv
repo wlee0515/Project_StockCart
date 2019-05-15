@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NML,Neuberger Berman MLP Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NMLAX,Neuberger Berman Multi-Style Premia A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMLRX,Neuberger Berman Multi-Style Premia R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMLIX,Neuberger Berman Multi-Style PremiaInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMLCX,Neuberger Berman Multi-Style Premia C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NML.TRT,New Millennium Iron Corp,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+NML0576AU.AUS,AMP - Generations - BlackRock International Fixed Interest Index,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NML.AUS,Navarre Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455
+NMLEC.MIL,NEW MILLENNIUM LARGE EUROPE COR,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4000
+NML0575AU.AUS,AMP - Generations - BlackRock International Equity Index (Unhedged),Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WGFCX,Wells Fargo Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGFIX,William Blair Global Leaders I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGF.TRV,Wescan Goldfields Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+WGF1.BER,WILLIAMS G.P.HLD.LS-05 DZ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WGF1.FRK,Williams Grand Prix Holdings PLC,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+WGF1.DUS,WILLIAMS G.P.HLD.LS-05 DZ,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WGF1.MUN,WILLIAMS G.P.HLD.LS-05 DZ,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WGF.AUS,Watermark Global Leaders Fund Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+WGF1.FRK,Williams Grand Prix Holdings PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WGF1.STG,Williams Grand Prix Hldgs PLC S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

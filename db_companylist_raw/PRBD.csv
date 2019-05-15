@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APOIX,American Century Short Dur Inf PrBd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+APOAX,American Century Short Dur Inf PrBd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+APISX,American Century Short Dur Inf PrBd R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+PRBDX,Principal Core Plus Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+APOCX,American Century Short Dur Inf PrBd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+APORX,American Century Short Dur Inf PrBd R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+APODX,American Century Short Dur Inf PrBd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

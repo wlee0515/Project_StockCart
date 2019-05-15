@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FECILX,The First Trust Conbined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+F00000M7JJ.LON,ConBrio Sanford Deland UK Buffettology,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+109070.KOR,Conbuzz Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2500
+GB00B3QQFJ66.LON,ConBrio Sanford Deland UK Buffettology,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286
+GB00BKJ9C676.LON,ConBrio Sanford Deland UK Buffettology I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286
+600572.SHH,Zhejiang CONBA Pharmaceutical Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1905
+F00000OLNE.LON,ConBrio UK Opportunities Charity Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+F00000SY09.LON,ConBrio Sanford Deland UK Buffettology I,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1905
+GB0033149799.LON,ConBrio Mgd Multi-Asst R Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00B13NPD00.LON,ConBrio B.E.S.T Income Char Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

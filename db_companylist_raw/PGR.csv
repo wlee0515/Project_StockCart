@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGR,The Progressive Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PGRE,Paramount Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PGRNX,Pax Global Environmental Mrkts Indv Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PGRTX,Principal SmallCap Growth I Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGROX,Dreyfus Worldwide Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGRYX,Putnam Global Natural Resources Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGRSX,Pacific Capital Growth Stock Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGRKX,Principal Global Real Estate Sec R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGRX,Prospect Global Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGRVX,Principal Global Real Estate Sec R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

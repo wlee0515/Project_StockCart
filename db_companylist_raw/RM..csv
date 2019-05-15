@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RM.TRV,Routemaster Capital Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+RM.MIL,Reno De Medici S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.8571
+RM.LON,RM plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRMB,Trimble Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRMK,Trustmark Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRMCX,T. Rowe Price Mid-Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TRMIX,T. Rowe Price Mid-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TRMD,TORM plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRMLF,Tourmaline Oil Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRMT,Tremont Mortgage Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TRMUX,T. Rowe Price Maryland S-T Tax-Fr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSDUX,Consulting Group Ultra-Shrt Trm F/I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FCSTX,Fidelity California Ltd Trm Tax-Free Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

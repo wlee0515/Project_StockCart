@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NTOA.BER,NINTENDO UNS.ADR 1/8/O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+NTOA.FRK,Nintendo Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+NTOA.MUN,NINTENDO UNS.ADR 1/8/O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+NTOA.STG,NINTENDO CO. LTD. Reg.Shs (Unsp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

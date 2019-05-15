@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EEI,Ecology & Environment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EEIIX,Eaton Vance Emerging Markets Local Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EEIAX,Eaton Vance Emerging Markets Local Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EEICX,Eaton Vance Emerging Markets Local Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EEIG,024 Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EEIDX,Eaton Vance Emerging Markets Debt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EEI.LON,WisdomTree Europe Equity Income ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EEIA.LON,WisdomTree Europe Equity Income ETF Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EEIE.LON,WisdomTree Europe Equity Income ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EEIP.LON,WisdomTree Issuer Public Limited Company - WisdomTree Europe Equity Income UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

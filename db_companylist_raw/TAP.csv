@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAP,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TPR,Tapestry Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TAPM,Tapinator Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TAPR,Barclays Inverse US Treasury Aggt ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TAP-A,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TAPRX,Columbia Contrarian Asia Pacific Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TAPOF,Tap Oil Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUMAXTECH.NSE,Lumax Auto Technologies Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+LUMAXTECH.BSE,Lumax Auto Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+6192.TWN,Lumax International Corp. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.5000
+PU11.DUS,LUMALAND AG  NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+517206.BSE,Lumax Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+532796.BSE,Lumax Auto Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+LUMAXIND.BSE,Lumax Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+LUMAXIND.NSE,Lumax Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286
+LUMAISAINVER.BCL,Lumaisa Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

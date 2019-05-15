@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHEF.LON,SciBeta HFE Japan Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+EHEF.LON,SciBeta HFE Europe Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286
+USHF.LON,SciBeta HFE US Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286
+SCIB.KLA,Sarawak Consolidated Industries Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2105
+EMHF.LON,SciBeta HFE EM Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2051
+PHEF.LON,SciBeta HFE Pacific ex-Jap Eq 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860

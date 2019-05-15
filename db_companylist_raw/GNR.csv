@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNR,SPDR S&P Global Natural Resources ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GNRC,Generac Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNRD,General Datacomm Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNRX,VanEck Vectors Generic Drugs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GNRV,Grand River Commerce Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GNRO.PAR,GeNeuro SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000

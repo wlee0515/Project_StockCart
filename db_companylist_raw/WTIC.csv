@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTIC.FRK,WisdomTree Issuer Public Limited Company - WisdomTree Enhanced Commodity UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WTIC.FRK,WisdomTree Enhanced Cmdty ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+WTIC.DUS,WISDOMTR.ENH.CO.U.E.DLADZ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WTIC.STG,WisdomTree Enh.Comm.UCITS ETF B,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

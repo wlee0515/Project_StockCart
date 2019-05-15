@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHEQX,JPMorgan Hedged Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JHEM,John Hancock Multifactor Em Mkts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JHEIX,JHancock Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHEMX,JHancock Emerging Markets Debt R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHERX,JHancock Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JHEF.LON,SciBeta HFE Japan Equity 6F EW ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

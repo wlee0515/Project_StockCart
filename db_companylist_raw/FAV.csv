@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVRD,Favored Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FAVFX,Fidelity Advisor Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAVCTX,FT 7474: Dividend & Income Sele,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAVAX,Fidelity Advisor Equity Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFFAUX,ADT 1825 Brand Favorites Focus ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAVCX,Fidelity Advisor Equity Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAVMCX,FT 7297: Target Dvd. Blend 2Q ',Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAVTX,Fidelity Advisor Equity Value M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FAVENX,FT 7461: ETF Growth and Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+BFFAYX,ADT 1882 Brand Favorites Focus ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444

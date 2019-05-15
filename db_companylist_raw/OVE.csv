@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSTK,Overstock.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+OSG,Overseas Shipholding Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DIAX,Nuveen Dow 30 Dynamic Overwrite Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+JAOSX,Janus Henderson Overseas T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FOSFX,Fidelity Overseas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SGOIX,First Eagle Overseas I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+SGOVX,First Eagle Overseas A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500
+TROSX,T. Rowe Price Overseas Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

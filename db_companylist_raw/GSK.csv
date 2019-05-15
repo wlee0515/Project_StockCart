@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSK,GlaxoSmithKline plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GSKY,GreenSky Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSKPX,Goldman Sachs Tax-Advntgd Gbl Eq P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSK.LON,GlaxoSmithKline plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GSK.SWI,GlaxoSmithKline plc,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+GSKCONS.BSE,GlaxoSmithKline Consumer Healthcare Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+GSKCONS.NSE,GlaxoSmithKline Consumer Healthcare Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+GSKN.MEX,GlaxoSmithKline plc,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4615

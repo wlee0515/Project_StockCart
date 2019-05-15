@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBCRX,BlackRock Resources & Commoditi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBCVX,Bancroft Fund Ltd.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBC.TRV,Xebec Adsorption Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+XBCU.LON,X DBLCI Cmdty Optm Y Swap ETF 2C USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XBCD.FRK,db x-trackers II - iBoxx Germany Covered UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XBCD.FRK,X II iBoxx Germany Cov Bd Swap ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XBCD.STG,Xtr.II iBoxx Ger.Cov.Bd Swap In,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XBCU.SWI,db x-trackers - DBLCI - OY Balanced UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XBCD.DUS,XTR.II IB.GE.CO.BD SW. 1D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XBCD.MUN,XTR.II IB.GE.CO.BD SW. 1D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

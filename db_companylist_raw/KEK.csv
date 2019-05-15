@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KEK.MUN,KESKO B,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+KEK.FRK,Kesko Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KEK.BER,KESKO B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KEK.DUS,KESKO B,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KEK.STG,Kesko Oyj Registered Shares Cl.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VICI,VICI Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VICR,Vicor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VCTR,Victory Capital Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VICEX,USA Mutuals Vice Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VICL,Vical Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ACT,AdvisorShares Vice ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+VMHG,Victory Marine Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CDC,VictoryShares US EQ Inc Enh Vol Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+LYL,Dragon Victory International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+VCON,Vicon Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538

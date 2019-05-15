@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AKBA,Akebia Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AKBTY,Akbank T.A.S.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AIMS.JKT,"PT. Akbar Indo Makmur Stimec, Tbk",Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+AKB2.BER,AKBANK T.A.S. ADR/2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AKB2.FRK,Akbank T.A.S.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AKB2.MUN,AKBANK T.A.S. ADR/2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+AKB2.STG,Akbank T.A.S. Reg.Shares (ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

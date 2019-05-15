@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OQGCX,Oppenheimer Macquarie Global Infras C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OQGRX,Oppenheimer Macquarie Global Infras R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OQGAX,Oppenheimer Macquarie Global Infras A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OQGYX,Oppenheimer Macquarie Global Infras Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OQGIX,Oppenheimer Macquarie Global Infras I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

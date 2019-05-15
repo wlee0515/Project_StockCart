@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLL,Ball Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BLLB,Bell Buckle Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLLCF,Bitfarms Technologies Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLLZ,"Bullzi Holdings, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DXNLX,Direxion Monthly NASDAQ-100 Bll 1.25X,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLLXF,BLOX LABS INC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLLIX,BlackRock LifePath Smart Beta 2055 Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLLI,Bell Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BLLCF.TAV,Bitfarms Technologies Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5455
+BLL.SGP,PSL Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2500

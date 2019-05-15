@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLF,Sun Life Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SLFPY,Standard Life Aberdeen plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLFPF,Standard Life Aberdeen plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLFPD,Standard Life Aberdeen plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLFYX,SEI Multi-Asset Inflation Mgd Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLFYF,Sun Life Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLFFF,Future Mobility Solutions Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLF.TRT,Sun Life Financial Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SLF-PC.TRT,Sun Life Financial Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+SLF-PB.TRT,SUN LIFE FINANCIAL INC. CL A PR,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

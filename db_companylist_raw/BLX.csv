@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLX,"Banco Latinoamericano de Comercio Exterior, S.A",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BLXX,Blox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLX.TRT,Boralex Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+BLX.AUS,Beacon Lighting Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BLX.FRK,Black Box Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BLX.STG,BLACK BOX CORP. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

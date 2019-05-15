@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XQ1F.BER,F.TEM.INV-AS. BD A.AC.EUR,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+XQ1F.DUS,F.TEM.INV-AS. BD A.AC.EUR,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759
+XQ1F.HAM,F.TEM.INV-AS. BD A.AC.EUR,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2759
+XQ1F.MUN,F.TEM.INV-AS. BD A.AC.EUR,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2759

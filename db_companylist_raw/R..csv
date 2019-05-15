@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRD,R.R. Donnelley & Sons Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+R.TRT,Red Eagle Mining Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FHQN.DUS,R.(L)F.III-R.Q.LSDD. DHEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+RSSOFTWARE.NSE,R. S. Software (India) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+RE.LON,R.E.A. Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+DLLN.STG,R.R. Donnelley & Sons Company,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+RSL2.HAM,R. STAHL AG NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2667
+RSSOFTWARE.BSE,R. S. Software (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+RV30FONDFI.BCL,R.V. 30 Fond FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+7837.TOK,R. C. Core Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222

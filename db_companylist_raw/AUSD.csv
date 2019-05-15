@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUSDF,Ausdrill Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ASL.AUS,Ausdrill Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7273
+EFIM.LON,Invesco Goldman Sachs Eq Fac EM ETF AUSD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+FWG.FRK,Ausdrill Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+FWG.MUN,AUSDRILL LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+FWG.BER,AUSDRILL LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+FWG.HAM,AUSDRILL LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+FWG.STG,AUSDRILL LTD. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+AUSD.SGP,Nikko AM Shenton Asia Bond A USD,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.2286
+AUSD.TWN,Taishin North American Income Trust $ A,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1818

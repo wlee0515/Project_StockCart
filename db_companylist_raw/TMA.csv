@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TMAAX,Thrivent Moderately Agrsv Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TMAPX,Touchstone Mid Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMAYX,Touchstone Arbitrage Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMAFX,Thrivent Moderately Agrsv Allocation S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMARX,Touchstone Arbitrage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMAK,Touchmark Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMMFF,TMAC Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMACX,Touchstone Arbitrage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMAIX,Thrivent Moderate Allocation S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TMR.TRT,TMAC Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444

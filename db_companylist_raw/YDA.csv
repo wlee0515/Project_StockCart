@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YDAB.FRK,Yue Da Mining Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YDAB.MUN,"YUE DA MNG HLD.NEW HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+YDAB.STG,Yue Da Mining Holdings Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

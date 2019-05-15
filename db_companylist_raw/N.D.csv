@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NDR.BAK,N.D. Rubber Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+MI95.HAM,BGF-USD SHO.DUR.BD N.D.A2,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+MI95.BER,BGF-USD SHO.DUR.BD N.D.A2,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+MI95.DUS,BGF-USD SHO.DUR.BD N.D.A2,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636
+MI95.MUN,BGF-USD SHO.DUR.BD N.D.A2,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+NDR-R.BAK,N.D. Rubber Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2143
+XMHI.DUS,BGF-EUROPEAN FD N.D2 EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

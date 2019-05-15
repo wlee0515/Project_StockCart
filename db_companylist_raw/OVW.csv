@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OVW.FRK,Shaftesbury PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OVW.MUN,"SHAFTESBURY PLC  LS-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+OVW.STG,SHAFTESBURY PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OVW.BER,"SHAFTESBURY PLC  LS-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

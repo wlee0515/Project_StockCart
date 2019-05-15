@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMY,Bristol-Myers Squibb Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BMA,Banco Macro S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BMO,Bank of Montreal,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BMRN,BioMarin Pharmaceutical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BMS,Bemis Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BMI,Badger Meter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMWYY,Bayerische Motoren Werke Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMRC,Bank of Marin Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMTC,Bryn Mawr Bank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMCH,BMC Stock Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

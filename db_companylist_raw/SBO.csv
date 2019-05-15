@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBOT,Stellar Biotechnologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBOW,SilverBow Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBOX,SuperBox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBOEF,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBOEY,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBO.VIE,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667

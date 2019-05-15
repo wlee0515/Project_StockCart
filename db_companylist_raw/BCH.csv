@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCH,Banco de Chile,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BCHYX,American Century CA High Yield Muni Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCHHF,Bucher Industries AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BCHIX,American Century CA High Yield Muni I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCHEY,Beach Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

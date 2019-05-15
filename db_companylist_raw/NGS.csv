@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGS,Natural Gas Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NGSAAX,ADT 1901 Next Generation ESG St,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGSABX,ADT 1908 Next Generation ESG St,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NGSP.LON,ETFS COMMODITY SECURITIES LIMIT,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+NGS.BER,"NATURAL GAS SERVIC DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+B07.SGP,NGSC Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+BJCL.SGP,NGSC^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000

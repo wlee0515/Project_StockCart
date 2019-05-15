@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIEN,Ciena Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CIOXY,Cielo S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLHG,"CIE Holdings, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CIETX,iShares Russell 2000 ETF 529 Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CIEUX,iShares Russell 3000 ETF 529 Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CIEIX,Calamos Emerging Market Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455
+CIERX,Columbia Select International Eq R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CIEL3.SAO,Cielo S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3000
+HAMO.BRU,Hamon & Cie (International) SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.1818

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KR5102733494.KOR,UBSHana LC 2020 Fdr Bd Bal-FoF 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2000
+KR5102734393.KOR,UBSHana LC 2030 Fdr Eq Bal-FoF 1 LH-C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1951
+F000001K97.KOR,UBSHana LC 2020 Feeder Bd Bal 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1951
+F000001K9F.KOR,UBSHana LC 2030 Feeder Eq Bal 1 LH-C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1951
+F000001K9I.KOR,UBSHana LC 2030 Feeder Eq Bal 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1951
+F000002FTS.KOR,UBSHana LC 2040 Feeder Eq Bal 1 LH-CE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1905

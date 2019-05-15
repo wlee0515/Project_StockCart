@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELGX,Endologix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ELGL,Element Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ELGAX,Columbia Select Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELGCX,Columbia Select Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELGSF,Fengro Industries Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ELG.FRK,Elmos Semiconductor AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ELGIEQUIP.NSE,ELGI Equipments Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ELG.DUS,ELMOS SEMICONDUCTOR AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ELG.HAM,ELMOS SEMICONDUCTOR AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+ELG.MUN,ELMOS SEMICONDUCTOR AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

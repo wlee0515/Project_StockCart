@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VREX,Varex Imaging Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VREYF,TORC Oil & Gas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VREMX,Virtus Vontobel Emerging Markets Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VRED,Virtual Ed Link Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VREAX,Invesco Balanced-Risk Retire 2030 AX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VREPX,Voya Real Estate P3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VREQX,Voya Real Estate R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VRERX,Invesco Balanced-Risk Retire 2030 RX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VRECX,Invesco Balanced-Risk Retire 2030 CX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VRE.TRT,Vanguard FTSE Canadian Capped REIT ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

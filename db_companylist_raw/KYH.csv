@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KYH1.STG,Kootenay Zinc Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KYH1.FRK,Kootenay Zinc Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+KYH1.BER,KOOTENAY ZINC CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

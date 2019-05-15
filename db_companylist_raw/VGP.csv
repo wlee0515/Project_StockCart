@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGPMX,Vanguard Global Capital Cycles Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VGPR,Vega Biofuels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0HM0.LON,VGP NV,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+VGP.BRU,VGP NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+4V1.FRK,VGP NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+4V1.BER,VGP N.V.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+4V1.STG,VGP N.V. Actions Nom. o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+VGP24.BRU,Van Genechten Packaging N.V. 3.25% SUB NTS 06/07/2024 EUR1000,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+VGP18.BRU,VGP 5.1%6DEC18,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+VGP23.BRU,VGP NV 3.9% BDS 21/09/2023 EUR1000,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.4444

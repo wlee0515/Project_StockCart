@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLTCX,Oppenheimer Limited-Term Government C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLTYX,Oppenheimer Limited-Term Government Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLTIX,Oppenheimer Limited-Term Government I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLTNX,Oppenheimer Limited-Term Government R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLT-P.TRV,Orletto Capital II Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+F000001YQF.BCL,Nueva Oltal Burs?til SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2069
+F00000WRKC.MIL,Cnp E Obbligazionario Oltre 3,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1875
+F00000WU2E.MIL,CreditRas CRV E Obblig.Euro Oltre,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1667

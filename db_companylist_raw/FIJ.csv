@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIJ.AUS,Fiji Kava Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+FIJEX,Frost Total Return Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJYX,Fidelity Advisor Biotechnology Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJKX,Fidelity Advisor Freedom 2015 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJHX,Fidelity Advisor Freedom 2005 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJVX,Fidelity Advisor Event Driven Opps Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJMX,Fidelity Advisor Freedom 2025 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJNX,Fidelity Advisor Freedom 2030 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJFX,Fidelity Advisor Materials Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIJLX,Fidelity Advisor Freedom 2020 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

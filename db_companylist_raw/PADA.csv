@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PADAX,PGIM Absolute Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PDI.BAK,Padaeng Industry Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8000
+PADA.FRK,Parker Drilling Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+PADA.STG,Parker Drilling Co. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+QU5A.FRK,Padaeng Industry Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+PADA.DUS,"PARKER DRILLING  DL-,1666",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+PADA.MUN,"PARKER DRILLING  DL-,1666",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333
+QU5A.MUN,PADAENG IND. -NVDR- BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759
+QU5A.STG,Padaeng Industry PCL Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+PDI-R.BAK,Padaeng Industry Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2000

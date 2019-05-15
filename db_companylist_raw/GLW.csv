@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLW,Corning Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GLWSF,GLOBAL WTR SOLUTIO,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLW.TRV,Galway Gold Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GLW.BER,"CORNING INC.  DL -,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+GLW.HAM,"CORNING INC.  DL -,50",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GLW.MUN,"CORNING INC.  DL -,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GLW.MEX,Corning Incorporated,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+GLW.SWI,Corning Incorporated,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+GLW.FRK,Corning Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GLW.DUS,"CORNING INC.  DL -,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

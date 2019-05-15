@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFNC,Mackinac Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MFNC.STG,Amax International Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+MFNC.FRK,"AMAX INTL HLDGS  HD-,20",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+MFNC.MUN,"AMAX INTL HLDGS  HD-,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

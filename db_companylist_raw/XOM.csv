@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XOM,Exxon Mobil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+XOMA,XOMA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XOM.MEX,Exxon Mobil Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+XOM.ARG,Exxon Mobil Corporation,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+XOM.SWI,Exxon Mobil Corporation,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+X0M1.FRK,XOMA Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XOM.VIE,Exxon Mobil Corporation,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4444
+X0M1.BER,"XOMA CORP.  DL -,0005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+X0M1.DUS,"XOMA CORP.  DL -,0005",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+X0M1.MUN,"XOMA CORP.  DL -,0005",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

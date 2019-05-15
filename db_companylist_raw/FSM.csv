@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSM,Fortuna Silver Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FSMEX,Fidelity Select Medical Tech and Devcs,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMAX,Fidelity Extended Market Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMVX,Fidelity Mid Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMDX,Fidelity Mid Cap Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMLX,Franklin Small Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMSX,FS Multi-Strategy Alternatives I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMNX,Fidelity SAI Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMIX,Franklin Strategic Mortgage A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSMHX,Franklin Strategic Mortgage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

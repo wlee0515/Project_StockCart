@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGLD.LON,X Physical Gold ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+XGLD.SWI,X Physical Gold ETC,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

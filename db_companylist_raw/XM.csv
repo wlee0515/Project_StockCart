@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XME,SPDR S&P Metals and Mining ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XMPT,VanEck Vectors CEF Municipal Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XMLV,Invesco S&P MidCap Low Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XMXEX,The Mexico Equity and Income Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XMTIF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XMET,Xxstream Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XMSOX,BlackRock Mulit-Sector Opportun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XMCRX,MFS Charter Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

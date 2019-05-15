@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWEDF,Fireweed Zinc Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FWEYSX,FT 6391: Dividend & Income Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FWEUTX,FT 6997: European Deep Value Di,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWEQNX,FT 6996: International Capital ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWEBSX,FT 7201: MLP Closed-End Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWEKLX,FT 7477: Dow Target 10 Aug. '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWERVX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWEC.LON,L&G LOIM Euro Corp Bd Fdml ETF EUR UnH,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+FWE.FRK,Integrated Waste Solutions Group Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FWEB.KLA,PRG HOLDINGS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

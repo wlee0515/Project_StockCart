@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00BVYJ1287.LON,M&G Global Macro Bond GBP X-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BVYJ1394.LON,M&G Global Macro Bond GBP X-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+F00000W5PI.LON,M&G Global Macro Bond GBP X-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+F00000W5PJ.LON,M&G Global Macro Bond GBP X-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667

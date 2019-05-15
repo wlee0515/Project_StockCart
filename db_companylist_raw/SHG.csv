@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHG,Shinhan Financial Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SHGTX,Columbia Seligman Global Tech A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SHGDF,Star Diamond Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SHGXY,Shenguan Holdings (Group) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHGP,Sharpe Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHGY,SearchGuy.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHG.LON,Shanta Gold Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SHGR.TAV,Shagrir Group Vehicle Services Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.7500
+SHG.FRK,Sun Hung Kai Properties Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SHGOVTR.BSE,Shree Surgovind Tradelink Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INT,World Fuel Services Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MSC,Studio City International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IBM,International Business Machines Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+INTC,Intel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WFT,Weatherford International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EIX,Edison International,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PM,Philip Morris International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TTWO,Take-Two Interactive Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+PYX,Pyxus International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+IGXT,IntelGenx Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1333

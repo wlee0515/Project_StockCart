@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNBS.JKT,PT Bank Panin Dubai Syariah Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.8000
+2PS.FRK,PT Bank Panin Dubai Syariah Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+DUBA.DUS,DRDGOLD LTD. RC 1 ADR/10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+DUBA.MUN,DRDGOLD LTD. RC 1 ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DUBA.FRK,DRDGOLD Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+DUBA.BER,DRDGOLD LTD. RC 1 ADR/10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2286
+DUBA.STG,DRDGold Ltd. Reg. Shs (Spons. A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

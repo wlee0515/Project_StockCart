@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAE,CAE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CZR,Caesars Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSTE,Caesarstone Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAEAX,Columbia Acorn European A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAEIX,Calvert Global Energy Solutions I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAEGX,Columbia Aggressive Growth 529 ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAEEX,Columbia Acorn European Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAEZX,Columbia Acorn European Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAECX,Columbia Acorn European C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+CAEYX,Columbia Acorn European Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

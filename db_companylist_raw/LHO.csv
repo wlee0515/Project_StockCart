@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LHO,LaSalle Hotel Properties,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LHO-PI,LaSalle Hotel Properties,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LHO-PJ,LaSalle Hotel Properties,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LHOG.STG,Land and Houses PCL Reg. Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LHOG.BER,LD + HOUSES PCL FGN  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LHOG.DUS,LD + HOUSES PCL FGN  BA 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LHOG.MUN,LD + HOUSES PCL FGN  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LHOG.FRK,Land and Houses Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

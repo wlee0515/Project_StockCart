@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWWBF,Cannabis Growth Opportunity Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWW.TRT,iShares Global Water ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+CWW.FRK,Commonwealth Bank of Australia,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CWW.BER,COMMONW.BK AUSTR.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CWW.DUS,COMMONW.BK AUSTR.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CWW.MUN,COMMONW.BK AUSTR.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CWW.STG,COMMONWEALTH BANK OF AUSTRALIAR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CWW.HAM,COMMONW.BK AUSTR.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GDUB.BER,GERDAU S.A. PFD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+GDUB.FRK,Gerdau S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+GDUB.STG,GERDAU S.A. Reg. Preferred Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

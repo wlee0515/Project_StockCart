@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRIAX,Principal Intl Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SBQ4.STG,StarCapital FCP - Priamos Inhab,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+F00000HGPH.MIL,Priamo Bilanciato Prudenza,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2667
+K55223B47568.KOR,KB Haeoreum Priavte Equity 47,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2581
+F000002X93.MIL,Priamo Garantito Protezione,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2424
+F000002X94.MIL,Priamo Bilanciato Sviluppo,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2424
+F00000VZ08.KOR,KB Haeoreum Priavte Equity 47,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2286

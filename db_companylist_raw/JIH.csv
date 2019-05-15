@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JIHDX,JHFunds 2 High Yield 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JIHLX,JHFunds 2 US High Yield Bond 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JIHSUNANTIGL.TWN,Jih Sun Anti-Global Warming Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.3333
+603980.SHH,Zhejiang Jihua Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2400
+TW000T2045A0.TWN,Jih Sun China High Yield Bond Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1935
+MIT.TWN,Jih Sun MIT Mainstream,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1818
+5285.TWN,Jih Lin Technology Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1622
+38648871A.TWN,Jih Sun China High Yield Bond Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1622
+38648871B.TWN,Jih Sun China High Yield Bond B TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1579

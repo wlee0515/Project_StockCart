@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QAI,IQ Hedge Multi-Strategy Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+QAI-H.TRV,Cairo Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000

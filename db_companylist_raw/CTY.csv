@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTY,Qwest Corp. NT,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTYRX,Columbia Global Technology Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CTYP,Community Bankers Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTYX,Connectyx Technologies Holdings Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTYCX,American Funds College 2030 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTYI,Centenary International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTY.LON,City of London Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BK3.BER,"CAPITAL CTY BK GRP DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+CTY.FRK,Cathay Pacific Airways Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143

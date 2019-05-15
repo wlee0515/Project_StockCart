@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYZAX,Rydex S&P 500 Pure Value H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYZCX,Rydex Precious Metals C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYZR.FRK,China LNG Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

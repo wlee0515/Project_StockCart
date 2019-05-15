@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YSTR,Ystrategies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+YST.FRK,TPG Telecom Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YST.BER,TPG TELECOM LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YST.DUS,TPG TELECOM LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YST.HAM,TPG TELECOM LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

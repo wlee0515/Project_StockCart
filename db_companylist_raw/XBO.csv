@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBOR,Cross Border Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XBOEX,BlackRock Enhanced Global Divid,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBO2.FRK,X II Italy Government Bd 0-1 Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+XBO1.FRK,db x-trackers II - MTS Ex-Bank of Italy BTP UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XBO2.FRK,db x-trackers II - MTS Ex-Bank of Italy BOT UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XBO3.FRK,db x-trackers II - MTS Ex-Bank of Italy Aggregate UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XBO1.FRK,X II Italy Government Bond ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XBO1.DUS,XTR.II ITALY GOV.BD 1D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XBO1.STG,Xtr.II Italy Government Bond In,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XBO2.HAM,XTR.II IT.GOV.BD0-1SW. 1C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

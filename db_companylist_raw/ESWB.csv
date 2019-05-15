@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESWB.FRK,Essity Aktiebolag (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ESWB.BER,ESSITY AB B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ESWB.MUN,Essity Aktiebolag (publ),Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ESWB.STG,Essity AB Namn-Aktier B,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

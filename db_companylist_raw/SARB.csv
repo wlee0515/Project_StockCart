@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000M0FS.TRT,IA Clarington Sarbit U.S. Equity Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F00000MP5D.TRT,IA Clarington Sarbit US Eq Cl (Unhdgd) A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000UQ1S.TRT,IA Clarington Sarbit US Eq Cl (Unhdgd) P,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F000002XF4.TRT,IA Clarington Sarbit US Equity Ser T6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000MP5E.TRT,IA Clarington Sarbit US Eq Cl (Unhdgd) E,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000MP5H.TRT,IA Clarington Sarbit US Eq Cl (Unhdgd) L,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000MP5I.TRT,IA Clarington Sarbit US Eq Cl (Unhdgd)L6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000MP5J.TRT,IA Clarington Sarbit U.S. Equity Class (Unhedged),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000PZHF.TRT,IA Clarington Sarbit Activist Opportunities Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1509
+F00000UQ1Z.TRT,IA Clarington Sarbit US Equity Ser E,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1509

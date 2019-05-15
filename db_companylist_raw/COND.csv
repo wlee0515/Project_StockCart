@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNDT,Conduent Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GRWC,Grow Condos Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CDOR,Condor Hospitality Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RACLX,Conductor Global Equity Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+CNDGF,Condor Gold Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+CNPRF,Condor Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+RAYLX,Conductor Global Equity Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+RAILX,Conductor Global Equity Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286

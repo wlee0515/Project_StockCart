@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COT,Cott Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+COTY,Coty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NGVC,Natural Grocers by Vitamin Cottage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+COTE,Coates International Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+COTFX,Aquila Tax-Free Fund of Colorado A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+COTQF,Cotinga Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BALB,iPath B Bloomberg Cotton Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+COTZX,Columbia Thermostat Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+BAL,iPath B Bloomberg Cotton Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1538

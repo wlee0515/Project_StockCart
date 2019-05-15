@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSKR.LON,X Stoxx Europe 600 Telecom Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+XSK.BER,SANKEN EL.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XSKR.MIL,X Stoxx Europe 600 Telecom Swap ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XSK.FRK,Sanken Electric Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XSK.STG,SANKEN ELECTRIC CO. LTD. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNP,CenterPoint Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CNPOF,Canopy Rivers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPIX,ProFunds Consumer Goods UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNP-PB,CenterPoint Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPRF,Condor Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPAX,American Funds New Perspective 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPSX,ProFunds Consumer Goods UltraSector,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPFX,American Funds New Perspective 529F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPCX,American Funds New Perspective 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNPEX,American Funds New Perspective 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

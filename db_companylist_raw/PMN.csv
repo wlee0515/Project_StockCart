@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMNIX,PIMCO National Interm Muni Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNMX,Putnam MN Tax Exempt Income M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNXF,Perseus Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNTX,PIMCO National Interm Muni Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNPX,PIMCO National Interm Muni Bond I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNNX,PIMCO National Interm Muni Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMNYX,Putnam MN Tax Exempt Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMN.TRT,ProMIS Neurosciences Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+PMN18.ARG,PMN18.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

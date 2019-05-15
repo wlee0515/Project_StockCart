@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UCEQX,USAA Cornerstone Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UCE.BER,"ULTRA CLEAN HLDGS DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+UCE.FRK,Ultra Clean Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UCE.STG,Ultra Clean Holdings Inc. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CS10.VIE,ComStageDJ SwitzTitans30 UCETF,ETF,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+UCEU.AMS,Amundi ETF MSCI Europe UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.2000
+KR5237188051.KOR,JPMorgan China Feeder Equity UCE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1714
+KR5237188127.KOR,JPMorgan Middle East&Africa Fdr Eq UCE,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463

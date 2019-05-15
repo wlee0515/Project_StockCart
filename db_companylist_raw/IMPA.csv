@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMH,Impac Mortgage Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IMPUY,Impala Platinum Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DSEFX,Domini Impact Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ICAN,SerenityShares Impact ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3478
+ISVLF,IMPACT Silver Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ESG,FlexShares STOXX US ESG Impact ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+QUAGX,Quaker Impact Growth Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SDGA,Impact Shares Sus Dev Gls Glb Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+WOMN,Impact Shares YWCA Women's Empwrmt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2424
+IBD,Inspire Corporate Bond Impact ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2105

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APO,"Apollo Global Management, LLC",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ARI,Apollo Commercial Real Estate Finance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AINV,Apollo Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APOG,Apogee Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AMEH,Apollo Medical Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+APEN,Apollo Endosurgery Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+APOP,Cellect Biotechnology Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AFT,Apollo Senior Floating Rate Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PCFP,Apotheca Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AIF,Apollo Tactical Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BWB,Bridgewater Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BWBIX,Baron WealthBuilder Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWBFX,Baron WealthBuilder Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWBTX,Baron WealthBuilder TA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWB.FRK,Baader Bank Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+BWB.FRK,Baader Bank Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BWB.BER,BAADER BANK AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BWB.DUS,BAADER BANK AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BWB.HAM,BAADER BANK AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+BWB.MUN,BAADER BANK AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

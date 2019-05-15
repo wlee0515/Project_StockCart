@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAQAX,Brown Advisory Somerset Emgerg Mkts Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAQ-P.TRV,Bluewater Acquisition Corp,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+BAQ.BER,"AUBAY TECHNOL. INH.EO 0,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BAQ.STG,AUBAY TECHNOLOGY S.A. Actions P,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

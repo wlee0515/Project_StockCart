@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LONB.KLA,LONDON BISCUITS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+LONBALANCEDB.TRT,LON Balanced (BG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBALANCEDG.TRT,LON Balanced Growth (G) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBALANCEDP.TRT,LON Balanced Profile (PSG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBALGROWTH.TRT,LON Bal Growth (G) 75/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBONDP1001.TRT,LON Core Bond (P) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBONDP7510.TRT,LON Core Bond (P) 75/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBONDP7575.TRT,LON Core Bond (P) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONBALANCEDI.TRT,LON Balanced (IVZ) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

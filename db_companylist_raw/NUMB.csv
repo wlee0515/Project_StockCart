@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNBR,Sleep Number Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+QNCCF,Quantum Numbers Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+QNC.TRV,Quantum Numbers Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3200
+34Q.FRK,Quantum Numbers Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+SL2.FRK,"SLEEP NUMBER CORP. DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+SL2.BER,"SLEEP NUMBER CORP. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+SL2.STG,Sleep Number Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+F00000UH27.KOR,UBSHana Number One Variable Insurance Feeder Equity,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1455
+KR5102AV0044.KOR,UBSHana Number One Variable Insurance Feeder Equity,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1455

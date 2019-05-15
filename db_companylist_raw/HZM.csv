@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZM.LON,Horizonte Minerals Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+HZM.TRT,Horizonte Minerals Plc,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HZMDA.MEX,"Horizonte Banamex Tres, S.A. de C.V",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+HZMDC0-A.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDC0-B.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDC0-C.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDM0-B.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDC0-D.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDM0-A.MEX,"Horizontes Balanceados 3, S.A. DE C.V. S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZMDM0-C.MEX,"Horizonte en Instrumentos de Deuda no Contribuyentes, S.A. de C. V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286

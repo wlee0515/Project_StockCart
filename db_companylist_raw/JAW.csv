@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAWWX,Janus Henderson Global Research T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAWGX,Janus Henderson VIT Global Rsrch Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BJBR.JKT,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+BJTM.JKT,PT Bank Pembangunan Daerah Jawa Timur Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+P7T.STG,B.Pembangun.Daerah Jawa Timur R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+JAWA.JKT,PT Jaya Agra Wattie Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+JAW.FRK,JetBlue Airways Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+P7T.FRK,PT Bank Pembangunan Daerah Jawa Timur Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+JAW.MUN,"JETBLUE AWYS CORP. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.1765
+JAW.STG,Jetblue Airways Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1364

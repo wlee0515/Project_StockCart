@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLHIX,AllianzGI Health Sciences Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLH.STG,HONGKONG LAND HOLDINGS LTD. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+HLH.DUS,"H.K. LD HLDGS  DL -,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HLH.FRK,Hongkong Land Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HLH.BER,"H.K. LD HLDGS  DL -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HLH.MUN,"H.K. LD HLDGS  DL -,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

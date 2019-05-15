@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGU.TRT,BetaPro Cdn Gold Miners 2x DlyBull ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HGUA.STG,Huber & Suhner AG Nam.-Aktien S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HGUA.FRK,Huber+Suhner AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HGUA.BER,"HUBER+SUHNER NA  SF-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HGUA.MUN,"HUBER+SUHNER NA  SF-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

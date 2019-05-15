@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NIE,AllianzGI Equity & Convertible Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NLSN,Nielsen Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NIECX,Dreyfus/Newton International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NIEQX,Columbia Select International Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NIEYX,Dreyfus/Newton International Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NIEAX,Dreyfus/Newton International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+AT0000496310.VIE,Niederoesterreich III,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2857
+CNT-R.BAK,Christiani & Nielsen (Thai) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+2PN.STG,Polski Hldg Nieruchomosci S.A.I,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+NHL.BER,"NIELSEN HLDGS  EO-,07",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818

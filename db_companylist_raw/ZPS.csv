@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZPS.TRT,BMO Short Provincial Bond ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZPS-L.TRT,BMO Short Provincial Bond Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

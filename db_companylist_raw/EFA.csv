@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFA,iShares MSCI EAFE ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EFAV,iShares Edge MSCI Min Vol EAFE ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EFAD,ProShares MSCI EAFE Dividend Growers,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EFAS,Global X MSCI SuperDividend EAFE ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EFAX,SPDR MSCI EAFE Fossil Fuel Free ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571

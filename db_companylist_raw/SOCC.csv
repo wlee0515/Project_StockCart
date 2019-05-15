@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPD.AUS,XPD Soccer Gear Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857
+GOAL.LON,Goals Soccer Centres plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2424

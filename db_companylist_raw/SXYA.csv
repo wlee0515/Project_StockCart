@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SXYAY,Sika AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SXYA.FRK,Shenzhen International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SXYA.MUN,SHENZHEN INTL HLDGS NEW,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+SXYA.STG,Shenzhen Intl Holdings Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

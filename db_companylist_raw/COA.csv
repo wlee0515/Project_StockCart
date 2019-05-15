@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCB,Coastal Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ARCH,Arch Coal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ROYT,Pacific Coast Oil Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CCTC,Clean Coal Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AXTA,Axalta Coating Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CCR,CONSOL Coal Resources LP,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CEN,Center Coast MLP & Infrastructure Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WCVC,West Coast Ventures Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HCC,Warrior Met Coal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WLBAQ,Westmoreland Coal Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

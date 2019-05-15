@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSU,Capital Senior Living Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CSUNY,China Sunergy Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUAY,China Shenhua Energy Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUIX,Cohen & Steers Global Infrastructure I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUAX,Cohen & Steers Global Infrastructure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUSAX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUZX,Cohen & Steers Global Infrastructure Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSUCX,Cohen & Steers Global Infrastructure C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CSURX,Cohen & Steers Global Infrastructure R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CSUSBX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

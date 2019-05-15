@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAP,Advance Auto Parts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AAPL,Apple Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AAPH,American Petro-Hunter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AAPIX,Aberdeen Asia Pac ex-Japan Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AAPT,All American Pet Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AAPJ,AAP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AAPEX,Aberdeen Asia Pac ex-Japan Eq Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAPL.MEX,Apple Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+AAPL.SAN,Apple Inc.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.6000

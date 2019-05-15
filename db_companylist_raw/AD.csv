@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMD,Advanced Micro Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ADBE,Adobe Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AAP,Advance Auto Parts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ADNT,Adient plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ADM,Archer-Daniels-Midland Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADDYY,adidas AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADT,ADT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADVT,Advantis Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADI,Analog Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ADXS,Advaxis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

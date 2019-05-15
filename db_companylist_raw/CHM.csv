@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHMI,Cherry Hill Mortgage Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMA,Chiasma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMG,Chemung Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMI-PA,Cherry Hill Mortgage Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMP,Lyxor Stoxx Eurp 600 Chemic ETF Acc A/I,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHME,China Medicine Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMJF,Chemistree Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMD,Median Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHMN,Chester Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHMR,Chimera Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6000

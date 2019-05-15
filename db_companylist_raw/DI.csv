@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMAC,DiaMedica Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DIS,The Walt Disney Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1053
+NUGT,Direxion Daily Gold Miners Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1053
+FAS,Direxion Daily Financial Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1026
+TNA,Direxion Daily Small Cap Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1000
+DIA,SPDR Dow Jones Industrial Average ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1000
+GUSH,Direxion Dly S&P Oil&Gs Ex&Prd Bl 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1000
+SOXL,Direxion Daily Semicondct Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.0952

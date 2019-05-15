@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZYW.FRK,China Properties Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ZYW.MUN,"CHINA PROP.GRP LTD HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ZYW.STG,China Properties Group Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ZYW.BER,"CHINA PROP.GRP LTD HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

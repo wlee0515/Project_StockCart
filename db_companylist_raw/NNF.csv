@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNFC,Nanoforce Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NNFN.FRK,MannKind Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NNFC.AMS,Ing First Class Obligate Fond 30,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+NNFF.AMS,NN Paraplufonds 1 N.V. - NN Financials Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+NNFN.BER,"MANNKIND CORP. NEW DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NNFN.MUN,"MANNKIND CORP. NEW DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+NNFN.STG,MannKind Corp. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+NNFEF.AMS,NN Paraplufonds 2 N.V. - NN Far East Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

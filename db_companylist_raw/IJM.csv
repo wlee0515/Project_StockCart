@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJMSX,VY JPMorgan Mid Cap Value S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IJMAX,VY JPMorgan Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IJMIX,VY JPMorgan Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+3336.KLA,IJM Corporation Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+IJMP.KLA,IJM PLANTATIONS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+IJMS.KLA,IJM CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+IJM.BER,ATHOS IMMOBILIEN AG. INH.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IJM.STG,Athos Immobilien AG Inhaber-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+2216.KLA,IJM Plantations Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2400

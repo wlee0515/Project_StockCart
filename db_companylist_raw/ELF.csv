@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELF,e.l.f. Beauty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ELFNX,Elfun Trusts,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELFTX,Elfun Tax-Exempt Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELDFX,Elfun Diversified,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EGLBX,Elfun International Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELFIF,E-L Financial Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EINFX,Elfun Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ELF.TRT,E-L Financial Corporation Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+ELF-PG.TRT,E- L FINANCIAL CORP. LIMITED,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+ELF-PH.TRT,E - L FINANCIAL CORP LTD PREF S,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

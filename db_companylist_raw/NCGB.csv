@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCGB.FRK,NCC AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NCGB.BER,NCC B FRIA  SK 8,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NCGB.STG,NCC AB Namn-Aktier B (fria) SK ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

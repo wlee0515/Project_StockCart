@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DYH.FRK,Target Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DYH.BER,"TARGET CORP.  DL-,0833",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DYH.DUS,"TARGET CORP.  DL-,0833",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DYH.HAM,"TARGET CORP.  DL-,0833",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+DYH.MUN,"TARGET CORP.  DL-,0833",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+DYH.STG,TARGET CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

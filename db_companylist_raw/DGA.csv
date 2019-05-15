@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGAZ,VelocityShares 3x Inv Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DGAGF,Dynagas LNG Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGAGX,Dreyfus Appreciation Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGAOF,Diversified Gas & Oil PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGANX,Dreyfus Global Infrastructure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGAD.PAR,VINCI3.375%MAR20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000

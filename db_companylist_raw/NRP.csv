@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRP,Natural Resource Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NRPI,NRP Stone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NRPR,Nutri Pharmaceuticals Research Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NRP.JOH,NEPI Rockcastle plc,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+NRP.AMS,NEPI Rockcastle plc,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667

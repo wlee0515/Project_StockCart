@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSYS,Nortech Systems Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NSYFX,Nuveen Symphony High Yield Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NSYC,National Stock Yards Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSYCX,Nuveen Symphony High Yield Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSYIX,Nuveen Symphony High Yield Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSYAX,Nuveen Symphony High Yield Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSY.BER,NICE LTD. ADR/4 O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+NSY.MUN,NICE LTD. ADR/4 O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NSY.FRK,NICE Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NSY.STG,NICE Ltd. Reg.Shares (Spons.ADR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

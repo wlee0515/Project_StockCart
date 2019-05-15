@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EYX.FRK,Exor N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EYX.BER,EXOR N.V.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EYX.STG,EXOR N.V. Aandelen aan toonder ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EYX.DUS,EXOR N.V.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

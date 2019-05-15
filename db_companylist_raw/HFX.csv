@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFXIX,Catalyst Hedged Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HFXAX,Catalyst Hedged Futures Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HFXI,IQ 50 Percent Hedged FTSE Intl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HFXJ,IQ 50 Percent Hedged FTSE Japan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HFXCX,Catalyst Hedged Futures Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFXE,IQ 50 Percent Hedged FTSE Europe ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500

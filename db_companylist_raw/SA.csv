@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SA,Seabridge Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CRM,"salesforce.com, inc.",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SRPT,Sarepta Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SGMO,Sangamo Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SN,Sanchez Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAN,"Banco Santander, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAGE,Sage Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SAP,SAP SE,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SAND,Sandstorm Gold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SBRA,Sabra Health Care REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

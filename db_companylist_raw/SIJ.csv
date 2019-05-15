@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIJ,ProShares UltraShort Industrials,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SIJECO2014CA.BCL,Sijeco 2014 Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F00000T76J.BCL,Sijeco 2014 Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143

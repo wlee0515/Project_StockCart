@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+POTN,"PotNetwork Holdings, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IPI,Intrepid Potash Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PCH,PotlatchDeltic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBPB,Potbelly Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+POTRF,SOPerior Fertilizer Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+POTG,Portage Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PTBS,Potomac Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PTAM,Potash America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UPCO,Universal Potash Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PPRTF,Passport Potash Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

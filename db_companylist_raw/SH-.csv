@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUHI.MIL,PIMCO EU SH-TERM HIGH YLD CORP ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.2000
+169103.SHZ,Orient Securities Asset Management Co Ltd - Red Ruixuan SH-HK-SZ Flexible Allocation Mixed Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+169105.SHZ,Orient Red Ruihua SH-HK-SZ Flexible Allocation Mixed Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667

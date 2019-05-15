@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIT,Fitbit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FITB,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ANF,Abercrombie & Fitch Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PLNT,Planet Fitness Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FTLF,FitLife Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FITX,Creative Edge Nutrition Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FITBI,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FITIX,Fidelity Advisor Mid Cap II M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FITLX,Fidelity U.S. Sustainability Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+FITKX,Fidelity Freedom 2005 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

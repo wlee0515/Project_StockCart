@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIMX,Himax Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HIMCX,Hartford MidCap HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HIMDX,Hennessy Cornerstone Mid Cap 30 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMYX,Pioneer High Income Municipal Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMAX,Hancock Horizon MS Tax-Free Income Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMVX,Harbor Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMGX,Harbor Mid Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMR,Hollund Industrial Marine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMFX,American High-Income Municipal Bond F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIMZX,Virtus Newfleet Low Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

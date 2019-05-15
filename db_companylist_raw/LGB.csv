@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRID,InsightShares LGBT Employment Eqty ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LGBI,Cannabiz Mobile Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LGBNX,Loomis Sayles Investment Grade Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGBFX,Lord Abbett Global Bond F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGBCX,Loomis Sayles Investment Grade Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGBS,Legends Business Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1463

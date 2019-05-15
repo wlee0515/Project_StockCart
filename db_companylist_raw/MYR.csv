@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYGN,Myriad Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYRG,MYR Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYRLF,Meryllion Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYRX,Myrexis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYRVX,MainStay Retirement 2020 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYRTX,MainStay Retirement 2020 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYRAX,MainStay Retirement 2010 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

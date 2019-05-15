@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2286.TOK,Hayashikane Sangyo Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4211
+HAYAINVERSIO.BCL,Haya Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3077
+F0000002AP.BCL,Haya Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUAPF,Global Cannabis Applications Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FUAMX,Fidelity Interm Trs Bd Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FUAEWX,FT 5812: Dividend Growth Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FUAJGX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FUAHDX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FUAIY,Funai Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FUAIF,Funai Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FUAMPX,FT 6507: New York Municipal Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+300194.SHZ,Fuan Pharmaceutical (Group) Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3158
+5232.KLA,Leon Fuat Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1500

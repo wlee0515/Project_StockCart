@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJH,iShares Core S&P Mid-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IJH.AUS,iShares S&P Mid-Cap ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667
+IJH.MEX,iShares Core S&P Mid-Cap ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

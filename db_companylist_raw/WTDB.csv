@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTDB.FRK,WISD.CBOE S+P 500 PU.DADZ,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WTDB.FRK,WISD.CBOE S+P 500 PU.DADZ,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

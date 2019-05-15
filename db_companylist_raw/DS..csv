@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DS.TRT,Dividend Select 15 Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+6DFA.DUS,DS.ETFT.-DD MSCI IB3X NEW,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+6DFA.BER,DS.ETFT.-DD MSCI IB3X NEW,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000

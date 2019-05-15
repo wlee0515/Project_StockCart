@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MN.TRV,Manganese X Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+MN.MIL,Arnoldo Mondadori Editore S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+XMVE.STG,C.Fd.S.-db-x-tr.MSCI EMU Mn.V.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

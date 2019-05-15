@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KPRBX,KP Retirement Path 2020 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRIX,KP Retirement Path 2055 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRCX,KP Retirement Path 2025 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRFX,KP Retirement Path 2040 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRHX,KP Retirement Path 2050 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRAX,KP Retirement Path 2015 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPREX,KP Retirement Path 2035 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRDX,KP Retirement Path 2030 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRGX,KP Retirement Path 2045 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPRJX,KP Retirement Path 2060 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

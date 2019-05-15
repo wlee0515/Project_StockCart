@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KAP,KCAP Financial Inc. SR NT 19,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KS,KapStone Paper and Packaging Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SMFKY,Smurfit Kappa Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KPSHF,Kapsch TrafficCom AG,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KPZIF,Kapuskasing Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SMFTF,Smurfit Kappa Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+SKG.LON,Smurfit Kappa Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+KTU.STG,KapStone Paper&Packaging Corp.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+KAPE.LON,Kape Technologies plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAPO.JKT,PT Wahana Pronatural Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+ETWA.JKT,PT Eterindo Wahanatama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+WOMF.JKT,PT Wahana Ottomitra Multiartha Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2759
+WB7.MUN,WAHANA OTTOMITRA MU.RP100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759
+WB7.BER,WAHANA OTTOMITRA MU.RP100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+WB7.FRK,WAHANA OTTOMITRA MU.RP100,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286
+WB7.STG,Wahana Ottomitra Multiartha Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2105

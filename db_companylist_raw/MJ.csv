@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MJ,ETFMG Alternative Harvest ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MJNA,Medical Marijuana Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJNE,MJ Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJTK,CannaSys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJMJ,The MaryJane Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJCO,Majesco,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJTV,MJ Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJHI,MJ Harvest Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJOG,MAJESTIC OIL & GAS,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MJVP,MJ Venture Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GORAF,Goldrea Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+531608.BSE,Gorani Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+GORANIN.BSE,Gorani Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759

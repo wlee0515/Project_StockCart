@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WVE,Wave Life Sciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXGWF,Next Green Wave Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WAVIX,Longboard Managed Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFTSF,Wavefront Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WAVEX,Longboard Managed Futures Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+WAVLX,Wavelength Interest Rate Neutral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WAYS,Wave Sync Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WAVE.BAK,Wave Entertainment Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+WEE.TRV,Wavefront Technology Solutions Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALFVY,Alfa Laval AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ALFVF,Alfa Laval AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+LAV.STG,SNC - LAVALIN GROUP INC. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+AA9.BER,"ALFA LAVAL AB  SK 2,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+AA9.FRK,Alfa Laval AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+AA9.DUS,"ALFA LAVAL AB  SK 2,5",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+AA9.MUN,"ALFA LAVAL AB  SK 2,5",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+AA9.STG,"Alfa Laval AB Namn-Aktier SK 2,",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+LAV.BER,SNC - LAVALIN GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000

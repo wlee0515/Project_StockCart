@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNH-R.BAK,Thai Nakarin Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+7716.TOK,Nakanishi Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+NAK.LON,Nakama Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+1787.TOK,Nakabohtec Corrosion Protecting Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+1827.TOK,Nakano Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+2204.TOK,Nakamuraya Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+5408.TOK,Nakayama Steel Works Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+5941.TOK,Nakanishi Mfg. Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+6166.TOK,Nakamura Choukou Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1818

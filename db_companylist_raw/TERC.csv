@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002213.SHZ,Shenzhen Terca Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.5714
+524314.BSE,Gujarat Terce Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+GUJTERC.BSE,Gujarat Terce Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2424
+BALEARESTERC.BCL,Baleares Tercer Milenio SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2105
+F000001XT6.BCL,Baleares Tercer Milenio SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2105

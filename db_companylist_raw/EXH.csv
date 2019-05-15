@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRXIQ,Premier Exhibitions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXHAX,Manning & Napier Pro-Blend Max Term S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EXHI,Exlites Holdings International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EXHB.FRK,iShares eb.rexx GovtGer 1.5-2.5yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+EXH1.FRK,iShares (DE) I - iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EXH7.BER,ISH.S.E.600 P+HG U.ETF A.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EXH3.FRK,iShares (DE) I - iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EXH1.FRK,iShares STOXX Europe 600 Oil & Gas (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+EXHA.FRK,ISH.EB.REXX GOV.GER.U.ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

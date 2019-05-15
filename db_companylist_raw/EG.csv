@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGO,Eldorado Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EGHT,8x8 Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EGY,VAALCO Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EGLT,Egalet Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EGN,Energen Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EGLE,Eagle Bulk Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EGOV,NIC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EGBN,Eagle Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+EGAN,eGain Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

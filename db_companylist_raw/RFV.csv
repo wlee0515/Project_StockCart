@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RFV,Invesco S&P MidCap 400 Pure Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RFV.BER,"DON'T NOD ENT. NOM.EO-,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RFV.MUN,"DON'T NOD ENT. NOM.EO-,02",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RFV.STG,Don't Nod Entertainment S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

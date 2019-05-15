@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIZ,AGFiQ US Market Neutral Size,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MYSZ,My Size Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SIZE,iShares Edge MSCI USA Size Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ISZE,iShares Edge MSCI Intl Size Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+OSIZ,Oppenheimer Russell 1000 Size Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+BISFX,iShares Edge MSCI USA Size Fact Index Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

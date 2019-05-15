@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNFAX,1290 Convertible Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNFIX,1290 Convertible Securities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNFRX,1290 Convertible Securities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNF.STG,True North Gems Inc. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TNF1.BER,TRUE NORTH GEMS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TNF1.STG,True North Gems Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMLD.FRK,Invesco Markets plc - Invesco Morningstar US Energy Infrastructure MLP UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SMLD.FRK,Invesco Morningstar US EnrgInfrMLPETFDis,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+SMLD.STG,I.M.-I.Morn.US En.Inf.MLP UETFB,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SMLD.DUS,IM-I.MO.US EN.IN.MLP DDZ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

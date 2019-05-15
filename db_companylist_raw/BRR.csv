@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRRAY,Barloworld Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRRDF,Borregaard ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRRE,Blue Ridge Real Estate Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRRLY,BARRY CALLEBAUT AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BRRM.SGP,Boardroom,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+BRR-R.BAK,Buriram Sugar Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+BRRGIF.BAK,Buriram Sugar Group Power Plant Infrastruture Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+BRR.BAK,Buriram Sugar Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+BRR2.FRK,Giga Metals Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+BRR2.MUN,GIGA METALS CORP.  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000

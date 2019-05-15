@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+532.SGP,DISA Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8889
+DISAX,Dreyfus International Stock A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+DISA.VIE,Discovery Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.5000
+XR54.BER,SISF JAP.EQUITY A DISAV,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+XR54.DUS,SISF JAP.EQUITY A DISAV,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2963
+XR54.HAM,SISF JAP.EQUITY A DISAV,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2963

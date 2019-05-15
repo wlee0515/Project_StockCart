@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WABC,Westamerica Bancorporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WBC,WABCO Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+WABCX,Western Asset Core Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WB0.BER,"WABCO HLDGS INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+WB0.STG,Wabco Holdings Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4706
+WABCOINDIA.NSE,WABCO India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+WB0.FRK,WABCO Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+WABCOINDIA.BSE,WABCO India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000

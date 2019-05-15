@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEAGY,GEA Group Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GENGF,Gear Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GEATF,International Cannabrands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GEAHF,Great Eagle Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GEAGF,GEA Group Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GEARX,GMO International Equity Allc Ser R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GEADX,Goldman Sachs Enhanced Income Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GEAUX,GMO International Equity Allc Ser R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LAGR,L.A. Gear Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+GXE.TRT,Gear Energy Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333

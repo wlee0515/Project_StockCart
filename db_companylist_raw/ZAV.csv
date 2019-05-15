@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZAV.MUN,ZADAR VENTURES LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+ZAV.FRK,Zadar Ventures Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TBZ.BSE,Tribhovandas Bhimji Zaveri Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+TBZ.NSE,Tribhovandas Bhimji Zaveri Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ZAV.BER,ZADAR VENTURES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+ZAV.STG,Zadar Ventures Ltd Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+TUZA.MOS,Tuimazinskiy Zavod Avtobetonovozov Publicly Traded Company,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.2222
+UHZAVERI.BSE,U. H. ZAVERI LIMITED,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

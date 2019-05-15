@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBXMX,Nuveen S&P 500 Buy-Write Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBX.FRK,Cambrex Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+XBX.BER,"CAMBREX CORP.  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XBX.STG,CAMBREX CORP. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

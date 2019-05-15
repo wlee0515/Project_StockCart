@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLXD.FRK,Franklin LibertyShares ICAV - Franklin LibertyQ European Dividend UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FLXD.FRK,Franklin LibertyQ European Dividend ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+FLXD.MIL,FRANKLIN LIBERTYQ EUROP DIVID U,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+FLXD.MUN,FRAN.LIB.Q EU DIV.UC. EOD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FLXD.SWI,Franklin LibertyShares ICAV - Franklin LibertyQ European Dividend UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

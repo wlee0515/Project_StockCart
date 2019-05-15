@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INUV,Inuvo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+INUTX,Columbia Dividend Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CD5N.STG,Inuvo Inc. Registered Shares Ne,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+9308.TOK,Inui Global Logistics Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4286
+CD5N.FRK,Inuvo Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+I4W.BER,INUI GLOBAL LOGISTICS CO.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+INU.ARG,SOLVAY INDUPA SAIC,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.1765

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLGEA,Village Super Market Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VLGSX,Vanguard Long-Term Treasury Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLGIX,Vanguard Long-Term Treasury Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLG.LON,Venture Life Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJ2B.STG,Fidelity Fds-Europ. Growth Fd.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+FJ22.STG,Fidelity Fds-International Fd.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+FJ2G.STG,Fidelity Fds-Greater China Fd.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

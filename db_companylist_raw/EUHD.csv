@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUHD.MIL,Invesco EURO STOXX Hi Dividend Low VolETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.8000
+EUHD.LON,Invesco Markets III plc - Invesco EURO STOXX High Dividend Low Volatility UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+EUHD.PAR,Invesco Markets III plc - Invesco EURO STOXX High Dividend Low Volatility UCITS ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+EUHD.SWI,Invesco EURO STOXX Hi Dividend Low VolETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3987.AUS,Nikko AM Tyndall Australian Share W,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211
+16313.AUS,BT Tyndall Australian Share,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3750
+TYN0028AU.AUS,Nikko AM Tyndall Australian Share W,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2581
+BTWETYNDALLA.AUS,BT Tyndall Australian Share,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2051
+F00000YRG2.LON,VT Tyndall North American A GBP Net Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860
+F00000YRG3.LON,VT Tyndall North American A GBP Net Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860
+F00000YRG6.LON,VT Tyndall North American F GBP Net Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860
+F00000YRG7.LON,VT Tyndall North American F GBP Net Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1860
+F00000YVAG.LON,VT Tyndall North American A GBPH Net Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000YVAH.LON,VT Tyndall North American A GBPH Net Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

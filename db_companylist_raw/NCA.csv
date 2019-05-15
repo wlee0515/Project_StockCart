@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCA,Nuveen California Municipal Value Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NCAP,Northsight Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NCAAX,Nuveen CA Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCATX,Northern CA Tax-Exempt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCACX,Nuveen CA Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCAEX,Nuveen Concentrated Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCAVX,Nuance Concentrated Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCARX,Nuveen Concentrated Core R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCADX,Nuveen Concentrated Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCAFX,Nuveen Concentrated Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

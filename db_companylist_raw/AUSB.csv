@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAP0103AU.AUS,Ausbil Australian Active Equity Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+6117.AUS,Ausbil Australian Active Equity Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+6118.AUS,Ausbil Balanced Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2857
+10601.AUS,Ausbil - Australian Emerging Leaders Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2667
+13030.AUS,ANZ Ausbil Aus Emerging Leaders,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2500
+15329.AUS,Ausbil Australian Geared Equity Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2286
+17535.AUS,BT Ausbil Australian Active Equity,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2105
+17536.AUS,BT Ausbil Emerging Leaders,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2000
+18163.AUS,Ausbil MicroCap Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2000
+18344.AUS,Ausbil 130/30 Focus Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1778

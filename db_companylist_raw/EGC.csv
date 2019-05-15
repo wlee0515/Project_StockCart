@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGCO.BAK,Electricity Generating Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+EGCA.BER,"EGAIN CORP. (NEW) DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EGCA.FRK,"EGAIN CORP. (NEW) DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EGCA.STG,eGain Corp. Registered Shs (new,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+EGCO-R.BAK,Electricity Generating Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

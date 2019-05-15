@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KPAY,KinerjaPay Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KPAAX,UBS US Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPAL.JKT,PT. Steadfast Marine Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+KPAS.JKT,PT Cottonindo Ariesta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+2663.HKG,KPa-BM Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2308

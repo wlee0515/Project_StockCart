@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XFTB,XFit Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XFIVX,First Trust Senior Floating Rat,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFIFX,First Trust Energy Infrastructu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XFI.TRT,iShares Edge MSCI Multifactor EAFE ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+XD5F.DUS,XTR.EUR.ST.50 XFINANC. 1D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+XD5F.HAM,XTR.EUR.ST.50 XFINANC. 1D,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+XD5F.MUN,XTR.EUR.ST.50 XFINANC. 1D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000

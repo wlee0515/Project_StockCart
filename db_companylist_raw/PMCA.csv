@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMCAPITALASI.AUS,PM Capital Asian Companies Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211
+PMCAPITALAUS.AUS,PM Capital Australian Companies Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211
+PMCAPITALENH.AUS,PM Capital Enhanced Yield Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211
+PMCAPITALGLO.AUS,PM Capital Global Companies Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211

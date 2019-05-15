@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEOIX,Zeo Short Duration Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IZCFF,International Zeolite Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZEON,Zeons Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZEOOF,ZEON CORPORATION,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZEO.TRT,BMO Equal Weight Oil & Gas ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+IZ.TRV,International Zeolite Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+ZEON.STG,International Zeolite Corp. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+4205.TOK,ZEON Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+ZEON.DUS,International Zeolite Corp.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+NZE.FRK,ZEON Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPM.AUS,TPG Telecom Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+TPMA.JKT,PT Trans Power Marine Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+TPMN.FRK,Tonix Pharmaceuticals Holding Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TPMN.BER,"TONIX PHARMA.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TPMN.STG,Tonix Pharma. Holding Corp. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TPMP.FRK,Tonix Pharmaceuticals Holding Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TPMP.BER,"TONIX PHARMA.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TPMP.STG,Tonix Pharma. Holding Corp. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

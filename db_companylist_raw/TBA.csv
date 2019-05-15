@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBAKF,Ted Baker Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TBACQ,Tandy Brands Accessories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TBABF,Trelleborg AB,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TBAYX,Touchstone Dynamic Diversified Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBACX,Touchstone Dynamic Diversified Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBAAX,Touchstone Dynamic Diversified Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBA.BER,BUKIT ASAM TBK  RP 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+TBA.MUN,BUKIT ASAM TBK  RP 100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TBA.STG,"Bukit Asam TBK, PT Registered S",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TBA.FRK,PT Bukit Asam Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

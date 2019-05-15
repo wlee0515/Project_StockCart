@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MO.MEX,Altria Group Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+MO.SAN,Altria Group Inc.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.7500
+MO.SWI,Altria Group Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+PJEU.STG,I.M.III-I.EuroMTS Ca.3 Mo.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

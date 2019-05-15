@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPK,Blackrock Municipal 2018 Term T,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BPKD.ILN,BANK PEKAO SA GDS (REPR 1 ORD P,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+BPKD.LON,Bank Polska Kasa Opieki S.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCFB,Granite City Food & Brewery Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GCFFF,Goldcliff Resource Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCFRX,Nationwide Inv Dest Cnsrv R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCFCX,Goldman Sachs Core Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCFIX,Goldman Sachs Core Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCFUX,Goldman Sachs Core Fixed Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCFSX,Gabelli Global Financial Services C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

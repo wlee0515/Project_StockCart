@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RQFI.BER,XTR.HARVEST CSI300 1D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RQFI.LON,db x-trackers - Harvest CSI300 Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RQFI.FRK,db x-trackers - Harvest CSI300 Index UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+K55210B33235.KOR,SHBNPP Hppy LP Chn RQFII Fdr Eq 1 Cr Hdg,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6000
+RQF.TRT,RBC Target 2018 Corporate Bond ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+RQFI.FRK,X Harvest CSI300 ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+RQFI.MIL,X Harvest CSI300 ETF 1D,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+RQFI.STG,Xtrackers Harvest CSI300 Inhabe,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+RQFI.SWI,DBX Harvest CSI300 DR ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1463
+F00000V7G9.KOR,SHBNPP China ML RQFII Fdr Eq 1 Ce Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

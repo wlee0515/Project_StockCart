@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTHR,Charles & Colvard Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTHCX,Columbia Global Technology Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CTHAX,American Funds College 2030 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTHZ,Cancer Treatment Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTHRX,Columbia Global Technology Growth Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTHEX,American Funds College 2030 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTHFX,American Funds College 2030 529F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

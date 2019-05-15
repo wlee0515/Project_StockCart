@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTZ.MUN,"SAF TEHNIKA AS  EO 1,40",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+VTZ.FRK,SAF Tehnika A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VTZ.BER,"SAF TEHNIKA AS  EO 1,40",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VTZ.STG,SAF Tehnika AS Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

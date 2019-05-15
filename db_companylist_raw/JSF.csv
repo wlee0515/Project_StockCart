@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSFTX,JHancock Seaport Long/Short C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSFDX,JHancock Seaport Long/Short I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSFRX,JHancock Seaport Long/Short R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSFCF,Sistema Public Joint Stock Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JSFBX,JHancock Seaport Long/Short A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

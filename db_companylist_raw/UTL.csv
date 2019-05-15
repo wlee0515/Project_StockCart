@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTL,Unitil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UTLINDS.BSE,UTL Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+UTLE.LON,UIL Finance Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4615

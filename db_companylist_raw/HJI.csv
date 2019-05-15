@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HJI.TRV,Helijet International Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+HJI.FRK,TNG Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HJI.BER,TNG LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HJI.HAM,TNG LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+HJI.MUN,TNG LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HJI.STG,TNG Ltd. Registered Shares o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

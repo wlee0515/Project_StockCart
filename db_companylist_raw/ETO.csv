@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ETON,Eton Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ETORX,Eaton Vance OR Municipal Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ETOHX,Eaton Vance OH Municipal Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ETOLF,Enterprise Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ETO.LON,Entertainment One Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+FR0011062231.PAR,Etoile PEA Octobre 2019,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0010541086.PAR,Etoile Energie Europe,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2308
+FR0010501676.PAR,Etoile Actions Rendement,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0010540856.PAR,Etoile Multi Gestion Europe,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000

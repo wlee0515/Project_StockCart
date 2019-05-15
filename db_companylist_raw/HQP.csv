@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HQP.MUN,PT KIMIA FARMA B  RP 100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HQP.STG,PT Kimia Farma (Persero) Tbk,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

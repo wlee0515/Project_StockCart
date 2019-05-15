@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDHRF,DREAM HARD ASSET A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+14131.AUS,DDH Balanced Growth,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.5455
+12923.AUS,DDH Graham Limited High Yield,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.5455
+14129.AUS,DDH Australian Shares,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+14130.AUS,DDH Conservative Growth,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2857
+14132.AUS,DDH Aggressive Growth,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2727
+14440.AUS,DDH Fixed Interest,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2500
+14560.AUS,DDH Cash,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2500
+DDHCASHIDPS.AUS,DDH Cash,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2308
+DDHAGGRESSIV.AUS,DDH Aggressive Growth,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1875

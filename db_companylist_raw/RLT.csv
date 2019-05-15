@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GASL,Direxion Daily Nat Gas Rltd Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GASX,Direxion Daily Nat Gas Rltd Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RLTAX,RiverFront Asset Allocation Agrsv Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLTR,Reeltime Rentals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RLTCX,RiverFront Asset Allocation Agrsv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLTSX,RiverFront Asset Allocation Agrsv Inv II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLTIX,RiverFront Asset Allocation Agrsv L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+RLTOF,Calima Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+AGL.BER,"AGREE RLTY CORP. DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1429

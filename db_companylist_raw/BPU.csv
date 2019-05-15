@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPUZF,Eros Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+N52N.MUN,NOR.1-NO.AM.ST.EQ. BPUSD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+BPU.BER,BLUEPOOL AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BPU.STG,bluepool AG Inhaber-Aktien EO 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+N52N.BER,NOR.1-NO.AM.ST.EQ. BPUSD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+AVIVABPU1.MIL,Aviva Bpu 1,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4286
+AVIVABPU2.MIL,Aviva Bpu 2,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4286
+AVIVABPU3.MIL,Aviva Bpu 3,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2222
+AVIVABPU4.MIL,Aviva Bpu 4,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2222

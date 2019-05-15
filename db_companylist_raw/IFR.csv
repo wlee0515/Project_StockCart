@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFMK,iFresh Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IFRX,InflaRx N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IFRTF,International Frontier Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRRX,Voya Floating Rate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRA,iShares US Infrastructure ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRIX,Voya Floating Rate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRAX,Voya Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRPX,Voya Floating Rate P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFRCX,Voya Floating Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

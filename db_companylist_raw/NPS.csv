@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPSNY,Naspers Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSRX,Nuveen Preferred Secs & Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSAX,Nuveen Preferred Secs & Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSKY,NSK Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSHY,Nippon Shokubai Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSCX,Nuveen Preferred Secs & Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSTX,Nuveen Preferred Secs & Inc R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSGY,"Nippon Sheet Glass Company, Limited",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSVX,NorthPointe Small Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPSFX,Nuveen Preferred Secs & Inc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

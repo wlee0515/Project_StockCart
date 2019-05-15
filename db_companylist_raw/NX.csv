@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NX,Quanex Building Products Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NXTTF,Namaste Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NXPI,NXP Semiconductors N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXTD,Nxt-ID Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXNN,Nexeon MedSystems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXST,Nexstar Media Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXE,NexGen Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXTM,Nxstage Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXRT,NexPoint Residential Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXGN,NextGen Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

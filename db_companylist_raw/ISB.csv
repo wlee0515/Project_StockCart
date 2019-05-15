@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9702.TOK,ISB Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+ISBC,Investors Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISBG,International Spirits & Beverage Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISBA,Isabella Bank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISBAX,VY Columbia Contrarian Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISBSOX,Dividend Sustainability Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ISBL,Ise Blu Equity Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ISBAHX,Select 10 Industrial Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ISB.JOH,Insimbi Refractory and Alloy Supplies Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3333

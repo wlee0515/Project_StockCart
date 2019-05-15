@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMJD.LON,X MSCI Japan ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMJG.LON,X MSCI Japan ETF 6C GBP H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMJP.LON,db x-trackers - MSCI Japan Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XMJP.SWI,X MSCI Japan ETF 1C,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XMJP.MIL,X MSCI Japan ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

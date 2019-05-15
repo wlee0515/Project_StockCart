@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VVI,Viad Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+VDRM,ViaDerma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+DIL1.FRK,Viad Corp,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+F000003W7G.LON,CF New Viaduc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706
+GB00B4YLTN27.LON,CF New Viaduc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706

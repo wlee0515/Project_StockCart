@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000PJC2.TRT,SunWise Essntl 2CI SigSel CdnBdle Est,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3158
+F00000PJC4.TRT,SunWise Essntl 2CI SigSel CdnBdle Inv,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3158
+F00000PJC5.TRT,SunWise Essntl 2CI SigSel CdnBdle Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJC6.TRT,SunWise Essntl 2CI SigSel CdnBdle PIMInc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJC7.TRT,SunWise Essntl 2CI SigSel CdnBdle PIMEst,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+SWESS2JMCDNS.TRT,SunWise Essntl 2CI SigSel CdnBdle PIMInc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+SWESS2JUMCDN.TRT,SunWise Essntl 2CI SigSel CdnBdle Est,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

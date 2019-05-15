@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDKZX,MM S&P Mid Cap Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MDKSX,MM S&P Mid Cap Index Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKIX,MM S&P Mid Cap Index R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKFX,MM S&P Mid Cap Index R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKTX,MM S&P Mid Cap Index R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKAX,MM S&P Mid Cap Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKYX,MM S&P Mid Cap Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKM,MDEChem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDKI.JKT,PT Emdeki Utama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+MDKA.JKT,PT Merdeka Copper Gold Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMWDX,Western Asset Emerging Markets Dbt FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LMWW,LMWW Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LMW.AUS,LandMark White Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+LMWE.FRK,LIF-L.F.E/N G.D EOD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LMWE.FRK,LIF-L.F.E/N G.D EOD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LMWE.MUN,LIF-L.F.E/N G.D EOD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LMWE.STG,L. I. Fd - L. F. E./N. Gl. D.Ac,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

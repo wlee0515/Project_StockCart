@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPGCEX,FT 7557: Balanced Income Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FPGC.BER,FID.FDS-F.SEL.INT. A GL.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+FPGC.DUS,FID.FDS-F.SEL.INT. A GL.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+FPGC.HAN,FID.FDS-F.SEL.INT. A GL.,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+FPGC.HAM,FID.FDS-F.SEL.INT. A GL.,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+FPGC.MUN,FID.FDS-F.SEL.INT. A GL.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FPGC.STG,Fidelity Fds-Fi.Select.Int.Fd.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+FPGCPLMAREVD.TRT,Manulife GIF MLIA A Diversified Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.7273
+FPGCPLMBREVD.TRT,Manulife GIF MLIA B Diversified Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+FPGC.FRK,FID.FDS-F.SEL.INT. A GL.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211

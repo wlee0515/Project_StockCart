@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAB3.BER,AIS-AM.BBB E.C.IG EOC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ETL6.MUN,L+G-LOIM E.CB.F.UETF DIEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2500
+WJF3.DUS,KBC EQUITY-BUYBACK E.CAP,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

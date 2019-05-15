@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABSAX,American Beacon Small Cp Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AGRPY,Absa Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+AGRPF,Absa Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ABSP.JOH,Absa Bank Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636
+ABG.JOH,Absa Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636
+AU61.FRK,Absa Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+AU61.MUN,ABSA GROUP LTD.  RC 2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3200

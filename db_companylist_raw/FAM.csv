@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DAVE,Famous Dave's of America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFAM,Bright Horizons Family Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NATH,Nathan's Famous Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FAMI,Farmmi Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FAMKX,Fidelity Advisor Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAMRX,Fidelity Asset Manager 85%,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAMEX,FAM Equity-Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FAMVX,FAM Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FMYR,Family Room Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

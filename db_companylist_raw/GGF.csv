@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGFSX,Gabelli Global Financial Services A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGFRX,Nationwide Dynamic US Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGFPX,Goldman Sachs Intl Eq Insghts P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

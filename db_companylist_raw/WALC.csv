@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WALG.LON,Walcom Group Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+501370.BSE,Walchand Peoplefirst Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+WALCHANNAG.NSE,Walchandnagar Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+XW8.BER,"WALCOM GROUP LTD  HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+WALCHPF.BSE,Walchand Peoplefirst Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+WALCHANNAG.BSE,Walchandnagar Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500

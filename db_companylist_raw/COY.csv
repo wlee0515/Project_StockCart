@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COY.AUS,Coppermoly Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+COY.FRK,Tapestry Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+COY.BER,"TAPESTRY INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+COY.DUS,"TAPESTRY INC.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+COY.MUN,"TAPESTRY INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+COY.STG,Tapestry Inc. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+F0GBR04J1U.BCL,Egeria Coyuntura FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+EGERIACOYUNT.BCL,Egeria Coyuntura FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2727

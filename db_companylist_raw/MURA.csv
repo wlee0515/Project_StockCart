@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRAAY,Murata Manufacturing Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MRAAF,Murata Manufacturing Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+6981.TOK,Murata Manufacturing Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+MUR1.BER,MURATA MFG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+7292.TOK,Murakami Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5714
+MUR1.FRK,Murata Manufacturing Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+MUR1.MUN,MURATA MFG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+7477.TOK,Muraki Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+MUR1.STG,MURATA MANUFACTURING CO. LTD. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2353

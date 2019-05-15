@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KT,KT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KTOS,Kratos Defense & Security Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KTOV,Kitov Pharma Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KTP,Corts Trust for J.C. Penney Debentures,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KTCC,Key Tronic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KTWO,K2M Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KTPPF,Katipult Technology Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KTCAX,DWS Science and Technology A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+KTF,Deutsche Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KTBA,Corts Trust for BellSouth Debentures,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

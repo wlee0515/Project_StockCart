@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KCHE.MOS,Public Joint Stock Company Kamchatskenergo,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.3636
+KCHEP.MOS,Public Joint Stock Company Kamchatskenergo RUB0.1 PRF(RUB),Equity,Moscow,10:00,18:45,UTC+03,RUB,0.3333

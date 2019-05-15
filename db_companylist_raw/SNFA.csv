@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNFAA.PAR,SANEF2.5%26JUL2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SNFAB.PAR,SANEF1.875%16MAR26,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

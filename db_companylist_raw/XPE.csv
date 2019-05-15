@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPER,Xperi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XPLT,XPEL Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XPEOX,Adams Natural Resources Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+DAP-U.TRV,XPEL Technologies Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+U9O.FRK,Xped Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+T11.FRK,Xperi Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+XPD.LON,Xpediator Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+T11.BER,"XPERI CORP.  DL -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+T11.MUN,"XPERI CORP.  DL -,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500
+U9O.HAM,Xped Limited,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2308

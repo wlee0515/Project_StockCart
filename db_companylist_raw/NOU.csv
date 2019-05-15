@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOUV,Nouveau Life Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NHLI,Nouveau Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NOUGX,Northern US Government,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NOURF,Northern Minerals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NMGRF,Nouveau Monde Graphite Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NOU.TRV,Nouveau Monde Graphite Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+NOU.DUS,NISOURCE INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+LNC.PAR,Les Nouveaux Constructeurs SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0010917625.PAR,CPR Europe Nouvelle I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+NM9.MUN,NOUVEAU MONDE GRAPHITE,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DWTAUX,ADT 1830 The Dow(r) Value Ten P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+DWTATX,ADT 1751 The Dow(r) Value Ten P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+DWTAVX,ADT 1853 Series The Dow Value T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+DWTAZX,ADT 1903 The Dow Value Ten Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+DWTAWX,ADT 1867 The Dow Value Ten Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+DWTAYX,ADT 1889 The Dow Value Ten Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMZIX,PIMCO Mortgage Opportunities and BdInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BDIC,Blow & Drive Interlock Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BECIX,BlackRock Emerging Markets Lcl Ccy BdIns,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TITIX,TIAA-CREF 5-15 Year Ldrd Tax-Exm BdInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+BDIQX,BMO Disciplined International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BDIMF,Black Diamond Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BDI.TRT,Black Diamond Group Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+HV8H.BER,SISF EMERG.EUROPE BDISAV,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222

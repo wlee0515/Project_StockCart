@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZLU.TRT,BMO Low Volatility US Equity ETF (CAD),ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZLU-U.TRT,BMO LOW VOLATILITY US EQUITY ET,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

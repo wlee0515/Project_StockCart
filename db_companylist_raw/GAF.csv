@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFA,Gafisa S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GAFFX,American Funds Growth Fund of Amer F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFYX,Natixis ASG Global Alternatives Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFAX,Natixis ASG Global Alternatives A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFCX,Natixis ASG Global Alternatives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFPX,Goldman Sachs Enhanced Dividend Glbl Eq P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFNX,Natixis ASG Global Alternatives N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFSX,Gabelli Global Financial Services AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFRX,Nationwide Inv Dest Agrsv R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAFL,Great American Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQL,ALPS Equal Sector Weight ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EQLB,EQ Energy Drink Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RHS,Invesco S&P 500 Eql Wt Cnsm Stapl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EQLT,Workplace Equality ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+EWEM,Invesco MSCI Emerg Mkts Eql Cntry Wt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500

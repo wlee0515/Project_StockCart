@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EAASX,Eaton Vance Atlanta Capital SMID-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAALX,Eaton Vance Atlanta Capital Focused Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAAFX,Wells Fargo Asset Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAATF,Earthworks Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EAAIX,Wells Fargo Asset Allocation Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAAAX,Gabelli Entpr Mergers & Acquisitions AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EAAMX,Eaton Vance Multi-Asset Credit A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

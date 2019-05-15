@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIIBX,State Farm International Index B Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SIIAX,State Farm International Index Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AWAEF,SIIC ENVIRONMENT H,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SIIEX,Touchstone International Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SIIDX,Bernstein Intermediate Duration Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SIII,"Strategic Internet Investments, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XZJBF,Beni Stabili SpA SIIQ,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SII.TRT,Sprott Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3000
+BHK.SGP,SIIC Environment Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2857
+AE.MIL,Aedes SIIQ S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIVALEURAMRI.TRT,CI American Value,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+CIVALEURINTE.TRT,CI International Value Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+CIVALEURMOND.TRT,CI Global Value,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

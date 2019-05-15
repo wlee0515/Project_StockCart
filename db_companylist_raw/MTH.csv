@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTH,Meritage Homes Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MORL,UBS ETRACS Mthly Py 2xLvg Mortg REIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+CEFL,UBS ETRACS Mthly Py 2xLvg Closed-End ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1714
+BIL,SPDR Blmbg Barclays 1-3 Mth T-Bill ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+DVYL,UBS ETRACS Mthly Py 2xLvg DJ Sel Dividend ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+SDYL,UBS ETRACS Mthly Pay 2xLvrgd S&P Dividend ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1500
+DXQLX,Direxion Mthly NASDAQ-100 Bull 2X Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+DXSLX,Direxion Mthly S&P 500 Bull 2X Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395
+DXRSX,Direxion Mthly Small Cap Bear 2X,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395
+DXSSX,Direxion Mthly S&P 500 Bear 2X Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

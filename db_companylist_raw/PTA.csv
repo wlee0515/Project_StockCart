@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTAIY,PT Astra International Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTAFX,Pinnacle Sherman Tactical Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PTABF,PT Astra Agro Lestari Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAEX,Putnam Tax Exempt Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAH,PTA Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAMX,Principal LifeTime 2010 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAJX,Principal LifeTime 2010 J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAM,Potash America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAPX,Principal LifeTime 2010 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTAAX,Princeton Long/Short Treasury A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

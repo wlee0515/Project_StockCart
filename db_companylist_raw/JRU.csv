@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JRUB.FRK,JRUB.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JRUB.FRK,JPM(I)-US CB REIU ETF DLA,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+JRUB.MIL,JPM USD CORP BOND RES ENH UCITS,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

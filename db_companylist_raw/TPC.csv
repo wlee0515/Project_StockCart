@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPC,Tutor Perini Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TPCS,TechPrecision Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TPCO,Tribune Publishing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TPCQX,PGIM Core Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPCAX,PGIM Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPCRX,PGIM Core Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPCIX,Timothy Plan Israel Common Values C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPCCX,PGIM Core Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+7176.KLA,TPC Plus Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+TPCH.BAK,TPC Power Holding Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5724.TOK,Asaka Riken Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+RIK.FRK,RCI Hospitality Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+4220.TOK,Riken Technos Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+4526.TOK,Riken Vitamin Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609
+5191.TOK,Sumitomo Riko Company Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+5395.TOK,Riken Corundum Company Limited.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+6462.TOK,Riken Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+6995.TOK,Tokai Rika Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2143
+7734.TOK,Riken Keiki Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1875
+8226.TOK,Rikei Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1765

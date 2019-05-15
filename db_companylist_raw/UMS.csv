@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+558.SGP,UMS Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,1.0000
+UMS-R.BAK,Unique Mining Services Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NRLC.SGP,UMS,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+UMS.BAK,Unique Mining Services Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+N8U.STG,UMS Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+7137.KLA,UMS Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2727
+UMSH.KLA,UMS HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2609

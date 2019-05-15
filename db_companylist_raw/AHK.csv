@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHKSY,Asahi Kasei Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHKSF,Asahi Kasei Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AHK.FRK,American National Insurance Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+3927.TOK,Ahkun Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+AHK.AUS,Ark Mines Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AHK.MUN,AMER. NATL INS.-TEXAS-DL1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333
+F00000UOD2.HKG,Value Partners China A-Share Sel AHKDUhg,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.2500

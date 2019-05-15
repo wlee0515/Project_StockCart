@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCNA,NuCana plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+NUCAX,Nuveen California Interm Muni Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+N04A.FRK,NuCana plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+N04A.BER,"NUCANA  SP.ADR 1/ LS-,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ANDVX,AllianzGI NFJ Dividend Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCVAX,AllianzGI NFJ Small-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PQNAX,AllianzGI NFJ Mid-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PNECX,AllianzGI NFJ Dividend Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PRAAX,AllianzGI NFJ Mid-Cap Value Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PSVIX,AllianzGI NFJ Small-Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PNBCX,AllianzGI NFJ Large-Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+ANJIX,AllianzGI NFJ International Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+NFJEX,AllianzGI NFJ Dividend Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579

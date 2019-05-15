@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EP.TRV,Empire Metals Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+XRZ8.BER,THREAD.L-AMER. EP.AU,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+XRZ8.MUN,THREAD.L-AMER. EP.AU,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2609
+XRZ8.DUS,THREAD.L-AMER. EP.AU,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2609

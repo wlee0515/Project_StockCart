@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIM,"Grupo Simec, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SPG,Simon Property Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SIMO,Silicon Motion Technology Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLP,Simulations Plus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SMPL,The Simply Good Foods Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SFNC,Simmons First National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SSD,Simpson Manufacturing Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SIML,Simlatus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SMSMY,Sims Metal Management Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+FIRNX,Fidelity Simplicity RMD Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

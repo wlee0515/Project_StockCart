@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESKYF,Eskay Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EKE.STG,ESKER S.A. Actions Port. EO 2,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+ESK.AUS,Etherstack plc,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+ALESK.PAR,Esker SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ESK.TRV,Eskay Mining Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+EKE.FRK,Esker SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ESK.FRK,China Minsheng DIT Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+KN7.FRK,Eskay Mining Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+ESK.BER,CHINA MINSHENG D.GR.HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+ESK.MUN,CHINA MINSHENG D.GR.HD-10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLTA,Baltia Air Lines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLTO,Bingo Nation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLT.LON,BHP Billiton plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BLTZ.JKT,PT Graha Layar Prima Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+BLT.BER,YOUR DRINKS AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BLT.STG,Your Drinks AG Inhaber-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BLT.AUS,Benitec Biopharma Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BLT.SWI,BHP Group Plc,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

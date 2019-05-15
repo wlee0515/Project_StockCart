@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASAA.FRK,Asahi Kasei Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ASAA.BER,ASAHI KASEI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ASAA.DUS,ASAHI KASEI,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ASAA.MUN,ASAHI KASEI,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ASAA.STG,ASAHI KASEI CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

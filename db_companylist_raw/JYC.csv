@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JYC.AUS,Joyce Corporation Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+F000001YI3.BCL,Jycarte Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+JYCARTEINVER.BCL,Jycarte Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

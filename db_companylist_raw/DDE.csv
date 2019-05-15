@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDE,Dover Downs Gaming & Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DDEJF,Dundee Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DDEZ,WisdomTree Dynamic Ccy Hdgd Eurp Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DDEF.AMS,Double Dividend B.V. - DD Equity Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000

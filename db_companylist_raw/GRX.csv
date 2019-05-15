@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRX,The Gabelli Healthcare & Wellness Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GRXXF,Graphite Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GRX-PA,The Gabelli Healthcare & Wellness Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GRX-PB,The Gabelli Healthcare & Wellness Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GRX.FRK,EXPAT GREECE ASE UC.ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GRX.FRK,EXPAT GREECE ASE UC.ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+GRX-H.TRV,Greenshield Explorations Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000

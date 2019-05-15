@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WOR,Worthington Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IZEA,IZEA Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+WDAY,Workday Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ITW,Illinois Tool Works Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+YRCW,YRC Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CWH,Camping World Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WWE,World Wrestling Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AWK,American Water Works Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHRW,C.H. Robinson Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+HLT,Hilton Worldwide Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

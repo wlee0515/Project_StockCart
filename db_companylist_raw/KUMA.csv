@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KUG1.FRK,Kumagai Gumi Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+JKIL.NSE,J. Kumar Infraprojects Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+RKDL.NSE,Ravi Kumar Distilleries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3810
+532316.BSE,S KUMARS.COM LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+1861.TOK,Kumagai Gumi Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2353
+JKIL.BSE,J. Kumar Infraprojects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353
+KUG1.MUN,KUMAGAI GUMI,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2353
+RKDL.BSE,Ravi Kumar Distilleries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286
+513703.BSE,Kumar Wire Cloth manufacturing Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286
+532940.BSE,J. Kumar Infraprojects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1600

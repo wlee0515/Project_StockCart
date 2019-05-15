@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPOR,Epic Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EPOL,iShares MSCI Poland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+MOPIX,MainStay Epoch US Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+EPSYX,MainStay Epoch Global Equity Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EPXY,Epoxy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EPLPX,MainStay Epoch US Equity Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MAAAX,MainStay Epoch US All Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EPLCX,MainStay Epoch US Equity Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EPWMF,ePower Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+EPLDX,MainStay Epoch US Equity Yield R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

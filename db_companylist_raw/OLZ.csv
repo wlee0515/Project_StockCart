@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLZ.FRK,iStar Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OLZ.STG,iStar Inc. Reg. Shares Class A ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OLZ.BER,"ISTAR INC. A  DL -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

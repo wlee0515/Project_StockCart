@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKMMX,Invesco Municipal Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKMGX,Invesco Quality Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKMPX,Invesco PA Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKMPEX,Investment Grade municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMITX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMTTX,Investment Grade Municipal Tr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMTSX,Insured Municipals Income Tr Sr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMOTX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMLOX,Investment Grade municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKMTFX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

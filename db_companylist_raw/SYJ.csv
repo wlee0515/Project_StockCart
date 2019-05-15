@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYJ.FRK,STITCH FIX INC A DL-00002,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SYJ.BER,STITCH FIX INC A DL-00002,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYJ.STG,Stitch Fix Inc. Reg.Shs Class A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

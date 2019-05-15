@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OMMSF,Omineca Mining and Metals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OMMETALS.BSE,Om Metals Infraprojects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+OMM.TRV,Omineca Mining and Metals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4286
+OMMETALS.NSE,Om Metals Infraprojects Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASHR,Xtrackers Harvest CSI 300 China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CN,Xtrackers MSCI All China Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ASHS,Xtrackers Harvest CSI 500 CHN A SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+HYLB,Xtrackers USD High Yield Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579
+JPN,Xtrackers Japan JPX-Nikkei 400 Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500
+XTRM,Extreme Biodiesel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+DBJP,Xtrackers MSCI Japan Hedged Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463
+HYIH,Xtrackers Hi Yield Cor Bd Intst Rt Hdg ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+ASHX,Xtrackers MSCI China A Inclusion Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

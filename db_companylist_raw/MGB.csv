@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGBIX,AMG Managers Loomis Sayles Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBJX,MFS Global Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBAX,MFS Global Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBMX,MFS Global Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBDX,MFS Global Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBOX,MFS Global Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBKX,MFS Global Bond R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBLX,MFS Global Bond R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBNX,MFS Global Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGBRX,MFS Global Total Return R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

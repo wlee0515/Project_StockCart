@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNAM.BSE,Reliance Nippon Life Asset Management Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+RNAVAL.BSE,Reliance Naval and Engineering Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+RNAM.NSE,Reliance Nippon Life Asset Management Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+GB00B8FZGK77.LON,Threadneedle Eurp Sel RNA SGD Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+RNA21.ARG,Province of Rio Negro FLT BD 21,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5000
+RNAVAL.NSE,Reliance Naval and Engineering Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1667
+F00000JTT3.LON,Threadneedle UK Absolute Alpha RNA GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+GB00B518L045.LON,Threadneedle UK Absolute Alpha RNA GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463

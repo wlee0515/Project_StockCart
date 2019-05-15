@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMB,VanEck Vectors AMT-Free Short Muni ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SMBC,Southern Missouri Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMBK,SmartFinancial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMBPX,Saratoga Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMBYX,ClearBridge Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMBMF,Sembcorp Marine Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMBMY,Sembcorp Marine Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMBAX,Saratoga Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

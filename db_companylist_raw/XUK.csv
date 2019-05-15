@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XUKS.LON,X FTSE 100 Short Daily Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XUKX.LON,X FTSE 100 Income ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+36B8.DUS,IS MSCI XUK GBP H.U.ETF D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

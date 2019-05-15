@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRRSF,Far Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRAX,Franklin Real Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRSX,Franklin Real Estate Securities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRVF,"Ferrovial, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRVY,"Ferrovial, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRRX,Franklin Real Return R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRGX,Templeton Global Total Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRCX,Franklin Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRPF,Fiera Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRRFF,4imprint Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

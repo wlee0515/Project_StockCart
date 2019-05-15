@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOKTY,Tokai Tokyo Financial Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TKCBY,Tokai Carbon Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+5301.TOK,Tokai Carbon Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+7TC.FRK,Tokai Carbon Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+9729.TOK,Tokai Corp.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+3167.TOK,TOKAI Holdings Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+7TC.BER,TOKAI CARBON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+8198.TOK,Maxvalu Tokai Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+TO91.BER,TOKAI TOKYO FINL HLDG.INC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667

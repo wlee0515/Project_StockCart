@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNCRX,Manning & Napier Pro-Blend Cnsrv Term R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNCLX,MFS NC Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNCPX,Manning & Napier Unconstrained Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNCCX,Manning & Napier Pro-Blend Cnsrv Term R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNCIX,Manning & Napier Pro-Blend Cnsrv Term I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNCN.JKT,PT. Media Nusantara Citra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+BHIT.JKT,PT MNC Investama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+BABP.JKT,PT Bank MNC Internasional Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2609
+MNC.AUS,Metminco Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2000
+BCAP.JKT,PT MNC Kapital Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1875

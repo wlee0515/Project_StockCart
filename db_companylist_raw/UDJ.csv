@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UDJN.FRK,Applied DNA Sciences Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UDJN.BER,"APPLIED DNA NEW  DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+UDJN.STG,Applied DNA Sciences Inc. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

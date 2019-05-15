@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USPACX,ADT 1851 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+USPAX,Columbia Pacific/Asia Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+USPABX,ADT 1841 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+USPADX,ADT 1867 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+USPAEX,ADT 1889 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+USPAFX,ADT 1904 Ubiquitous Strategy Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

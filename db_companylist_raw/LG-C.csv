@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0000019RF.TRT,RBC Priv U.S. Lg-Cap Value Eqty Pool O,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1905
+F00000GUO1.TRT,RBC Priv U.S. Lg-Cap Val Eq Cur Ntrl Pl,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+F00000GUO2.TRT,RBC Priv U.S. Lg-Cap Core Eq Cur Ntrl Pl,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

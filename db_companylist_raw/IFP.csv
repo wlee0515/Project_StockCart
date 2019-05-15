@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFPUX,Independent Franchise Partners US Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFPJF,Informa plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFP.TRT,Interfor Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+IFP.LON,IFG Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+12160.AUS,IFP Global Franchise,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+17415.AUS,IFP Global Franchise Fund (Hedged),Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2609
+MAQ0631AU.AUS,IFP Global Franchise Fund (Hedged),Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1622
+IFPGLOBALFRA.AUS,IFP Global Franchise,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1622

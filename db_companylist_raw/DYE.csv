@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BOMDYEING.NSE,The Bombay Dyeing and Manufacturing Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+603188.SHH,Jiangsu Yabang Dyestuff Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+1410.TWN,Nan Yang Dyeing & Finishing Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1818
+1463.TWN,Chyang Sheng Dyeing & Finishing Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1818
+P3ID.BER,PICTET-GL.MEGAT.S.P DYEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1667
+002015.SHZ,Jiangsu Xiake Environment-Friendly Dyed-Spun Stock Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+506910.BSE,Jaysynth Dyestuff (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667
+531109.BSE,Ishan Dyes & Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1579
+JAYSYN.BSE,Jaysynth Dyestuff (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1364
+ISHANCH.BSE,Ishan Dyes & Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.0952

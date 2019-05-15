@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1762.HKG,Wanka Online Inc.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8571
+VTNL,Vet Online Supply Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CNET,ChinaNet Online Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+IBUY,Amplify Online Retail ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3000
+JRJC,China Finance Online Co. Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BOSC,B.O.S Better Online Solutions Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YTRA,Yatra Online Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ONLN,ProShares Online Retail ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2143
+COE,China Online Education Group,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+STG,Sunlands Online Education Group,Equity,United States,09:30,16:00,UTC-05,USD,0.1714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMARX,Brandes Separately Managed Acct Rsrv Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SEPAX,SEI Pennsylvania Municipal Bond F (STET),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+TESTAX,TEST - Separately Managed Accou,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+TESTDX,TEST - Separate Account,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3636
+BATA.JKT,PT Sepatu Bata tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2963
+MAXM.TAV,Maxima Air Separation Center Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2162
+150066.SHZ,Guotai Asset Management - Mutual Benefit Separate Bond Preferred Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1951
+150067.SHZ,Guotai Mutual Benefit Separate Bond Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818
+K55306AZ7682.KOR,KTB IPO Separate Taxation HY Bd Bal A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+K55306AZ7690.KOR,KTB IPO Separate Taxation High Yield Bond Balanced,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1481

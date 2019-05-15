@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TK.TRV,Tinka Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+TK.BAK,Thitikorn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+TK.SWI,thyssenkrupp AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500

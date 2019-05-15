@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IOGIF,Pond Technologies Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IOGPX,VY Oppenheimer Global S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOGP.SWI,iShares Oil & Gas Explr&Prod ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+IOG.LON,Independent Oil and Gas plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IOGP.LON,iShares Oil & Gas Explr&Prod ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+IOGPN.MEX,iShares V Public Limited Company - iShares Oil & Gas Exploration & Production UCITS ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5455

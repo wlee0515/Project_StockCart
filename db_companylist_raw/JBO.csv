@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBORX,JHancock ESG Core Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JBOIX,JHancock ESG Core Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JBOAX,JHancock ESG Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JBOG.PAR,Jacques Bogart S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000

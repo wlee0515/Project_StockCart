@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLY,Fly Leasing Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FLYLF,FLYHT Aerospace Solutions Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLYE,International Jet Engine Supply Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLYRX,Pioneer Floating Rate Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLYBF,Flybe Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLYEBX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLYNRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLYVBX,FT 7634: ETF Growth and Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FLYCX,Nuveen Large Cap Select C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FLYX,Direxion Airline Shares,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

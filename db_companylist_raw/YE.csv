@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YETI,YETI Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YELP,Yelp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YECO,Yulong Eco-Materials Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YEXT,Yext Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YHMGF,Yellowhead Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YLWWF,Yellow Pages Limited WT EXP 113022,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+YEWTF,Environmental Waste International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YEWB,Yew Bio-Pharm Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YLWDF,Yellow Pages Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YBRHF,Yellow Brick Road Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

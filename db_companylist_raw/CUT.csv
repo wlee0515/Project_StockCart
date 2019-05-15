@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUT,Invesco MSCI Global Timber ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CUTR,Cutera Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCCG,Fog Cutter Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CUTAX,Six Circles Tax Aware Ult Shr Dur,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUTDX,Cutler Emerging Markets,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+CALFX,Cutler Fixed Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+CALEX,Cutler Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2727

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWU.TRT,First Asset MSCI USA LRWgt ETF CADH Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+RWU-B.TRT,First Asset MSCI USA Low Risk Weighted ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

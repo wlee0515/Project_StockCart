@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASDN,Astro Aerospace Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASDIX,AAM/HIMCO Short Duration I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDVX,American Century Short Dur Strt Inc Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDHX,American Century Short Dur Strat Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDRX,American Century Short Dur Strt Inc R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDRF,Ascendant Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDOF,Ansaldo STS S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDCX,AAM/HIMCO Short Duration C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDZF,Arctic Star Exploration Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASDAIX,ADT 1812 Aerospace/Defense Oppo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

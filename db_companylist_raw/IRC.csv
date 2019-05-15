@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1029.HKG,IRC Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8571
+IRCP,IRSA Propiedades Comerciales S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRCLX,Voya Corporate Leaders 100 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCC,Indigenous Roots Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCAX,Voya Retirement Conservative Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCPX,Voya Retirement Conservative Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCTRX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCSX,Bernstein International Small Cap SCB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRCZX,AB International Small Cap Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IRCIX,Voya Russell Small Cap Index Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4286

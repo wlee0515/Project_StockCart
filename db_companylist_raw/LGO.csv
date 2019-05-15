@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGORF,Largo Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOAX,Miller Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOVX,Lord Abbett Growth Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOFX,Lord Abbett Growth Opportunities F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOPX,Lord Abbett Growth Opportunities P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOSX,Lord Abbett Growth Opportunities R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGORX,Lord Abbett Growth Opportunities R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOCX,BrandywineGLOBAL Global Opp Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOTX,Lord Abbett Growth Opportunities R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGOQX,Lord Abbett Growth Opportunities R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VOSSF,Vossloh AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VOTKF,Vostok New Ventures Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VOS.FRK,Vossloh AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VOS.DUS,VOSSLOH AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+VOS.FRK,Vossloh AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+0N2Z.LON,Vossloh AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+0R8Z.LON,Vostok New Ventures Ltd,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4615
+VOS.BER,VOSSLOH AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308

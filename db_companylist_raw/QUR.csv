@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QURE,uniQure N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QRTEA,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+QRTEB,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LB3A.MUN,QURATE RETAIL INC. QVC A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+LB3A.BER,QURATE RETAIL INC. QVC A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+LB3A.DUS,QURATE RETAIL INC. QVC A,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+QRTE.VIE,Qurate Retail Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2222
+LB3A.FRK,Qurate Retail Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+LB3A.STG,Qurate Retail Inc. Reg. Shs QVC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

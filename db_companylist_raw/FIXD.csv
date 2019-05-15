@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIXD,First Trust TCWOpportunistic Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000UHCX.TRT,LON Canadian Fixd Inc (P) 75/75 (PS2),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2353
+F00000UHCZ.TRT,LON Canadian Fixd Inc (P) 100/100 (PS2),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2353
+F00000UHD0.TRT,LON Canadian Fixd Inc (P) 75/100 (PS2),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860

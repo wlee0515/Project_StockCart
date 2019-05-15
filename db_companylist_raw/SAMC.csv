@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAMCX,Saratoga Moderately Agrsv Bal Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+004690.KOR,Samchully Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6667
+6387.TOK,SAMCO Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+SAM.BAK,Samchai Steel Industries Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+5147.KLA,Samchem Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5714
+SAMCO.BAK,Sammakorn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+KR5372AV9451.KOR,Samchully Midstream Professional Private Special Asset 3-2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3810
+SGA.TRV,Samco Gold Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3333
+SMU.FRK,SAMCO Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1290

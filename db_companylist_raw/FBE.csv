@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBEC,FBEC Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBESTX,FT 7714: Municipal Income Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBETX,American Funds 2030 Trgt Date Retire F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBER,Agritech Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBENX,Fidelity Shrt-Term Trs Bd Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBELPX,FT 7073: Balanced Income Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBETAX,First Trust Combined Srs 303 Bu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBETYX,The First Trust Combined Srs 31,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBEWLX,FT 7223: Water Utility & Infras,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBEHJX,FT 6886: Target Dividend Blend ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

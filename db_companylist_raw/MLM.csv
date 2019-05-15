@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLM,Martin Marietta Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MLMAX,Morgan Stanley Instl Global Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MLMZF,Metallica Minerals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MLMCX,Morgan Stanley Instl Global Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLMIX,Morgan Stanley Instl Global Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLMSX,Morgan Stanley Instl Global Core IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLMRX,MFS Limited Maturity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLMN,Millennium Prime Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MLM.MIL,MolMed S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667

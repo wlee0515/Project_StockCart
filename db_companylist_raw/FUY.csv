@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3606.HKG,Fuyao Glass Industry Group Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+FUYU.SGP,Fu Yu,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7500
+600660.SHH,Fuyao Glass Industry Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.3333
+4FG.FRK,Fuyao Glass Industry Group Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+FUY.FRK,Fukuyama Transporting Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+4FG.BER,FUYAO GLASS IND.GP -H-YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+4FG.STG,Fuyao Glass Industry Group Co.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1935
+8424.TOK,Fuyo General Lease Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1538
+FUYIDEINVERS.BCL,Fuyi de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1538

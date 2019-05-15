@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NLY,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WM,Waste Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+APO,"Apollo Global Management, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BAM,Brookfield Asset Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+OZM,Och-Ziff Capital Management Group LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AMG,Affiliated Managers Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ARES,Ares Management Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MDLY,Medley Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+APAM,Artisan Partners Asset Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2581
+AIV,Apartment Investment and Management Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

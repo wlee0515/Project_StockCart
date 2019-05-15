@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WESC,W&E Source Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WCC,WESCO International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+WAIR,Wesco Aircraft Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WESCX,TETON Westwood SmallCap Equity AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3810
+WGF.TRV,Wescan Goldfields Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3810
+W17A.FRK,WESCAN GOLDFIELDS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3077
+WP7.MUN,"WESCO INTL INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2963
+W17A.BER,WESCAN GOLDFIELDS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+W5A.FRK,"WESCO AIRCRAFT HLD.DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

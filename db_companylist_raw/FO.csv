@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F,Ford Motor Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FOCS,Focus Financial Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FTSV,Forty Seven Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FTNT,Fortinet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FL,Foot Locker Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FOSL,Fossil Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FOLD,Amicus Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FOMX,Foamix Pharmaceuticals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FTV,Fortive Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FORD,Forward Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

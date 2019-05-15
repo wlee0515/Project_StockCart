@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UQM,UQM Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UQM.BER,"UQM TECHNOL.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+UQM.FRK,UQM Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UQM.MUN,"UQM TECHNOL.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UQM.STG,UQM TECHNOLOGIES INC. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

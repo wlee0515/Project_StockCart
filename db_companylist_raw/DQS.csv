@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DQS1.FRK,Akers Biosciences Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DQS1.MUN,Akers Biosciences Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+DQS1.STG,Akers Biosciences Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+DQS2.FRK,Akers Biosciences Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+DQS2.BER,"AKERS BIOS.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DQS2.MUN,"AKERS BIOS.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+DQS2.STG,Akers Biosciences Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

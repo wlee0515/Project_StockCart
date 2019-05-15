@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRSAX,Spouting Rock Small Cap Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SRSA.LON,iShares III Public Limited Company - iShares MSCI South Africa UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SRSA.MIL,iShares MSCI South Africa ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+SRSA.SWI,iShares MSCI South Africa ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

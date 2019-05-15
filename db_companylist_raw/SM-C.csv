@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTHSX,Fuller & Thaler Behavioral Sm-Cp Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EEMS,iShares MSCI Emerging Markets Sm-Cp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+SMMV,iShares Edge MSCI Min Vol USA Sm-Cp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+FTHNX,Fuller & Thaler Behavioral Sm-Cp Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FTHFX,Fuller & Thaler Behavioral Sm-Cp Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+MISIX,Victory Trivalent International Sm-Cp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+PQSV,PGIM QMA Strategic Alpha Sm-Cp Val ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+PQSG,PGIM QMA Strategic Alpha Sm-Cp Gr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+TLISX,TIAA-CREF Quant Intl Sm-Cp Eq Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1905
+MISAX,Victory Trivalent International Sm-Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1860

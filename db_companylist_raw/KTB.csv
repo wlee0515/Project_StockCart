@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KTBA,Corts Trust for BellSouth Debentures,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZKBHF,ZUERCHER KTBK,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZKPLF,ZUERCHER KTBK,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KTB.BAK,Krung Thai Bank Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3750
+148070.KOR,KOSEF 10yr KTB,ETF,Korea,09:00,15:30,UTC+09,KRW,0.3529
+KR5306AL5981.KOR,KTB Alpha Interest Rate Sector Rotation Private Bond Balanced-Fund of Funds,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2222
+F00000T6O7.KOR,KTB China 1st Grade Stock Master Equity,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2143
+K55306B40368.KOR,KTB China Plus Chance Bond Balanced CP,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000LHTW.KOR,KTB Market Star Equity C4,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5306781794.KOR,KTB Expert Asset Allocation Eq Bal A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

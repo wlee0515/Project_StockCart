@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZREITX,Cole Real Estate Income Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ZRE.TRT,BMO Equal Weight REITs ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+INVEXMPB2.MEX,Zref 3 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+ZRE.FRK,Zur Rose Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZRE.DUS,"ZUR ROSE GROUP AG  SF5,75",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ZRE.MUN,"ZUR ROSE GROUP AG  SF5,75",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+INVEXLPA.MEX,Zref 2 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2222
+INVEXCPBF1.MEX,Zref 1 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2222
+INVEXGUBE1.MEX,Zrefmo 1 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2222
+ZRE.BER,"ZUR ROSE GROUP AG  SF5,75",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069

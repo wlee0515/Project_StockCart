@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRUAX,Ivy ProShares Russell 2000 DivGrwrsIdx A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRUIX,Ivy ProShares Russell 2000 DivGrwrsIdx I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRUEX,Ivy ProShares Russell 2000 DivGrwrsIdx E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRURX,Ivy ProShares Russell 2000 DivGrwrsIdx R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRUNX,Ivy ProShares Russell 2000 DivGrwrsIdx N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRU.BER,ISHS TR.-RUSSELL 3000 ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IRU8.BER,ISHSTR-MSCI EM ESG ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IRU1.BER,ISHSTR-US PREF.STOCK ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IRU3.BER,ISHSTR-MSCI EAFE SM.C.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IRU6.BER,ISHS TR.-INT.SEL.DIV.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000

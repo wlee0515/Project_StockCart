@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYHI,Mountain High Acquisitions Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYHCX,MainStay MacKay High Yield Corp Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MYHA,My Healthy Access Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MYRK.BER,MYHAMMER HOLDING AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+000667.SHZ,Myhome Real Estate Development Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+MYH.STG,MYTILINEOS HOLDINGS S.A. Namens,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+MYRK.FRK,MyHammer Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+MYRK.DUS,MYHAMMER HOLDING AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+MYRK.STG,MyHammer Holding AG Inhaber-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+MYH.BER,"MYTILINEOS HLD NA EO 0,97",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1224

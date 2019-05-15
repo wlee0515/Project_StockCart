@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NPWZ,Neah Power Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NEAR,iShares Short Maturity Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+NEARX,US Global Investors Near-Term Tax Free,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NEAIX,Needham Aggressive Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

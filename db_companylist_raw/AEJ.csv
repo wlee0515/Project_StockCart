@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEJ.PAR,Lyxor MSCI AC AsiaPac ex Jap ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7500
+AEJ.LON,Lyxor UCITS ETF MSCI AC Asia-Pacific ex Japan,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+AEJ.MIL,Lyxor MSCI AC AsiaPac ex Jap ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+AEJL.LON,Lyxor MSCI AC AsiaPac ex Jap ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

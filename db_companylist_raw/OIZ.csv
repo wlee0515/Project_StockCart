@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OIZL.LON,BOOST ISSUER PUBLIC LIMITED COM,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+OIZ.BER,"ORIGIN ENTERPRISES EO-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OI4.FRK,OIZUMI Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+6428.TOK,OIZUMI Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857

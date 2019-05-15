@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFFAU,CF Finance Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CFFN,Capitol Federal Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CFFI,C&F Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFFRX,Columbia Disciplined Small Core Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFFMF,CFOAM Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFF.TRT,Conifex Timber Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

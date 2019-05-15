@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LVVV,Livewire Ergogenics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGFEY,Eurobank Ergasias S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGFEF,Eurobank Ergasias S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERGN,Ergo Science Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ERGOX,Eaton Vance Government Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ERGO,"Entia Biosciences, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ERGMX,Eaton Vance Glbl Macr Absolute Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ERG.MIL,ERG S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4615
+0MHC.LON,ERG S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143

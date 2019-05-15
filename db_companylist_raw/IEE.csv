@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IEER.LON,iShares Public Limited Company - iShares MSCI Eastern Europe Capped UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IEEU.LON,ISHARES IV PLC ISHS EDGE MSCI E,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IEE.BER,INFRATIL LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IEEM.LON,iShares MSCI EM ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IEEM.SWI,iShares MSCI EM ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+IEEM.MIL,iShares MSCI EM ETF USD Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+IEER.AMS,ISHARES EASTE10/40,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000

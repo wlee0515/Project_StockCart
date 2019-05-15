@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMRIX,Wilmington Real Asset Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMR.TRV,Westminster Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+WMR.FRK,Delecta Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WMR.BER,DELECTA LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WMR.DUS,DELECTA LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+WMR.HAM,DELECTA LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+WMR.MUN,DELECTA LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+WMR.STG,Delecta Ltd. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

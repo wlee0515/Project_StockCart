@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PEB,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PEB-PD,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PEB-PC,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+PEB-PF,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+PEB-PE,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+PEB.LON,Pebble Beach Systems Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+PD0.BER,PEBBLEBROOK HOTEL TRU.SBI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211
+F00000V7S9.BCL,Pebble Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+PEBBLEINVEST.BCL,Pebble Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3478
+PD0.FRK,Pebblebrook Hotel Trust,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963

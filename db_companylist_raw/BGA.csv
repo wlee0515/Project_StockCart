@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGAOF,Proximus PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAVF,Bravada Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGADX,The Long Term Global Growth Equ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAKX,Baillie Gifford Global Alpha Equity K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAOY,Proximus PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAFX,Baron Global Advantage Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAIX,Baron Global Advantage Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGATX,Baillie Gifford Global Alpha Equity 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAQX,BMO Global Long/Short Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGAIF,BioGaia AB,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

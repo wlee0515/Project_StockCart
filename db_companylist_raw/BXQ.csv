@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXQYX,Barings Global Emerging Markets Eq Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXQIX,Barings Global Emerging Markets Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXQAX,Barings Global Emerging Markets Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXQCX,Barings Global Emerging Markets Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

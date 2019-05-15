@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OEW,Invesco S&P 100 Equal Weight ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+OEWA.STG,Verbund AG Inhaber-Aktien A o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OEWA.FRK,VERBUND AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

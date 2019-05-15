@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXCPBM1.MEX,BX+CP B-M1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCPBM3.MEX,BX+CP B-M3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXMPBM1.MEX,BX+MP B-M1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXMPBM2.MEX,BX+MP B-M2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+ILIQGBM.MEX,I+LIQG B-M,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+IPLAZOBM.MEX,I+PLAZO B-M,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286

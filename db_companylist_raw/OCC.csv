@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCC,Optical Cable Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OXY,Occidental Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OCCI,OFS Credit Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OCCIX,Oppenheimer Conservative Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCC.FRK,Optical Cable Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+OPC.FRK,Occidental Petroleum Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+OPC.FRK,Occidental Petroleum Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+0KAK.LON,Occidental Petroleum Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714

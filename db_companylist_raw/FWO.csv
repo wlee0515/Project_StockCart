@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWONA,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FWONK,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FWONB,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FWONTX,FT 6663: Deep Value Dividend Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWOTHX,FT 6834: Municipal Advantage Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWODJX,FT 7616: Innovative Transaction,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWOA.FRK,Fairwood Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FWOA.BER,FAIRWOOD HLDGS CONS. HD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

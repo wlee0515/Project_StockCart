@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRR,Market Vectors Double Short Euro ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DRRX,DURECT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DRRSF,Arianne Phosphate Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DRRYX,Dreyfus Global Real Return Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRRIX,Dreyfus Global Real Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRRAX,Dreyfus Global Real Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRRCX,Dreyfus Global Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRREX,Resource Real Estate Diversifie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

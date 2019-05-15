@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDFC.NSE,IDFC Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7273
+IDFCBANK.NSE,IDFC Bank Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+F000001A16.BSE,IDFC Sterling Equity Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+108597.BSE,IDFC Classic Equity A Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+108766.BSE,IDFC Super Saver Income Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+IDFCNIFTYAGR.BSE,IDFC Nifty Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667
+108544.BSE,IDFC All Seasons Bond Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2581
+108561.BSE,IDFC Dynamic Bond Reg Qtr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2581
+108592.BSE,IDFC Imperial Equity A Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+108764.BSE,IDFC SS Inc Inv Reg Qtr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2424

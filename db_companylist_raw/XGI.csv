@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGIMX,Templeton Global Income Fund In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XGIG.LON,X II Global Infl-Lnkd Bd ETF 3D GBP H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XGIU.LON,X II Global Infl-Lnkd Bd ETF 5C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XGIU.FRK,db x-trackers II - iBoxx Global Inflation-Linked UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XGII.FRK,X II Global Infl-Lnkd Bd ETF 1D EUR H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+XGIN.MIL,X II Global Infl-Lnkd Bd ETF 1C EUR H,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XGIU.MIL,X II Global Infl-Lnkd Bd ETF 5C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+XGI.TRT,iShares S&P Global Industrials ETF CADH,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+XGID.LON,X S&P Global Infrastructure Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+XGII.FRK,db x-trackers II - iBoxx Global Inflation-Linked UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTI,Vanguard Total Stock Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+GDX,VanEck Vectors Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+VOO,Vanguard S&P 500 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VGT,Vanguard Information Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VWO,Vanguard FTSE Emerging Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+GDXJ,VanEck Vectors Junior Gold Miners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VNQ,Vanguard Real Estate ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+OIH,VanEck Vectors Oil Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+VYM,Vanguard High Dividend Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1765
+VTSAX,Vanguard Total Stock Market Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500

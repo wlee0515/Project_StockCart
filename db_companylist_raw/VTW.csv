@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTWNX,Vanguard Target Retirement 2020 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VTWO,Vanguard Russell 2000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VTWG,Vanguard Russell 2000 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VTWV,Vanguard Russell 2000 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VTWSX,Vanguard Total World Stock Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTWIX,Vanguard Total World Stock Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTWINCAPITAL.BCL,V Twin Capital Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

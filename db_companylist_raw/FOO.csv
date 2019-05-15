@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSN,Tyson Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+1837.HKG,Natural Food International Holding Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+DF,Dean Foods Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FL,Foot Locker Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BGS,B&G Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+HRL,Hormel Foods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+UNFI,United Natural Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+IVFH,Innovative Food Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+FLO,Flowers Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+USFD,US Foods Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1333

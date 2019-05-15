@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FQLSX,Fidelity Flex Freedom 2055,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FQLJTX,FT 7300: Dow Target 5 2Q '18 - ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FQLKEX,FT 7645: Sabrient Dividend Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLAX,Franklin Louisiana Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLGDX,FT 6938: High-Yield Income Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLNVX,FT 5477: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLDJX,FT 6635: Diversified Income & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLMAX,FT 7490: High Dividend Equity O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLDNX,FT 7294: Income Allocation Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQLSMX,FT 6987: Preferred Income Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

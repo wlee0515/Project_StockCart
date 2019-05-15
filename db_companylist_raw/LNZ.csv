@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNZNF,Lenzing Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNZCF,Sama Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNZ.VIE,Lenzing Aktiengesellschaft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+LNZD.LON,ETFS Long NZD Short USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LNZLP.MOS,Lena Gold-Mining Public Joint Stock Company Lenzoloto,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+LNZ.SWI,Lenzing,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+LNZL.MOS,Lena Gold-Mining Public Joint Stock Company Lenzoloto,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.5455

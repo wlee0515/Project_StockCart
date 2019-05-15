@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHS,Chico's FAS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CHSP,Chesapeake Lodging Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHSCP,CHS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHSCO,CHS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CHSCM,CHS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHSCL,CHS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHSCN,CHS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHSH,China Shoe Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHSO,China ShouGuan Investment Holding Group Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHSYF,China Medical System Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

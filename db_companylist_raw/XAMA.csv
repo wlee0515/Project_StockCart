@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XAMA.STG,First Eagle Amundi-Internatio.A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+XAMA.FRK,F.EAGLE AMUNDI INTER.AU-C,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XAMA.BER,F.EAGLE AMUNDI INTER.AU-C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XAMA.DUS,F.EAGLE AMUNDI INTER.AU-C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XAMA.MUN,F.EAGLE AMUNDI INTER.AU-C,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

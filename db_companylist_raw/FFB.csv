@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFBC,First Financial Bancorp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFBW,FFBW Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFBFX,Emerald Banking and Finance Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFB.JOH,Fortress REIT Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+FFB.BER,BK OCBC NISP TBK  RP 125,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FFB.STG,"Bank OCBC Nisp Tbk, PT Register",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

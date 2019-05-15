@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRHIF,Sprott Resource Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHGF,Shoprite Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHBF,StarHub Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHMX,Columbia High Yield Municipal Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHQX,Principal Short-Term Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHBY,StarHub Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHYY,Syrah Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRHI.TRT,Sprott Resource Holdings Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SRH.AUS,Saferoads Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+SRHHYPOLTD.NSE,Sree Rayalaseema Hi-Strength Hypo Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750

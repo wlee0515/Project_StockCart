@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVC,MVC Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MVCKX,MFS Mid Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MVCAX,MFS Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVCD,MVC Capital Inc. 6.25% Senior ,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MVCJX,MFS Mid Cap Value R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVCHX,MFS Mid Cap Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVCGX,MFS Mid Cap Value R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MVCCX,MFS Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WD8.BER,"MVC CAPITAL INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

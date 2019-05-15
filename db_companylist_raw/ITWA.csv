@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IW3.FRK,Itway S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ITW.MIL,Itway S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.5000

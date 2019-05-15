@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGON,Megola Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MGOYX,Victory Munder Mid-Cap Core Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGOAX,Victory Munder Mid-Cap Core Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGOCX,MainStay MacKay Common Stock C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGOSX,Victory Munder Mid-Cap Core Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGORX,Morgan Stanley Inst Global Opp IR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGOTX,Victory Munder Mid-Cap Core Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGOIX,MainStay MacKay Government I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

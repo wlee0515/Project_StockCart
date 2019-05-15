@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRUBX,Neuberger Berman Unconstrained Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRUNF,Northern Uranium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OSX2.DUS,OSS.US M.V.ESG NRUE 1CEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+OSX2.STG,OSS.US Min.Var.ESG NRUCIT.ETF I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+OSX1.BER,OSS.US M.V.ESG NRUE 1CDL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1765

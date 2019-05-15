@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAV,Pioneer Municipal High Income Advantage Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MVRK,Maverick Technology Solutions,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAVFX,Matrix Advisors Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAVRX,Matthews Asia Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAVAX,Matthews Asia Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAVSX,Mutual of America Instl Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MAVVX,FDP BlackRock Equity Dividend Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MKGP,Maverick Energy Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MVRM,Maverick Minerals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MMX.TRV,Maverix Metals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857

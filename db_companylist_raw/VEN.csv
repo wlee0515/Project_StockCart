@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTR,Ventas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VNTR,Venator Materials PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VEND,Generation Next Franchise Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LIVE,Live Ventures Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MRPHF,Marapharm Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TPVG,TriplePoint Venture Growth BDC Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GSV,Gold Standard Ventures Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WCVC,West Coast Ventures Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NUGS,Cannabis Strategic Ventures,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PACV,Pacific Ventures Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMTL,Image Protect Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTE,Integrated Media Technology Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTV,Imagination TV Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTO,InterMetro Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTB,iShares Core 5-10 Year USD Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTC,Imogo Mobile Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTM,iShares Edge MSCI Intl Momentum Fctr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IMTS,Interactive Motorsports and Entertainment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571

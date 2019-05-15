@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFTBY,SoftBank Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFTBF,SoftBank Group Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFTBX,State Farm Tax Advantaged Bond B Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFTAX,State Farm Tax Advantaged Bond Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFTEX,American Funds Shrt-Term Tx-Exmpt F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFT.FRK,SoftBank Group Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SFT.TRV,Softrock Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SFT.BER,SOFTBANK GROUP CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

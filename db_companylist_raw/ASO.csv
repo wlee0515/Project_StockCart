@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASOE,Apollo Solar Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASOMY,ASOS Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASOZY,Asseco Poland S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASOMF,ASOS Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASC.LON,ASOS Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ASO.TRT,Avesoro Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ASO.LON,Avesoro Resources Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+F000002EB8.BCL,Tartec Asociados de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5455
+DYQ.FRK,ASOS Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1500

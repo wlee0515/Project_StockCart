@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIJAYABANK.NSE,Vijaya Bank,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+VIJAYTX.BSE,Vijay Textiles Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+VIJAYABANK-EQ.NSE,VIJAYA BANK,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+VFL.BSE,Viji Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+523724.BSE,Vijay Shanthi Builders Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+530151.BSE,Vijay Textiles Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+532401.BSE,Vijaya Bank,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+VIJIFIN.NSE,VIJI FINANCE LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2609
+VIJSHAN.BSE,Vijay Shanthi Builders Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2400
+VIJSHAN.NSE,Vijay Shanthi Builders Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1818

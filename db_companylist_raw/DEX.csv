@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DEX,Delaware Enhanced Global Dividend and Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DXCM,DexCom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DXTRQ,Dex Liquidating Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DMDA,Dex Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+DXSPF,Dexus Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DEXB.BRU,Dexia SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5000
+DXS.AUS,Dexus Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+DEX.TRV,Almadex Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+DEX.MUN,DELTICOM AG  NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857

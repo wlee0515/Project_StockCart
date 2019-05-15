@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SP,SP Plus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SPY,SPDR S&P 500 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+ANY,Sphere 3D Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GLD,SPDR Gold Shares,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+S,Sprint Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XBI,SPDR S&P Biotech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+SPLK,Splunk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2353
+SPOT,Spotify Technology S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+DIA,SPDR Dow Jones Industrial Average ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1818
+SPPI,Spectrum Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1026

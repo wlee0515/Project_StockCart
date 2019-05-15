@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZH.LON,easyHotel plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EZH1.BER,DESARROLLADORA HOMEX S.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EZH1.MUN,DESARROLLADORA HOMEX S.A.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

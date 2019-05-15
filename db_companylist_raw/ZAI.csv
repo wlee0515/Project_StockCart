@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZLAB,Zai Lab Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+1ZL.BER,ZAI LAB LTD  ADR/1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+1ZL.FRK,ZAI LAB LTD  ADR/1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+1ZL.MUN,ZAI LAB LTD  ADR/1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+1ZL.STG,Zai Lab Ltd. Reg. Shares (ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+8929.TOK,"Aoyama Zaisan Networks Company,Limited",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1463
+603601.SHH,Chongqing Zaisheng Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1429

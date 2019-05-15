@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IP.MIL,Interpump Group S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+IP.MEX,International Paper Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500

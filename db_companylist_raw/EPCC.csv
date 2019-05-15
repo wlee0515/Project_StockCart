@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPCC.FRK,Cementos Pacasmayo S.A.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+EPCC.BER,"CEMENTOS PACASM. ADR/1,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EPCC.STG,Cementos Pacasmayo S.A.A. Reg. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FYGLX,Fidelity Advisor Freedom 2005 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYGRX,Nuveen Intermediate Government Bond R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYGYX,Nuveen Intermediate Government Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYGREX,FT 6855: Capital Strength Buy-W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYGCX,Nuveen Intermediate Government Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYGKRX,FT 7172: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYGPAX,FT 6891: Preferred Income Oppor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYGVSX,FYGVSX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

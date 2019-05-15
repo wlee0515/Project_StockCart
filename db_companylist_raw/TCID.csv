@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TCID.JKT,PT. Mandom Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.8000
+TCIDEVELOP.NSE,TCI Developers Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7273
+TCID.STG,PT Telekomunikasi Ind. Tbk Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+TCID.MUN,PT TELEK. IND. B  RP 50,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TCIDEVELOP.BSE,TCI Developers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273
+TCID.FRK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+TCID.BER,PT TELEK. IND. B  RP 50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+TCIDEVELOP-EQ.NSE,TCI DEVELOPERS LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000

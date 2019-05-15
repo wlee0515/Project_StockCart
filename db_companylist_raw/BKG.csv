@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BKGFY,The Berkeley Group Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKGMF,BankGuam Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKGFF,The Berkeley Group Holdings plc Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKGPX,BlackRock 60/40 Target Allocation K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BKGCX,Baillie Gifford EAFE Choice K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BKG.LON,The Berkeley Group Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LLD.MUN,"LLOYDS BKG GRP  LS-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+SBG1.BER,"SEACOAST BKG FLA  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+BKGRANRESERV.BCL,BK Revalorizaci?n Europa 2022 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2400
+135790.BSE,Tata Bkg & Finl Svgs Reg Dividend Py,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1765

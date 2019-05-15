@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAC,IAC/InterActiveCorp,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IACLX,Voya Corporate Leaders 100 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACBX,Transamerica Capital Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACPCX,All Cap Core Strategy 2016-4 (I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACFX,Invesco Greater China R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACCEX,All Cap Core Strategy 2018-1 (I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACIX,VY American Century Sm-Mid Cp Val I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IACCRX,All Cap Core Strategy 2017-3 (I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IACOX,Congress SMid Core Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IACYF,Inter Action Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

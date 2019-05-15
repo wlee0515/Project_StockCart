@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAOB.MUN,CRAMO PLC  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+RAOB.FRK,Cramo Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

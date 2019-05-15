@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIPP.JKT,PT Bhuwanatala Indah Permai Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+BHUSANSTL.NSE,Tata Steel BSL Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+BHU.SGP,SUTL Enterprise Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+511501.BSE,Bharat Bhushan Finance & Commodity Brokers Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+BHARAT.BSE,Bharat Bhushan Finance & Commodity Brokers Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000
+BHUSANSTL.BSE,Tata Steel BSL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667

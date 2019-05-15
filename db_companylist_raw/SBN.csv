@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBNY,Signature Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBNA,Scorpio Tankers Inc. 6.75 SR NOTE20,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBNC,Southern BancShares (N.C.) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBNYX,Western Asset New York Municipals A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBNCM,Southern BancShares (N.C.) Inc. PFD CV B,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBNCN,Southern BancShares (N.C.) Inc. PFD CL C,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

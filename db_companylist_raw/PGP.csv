@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGP,PIMCO Global StocksPLUS & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PGPM,Pilgrim Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PGPHF,Partners Group Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPMX,Principal Multi-Manager Equity L/S R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPIX,Principal Multi-Manager Equity L/S Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPRX,George Putnam Balanced R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPPX,Principal MidCap Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPCX,George Putnam Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPEF,Publicis Groupe S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGPAAX,ADT 1871 Peroni Growth Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

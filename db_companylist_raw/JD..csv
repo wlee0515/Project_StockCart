@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JD.LON,JD Sports Fashion plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+013A.DUS,JD.COM SP.ADR A1 DL-00002,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+013A.BER,JD.COM SP.ADR A1 DL-00002,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+0JOQ.LON,JD.COM INC JD.COM ADR REPRESENT,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+013A.MUN,JD.COM SP.ADR A1 DL-00002,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+JD.VIE,JD.com Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2143
+013A.HAM,JD.COM SP.ADR A1 DL-00002,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+013A.STG,JD.com Inc. R.Shs Cl.A(Sp.ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

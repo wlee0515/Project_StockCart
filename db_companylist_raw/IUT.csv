@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUTSF,iShares S&P/TSX 60 Index ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IUTLYX,Utility Income Portfolio 2018-4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUTCF,iShares S&P/TSX Global Gold Index ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IUTIYX,Utility Income Portfolio 2018-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IUTINX,Utility Income Portfolio 2017-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTCX,Invesco Dividend Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTICX,Utility Income Portfolio 2017-4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTPOX,Utility Income Portfolio 2016-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTIPX,Utility Income Portfolio 2016-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTIX,Columbia US Treasury Index Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

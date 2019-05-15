@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLG,Platinum Group Metals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PLGIX,Principal LargeCap Growth I Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PLGJX,Principal LargeCap Growth I J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLGAX,Principal LargeCap Growth I A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLGC,Playlogic Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PLGCX,Principal Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLGBX,PIMCO Long-Term US Government Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLGPX,Principal Large Cap Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLG.AUS,Propertylink Group Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+118972.BSE,DHFL Pramerica Income Adv Dr PlGr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667

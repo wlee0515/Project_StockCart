@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUSD.LON,Fidelity US Quality Income ETF Inc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+FUSD.FRK,FIDELITY US Q.INC.ETF INC,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+FUSD.FRK,Fidelity UCITS SICAV - Fidelity US Quality Income UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+FUSD.STG,Fidelity US Quality Income ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+FUSD.DUS,FIDELITY US Q.INC.ETF INC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

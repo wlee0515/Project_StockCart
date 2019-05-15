@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROE.TRV,Renaissance Oil Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ROEA.FRK,Sportech PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ROEA.BER,"SPORTECH PLC  LS-,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

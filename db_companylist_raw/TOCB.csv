@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOCB.FRK,Thomson Reuters Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+TOCB.BER,THOMSON REUTERS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+TOCB.DUS,THOMSON REUTERS CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+TOCB.MUN,THOMSON REUTERS CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TOCB.STG,Thomson Reuters Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

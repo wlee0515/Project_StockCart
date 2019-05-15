@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRFDX,T. Rowe Price Equity Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRFIX,Federated Real Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRFCX,Federated Real Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRFAX,Federated Real Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRFIN.BSE,RR Financial Consultants Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HRPMF,Herantis Pharma Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+HERAX,Hartford Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+HMD.AUS,HeraMED Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5333
+HDVXF,HERALD INV TRUST,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+HER.MIL,Hera S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444
+HE9.FRK,Hera S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+HRI.LON,Herald Investment Trust,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+HE9.BER,HERA S.P.A.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000

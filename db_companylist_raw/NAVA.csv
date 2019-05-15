@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAVAX,Navigator Equity Hedged A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CLBN,Navajo Wind Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+NBVENTURES.BSE,Nava Bharat Ventures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+NBVENTURES.NSE,Nava Bharat Ventures Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+RNAVAL.BSE,Reliance Naval and Engineering Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+NKI.BAK,The Navakij Insurance Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+NKI-R.BAK,The Navakij Insurance Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+N1A.BER,NAVAMEDIC ASA  NK 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+NML.AUS,Navarre Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.1667

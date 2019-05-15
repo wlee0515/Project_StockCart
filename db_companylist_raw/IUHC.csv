@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUHC.LON,iShares S&P 500 Health Care Sect ETF$Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+IUHC.SWI,iShares S&P 500 Health Care Sect ETF$Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+IUHCN.MEX,iShares V Public Limited Company - iShares S&P 500 Health Care Sector UCITS ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

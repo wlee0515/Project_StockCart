@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZWH.TRT,BMO US High Dividend Covered Call ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZWH-U.TRT,BMO US High Dividend Covered Call ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

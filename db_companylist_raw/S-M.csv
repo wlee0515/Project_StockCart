@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FQAJX,Strategic Advisers S-M Cp Multi-Mgr L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579
+FQAKX,Strategic Advisers S-M Cp Multi-Mgr N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579
+FNAPX,Strategic Advisers S-M Cp Multi-Mgr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+K55213BA8888.KOR,Hanwha Korea Legend S-M Cap Fdr Eq S,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+K55230B58370.KOR,Schroder DM S-M Cap Fdr Eq-FoF Ae Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5301AI7821.KOR,MiraeAsset RP Grw Prms S-M Cap Fdr Eq 1C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+K55230B58396.KOR,Schroder DM S-M Cap Fdr Eq-FoF Ce Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+K55301B58569.KOR,MiraeAsset India S-M Foc Fdr Eq 1 Ae,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+F000002DTR.KOR,NH-Amundi RP S-M Cap Fdr Bd Bal 1 C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAWS,Lawson Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRRWF,Park Lawn Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAWAX,Ladenburg Aggressive Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAWCX,Ladenburg Aggressive Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+PLC.TRT,Park Lawn Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4000
+BALMLAWRIE.NSE,Balmer Lawrie & Co. Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+2651.TOK,Lawson Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+KEYS.LON,Keystone Law Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+LWDBL.LON,Law Debenture Corporation,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+LWDB.LON,Law Debenture Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400

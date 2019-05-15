@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YMO.FRK,YMOS AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YMO.BER,YMOS AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

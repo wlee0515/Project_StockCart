@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WYDE,ProShares CDS Short North Amer HY Crdt,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+WYDC.FRK,Vontobel Fund - Emerging Markets Equity Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WYD7.MUN,VONTOBEL-EUR.EQU.A-EO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WYD8.HAM,VONTOBEL-SWISS MONEY B-SF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+WYDA.DUS,VONTOBEL-GL EQ.B-DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WYDB.HAM,VONTOBEL-EM.MKTS EQU.A-DL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

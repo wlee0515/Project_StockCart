@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVLMC,Eaton Vance TABS 5to15Yr Ldrd MuniBd NS,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+TIXRX,TIAA-CREF 5-15 Year Ldrd Tax-Exm Bd Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+EALBX,Eaton Vance TABS 1to10 Year Ldrd Mn Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+ECLBX,Eaton Vance TABS 1to10 Year Ldrd Mn Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+EATTX,Eaton Vance TABS 10to20 Yr Ldrd Mn Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+ECTTX,Eaton Vance TABS 10to20 Yr Ldrd Mn Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1860
+TITIX,TIAA-CREF 5-15 Year Ldrd Tax-Exm BdInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1860
+EILBX,Eaton Vance TABS 1to10 Year Ldrd Mn Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1860
+TIXHX,TIAA-CREF 5-15 Year Ldrd Tax-Exm Bd Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818

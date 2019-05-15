@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RTZ.FRK,Pan African Resources PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RTZ.BER,"PAN AFRICAN RES  LS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RTZ.STG,Pan African Resources PLC Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

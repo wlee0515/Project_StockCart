@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPHA3.SAO,Brasil Pharma S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+BPH.AUS,BPH Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455
+BUM.BER,BPH ENERGY LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+BPHAA.PAR,BNPHL3.75%JAN2021,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3333

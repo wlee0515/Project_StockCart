@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TW000T0569Y1.TWN,Yuanta De-Li Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2500
+TW000T0571Y7.TWN,Yuanta De- Bao Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2500
+YUANTADEBAOM.TWN,Yuanta De- Bao Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2222
+YUANTADELIMO.TWN,Yuanta De-Li Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2222
+F000010N19.FRK,Resolute European De-Risked Eq UI S,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1818
+F000010N1A.FRK,Resolute European De-Risked Eq UI I,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1818
+F0HKG05WWZ.TWN,Yuanta De- Bao Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1714
+F0HKG05X1D.TWN,Yuanta De-Li Money Market Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1714

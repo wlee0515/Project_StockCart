@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZWE.TRT,BMO Euro Hi Dividend Cov Call Hdgd to CAD ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZWEE.LON,BMO Enhanced Income Euro Equity ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ZWEU.LON,BMO Enhanced Income Euro Equity ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+T2R.DUS,Trinkaus Securities ZWEI Gmbh Co.KgAA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4286
+2417.TOK,Zwei Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3529
+ZWELCAST.BSE,Welcast Steels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1500

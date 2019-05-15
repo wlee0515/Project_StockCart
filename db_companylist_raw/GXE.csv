@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GXE.TRT,Gear Energy Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+GXE.BER,GALAPAGOS N.V.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GXEA.FRK,Galapagos NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GXE.FRK,Galapagos NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GXE.STG,Galapagos N.V. Actions Nom. o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GXEA.BER,GALAPAGOS N.V. ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GXEA.STG,Galapagos N.V. Actions Nom. (Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GXE.DUS,GALAPAGOS N.V.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GXE.MUN,GALAPAGOS N.V.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

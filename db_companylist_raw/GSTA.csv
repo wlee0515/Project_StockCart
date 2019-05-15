@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSTAX,Green Square Tax Exempt High IncomeInstl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F000001Z0R.BCL,Gstaad Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+GSTAADINVERS.BCL,Gstaad Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3636
+GTD-H.TRV,Gstaad Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857

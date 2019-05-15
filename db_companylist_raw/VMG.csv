@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMGRX,Vanguard Mid Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VMGMX,Vanguard Mid-Cap Growth Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMGIX,Vanguard Mid-Cap Growth Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMGI,Verde Media Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VMGAX,Vanguard Mega Cap Growth Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMGLX,VALIC Company II Moderate Gr Lifestyle,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMGNTX,Investment Grade Municipal Tr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VMGTUX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VMGTIX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VMGITX,Investment Grade Income Tr 7+Ye,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

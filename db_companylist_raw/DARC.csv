@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLR.SGP,Darco Water Technologies Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+D3XA.MUN,DARCO WATER TECH. O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+D3XA.FRK,Darco Water Technologies Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+D3XA.BER,DARCO WATER TECH. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENZ,Enzo Biochem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ENZN,Enzon Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENZL,iShares MSCI New Zealand ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EESO,Enzyme Environmental Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENZH,Enzymes America Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ENZC,Enzolytics Inc.	,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GFOO,Genufood Energy Enzymes Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EZ1.FRK,Enzon Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+EZB.FRK,Enzo Biochem Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1875

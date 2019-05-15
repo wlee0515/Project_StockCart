@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBEI,Great Basin Energies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GBEN,Global Resource Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GBEMX,Victory Sophus Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GBERY,Geberit AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GBERF,Geberit AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GBEU.MIL,ETFS Short GBP Long EUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7500
+GBE.FRK,Genus plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GBE.AUS,Globe Metals & Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+GBE3.MIL,ETFS 3x Short GBP Long EUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+GBE5.MIL,ETFS 5x Short GBP Long EUR ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCUJF,Medicure Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCUIF,RISE Life Science Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCUPF,MARTIN CURRIE ASIA ORD GBP0.50,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCU.TRV,Mega Copper Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+3227.TOK,MCUBS MidCity Investment Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1538

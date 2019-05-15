@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSPA,XpresSpa Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XSD,SPDR S&P Semiconductor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XSNX,XsunX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XSHD,Invesco S&P SmallCap Hi Dividend Low Vol ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XSW,SPDR S&P Software & Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XSLV,Invesco S&P SmallCap Low Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XSOE,WisdomTree EmMkts ex-Stt-Ownd EntrprsETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XSPY,SPY Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XSHQ,Invesco S&P SmallCap Quality ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

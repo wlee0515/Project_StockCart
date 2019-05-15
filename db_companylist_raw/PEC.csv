@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IX2.SGP,PEC Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8571
+KTH,Corts Trust For Peco Energy Capital Trust III,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PECAX,JPMorgan Intrepid Mid Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PECFX,PIMCO RAE Emerging Markets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PECD,Pet Ecology Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PECN,Photoelectron Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+C9Q.SGP,Sinostar PEC Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2400
+PEC.AUS,Perpetual Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222
+A14N86.FRK,PECULIUM GLOBAL SELECT,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1875
+41S.FRK,Sinostar PEC Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1250

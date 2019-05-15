@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCC,Churchill Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCCL,China Ceramics Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCCCF,First Vanadium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCCX,Center Coast Brookfield MLP Focus C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCAX,Center Coast Brookfield MLP Focus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCNX,Center Coast Brookfield MLP Focus Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCGY,China Communications Construction Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCMX,Capital Group CA Core Municipal,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCIKX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCCGF,China Communications Construction Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

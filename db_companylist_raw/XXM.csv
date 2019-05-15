@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XXMMF,Ximen Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XXM.TRT,First Asset Mstar US Value ETF CADH Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XXM-B.TRT,First Asset Morningstar US Value Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

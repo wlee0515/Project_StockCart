@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FICO,Fair Isaac Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+FRI.BER,"FAIR ISAAC CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+FRI.FRK,Fair Isaac Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3077
+0TIQ.LON,Fair Isaac Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3077
+FRI.STG,Fair Isaac Corp. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857

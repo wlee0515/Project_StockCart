@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JXR.PAR,Archos S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+JXRBS.PAR,ARCHOS BSAR 2018,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+JXRDS.PAR,ARCHOS DS,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455

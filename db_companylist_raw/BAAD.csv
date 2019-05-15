@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BWB.FRK,Baader Bank Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+BWB.FRK,Baader Bank Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+BWB.BER,BAADER BANK AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+BWB.DUS,BAADER BANK AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+BWB.HAM,BAADER BANK AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+BWB.MUN,BAADER BANK AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2353
+BWB.STG,Baader Bank AG Inhaber-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABX,Barrick Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ABXCX,AB Tax-Managed International C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABXZX,AB Tax-Managed International Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABXAX,AB Tax-Managed International A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABXBX,AB Tax-Managed International B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABX.TRT,Barrick Gold Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ABX.AUS,Australian Bauxite Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ABX.ARG,Barrick Gold Corporation,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+ABX.SWI,Barrick Gold Corporation,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667

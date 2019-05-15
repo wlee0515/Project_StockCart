@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSFDF,NXT Energy Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFBX,Natixis Sustainable Future 2015 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFMX,Natixis Sustainable Future 2060 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFLX,Natixis Sustainable Future 2055 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFFX,Natixis Sustainable Future 2030 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFJX,Natixis Sustainable Future 2045 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFGX,Natixis Sustainable Future 2035 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFKX,Natixis Sustainable Future 2050 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFEX,Natixis Sustainable Future 2025 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSFHX,Natixis Sustainable Future 2040 N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

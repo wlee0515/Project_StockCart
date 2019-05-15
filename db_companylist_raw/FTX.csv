@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTXD,First Trust Nasdaq Retail ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXL,First Trust Nasdaq Semiconductor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXO,First Trust Nasdaq Bank ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXN,First Trust Nasdaq Oil & Gas ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXH,First Trust Nasdaq Pharmaceuticals ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXG,First Trust Nasdaq Food & Beverage ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXR,First Trust Nasdaq Transportation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXP,Foothills Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTXBRX,First Trust Combined Srs 292 In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

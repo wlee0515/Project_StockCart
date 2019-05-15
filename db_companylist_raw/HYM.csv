@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYMTF,Hyundai Motor Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYMB,SPDR Nuveen S&P High Yield Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMAX,Lord Abbett High Yield Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMLF,Hyundai Motor Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMFX,Lord Abbett High Yield Municipal Bond F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMQX,Lord Abbett Short Dur Hi Yield Muni Bd F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMCX,Lord Abbett High Yield Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMOX,Lord Abbett High Yield Municipal Bond F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HYMTX,Lord Abbett High Yield Municipal Bond T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

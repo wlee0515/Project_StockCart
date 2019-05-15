@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8425.AUS,Loftus Peak Global Disruption Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LOH2.HAM,LOF-CO.EU.SM.+MI.LE. AP,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+160416.SHZ,Hua An S&P Global Oil Index LOF,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3333
+160635.SHZ,Penghua Fund Management - CSI Health Care LOF Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3333
+162108.SHZ,Golden Eagle Asset Management Co - Yuansheng Bond Securities Investment Fund LOF,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2400
+LOFAINVERSIO.BCL,Lofa Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765
+LOFTUSPEAKGL.AUS,Loftus Peak Global Disruption Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1622
+LOH2.DUS,LOF-CO.EU.SM.+MI.LE. AP,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1132
+F000001YKG.BCL,Lofa Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.0723

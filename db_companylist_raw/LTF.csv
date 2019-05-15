@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTFOX,Lord Abbett Affiliated F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LTFAX,Columbia Acorn Select A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFD,Littlefield Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFDX,Principal LifeTime 2055 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFSX,Principal LifeTime 2055 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFCX,Columbia Acorn Select C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFGX,Principal LifeTime 2055 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFLX,Principal LifeTime 2055 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFIX,Principal LifeTime 2055 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTFPX,Principal LifeTime 2055 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WZEB.FRK,UBS (Lux) Equity Fund - Small Caps USA (USD),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+WZEB.BER,UBS(L)EQ.-S.C.US DL P-ACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WZEB.DUS,UBS(L)EQ.-S.C.US DL P-ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+WZEB.HAM,UBS(L)EQ.-S.C.US DL P-ACC,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WZEB.MUN,UBS(L)EQ.-S.C.US DL P-ACC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGMDF,Digital Domain Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+DOMAX,Domini Impact International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+DCL.AUS,DomaCom Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4211
+0547.HKG,Digital Domain Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+DHG.AUS,Domain Holdings Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2581
+3DH.FRK,Domain Holdings Australia Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+F00000VYW9.MIL,CA Vita Progetto Domani 2015,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2500
+CAVITAPROGET.MIL,CA Vita Progetto Domani 2015,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2286
+F000001V0X.MIL,Helvetia Domani - Azionario,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2222

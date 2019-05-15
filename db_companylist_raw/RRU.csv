@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRU.STG,Rolls Royce Holdings PLC Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+RRU.BER,ROLLS ROYCE HLDGS LS 0.20,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RRU.FRK,Rolls-Royce Holdings plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RRU.DUS,ROLLS ROYCE HLDGS LS 0.20,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+RRU.HAN,ROLLS ROYCE HLDGS LS 0.20,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+RRU.HAM,ROLLS ROYCE HLDGS LS 0.20,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+RRU.MUN,ROLLS ROYCE HLDGS LS 0.20,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RRU1.FRK,Rolls-Royce Holdings plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

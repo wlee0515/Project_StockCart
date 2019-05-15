@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CDPYF,Canadian Apartment Properties Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDP.AUS,Carindale Property Trust,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+CDP.FRK,Cooper Energy Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CDP.DUS,Cooper Energy Limited,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNOW,NOW Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DTNOY,DNO ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DTNOF,DNO ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0MHP.LON,DNO ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NK1A.BER,"DNO ASA A  NK -,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NK1A.MUN,"DNO ASA A  NK -,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+NK1A.STG,"DNO ASA Navne-Aksjer A NK -,25",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+DNO.FRK,DENSO Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

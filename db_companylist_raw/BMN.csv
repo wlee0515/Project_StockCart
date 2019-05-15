@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMNM,Bimini Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BMNIX,Baird Core Intermediate Municpl Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMNSX,Baird Core Intermediate Municpl Bd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMN.LON,Bushveld Minerals Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BMN.AUS,Bannerman Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+BMN.FRK,"B+M EUROP.VAL.RET.LS -,10",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BMNINTERSGAR.BCL,Sabadell Garant?a Extra 18 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+ES0114544036.BCL,BMN Horizonte 2020 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+ES0138082005.BCL,BMN Inter?s Garantizado 10 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1875

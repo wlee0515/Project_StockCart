@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGROX,Emerald Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRIX,Fidelity Growth & Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRAX,Franklin Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRTX,Fidelity Mega Cap Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRRF,Fingerprint Cards AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FGROF,Firstgroup plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRKCX,FT 7675: Technology Dividend Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGRINX,First Trust GNMA Reinvestment I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGRJNX,The First Trust GNMA Reinvestme,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGREX,Invesco Global Real Estate R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

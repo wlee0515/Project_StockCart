@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASWRF,Gungnir Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASWN.SWI,Asmallworld AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+ASW.AUS,Advanced Share Registry Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000

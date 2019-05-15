@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MULC-B.TRT,Manulife Multifactor US Lrg Cap ETF UnH,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7273
+MULC.TRT,Manulife Multifactor US Lrg Cap ETF H,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6154

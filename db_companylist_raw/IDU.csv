@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDU,iShares US Utilities ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IDUSPX,U.S. Defense Portfolio 2018-4 (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDUP.LON,iShares US Property Yield ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IDU.MEX,iShares US Utilities ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+IDUS.LON,iShares S&P 500 ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

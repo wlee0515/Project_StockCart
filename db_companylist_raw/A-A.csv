@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUGBPA.SWI,UBS MSCI EMU hd to GBP A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.2609
+JPGBPA.SWI,UBS MSCI Japan hd to GBP A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.2000
+USGBPA.SWI,UBSETF MSCI USA hd GBP A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1935
+MDBA.FRK,UBS ETF Sust Devpmt Bk Bds (USD) A-acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1935
+XAMC.BER,A-A.I.US C. UCITSDLA,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1935
+MDBUA.SWI,UBS ETF Sust Devpmt Bk Bds (USD) A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1818
+SHEMC.SWI,UBS ETF JPM USD EM Dvrs Bd1-5H CHF A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1818
+USAUSW.SWI,UBS ETF MSCI USA (USD) A-acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1395

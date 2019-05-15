@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZCPA.MEX,BNMCP A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+HZCP1A.MEX,Horizonte Banamex Seis SA de CV F.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+HZCP3A.MEX,BNMFIBR A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+HZCOBB0.MEX,BNMCOB+ B0-E,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+HZCPC0-B.MEX,IMPULSORA DE FONDOS BANAMEX SA ,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+HZCP1M0-B.MEX,"Fondo Administrado 2, S.A. de C.V., F.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZCREB1-C.MEX,"Fondo Administrado 8, S.A. de C.V., F.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZCREA.MEX,"Fondo Administrado 8, S.A. de C.V., F.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZCREB2-C.MEX,IMPULSORA DE FONDOS BANAMEX SA ,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZCREC0-A.MEX,"Fondo Administrado 8, S.A. de C.V., F.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000

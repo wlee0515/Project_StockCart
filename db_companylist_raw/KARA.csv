@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTLKF,PT Lippo Karawaci Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+LPKR.JKT,PT Lippo Karawaci Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3333
+0IQC.LON,Petar Karaminchev AD,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333
+PAT0002AU.AUS,Ironbark Karara Australian Small Comp,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3200
+LK4B.BER,LIPPO KARAWACI TBK RP 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+LK4B.MUN,LIPPO KARAWACI TBK RP 100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759
+PKTEA.NSE,The Peria Karamalai Tea and Produce Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWPN.FRK,Hunter Oil Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RWPN.BER,HUNTER OIL CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000NASP.TRT,IG Core Portfolio Income bal B-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2286
+F00000NASN.TRT,IG Core Portfolio Income Focus B-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2162
+F00000NASR.TRT,IG Core Portfolio Balanced B-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2051
+F00000NAST.TRT,IG Core Portfolio Balanced Gr B-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F00000NASV.TRT,IG Core Portfolio Growth B-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951

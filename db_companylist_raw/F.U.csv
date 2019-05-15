@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+003S.DUS,WISDOMTREE F.U.S.H.Y.C.BD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+ETL0.STG,L&G-L&G LOIM EM L.G.Bd F.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+ETL3.STG,L&G-L&G LOIM Gl.Gov.Bd F.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

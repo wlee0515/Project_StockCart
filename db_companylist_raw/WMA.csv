@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMAT.LON,SPDR MSCI World Materials ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+WMAR.BER,WESTWING GROUP  INH. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WMAT.AMS,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI World Materials UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+WMAT.SWI,SPDR MSCI World Materials ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

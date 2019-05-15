@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KRE,SPDR S&P Regional Banking ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KREF,KKR Real Estate Finance Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KRED,KonaRed Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KRBF,Kreido Biofuels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KREVF,Keppel REIT,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

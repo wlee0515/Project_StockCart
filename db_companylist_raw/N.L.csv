@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APG.AUS,Austpac Resources N.L.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+LKE.AUS,Lake Resources N.L.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+MTB.AUS,Mount Burgess Mining N.L.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3158
+IQR.BER,DART MINING N.L.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+LK1.FRK,Lake Resources N.L.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+PUB.STG,Pancontinental Oil & Gas N.L. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+RNF.HAM,METEORIC RESOURCES N.L.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+TJR.BER,TAWANA RESOURCES N.L,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+TN4.BER,PRODIGY GOLD N.L.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+TQM.STG,TANAMI GOLD N.L. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

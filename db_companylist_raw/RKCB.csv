@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RKCB.HAN,RAIFF.-ENERG.-AKT.(R)RVTS,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.8000
+RKCB.BER,RAIFF.-ENERG.-AKT.(R)RVTS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+RKCB.DUS,RAIFF.-ENERG.-AKT.(R)RVTS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+RKCB.HAM,RAIFF.-ENERG.-AKT.(R)RVTS,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+RKCB.MUN,RAIFF.-ENERG.-AKT.(R)RVTS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+RKCB.STG,Raiffeisen-Energie-Aktien (R) I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+RKCB.FRK,Raiffeisen-Energie-Aktien,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

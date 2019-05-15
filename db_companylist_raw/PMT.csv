@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMT,PennyMac Mortgage Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PMTS,CPI Card Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PMT-PA,PennyMac Mortgage Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMT-PB,PennyMac Mortgage Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMTYF,Playmates Toys Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMTAX,PIMCO Mortgage-Backed Securities Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMTIX,Principal LifeTime 2030 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMTPX,PIMCO Total Return II I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMTGX,PIA MBS Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PMTBX,Putnam MN Tax Exempt Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

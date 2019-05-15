@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HKCVF,HK Electric Investments and HK Electric Investments Limited Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HKC.FRK,Hongkong Chinese Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+H8CC.FRK,HKC (Holdings) Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+0190.HKG,HKC (Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+0248.HKG,HKC International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+HKC.BER,HK CHINESE  HD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+H8CC.STG,HKC (Holdings) Ltd. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

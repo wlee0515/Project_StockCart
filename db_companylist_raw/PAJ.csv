@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAJZX,PGIM Global Absolute Return Bond Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAJQX,PGIM Global Absolute Return Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAJCX,PGIM Global Absolute Return Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAJRX,T. Rowe Price Target 2025 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAJAX,PGIM Global Absolute Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAJA.STG,GLINTT-Gl.Intellig.Technol.SA A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ALFPC.PAR,Fountaine Pajot SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+PAJA.BER,"GLINTT-GL.IN.T.NAM.EO-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+BOZANOPAJUCA.SAO,SULAMERICA PAJUCARA FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENT,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3333

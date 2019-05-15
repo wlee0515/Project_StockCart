@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDXG,MiMedx Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MDXBX,T. Rowe Price MD Tax-Free Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MDXL,MediXall Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MDXHF,MedX Health Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXDHF,MDxHealth SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDXX,Medex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDXH.BRU,MDxHealth SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6000
+MDX.TRV,MedX Health Corp,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000

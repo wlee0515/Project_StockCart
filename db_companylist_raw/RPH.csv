@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPHIX,RiverPark Short Term High Yield Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPHYX,RiverPark Short Term High Yield Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPHA.STG,Anglo American Platinum Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RPH.BAK,Ratchaphruek Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+RPH1.STG,Anglo American Platinum Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+RPHA.BER,"ANGLO AMERN PLATIN.RC-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+RPHA.MUN,"ANGLO AMERN PLATIN.RC-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+RPHA.FRK,Anglo American Platinum Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+RPH1.BER,ANGLO AMER.PL. SP.ADR 1/6,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+RPH-R.BAK,Ratchaphruek Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

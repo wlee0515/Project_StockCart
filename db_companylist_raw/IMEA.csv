@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMEA.LON,iShares MSCI Europe ETF EUR Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+IMEA.SWI,iShares MSCI Europe ETF EUR Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+IMEAN.MEX,ISHARES III PLC CORE MSCI EUROP,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

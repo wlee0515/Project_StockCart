@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8692.TOK,DSB Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+DSBFX,Domini Impact Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSBIX,Domini Impact Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DSB.PAR,Lyxor Bund Daily -2x Inverse ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+DSBP.JOH,Discovery Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3750

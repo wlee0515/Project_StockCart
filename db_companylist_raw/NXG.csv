@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NXGN,NextGen Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NXGWF,Next Green Wave Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LBHRF,NxGold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NXGRF,NEX Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXGPF,NEXT plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXGM,NexGen Mining Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXGPY,NEXT plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXGA,Next Galaxy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NXG.LON,NEX Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+NXN.TRV,NxGold Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4286

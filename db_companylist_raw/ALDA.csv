@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALDAX,Columbia Limited Duration Credit A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BUDULAQUEALD.BCL,Budulaque Aldama SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+ALDAR.PAR,Damartex,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4211
+F000001XXO.BCL,Budulaque Aldama SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3158
+ALDALINVERSI.BCL,Aldal Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3077
+F00000VYO9.BCL,Aldal Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963

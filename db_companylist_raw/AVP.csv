@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVP,Avon Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AVPAX,American Beacon Small Cp Val Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AVPIX,American Century VP Value - Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPI,AVP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPUX,American Century VP Ultra Fund ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPSX,American Century VP Ultra Fund ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPGX,American Century VP Income & Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPFF,Avcorp Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPEX,ALPS/Red Rocks Listed Private Eq III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVPVX,American Century VP Value - Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

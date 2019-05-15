@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GVDNY,Givaudan SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GVDBF,Givaudan SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDLX,Federated Global Strategic Value Dividend R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDI,"Golden Valley Development, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDSX,Federated Global Strategic Value Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDCX,Federated Global Strategic Value Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDIX,Federated Global Strategic Value DivInst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVDAX,AllianzGI Retirement 2025 Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

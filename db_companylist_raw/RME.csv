@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RMED,Ra Medical Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RMEAX,Aspiriant Risk-Managed Equity Allc Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RMEBX,American Funds American Mutual R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMETF,Rackla Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RMEIX,Aspiriant Risk-Managed Global E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMES,Red Metal Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RME.TRT,Rocky Mountain Dealerships Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

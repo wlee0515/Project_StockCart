@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDWD.FRK,X MSCI World ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+XDWD.SWI,X MSCI World ETF 1C,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.8000
+XDWD.LON,X MSCI World ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+XDWD.BER,X(IE)-MSCI WORLD 1C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XDWD.FRK,Xtrackers (IE) Public Limited Company - Xtrackers MSCI World UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XDWD.DUS,X(IE)-MSCI WORLD 1C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XDWD.MIL,X MSCI World ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+XDWD.MUN,X(IE)-MSCI WORLD 1C,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XDWD.STG,Xtr.(IE) - MSCI World Registere,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

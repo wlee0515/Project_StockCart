@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+019180.KOR,THN Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.8571
+THNS,Thinspace Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THNUY,Thanachart Capital Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THNYX,Thornburg NY Intermediate Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THNMX,Thornburg NM Intermediate Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THNDX,Thornburg NM Intermediate Municipal D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THNIX,Thornburg NM Intermediate Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THNK.TRT,Coincapital STOXX B.R.AI.N. ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+THN.BER,TECHNOPOLIS PLC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+THN.FRK,Technopolis Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333

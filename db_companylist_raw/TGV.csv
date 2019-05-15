@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGVIX,Thornburg International Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVAX,Thornburg International Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVOX,TCW Relative Value Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVFX,Touchstone Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVYX,Touchstone Growth Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVVX,Touchstone Growth Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVCX,Touchstone Growth Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVNX,TCW Relative Value Mid Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVRX,Thornburg International Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGVSF,Tryg A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

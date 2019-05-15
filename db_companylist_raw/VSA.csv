@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSAT,Viasat Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VSAGX,VALIC Company I Small Cap Agrsv Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSA2.BER,VALEO SA INH.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VSA2.FRK,Valeo SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VSA2.DUS,VALEO SA INH.  EO 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+VSA2.MUN,VALEO SA INH.  EO 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+VSA2.STG,Valo S.A. Actions Port. EO 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

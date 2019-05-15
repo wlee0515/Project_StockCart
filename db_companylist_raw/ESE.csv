@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESE,ESCO Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ESEA,Euroseas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESES,Eco-Stim Energy Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESEIX,Eaton Vance Atlanta Capital Sel Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESEAX,Eaton Vance Atlanta Capital Sel Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESECX,Eaton Vance Atlanta Capital Sel Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESERX,Eaton Vance Atlanta Capital Sel Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESG.LON,eServGlobal Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ESEA.DUS,BNPPEFR-S+P 500 UETF DDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ESE.AUS,eSense-Lab Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000

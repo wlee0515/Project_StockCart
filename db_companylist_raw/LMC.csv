@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMCNF,Leagold Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GMCRX,LMCG Global MultiCap Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMCJX,Miller Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMCKX,Miller Income FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMCIX,LMCG Global MultiCap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMCCX,Lord Abbett Mid Cap Stock C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GMNIX,LMCG Global Market Neutral Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LMCMX,Miller Income IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LMCBX,Lord Abbett Mid Cap Stock B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ACWDX,AMG Managers LMCG Small Cap Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

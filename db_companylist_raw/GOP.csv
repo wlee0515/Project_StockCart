@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPRO,GoPro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOPH,Gopher Protocol Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MAGA,Point Bridge GOP Stock Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+GOPIX,Aberdeen China Opportunities Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOPRX,Aberdeen China Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOPAX,Aberdeen China Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOPCX,Aberdeen China Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+GOPSX,Aberdeen China Opportunities I/S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

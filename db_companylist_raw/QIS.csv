@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QISCX,Federated MDT Small Cap Core Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QISGX,Federated MDT Small Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QIS.TRV,Quorum Information Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+2352.TWN,Qisda Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.6667
+F00000TF73.LON,LF Prudential Japanese QIS Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+GB00B6VHRH73.LON,LF Prudential European QIS Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+QIS.BER,QUICKSTEP HLDGS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1765
+F00000TF76.LON,LF Prudential UK Growth QIS Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714
+GB00B92VF190.LON,LF Prudential UK Growth QIS Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714

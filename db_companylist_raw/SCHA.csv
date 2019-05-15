@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCHA,Schwab US Small-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+LOGOX,Scharf Multi-Asset Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SCHAX,QS Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+SCFLF,Schaeffler AG,Equity,United States,09:30,16:00,UTC-05,USD,0.4706
+LOGIX,Scharf Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+WRLDX,Scharf Global Opportunity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+LOGRX,Scharf Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+LOGBX,Scharf Multi-Asset Opportunity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1951

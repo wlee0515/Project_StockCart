@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CYSNF,C-Com Satellite Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CUBG,C-Cube Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CMI.TRV,C-Com Satellite Systems Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2500
+D7F.STG,C-Com Satellite Systems Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+E570.FRK,C-CBK 10Y US-T.FUT.TR E.I,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+E571.FRK,C-CBK 10Y US-T.FU.S.T.E.I,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+E572.FRK,C-CBK US-T.BD FUT.S.T.E.I,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+E572.DUS,C-CBK US-T.BD FUT.S.T.E.I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+E571.DUS,C-CBK 10Y US-T.FU.S.T.E.I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+E573.DUS,C-CBK US-T.BD FU.D.SH.T.I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1935

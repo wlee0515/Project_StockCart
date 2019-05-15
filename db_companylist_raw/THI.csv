@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FITB,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TPRE,Third Point Reinsurance Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNSR,Global X Internet of Things ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FITBI,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+THISX,T. Rowe Price Health Sciences I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+TAVFX,Third Avenue Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+TAREX,Third Avenue Real Estate Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+THNS,Thinspace Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+THIIX,Thornburg Limited Term Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TFECY,Thin Film Electronics ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

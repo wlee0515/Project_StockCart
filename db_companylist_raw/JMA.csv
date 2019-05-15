@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMARX,PGIM Moderate Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMAT.LON,Johnson Matthey Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+JMART-R.BAK,Jay Mart Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+JMAS.JKT,PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+JMA-EQ.NSE,JULLUNDUR MOTOR AG,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+5817.TOK,JMACS Japan Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+JMA.NSE,Jullundur Motor Agency (Delhi) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+JMART.BAK,Jay Mart Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+F00000N5E2.SAO,JMALUCELLI TERRAZUL FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1250

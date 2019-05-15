@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRUTF,Sproutly Canada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRUP,Sirrus Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRUXF,Sirius Minerals Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRUXY,Sirius Minerals Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRUS,Stratus Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRUIX,Meeder Spectrum Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRUAX,Meeder Spectrum Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRU-UN.TRT,SmartCentres Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+SRU.FRK,Standard Motor Products Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SRU.BER,STAND. MOTOR PROD.  DL 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000

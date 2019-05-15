@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NHA,Nuveen Municipal 2021 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NHAWF,North Arrow Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NHLE,Nhale Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

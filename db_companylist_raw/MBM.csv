@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBRTF,MBMI Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBMSX,MFS MS Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBMAX,MFS MA Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBMDX,MFS MD Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBM.AUS,Mobecom Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MBR-H.TRV,MBMI Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+JEK2.BER,MBMI RESOURCES INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+MBM.FRK,Marlin Business Services Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+5983.KLA,MBM Resources Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2727

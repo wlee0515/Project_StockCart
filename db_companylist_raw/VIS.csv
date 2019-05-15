@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIS,Vanguard Industrials ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+V,Visa Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VSH,Vishay Intertechnology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VTGN,VistaGen Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EYE,National Vision Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VC,Visteon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+VST,Vistra Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VSTO,Vista Outdoor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VGZ,Vista Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+VPG,Vishay Precision Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSL,Global Ship Lease Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GSL-PB,Global Ship Lease Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSLC,Goldman Sachs ActiveBeta US LgCp Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+GSLO,Go Solar USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GSLCX,Goldman Sachs Global Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSLIX,Goldman Sachs Large Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSLAX,Goldman Sachs Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSLPX,Goldman Sachs Tactical Tilt Overlay P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

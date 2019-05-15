@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GETB.LON,GetBusy Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+1H9.FRK,GetBusy Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+1H9.STG,Getbusy PLC Registered Shares L,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

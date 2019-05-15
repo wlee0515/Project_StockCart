@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNN,Lindsay Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LNNGF,Li Ning Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNNNY,LEONI AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNNNF,LEONI AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNNFF,LINE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LNN.STG,LENNAR CORP. Reg. Shares Cl. A ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+LNN.DUS,"LENNAR CORP.A  DL-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+LNN.FRK,Lennar Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LNN.BER,"LENNAR CORP.A  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LNN.MUN,"LENNAR CORP.A  DL-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

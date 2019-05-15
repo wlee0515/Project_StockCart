@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SE-ED.BAK,SE-Education Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+SE-ED-R.BAK,SE-Education Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+SE-R.BAK,SiamEast Solutions Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4615

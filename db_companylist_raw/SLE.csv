@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNBR,Sleep Number Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLEAX,State Farm Equity Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLEIX,State Farm Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSGOF,Stop Sleep Go Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLEBX,State Farm Equity B Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SLESX,Invesco Low Volatility Equity Yield R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+SCCAF,Sleep Country Canada Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ZZZ.TRT,Sleep Country Canada Holdings Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857
+EVE.LON,eve Sleep Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+SLE.STG,Spark Energy Inc. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1622

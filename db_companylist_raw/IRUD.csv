@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRUDEINVERSI.BCL,Iru de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.7273
+IRUD.DUS,ISHS TR.-CORE GRO.ALL.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4211

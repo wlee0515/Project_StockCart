@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEUIX,SEI Large Cap Value I (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEUPX,Guggenheim StylePlus - Mid Growth P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEU3.LON,ETFS 3x Short EUR Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SEUC.LON,SPDR Blmbrg Bcly 0-3 Yr EUR Corp Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SEUP.LON,ETFS Foreign Exchange Limited - ETFS Short EUR Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SEUR.LON,ETFS Short EUR Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SEUB.STG,ETFS Foreign Exchange Ltd. Dt.Z,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+SEUC.MIL,SPDR Blmbrg Bcly 0-3 Yr EUR Corp Bd ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+SEUC.PAR,SPDR Blmbrg Bcly 0-3 Yr EUR Corp Bd ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

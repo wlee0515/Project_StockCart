@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QTLLX,AQR TM Large Cap Multi-Style I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTLNX,AQR TM Large Cap Multi-Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTLRX,AQR TM Large Cap Multi-Style R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTL.BER,LUMIBIRD S.A. INH.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+QTL.STG,Lumibird S.A. Actions Port. EO ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+112925.BSE,Axis Income Saver Qtly Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069
+120479.BSE,Axis Income Saver Dir Qtly Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069
+F00000IRGJ.BSE,Axis Income Saver Qtly Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818
+F00000PFE6.BSE,Axis Income Saver Dir Qtly Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

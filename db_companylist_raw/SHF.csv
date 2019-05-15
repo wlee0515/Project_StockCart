@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHFVX,ClearBridge All Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHF.FRK,SNP Schneider-Neureither & Partner SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SHF.BER,SNP SCHNEID.-NEUREIT.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SHF.FRK,SNP Schneider-Neureither & Partner SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SHF.DUS,SNP SCHNEID.-NEUREIT.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SHF.HAM,SNP SCHNEID.-NEUREIT.O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+SHF.MUN,SNP SCHNEID.-NEUREIT.O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SHF.STG,SNP Schneider-Neureither & Partner SE,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SHFB.FRK,SNP SCHNEID.-NEUREIT. BZR,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SHFB.BER,SNP SCHNEID.-NEUREIT. BZR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

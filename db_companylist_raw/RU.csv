@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RUBY,Rubius Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RUN,Sunrun Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RUBI,the Rubicon Project Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RUSL,Direxion Daily Russia Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+RMBL,RumbleON Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RUTH,Ruth's Hospitality Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RSHN,RushNet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RUSS,Direxion Daily Russia Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+RTEC,Rudolph Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYPA.FRK,Multi Units Luxembourg - Lyxor MSCI World Consumer Discretionary TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYPA.FRK,Lyxor MSCI World Cnsmr Disc TR ETF C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+LYPA.DUS,MUL-LYX.MSCI WCD U.ETFCEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LYPA.HAM,MUL-LYX.MSCI WCD U.ETFCEO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+LYPA.STG,MUL-LYX.MSCI W.Con.Dis.UC.ETF I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LYPA.MUN,MUL-LYX.MSCI WCD U.ETFCEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

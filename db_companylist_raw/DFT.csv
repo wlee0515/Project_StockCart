@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFTCX,DFA T.A. US Core Equity 2 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFTVX,DFA US Targeted Value R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFTSX,DFA Tax-Managed US Small Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTWX,DFA TA World ex US Core Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTPX,DFA US Targeted Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTIX,DFA Intermediate-Term Municipal Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTC,Defentect Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTEX,DFA Intermediate-Term Extnd Qlty I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTS,Defense Technology Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DFTK.FRK,DF Deutsche Forfait AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

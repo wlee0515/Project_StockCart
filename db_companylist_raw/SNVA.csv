@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNVA.FRK,Sin Heng Heavy Machinery Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SNVA.STG,Sin Heng Heavy Machinery Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SNVA.BER,SIN HENG HEAVY MACH.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

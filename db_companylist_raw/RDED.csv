@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDED.FRK,RELX PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+RDED.BER,"RELX ADR/1/4  LS-,144397",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+RDED.STG,Relx PLC Reg.Shs(Sp.ADRs)/1/4LS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

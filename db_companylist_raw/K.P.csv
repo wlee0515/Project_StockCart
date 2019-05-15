@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KPRMILL.BSE,K.P.R. Mill Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+KPEL.BSE,K.P. Energy Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3077
+532889.BSE,K.P.R. Mill Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3077
+KPRMILL.NSE,K.P.R. Mill Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2727

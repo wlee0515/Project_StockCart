@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FINANCIERAIN.BCL,Financiera Inbay SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.7273
+INBR.TAV,Inbar Group Finance Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3158
+F000001Y4G.BCL,Financiera Inbay SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3077

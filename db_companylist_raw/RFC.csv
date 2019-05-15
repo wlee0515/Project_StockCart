@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RFCS,Refocus Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RFCYX,Russell Inv Strategic Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RFCI,RiverFront Dynamic Core Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RFCTX,Russell Inv Strategic Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFCCX,Russell Inv Strategic Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RFCEX,Russell Inv Strategic Bond E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

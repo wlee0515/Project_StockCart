@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HAHAX,Hartford High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHIX,Hartford High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHSX,Hartford High Yield R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHCX,Hartford High Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHFX,Hartford High Yield F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHTX,Hartford High Yield R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHHX,Harbor Target Retirement 2050 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHRX,Hartford High Yield R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHYX,Hartford High Yield Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HAHO-L.TAV,Hachsharat Hayishuv Hotels Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000

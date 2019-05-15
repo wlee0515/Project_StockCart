@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWGL,AWG Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AWGIX,CIBC Atlas All Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AWGI,Ambient Water Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AWG.FRK,Asbury Automotive Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AWG.STG,ASBURY AUTOMOTIVE GROUP INC. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AWG.SGP,AEI Corporation Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667

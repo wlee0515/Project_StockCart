@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNE,Blackrock Muni New York Interme,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MNELF,Mission NewEnergy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MNESX,Manning & Napier Equity Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNECX,Manning & Napier Pro-Blend Extnd Term R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNEIX,Manning & Napier Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNE8.BER,BNYM-BOST.CO.US OPP.EOACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MNEF.DUS,BNY M.I.-N.M.-A.B.LS INC.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+MNED.FRK,BNY M.I.-NE.GL INC.LS INC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MNE1.DUS,BNY M.I.-NEWT.C.EU.EO ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+MNE1.HAM,BNY Mellon Investment Funds - Newton Continental European Fund,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2755.KLA,FCW Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+FCWTRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCWYNX,FT 6373: Prime Income and ETF P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCWRX,Templeton China World R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCWTEX,FT 4992: Balanced Income Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCWKMX,FT 7240: Dorsey Wright Relative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCWBRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCW-B.TRT,FIRST ASSET CAMBRIDGE GLOBAL DI,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+FCW3.STG,Alerion Clean Power S.p.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+FCW.TRT,First Asset Cmbrdg Glbl Dividend ETF CAD H,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3158

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMTY,ProShares Decline of the Retl Store ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EMTIX,Transamerica Emerging Markets Debt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EMTL,SPDR DoubleLine Emerg Mkts Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+EMTTX,Transamerica Emerging Markets Debt T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMTGX,Eaton Vance Tx-Mgd Growth 1.1 B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMTAX,Transamerica Emerging Markets Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMTCX,Transamerica Emerging Markets Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

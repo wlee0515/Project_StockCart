@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBPO,China Biologic Products Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBPX,Continental Building Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBPSX,Virtus Seix Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CBPI,China Botanic Pharmaceutical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBPCX,American Funds Moderate Gr & Inc 529-C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBPRX,Pioneer Classic Balanced R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIFFY,PT Indofood CBP Sukses Makmur Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICBP.JKT,PT Indofood CBP Sukses Makmur Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+CBP.LON,Curtis Banks Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500

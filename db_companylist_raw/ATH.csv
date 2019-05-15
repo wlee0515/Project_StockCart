@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATH,Athene Holding Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LULU,Lululemon Athletica Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATHX,Athersys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATNX,Athenex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATHN,athenahealth Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATHM,Autohome Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATHOF,Athabasca Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATHIX,American Century Heritage I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATHAX,American Century Heritage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ATHC,Accelerated Technologies Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

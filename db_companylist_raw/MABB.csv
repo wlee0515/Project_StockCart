@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MABB.FRK,Mitchells & Butlers plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+MABB.BER,"MITCHELLS+BUT. LS-,085416",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+MABB.DUS,"MITCHELLS+BUT. LS-,085416",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

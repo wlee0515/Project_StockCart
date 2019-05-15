@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TM,Toyota Motor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TME,Tencent Music Entertainment Group,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TMUS,T-Mobile US Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TMO,Thermo Fisher Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TMV,Direxion Daily 20+ Yr Trsy Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+TMK,Torchmark Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TMF,Direxion Daily 20+ Yr Trsy Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TMDI,Titan Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TMST,TimkenSteel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TMFC,Motley Fool 100 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

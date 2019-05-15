@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAMA.LON,Gamma Communications plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+GMAA.LON,Gama Aviation Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+GAMA.JKT,PT Aksara Global Development Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+GAMABSOLUTER.AUS,GAM Absolute Return Bond Fund (AU),Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.5455
+G4MA.BER,GAMAX FDS-ASIA PAC.IN.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+G4MA.DUS,GAMAX FDS-ASIA PAC.IN.A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455
+G4MA.HAM,GAMAX FDS-ASIA PAC.IN.A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.5455
+G4MA.MUN,GAMAX FDS-ASIA PAC.IN.A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.5455
+G4MA.STG,Gamax Fds-Asia Pacific Inhaber-,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+G4MF.BER,GAMAX FDS-JUNIOR  INH.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636

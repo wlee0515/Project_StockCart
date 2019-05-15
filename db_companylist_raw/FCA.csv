@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCA,First Trust China AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FCAU,Fiat Chrysler Automobiles N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCAP,First Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCAMX,Franklin CA High Yield Municipal A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FCAL,First Trust California Muni Hi Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FCAKX,Fidelity Capital Appreciation K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCAVX,Franklin CA Tax Free Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCAN,First Trust Canada AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FCAGX,Fidelity Advisor Small Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCANX,Fidelity Advisor Asset Manager 30% C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

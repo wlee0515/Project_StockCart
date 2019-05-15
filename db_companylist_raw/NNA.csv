@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNA,Navios Maritime Acquisition Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NNADF,New Nadina Explorations Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NNA.TRV,New Nadina Explorations Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+NNA.FRK,MAGELLAN FINL GRP,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NNA.STG,Magellan Financial Group,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NNA.MUN,MAGELLAN FINL GRP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1595.TOK,NZAM ETF J-REIT Index,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+1596.TOK,NZAM ETF TOPIX Ex-Financials,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.1935

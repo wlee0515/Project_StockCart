@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLEX,Lilis Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LLEN,L & L Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LLESY,LendLease Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LLESF,LendLease Group Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LLEA.LON,ETFS 2x Daily Long Lead ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LLEA.MIL,ETFS 2x Daily Long Lead ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

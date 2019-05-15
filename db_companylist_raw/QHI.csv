@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QHI.MUN,"SHIMAO PPTY HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+QHI.FRK,Shimao Property Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QHI.STG,Shimao Property Holdings Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+QHI.BER,"SHIMAO PPTY HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

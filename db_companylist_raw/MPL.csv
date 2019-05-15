@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPLX,MPLX LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MPLDX,Morgan Stanley Inst Short Dur Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLCX,BNY Mellon Large Cap Stock M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLSX,MassMutual Premier Strat Emerg Mkts Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLRX,Morgan Stanley Inst Core PlsFxdInc IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLMX,BlackRock Short-Term Municipal K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLAX,Praxis International Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPLIX,Praxis International Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPL.LON,Mercantile Ports & Logistics Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MPL.AUS,Medibank Private Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPHTY,Hamamatsu Photonics K.K.,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+HPHTF,Hamamatsu Photonics K.K.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MSAH.TAV,Hamashbir 365 Holdings Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3636
+HAMAT.TAV,Hamat Group Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3333
+6497.TOK,Hamai Industries Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+6131.TOK,Hamai Company Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+6965.TOK,Hamamatsu Photonics K.K.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+9037.TOK,Hamakyorex Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+HMAM.TAV,Hamama Meir Trading (1996) Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2857
+300643.SHZ,Hamaton Automotive Technology Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1905

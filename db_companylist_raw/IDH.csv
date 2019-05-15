@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDHD,Invesco S&P Intl Dev Hi Dividend Low Vol ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IDHECX,Diversified Healthcare Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IDHQ,Invesco S&P International Dev Qual ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IDHEAX,Diversified Healthcare Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDHCX,Integrity Dividend Harvest C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDHCAX,Diversified Healthcare Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

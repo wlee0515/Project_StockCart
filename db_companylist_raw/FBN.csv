@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBNC,First Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBND,Fidelity Total Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FBNDX,Fidelity Investment Grade Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBNRX,Templeton Global Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBNSYX,FT 6764: 75/25 Strategic Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBNPOX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBNYRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBNAX,Fidelity Advisor Short-Term Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUSDFX,U.S. Defense Portfolio 2018-1 (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IUSDEX,U.S. Defense Portfolio 2017-4 (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IUSDSX,U.S. Defense Portfolio 2018-2 (,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IUSD.BER,ISHSII-MSCI WLD ISL.DLDIS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IUSD.DUS,ISHSII-MSCI WLD ISL.DLDIS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+IUSD.MUN,ISHSII-MSCI WLD ISL.DLDIS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+IUSD.STG,iShsII-MSCI Wld Islamic U.ETF R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+F00000U4K9.PAR,H2O Multiequities IUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3478
+FR0010930735.PAR,H2O Multibonds IUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077
+FR0011559590.PAR,H2O Multiequities IUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRAX,Social Reality Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRAFF,Sandfire Resources America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRAAX,SEI Real Return F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRAFX,Goldman Sachs Strategic Fac Allc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRAJ.JKT,PT Sejahteraraya Anugrahjaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+TGVSL.BSE,TGV SRAAC Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+SRA.TRV,Stria Lithium Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3000
+3817.TOK,SRA Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857

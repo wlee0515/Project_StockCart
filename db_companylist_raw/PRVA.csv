@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRVAX,T. Rowe Price Virginia Tax Free Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PRVA.DUS,PROVIDENT FIN.LS-17868339,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+PRVA.STG,Provident Financial PLC Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PRVA.FRK,Provident Financial plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+PRVA.BER,PROVIDENT FIN.LS-17868339,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

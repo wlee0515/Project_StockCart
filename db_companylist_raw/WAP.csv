@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAPSX,Western Asset Core Plus Bond IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAPAX,Western Asset Core Plus Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAPRX,Western Asset Core Plus Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAPCX,Western Asset Core Plus Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAPIX,Western Asset Core Bond FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WAPO.JKT,PT Wahana Pronatural Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

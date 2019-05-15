@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLLB.FRK,Trelleborg AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+TLLB.BER,TRELLEBORG B (FRIA) SK 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+TLLB.STG,TRELLEBORG AB Namn-Aktier B (fr,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

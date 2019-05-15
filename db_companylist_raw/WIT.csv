@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WIT,Wipro Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WITIX,Wells Fargo Intermediate Tax/AMT-Fr Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSACX,Touchstone Controlled Growth with Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WWTH,With Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CRUCF,"Colibri Resource Corporation, Prior to Reverse Merger with Canadian Gold Resources Ltd.",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+WITAX,Segall Bryant & Hamill Mun Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SPVM,Invesco S&P 500 Value With Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1429
+TSAAX,Touchstone Controlled Growth with Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0667

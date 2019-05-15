@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002054.SHZ,"Dymatic Chemicals,Inc.",Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2400
+38530129A.TWN,Manulife Glb Dym Ast Allt FoF TWD A ACC,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1765
+38530129B.TWN,Manulife Glb Dym Ast Allt FoF TWD B Inc,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+38530129C.TWN,Manulife Glb Dym Ast Allt FoF USD A ACC,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+MANULIFEGLBD.TWN,Manulife Glb Dym Ast Allt FoF TWD B Inc,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+TW000T2740A6.TWN,Manulife Glb Dym Ast Allt FoF TWD A ACC,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+TW000T2740B4.TWN,Manulife Glb Dym Ast Allt FoF TWD B Inc,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+TW000T2740C2.TWN,Manulife Glb Dym Ast Allt FoF USD A ACC,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1429
+MSOCOQ.MIL,MULTI STAR SICAV - AL-FA DYMANI,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1429

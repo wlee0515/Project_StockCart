@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GABLF,Gabriella's Kitchen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+603277.SHH,Yindu Kitchen Equipment Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2222
+5WG.SGP,Singapore Kitchen Equipment Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2051
+002084.SHZ,Guangzhou Seagull Kitchen and Bath Products Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1404

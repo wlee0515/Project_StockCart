@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBCP,Home Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HBCYF,HSBC Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCHGY,Coca-Cola HBC AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HBC.TRT,Hudson's Bay Company,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CCH.LON,Coca-Cola HBC AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+HBC1.FRK,HSBC Holdings plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3158
+HBC1.FRK,HSBC Holdings plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3158
+C0Q.BER,"COCA-COLA HBC  NA.SF 6,70",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+C0Q.DUS,"COCA-COLA HBC  NA.SF 6,70",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

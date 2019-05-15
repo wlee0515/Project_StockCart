@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WHG,Westwood Holdings Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WHGOF,White Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGLY,WH Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGSX,Westwood SmallCap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGIX,Westwood Income Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGRF,WH Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGLX,Westwood LargeCap Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGMX,Westwood SMidCap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGHX,Westwood Short Duration High Yield Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WHGPX,Westwood SMidCap Plus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

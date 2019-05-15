@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMG,The Scotts Miracle-Gro Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRTX,Mirati Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MGEN,Miragen Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MRGE,Mirage Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MEMI,Miracle Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MRZLF,Mirasol Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MRRMF,Miramont Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MIRXF,Serrano Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ESGMX,Mirova Global Sustainable Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ESGYX,Mirova Global Sustainable Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASKH,Astika Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASKDF,First Energy Metals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASKE,Alaska Pacific Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

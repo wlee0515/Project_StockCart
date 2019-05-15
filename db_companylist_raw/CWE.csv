@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWEN,Clearway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CWEN-A,Clearway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CWEB,Direxion Dly CSI CHN Itnet Bull 2X Shrs,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+CWEGF,Crew Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CWEG.LON,Amundi ETF MSCI World Energy UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QRTEA,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QRTEB,Qurate Retail Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QRT.LON,The Quarto Group Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+QRTE.VIE,Qurate Retail Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+F00000X75J.KOR,Kiwoom Qrtrbck Glb RoboAdv Bd Bal-FoF SP,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

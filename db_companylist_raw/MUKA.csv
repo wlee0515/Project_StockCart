@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUKANDENGG.BSE,Mukand Engineers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.8000
+1552.TOK,MUKAM Kokusai S&P500 VIX S/T Fut Index ETF,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.6154
+1561.TOK,MUKAM Kokusai S&P500 VIX M/T Fut Index ETF,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+500460.BSE,Mukand Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+MUKANDLTD.BSE,Mukand Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+MUKANDLTD.NSE,Mukand Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+MUKANDENGG.NSE,Mukand Engineers Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+MUKANDLTD-P1.NSE,MUKAND,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1818
+AT0000A0RMG6.VIE,MUKA Fund,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1818

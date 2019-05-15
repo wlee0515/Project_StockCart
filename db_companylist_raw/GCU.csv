@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCU.STG,Gresham Technologies PLC Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+F0GBR06ND5.BCL,Inversiones GCU SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+GCU.FRK,Gresham Technologies plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GCU.BER,"GRESHAM TECHNOLOG. LS-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+ES0155433032.BCL,Inversiones GCU SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

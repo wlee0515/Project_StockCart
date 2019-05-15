@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECH,iShares MSCI Chile Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SATS,EchoStar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ECHO,Echo Global Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECTE,Echo Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECHSX,Eaton Vance Worldwide Health Sci C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECHYX,Eaton Vance High-Yield Municipal Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECHCX,Equinox Chesapeake Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EGFHF,Echelon Financial Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ECHMX,Eaton Vance National Municipal Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ECHAX,Equinox Chesapeake Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609

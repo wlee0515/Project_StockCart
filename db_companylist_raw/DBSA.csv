@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBSA.BER,BANCO SANT.SPON.ADS/1 UTS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+DBSA.DUS,BANCO SANT.SPON.ADS/1 UTS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+DBSA.STG,Banco Santander (Brasil) S.A. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+DBSA.FRK,Banco Santander (Brasil) S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

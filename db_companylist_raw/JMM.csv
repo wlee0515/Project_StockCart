@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMM,Nuveen Multi-Market Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JMMYX,JPMorgan Multi-Manager Alternatives R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMMSX,JPMorgan Multi-Manager Alternatives I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMMRX,JPMorgan Multi-Manager Alternatives R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMMAX,JPMorgan Multi-Manager Alternatives A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMM.FRK,JM AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+JMM.BER,JM AB,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+JMM.STG,JM AB Namn-Aktier o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+JMMONEYMANAG.BSE,JM Money Manager Super Fr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMMONEYMGRRE.BSE,JM Money Mgr Reg Dl Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

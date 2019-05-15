@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDSB.LON,Royal Dutch Shell plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+RDSB.AMS,Royal Dutch Shell plc,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+RDSB.SWI,Royal Dutch Shell plc,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+RDSB.MEX,Royal Dutch Shell plc,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XADEX,Adams Diversified Equity Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XADCX,Ares Dynamic Credit Allocation ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XAD5.MIL,db Physical Gold ETC (EUR),ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XAD4.STG,DB ETC Index PLC,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XAD3.MIL,db Physical Platinum Euro Hedged ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XAD4.MIL,db Physical Palladium Euro Hedged ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XAD1.MIL,db Physical Gold Euro Hedged ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XAD1.STG,DB ETC PLC ETC Z15.06.60 XTR Ph,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XAD1.SWI,db Physical Gold Euro Hedged ETC,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XAD2.MIL,db Physical Silver Euro Hedged ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

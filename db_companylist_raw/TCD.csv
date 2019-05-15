@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TCDA,Tricida Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TCD.FRK,Teekay Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TCD.HAM,TEEKAY CORP.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+TCD.MUN,TEEKAY CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TCD.STG,Teekay Corp. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

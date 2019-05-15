@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHHYX,Stone Harbor High Yield Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHH.AUS,Shree Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+166402.SHZ,AXA SPDB Investment Managers Co. Ltd - AXA SPDB Rullian Shhksz Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6000
+7412.KLA,SHH Resources Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+SHH1.MUN,MAGNUS ENERGY GR.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SHH1.STG,Magnus Energy Group Ltd.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000
+SHHR.KLA,SHH RESOURCES HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2069
+169104.SHZ,Orient Red Ruiman Shhksz Mix Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667
+501307.SHH,GALAXY CSI SHHKSZ,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIBB,Hibbett Sports Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HB6.FRK,Hibbett Sports Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+HB6.STG,Hibbett Sports Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

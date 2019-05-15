@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVW,iShares S&P 500 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IVWIX,IVA Worldwide I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVWAX,IVA Worldwide A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVWFF,LeadFX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IVWCX,IVA Worldwide C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVW.MEX,iShares S&P 500 Growth ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

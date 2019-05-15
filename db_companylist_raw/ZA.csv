@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZAYO,Zayo Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZAGG,ZAGG Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZFGN,Zafgen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZLAB,Zai Lab Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZAAP,ZAP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZLDSF,Zalando SE,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ZAZA,ZaZa Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZDIVX,Zacks Dividend Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+ZSCIX,Zacks Small-Cap Core Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+ZABDFX,American Beacon Diversified Fun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

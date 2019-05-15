@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIADF,Kiadis Pharma N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INKP.JKT,PT Indah Kiat Pulp & Paper Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4444
+000270.KOR,Kia Motors Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2500
+KDS.AMS,Kiadis Pharma N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2400
+NVA6.STG,Kiatnakin Bank PCL Reg. Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+8079.KLA,Lee Swee Kiat Group Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2400
+LHTM.KLA,LEE SWEE KIAT GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2308
+IKP.FRK,PT Indah Kiat Pulp & Paper Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308
+IKP.BER,PT INDAH KIAT  RP 1000,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+IKP.MUN,PT INDAH KIAT  RP 1000,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000

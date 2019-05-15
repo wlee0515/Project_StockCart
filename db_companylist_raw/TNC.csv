@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNC,Tennant Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TNCA.JKT,PT. Trimuda Nuansa Citra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+298020.KOR,Hyosung TNC Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6000
+TNCS.KLA,TAN CHONG MOTOR HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+BRVTNC.MEX,B+RV TNC,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+BMERGOBTN.MEX,BMERGOB TNC,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+BMERGOBTNC.MEX,BMERGOB TNC,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2308

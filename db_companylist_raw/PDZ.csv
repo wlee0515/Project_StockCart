@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6254.KLA,PDZ Holdings Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+PDZ.AUS,Prairie Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+PDZ.LON,Prairie Mining Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+PDZH.KLA,PDZ HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3158

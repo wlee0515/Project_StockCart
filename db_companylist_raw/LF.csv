@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+093050.KOR,LF Corp.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.8000
+LFC,China Life Insurance Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LFIN,Longfin Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LFVN,LifeVantage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LFUS,Littelfuse Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LFRAX,Lord Abbett Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LFRFX,Lord Abbett Floating Rate F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LFER,Life On Earth Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LFMAX,LoCorr Macro Strategies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LFRIX,Lord Abbett Floating Rate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000

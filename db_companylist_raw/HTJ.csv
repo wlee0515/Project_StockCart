@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HTJ.FRK,HTC Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HTJ.BER,HTC CORP. GDR REG S/4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HTJ.STG,HTC Corp. Reg.Shares(GDRs Reg.S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

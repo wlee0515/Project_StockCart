@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUE,Nucor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NUEM,NuShares ESG Emerging Markets Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+NUESX,Northern US Quality ESG,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NUEC,NuEarth Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NUEVAPOLAR.SAN,Empresas La Polar S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3750
+F000001XZQ.BCL,Nuevo Goodwill SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2609

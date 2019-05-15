@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUSC,iShares ESG USD Corporate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SUSCO.BAK,Susco Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8000
+SUSC.LON,SPDR Blmbrg Bcly 0-3 Yr US Corp Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+SUSC.MIL,SPDR Blmbrg Bcly 0-3 Yr US Corp Bd ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+SUSC.SWI,SPDR Blmbrg Bcly 0-3 Yr US Corp Bd ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+SUSCO-R.BAK,Susco Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+PW8G.BER,INVESCO SUSCETF DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3478

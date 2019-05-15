@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMI,Cummins Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CPIX,Cumberland Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CMLS,Cumulus Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RASFP,RAIT Financial Trust 7.75% CUM PFD A,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+GMLPP,Golar LNG Partners LP 8.75% CUM PFD A,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RASFO,RAIT Financial Trust 8.375% CUM PFD B,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NS-PC,NuStar Energy L.P. 9.00% CUM PFD C,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+GDL-PC,The GDL Fund Series C Cumulativ,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+MLYCF,American CuMo Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+APRWF,Atlantic Power Preferred Equity Ltd. CUM RED PFD 1,Equity,United States,09:30,16:00,UTC-05,USD,0.1132

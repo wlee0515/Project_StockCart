@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEC,Jacobs Engineering Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JKHY,Jack Henry & Associates Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JACK,Jack in the Box Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JACTX,Janus Henderson Forty T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMVX,Jackson Square SMID-Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JACNX,Janus Henderson Contrarian D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JAMFX,Jacob Internet Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JFGI,Jacobs Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+JACCX,Janus Henderson Forty C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+JSCGX,Jacob Small Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

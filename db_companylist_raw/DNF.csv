@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNFGY,Dongfeng Motor Group Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DNFGF,Dongfeng Motor Group Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DNFRX,Dunham Floating Rate Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DNFGX,Dunham Focused Large Cap Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

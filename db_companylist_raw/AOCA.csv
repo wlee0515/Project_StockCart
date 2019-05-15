@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOCA.FRK,Aluminum Corporation of China Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+AOCA.BER,ALUMINUM CORP.OF ADR/25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AOCA.MUN,ALUMINUM CORP.OF ADR/25,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+AOCA.STG,Aluminum Corp. of China Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+F00000TY84.TRT,Manulife S2 Ideal Fidelity Inc Aocat Fd,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2105
+MANUVIES2RPR.TRT,Manulife S2 Ideal Fidelity Inc Aocat Fd,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860

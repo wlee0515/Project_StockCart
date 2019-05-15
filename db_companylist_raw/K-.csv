@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBRLF,K-Bro Linen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KBL.TRT,K-Bro Linen Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857
+0111.KLA,K-ONE TECHNOLOGY BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+5172.KLA,K-Star Sports Limited,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+K-R.BAK,Kingsmen C.M.T.I. Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+145270.KOR,K-TOP REITS co.Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1905
+KLIFESTYL.BSE,K-Lifestyle and Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1429

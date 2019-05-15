@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CZR,Caesars Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CZR.TRV,CruzSur Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+CZR.AUS,Coziron Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+CZR.FRK,CITIC Resources Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CZR.STG,Citic Resources Holdings Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CZR.BER,"CITIC RES.HLDGS  HD -,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

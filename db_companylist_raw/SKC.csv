@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+011790.KOR,SKC Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+SKCRX,DWS Enhanced Commodity Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SKC2.STG,Standard Bank Group Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SKC.AUS,SKYCITY Entertainment Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SKC2.MUN,"STD BK GRP  RC -,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SKC.BSE,Sri Krishna Constructions (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+SKC2.FRK,Standard Bank Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SKC2.BER,"STD BK GRP  RC -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3750

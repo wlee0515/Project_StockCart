@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JOMEX,JOHCM Emerging Mkts Sm Mid Cp Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JOMMX,JOHCM Emerging Mkts Sm Mid Cp Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F000001YDJ.BCL,Inversiones Jomanel SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+ES0155495031.BCL,Inversiones Jomanel SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143
+JOMARJANAINV.BCL,Jomarjana Inversiones 2006 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2143

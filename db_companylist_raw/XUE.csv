@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XUEM.LON,X II USD Emerging Mkts Bd ETF 2D USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XUEN.LON,X MSCI USA Energy ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+000526.SHZ,Xiamen Unigroup Xue Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+300385.SHZ,Wuxi Xuelang Environmental Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+XUEN.FRK,X(IE)-MSCI USA ENERGY 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XUEN.SWI,X(IE) USA Ener,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+300511.SHZ,Shanghai Xuerong Biotechnology Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1875
+603227.SHH,Xinjiang Xuefeng Sci-Tech (Group) Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1429
+XUEM.FRK,XTR.II USD EM BD 2D DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1304
+XUEN.FRK,X(IE)-MSCI USA ENERGY 1D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1200

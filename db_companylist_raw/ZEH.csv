@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEH2.BER,"ZEHNDER GRP NAM.  SF-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZEH2.FRK,"ZEHNDER GRP NAM.  SF-,05",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ZEH2.STG,Zehnder Group AG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ZEHN.SWI,Zehnder Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+0R6S.LON,Zehnder Group AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+ZEH2.MUN,"ZEHNDER GRP NAM.  SF-,05",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3158
+AT0000A0VDN3.VIE,VM Strategie Zehn,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5FN.STG,FDK Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+FDKQX,Fidelity Advisor Freedom 2060 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDKVX,Fidelity Freedom 2060,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDKTX,Fidelity Advisor Freedom 2060 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDKLX,Fidelity Freedom Index 2060 Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDKPX,Fidelity Advisor Freedom 2060 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDKSX,Fidelity Advisor Freedom 2060 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDKMOX,FT 7199: California Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDKRGX,FT 7059: Dorsey Wright Relative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDKNRX,FT 7160: Balanced Income Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

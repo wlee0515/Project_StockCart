@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRM,Iron Mountain Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRBT,iRobot Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IRWD,Ironwood Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IROQ,IF Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IRNC,IronClad Encryption Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KIROY,Kumba Iron Ore Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CHPRF,Champion Iron Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IRONX,Ironclad Managed Risk,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FEOVF,Oceanic Iron Ore Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+AGODY,Atlas Iron Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

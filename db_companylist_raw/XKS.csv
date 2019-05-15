@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XKST,SPDR Kensho Smart Mobility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+XKSTX,Deutsche Strategic Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XKSMX,DWS Strategic Municipal Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XKSD.LON,X MSCI Korea ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XKS2.LON,db x-trackers - MSCI Korea Index UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

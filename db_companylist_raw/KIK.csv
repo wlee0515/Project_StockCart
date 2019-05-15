@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIKOY,Kikkoman Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KIKOF,Kikkoman Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6346.TOK,Kikukawa Enterprise Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+6335.TOK,Tokyo Kikai Seisakusho Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609
+1YM.BER,MARUWA UNYU KIKAN CO.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+2801.TOK,Kikkoman Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+6403.TOK,Suido Kiko Kaisha Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2143
+6912.TOK,Kikusui Electronics Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2069
+9090.TOK,Maruwa Unyu Kikan Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1935
+KIK.STG,KIKKOMAN CORP. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVUBX,PGIM QMA Mid-Cap Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVUIX,Guggenheim Mid Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVUSA.SWI,UBS ETF (CH) Silver A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455

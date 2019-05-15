@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZV.FRK,Domino's Pizza Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EZV.BER,"DOMINOS PIZZA INC. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EZV.MUN,"DOMINOS PIZZA INC. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EZV.STG,Dominos Pizza Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

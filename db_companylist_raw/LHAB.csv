@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LHAB.FRK,LUFTHANSA AG DM 5 ADR 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LHAB.BER,LUFTHANSA AG DM 5 ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+LHAB.STG,Deutsche Lufthansa Aktiengesellschaft,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QGH.FRK,PT Multistrada Arah Sarana Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+QGH.BER,MULTISTRADA ARAH SA.RP140,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+QGH.STG,Multistrada Arah Sarana TBK Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

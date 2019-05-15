@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VCXA.FRK,Viacom Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+VCXA.STG,Viacom Inc. Reg. Shares Class A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LEFUF,Leon's Furniture Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+1540.HKG,Left Field Printing Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+LEX.AUS,Lefroy Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LEF0033AU.AUS,Optimix Trusts-Australian Fixed Interest,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LEF0034AU.AUS,Optimix MTM W Australian Fixed Interest,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LEF0035AU.AUS,Optimix Trusts-Moderate,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LEF0036AU.AUS,Optimix Trusts-Moderate NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+LEF0042AU.AUS,Optimix WS-Property Trust A,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1667

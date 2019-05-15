@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIU.TRT,Vanguard FTSE Dev AC ex Nrth Amer ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+VIU1.DUS,VIVUS INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+VIU1.BER,VIVUS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VIU1.FRK,VIVUS INC.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+VIU1.STG,VIVUS Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

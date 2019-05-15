@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WB,Weibo Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WBA,Walgreens Boots Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBT,Welbilt Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBK,Westpac Banking Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBC,WABCO Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBS,Webster Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WBAI,500.com Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WBIY,WBI Power Factor High Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+WBSNX,William Blair Small Cap Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WBS-PF,Webster Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

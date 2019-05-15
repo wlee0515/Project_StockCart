@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTTGF,LottoGopher Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LTTSF,Lotus Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTC,Lattice Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTSX,MFS Lifetime 2025 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTBX,MFS Lifetime 2025 B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTKX,MFS Lifetime 2025 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTTX,MFS Lifetime 2025 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTIX,MFS Lifetime 2025 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTAX,MFS Lifetime 2025 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTTUX,MFS Lifetime 2025 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EWRE,Invesco S&P 500 Equal Wt Real Estt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EWRC,eWorld Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EWRD.FRK,BNPP E MSCI Wld ex CW ETF Cap,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+EWRD.PAR,BNPP E MSCI Wld ex CW ETF Cap,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

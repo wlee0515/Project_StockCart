@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAU,Almaden Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+AAMMF,Almadex Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ALMAX,Alger SMid Cap Focus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+AMM.TRT,Almaden Minerals Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4000
+DEX.TRV,Almadex Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4000
+A4E1.BER,ALMADEN MINERALS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200

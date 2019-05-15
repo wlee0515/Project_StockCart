@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRLN,SPDR Blackstone / GSO Senior Loan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BGX,Blackstone / GSO Long-Short Credit Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGFDX,Blackstone / GSO Floating Rate ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+BGFTX,Blackstone / GSO Floating Rate ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+GSOIX,Goldman Sachs Government Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GSORX,Goldman Sachs Government Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

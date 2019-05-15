@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDFS,PDF Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PDFDX,Perkins Discovery,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFEX,Prudential Day One 2030 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFFX,Prudential Day One 2030 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFJX,Prudential Day One 2030 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFGX,Prudential Day One 2030 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFHX,Prudential Day One 2030 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFAX,PIMCO Low Duration II Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDFCX,Prudential Day One 2030 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDF.TRT,Purpose Core Dividend ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002561.SHZ,Shanghai Xujiahui Commercial Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+XUJ1.DUS,CANDR.EQ.L-AUSTRALIA INHC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+XUJB.BER,CANDR.EQ.L-JAPAN INH. C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XUJ4.FRK,Candriam Equities L - Candriam Equities L Biotechnology,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XUJC.FRK,Candriam Equities L - Candriam Equities L Switzerland,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XUJE.FRK,Candriam Equities L - Candriam Equities L United Kingdom,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XUJ1.BER,CANDR.EQ.L-AUSTRALIA INHC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+XUJ1.HAM,CANDR.EQ.L-AUSTRALIA INHC,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+XUJ1.MUN,CANDR.EQ.L-AUSTRALIA INHC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XUJ1.STG,Candriam Equities L-Australia I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1463

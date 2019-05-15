@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPR,HighPoint Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HPR.AUS,High Peak Royalties Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+HPR.TRT,Horizons Active Preferred Share ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HPR.FRK,Horizon Pharma Public Limited Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HPR.JOH,Hosken Passenger Logistics and Rail Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+HPR.MUN,"HORIZON PHARMA  DL -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HPR.STG,Horizon Pharma Public Limited Company,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HPRD.LON,HSBC FTSE EPRA/NAREIT Developed ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HPRO.LON,HSBC ETFs Public Limited Company - HSBC FTSE EPRA/NAREIT Developed UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HPRD.SWI,HSBC FTSE EPRA NAREIT DEV. ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

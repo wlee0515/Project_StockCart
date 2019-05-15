@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YPH.FRK,Astellas Pharma Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YPH.DUS,ASTELLAS PHARMA INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YPH.MUN,ASTELLAS PHARMA INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YPH.STG,Astellas Pharma Inc. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BR,Broadridge Financial Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BV,BrightView Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BRY,Berry Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BRK-B,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AVGO,Broadcom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BTI,British American Tobacco p.l.c.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BMY,Bristol-Myers Squibb Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BRK-A,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BRKB,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BRZU,Direxion Daily MSCI Brazil Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2667

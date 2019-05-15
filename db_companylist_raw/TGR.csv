@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGRR,Tiger Reef Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGRO,Tiger Oil and Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGRUF,enCore Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGRF,TGR Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGRGX,Transamerica International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGRP,TRON Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGRIX,American Century International Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGRFX,Transamerica International Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGRAX,Invesco Pacific Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGREX,TCW Global Real Estate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

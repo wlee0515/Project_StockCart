@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKPYX,BlackRock PA Municipal Bond K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKP.TRT,MCAN Mortgage Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MKPI.JKT,PT Metropolitan Kentjana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+MKPL-SM.NSE,M K PROTEINS LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615

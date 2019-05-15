@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZUO,Zuora Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZUMZ,Zumiez Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZURVY,Zurich Insurance Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZRVT,Zurvita Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZNCM,Zunicom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+ZFSVF,Zurich Insurance Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZKBHF,ZUERCHER KTBK,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZKPLF,ZUERCHER KTBK,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ZULU,Zulu-Tek Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ZURN.VSX,Zurich Insurance Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2857

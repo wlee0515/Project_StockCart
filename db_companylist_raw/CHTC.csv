@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHTCX,Invesco Charter C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+0641.HKG,CHTC Fong's International Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3333
+FOG1.BER,"CHTC FONG'S INTL  HD-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+000677.SHZ,CHTC Helon Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818

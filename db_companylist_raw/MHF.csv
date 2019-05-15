@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHF,Western Asset Municipal High Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MHFAX,Equinox MutualHedge Futures Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MHFIX,Equinox MutualHedge Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MHFCX,Equinox MutualHedge Futures Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

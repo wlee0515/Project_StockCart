@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWPC.BAK,Thai Wah Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+TWPC-R.BAK,Thai Wah Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154

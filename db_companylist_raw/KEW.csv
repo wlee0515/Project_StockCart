@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KEQU,Kewaunee Scientific Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KEWL,"Keweenaw Land Association, Limited",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KEFI,Keweenaw Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KWPCY,Kewpie Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KEW.TRT,Kew Media Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+KEW.BER,"KEWAUN.SCIENTIFIC  DL2,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+QPJ.FRK,Kewpie Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+2809.TOK,Kewpie Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+BBP.SGP,Hor Kew Corporation Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2857
+KEW.STG,KEWAUNEE SCIENTIFIC CORP. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

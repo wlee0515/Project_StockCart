@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEOAF,Melbana Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+MAY.AUS,Melbana Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4211
+MU9A.FRK,Melbana Energy Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3077
+0158.HKG,Melbourne Enterprises Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3077
+MU9A.STG,Melbana Energy Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3077
+F00000PIQ1.KOR,Hana Alternative Investment Land Chip Melbourne Private REITs 49,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2963
+KR5345AG0297.KOR,Hana Alternative Investment Land Chip Melbourne Private REITs 49,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2424
+MELBOURNECAP.BCL,Melbourne Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1569
+40723.AUS,Trilogy Melbourne Office Syndicate - Cheltenham,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1176
+F00000TNCN.BCL,Melbourne Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1176

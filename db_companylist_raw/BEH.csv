@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBVFX,Undiscovered Managers Behavioral Val R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BEHL,Biocentric Energy Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UBVLX,Undiscovered Managers Behavioral Val L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BEMO,Aptus Behavioral Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+UBVCX,Undiscovered Managers Behavioral Val C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+UBVAX,Undiscovered Managers Behavioral Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FTHNX,Fuller & Thaler Behav Sm-Cp Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+UBVRX,Undiscovered Managers Behavioral Val R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+UBVUX,Undiscovered Managers Behavioral Val R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FTHSX,Fuller & Thaler Behav Sm-Cp Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

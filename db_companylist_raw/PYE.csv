@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYEMX,Payden Emerging Markets Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYEQX,Pioneer Equity Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYEIX,Payden Emerging Markets Bond SI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYEWX,Payden Emerging Markets Bond Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYELX,Payden Emerging Markets Local Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+4IUU.BER,I.KBW PYER.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+4IUU.DUS,I.KBW PYER.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4286

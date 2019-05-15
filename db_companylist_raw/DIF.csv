@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFFN,Diffusion Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DFBG,Differential Brands Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIFAX,MFS Diversified Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DIFIX,MFS Diversified Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNTHF,DIFFERENCE CAP FIN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIFTY,Daito Trust Construction Co. Ltd..,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIFHX,MFS Diversified Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DIFCX,MFS Diversified Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+DIFGX,MFS Diversified Income R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+DIFDX,MFS Diversified Income R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

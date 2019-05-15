@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PODD,Insulet Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PODDAR.BSE,Poddar Housing and Development Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+524570.BSE,Poddar Pigments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+PODARPIGQ.BSE,Poddar Pigments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+PODDARHOUS.NSE,PODDAR HOUSING AND,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+PODDARMENT.NSE,PODDAR PIGMENTS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2963

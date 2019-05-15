@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UOBH.SGP,UOB,Equity,Singapore,09:00,17:00,UTC+08,SGD,1.0000
+UOBLIFEUNIFU.SGP,UOB Life UniFund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.4286
+F0HKG062HS.SGP,UOB United Japan Growth Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.3333
+SG9999003412.SGP,UOB United Global Portfolios - United Singapore Bond Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+UNITEDECOMME.SGP,UOB Optimix Fund - United E-Commerce Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1935
+F00000J8TG.SGP,UOB United Asia Consumer Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1875
+SG9999001135.SGP,UOB Unifund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1000

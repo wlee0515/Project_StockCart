@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZPDD.FRK,SPDR S&P US Cnsmr Discret Sel Sect ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+ZPDD.FRK,SSgA SPDR ETFs Europe II plc - SPDR S&P U.S. Consumer Discretionary Select Sector UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ZPDD.STG,SSGA S.E.E.II-S&P US C.D.Se.S.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

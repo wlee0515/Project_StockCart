@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HINDALCO.NSE,Hindalco Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+HINDUNILVR.NSE,Hindustan Unilever Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+HINDZINC.NSE,Hindustan Zinc Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+HINDPETRO.NSE,Hindustan Petroleum Corporation Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+HINDUNILVR.BSE,Hindustan Unilever Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+HCC.NSE,Hindustan Construction Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+HOCL.BSE,Hindustan Organic Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+505893.BSE,Hindustan Hardy Spicer Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+HINDCOMPOS.NSE,Hindustan Composites Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2353
+HINDCOPPER.NSE,Hindustan Copper Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2051

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDC,Belden Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BDCL,UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BDCI,Global Consortium Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TPVG,TriplePoint Venture Growth BDC Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GBDC,Golub Capital BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BBDC,Barings BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSBD,Goldman Sachs BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CGBD,TCG BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BIZD,VanEck Vectors BDC Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+BDCS,UBS ETRACS Wells Fargo Busn Dev Co ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1538

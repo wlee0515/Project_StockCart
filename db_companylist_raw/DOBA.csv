@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DOB.MIL,doBank S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6000
+1DB.FRK,doBank S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+0RTI.ILN,DOBANK SPA DOBANK ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706
+0RTI.LON,doBank S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2759

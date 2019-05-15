@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDAAX,Franklin Floating Rate Daily Access Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDAGX,Fidelity Advisor Consumer Staples A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDAPX,FA 529 DIVERSIFIED INTL PORT-CL,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDAILX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDAFX,Fidelity Advisor Freedom 2020 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDAERX,FT 7110: Nasdaq Dividend Achiev,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDALHX,FT 7313: Financials Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDAGWX,FT 6772: Balanced Income Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDAQJX,FT 6615: Equity Closed-End Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

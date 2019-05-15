@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PQLC,PGIM QMA Strategic Alpha Lrg-Cp Cor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TASVX,PGIM QMA Small-Cap Value Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PDSIX,PGIM QMA Stock Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PSIAX,PGIM QMA Stock Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PLHZX,PGIM QMA Long-Short Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PTMAX,PGIM QMA Large-Cap Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SPVZX,PGIM QMA Mid-Cap Value Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+QMAYX,Oppenheimer Global Multi-Asset Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+PTMBX,PGIM QMA Large-Cap Core Equity B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+PQSV,PGIM QMA Strategic Alpha Sm-Cp Val ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1935

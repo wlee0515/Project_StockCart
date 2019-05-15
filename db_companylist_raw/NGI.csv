@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGINX,Columbia AMT-Free GA Interm MuniBd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGIMX,Columbia AMT-Free GA Interm MuniBd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGISX,Nationwide Dynamic US Growth Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGIFX,Nuveen Gresham Managed Futures Strat I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGI.AUS,Navigator Global Investments Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+NGI.FRK,NGK Insulators Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NGI.BER,NGK INSULATORS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NGI.STG,NGK INSULATORS LTD. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NGIL.BSE,NAKODA GROUP OF INDUSTRIES LIM,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+NGI.DUS,NGK INSULATORS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

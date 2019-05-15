@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+H,Hyatt Hotels Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HST,Host Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+INN,Summit Hotel Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WH,Wyndham Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PK,Park Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+IHG,InterContinental Hotels Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SOHO,Sotherly Hotels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LHO,LaSalle Hotel Properties,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+PEB,Pebblebrook Hotel Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2069
+BHR,Braemar Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

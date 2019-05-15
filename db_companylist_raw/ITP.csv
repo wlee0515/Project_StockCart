@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITP,IT Tech Packaging Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ITPOF,Intertape Polymer Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ITPC,Intrepid Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ITP.TRT,Intertape Polymer Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ITPE.LON,iShares $ TIPS ETF EUR H Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ITPG.LON,iShares $ TIPS ETF GBP H Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+ITPS.MIL,iShares $ TIPS ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+ITP.MUN,INDOC.TUNG.P.  RP 500,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ITP.STG,"INDOCEMENT TUNGGAL PRAKARSA,PTR",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

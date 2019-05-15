@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MI-UN.TRT,Minto Apartment Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+MPAY.LON,Mi-Pay Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3158
+A3W.BER,"MI-PAY GROUP PLC  LS -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

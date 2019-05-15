@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPG,Simon Property Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SPGI,S&P Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPGYF,Whitecap Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPG-PJ,Simon Property Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPGSX,State Street Premier Growth Equ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SPGZ,Spectrum Group International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPGIX,SEI Large Cap Growth I (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SPGBX,Symmetry Panoramic Global Fixed Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

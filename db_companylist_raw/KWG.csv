@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWGPF,KWG Group Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KWGBF,KWG Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+1813.HKG,KWG Group Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+KWG.LON,Kingswood Holdings Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+KWG.FRK,KHD Humboldt Wedag International AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KWG.FRK,KHD Humboldt Wedag International AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+KW61.FRK,KWG RES INC. CV. SV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+KOU.FRK,KWG Group Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+KOU.BER,"KWG GROUP HOLDINGS HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069

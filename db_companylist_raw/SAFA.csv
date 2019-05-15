@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFRI,Safari Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAFALHBS.BSE,Safal Herbs Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+SAR.JOH,Safari Investments RSA Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+523025.BSE,Safari Industries (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+SAFALSEC.BSE,Safal Securities Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+SAFARIND.BSE,Safari Industries (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+SAFAA.PAR,SAFRAN2.875%APR24,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5000
+SAFAB.PAR,SAFRANFRN28JUN19,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000
+SAFAC.PAR,SAFRANFRN28JUN21,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2162

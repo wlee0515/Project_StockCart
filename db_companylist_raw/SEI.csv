@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEIT.LON,SDCL Energy Efficiency Income Trust PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+SEIC,SEI Investments Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SEII,Sharing Economy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAMBX,Virtus Seix Floating Rate High Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TMMAX,SEI Tax-Managed Mgd Volatility F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SSGAX,SEI Aggressive Strategy F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+STHTX,Virtus Seix High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SMOAX,SEI Moderate Strategy F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SENJX,SEI New Jersey Municipal Bond F (STET),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SHYAX,SEI High Yield Bond F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

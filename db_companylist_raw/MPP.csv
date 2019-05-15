@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPPMX,BNY Mellon Intl Appreciation M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPPIX,BNY Mellon PA Interm Muni Bd M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPPAX,MFS PA Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPPWW,MIDSTATES PETE CO,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPPA.JKT,PT Matahari Putra Prima Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+MPP.AUS,Metro Performance Glass Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+MPPFUTUROSEG.BCL,MPP Futuro Seguro II PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F00000W3KI.BCL,MPP Futuro Seguro III PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308
+F00000QLY1.BCL,MPP Futuro Seguro II PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F000010VAY.BCL,Plan Pensi?n Individual MPP Rumbo 2026,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1463

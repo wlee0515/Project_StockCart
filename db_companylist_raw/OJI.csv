@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OJIPY,Oji Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+3861.TOK,Oji Holdings Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+OJI.FRK,Oji Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OJI.BER,OJI HOLDINGS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OJI.DUS,OJI HOLDINGS CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

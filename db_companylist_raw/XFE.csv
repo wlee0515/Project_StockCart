@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XFEYX,FS Energy Total Return Fund Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFENX,First Trust Energy Income and G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFEOX,First Trust/Aberdern Emerging O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFEIX,First Trust MLP and Energy Inco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFEAX,FS Energy Total Return Fund Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFETX,FS Energy Total Return Fund Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XFEW.LON,X FTSE 100 Equal Weight ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

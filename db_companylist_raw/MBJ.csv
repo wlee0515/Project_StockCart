@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBJ.FRK,MBIA Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MBJ.BER,MBIA INC.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MBJ.DUS,MBIA INC.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MBJ.STG,MBIA INC. Registered Shares DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RTYS.LON,Invesco Russell 2000 ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RL2.BER,SUMITOMO RTY DEV.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3000
+RL2.DUS,SUMITOMO RTY DEV.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+RL2.MUN,SUMITOMO RTY DEV.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000

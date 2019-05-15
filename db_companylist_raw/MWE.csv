@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWEIX,MFS Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWEMX,MFS Global Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWEHX,MFS Global Equity R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWEBX,MFS Global Equity B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWECX,MFS Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWEFX,MFS Global Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWELX,MFS Global Equity R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWEGX,MFS Global Equity R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MWE.LON,M.T.I Wireless Edge Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MWET4.SAO,Wetzel S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455

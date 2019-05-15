@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SJX.FRK,Singapore Technologies Engineering Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SJX.BER,"SINGA.TECH.ENG.  SD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SJX.MUN,"SINGA.TECH.ENG.  SD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SJX.STG,SINGAPORE TECHN.ENGINEER. LTD.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SJX.DUS,"SINGA.TECH.ENG.  SD-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

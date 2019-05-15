@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VTDRX,Virtus DFA 2045 Trgt Date Retire Inc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTDAX,Virtus DFA 2050 Trgt Date Retire Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VTDIX,Virtus DFA 2035 Trgt Date Retire Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

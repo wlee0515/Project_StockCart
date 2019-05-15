@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AF.PAR,Air France-KLM SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+AF.BAK,AIRA Factoring Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+AF.MIL,AIR FRANCE-KLM,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+AF.SWI,Air France-KLM SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500

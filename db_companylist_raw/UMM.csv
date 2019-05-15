@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMMGX,Columbia Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UMMIEA.JOH,"UBS AG, London Branch 0% NTS 25/08/23 ZAR100",Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+UMMIEB.JOH,"UBS AG, London Branch 0% NTS 25/08/23 ZAR 100",Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000

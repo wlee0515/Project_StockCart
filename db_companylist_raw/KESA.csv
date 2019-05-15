@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KESARPE.BSE,Kesar Petroproducts Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+524174.BSE,Kesar Petroproducts Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+KTIL.BSE,Kesar Terminals & Infrastructure Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+KTIL.NSE,Kesar Terminals & Infrastructure Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+KESARENT.BSE,Kesar Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2581
+KESARENT.NSE,Kesar Enterprises Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1818

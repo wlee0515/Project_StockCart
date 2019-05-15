@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSWHL.BSE,JSW Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+JSWSTEEL.NSE,JSW Steel Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+JSWENERGY.BSE,JSW Energy Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+JSWSTEEL.BSE,JSW Steel Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+JSWHL.NSE,JSW Holdings Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+532642.BSE,JSW Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+JSWHL-EQ.NSE,JSW HOLDINGS LIMIT,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+JSWENERGY.NSE,JSW Energy Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+JSWSTEEL-P2.NSE,JSW STEEL LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2609

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEC,WEC Energy Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WECCX,Wells Fargo Endeavor Select C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WECFF,White Energy Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WECT,Weconnect Tech International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WECFY,White Energy Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WECDX,Wells Fargo Endeavor Select Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WECIX,TETON Westwood Intermediate Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+0LSL.LON,WEC Energy Group Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EFF.FRK,Deutsche Effecten- und Wechsel-Beteiligungsgesellschaft AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+WEC.AUS,White Energy Company Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2400

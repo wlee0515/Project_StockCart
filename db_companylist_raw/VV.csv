@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VV,Vanguard Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+VVUS,VIVUS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VVCIF,VIVO Cannabis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VVV,Valvoline Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VVC,Vectren Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VVI,Viad Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VVIAX,Vanguard Value Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VVPR,VivoPower International PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VVR,Invesco Senior Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGEIX,TCW Emerging Markets Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSI,TCW Strategic Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TGMNX,TCW Total Return Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+TGLMX,TCW Total Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FIXD,First Trust TCWOpportunistic Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+TCWAX,Templeton China World A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGCEX,TCW Select Equities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGIGX,TCW Relative Value Dividend Apprec N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGDIX,TCW Relative Value Large Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGVOX,TCW Relative Value Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

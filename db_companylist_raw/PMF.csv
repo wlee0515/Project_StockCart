@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMF,PIMCO Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PMFYX,Pioneer Multi-Asset Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFPX,Principal MidCap S&P 400 Index R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFKX,Pioneer Multi-Asset Income K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFJX,Principal MidCap S&P 400 Index J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFNX,Principal MidCap S&P 400 Index R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFIX,PMC Core Fixed Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFRX,Pioneer Multi-Asset Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFSX,Principal MidCap S&P 400 Index R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMFMX,Principal MidCap S&P 400 Index R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

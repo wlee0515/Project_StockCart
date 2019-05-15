@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CIHARBOUR.TRT,CI Harbour,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+000587.SHZ,Jinzhou Cihang Group Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4706
+CIHARBOURCLA.TRT,CI Harbour Class E,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+CIHARBOURCOR.TRT,CI Harbour Corporate Class T8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+CIHARBOURE.TRT,CI Harbour Class E,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2353
+F00000PJAJ.TRT,SunWise Essntl 2 CIHar Gr&IncBdle PIMInc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJAK.TRT,SunWise Essntl 2 CIHar Gr&IncBdle PIMEst,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F00000PJAL.TRT,SunWise Essntl 2 CIHar Gr&IncBdle Est,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000PJAM.TRT,SunWise Essntl 2 CIHar Gr&IncBdle PIMInv,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000PJAO.TRT,SunWise Essntl 2 CIHar Gr&IncBdle Inc,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

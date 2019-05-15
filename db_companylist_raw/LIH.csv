@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIHTF,Liht Cannabis Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LIWA,Lihua International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LIHIX,BlackRock LifePath Index 2045 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIHC,Liberty International Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LIHPX,BlackRock LifePath Index 2045 Inv P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIHKX,BlackRock LifePath Index 2045 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LIHAX,BlackRock LifePath Index 2045 Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+1605.TWN,Walsin Lihwa Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.3158
+7975.TOK,Lihit Lab. Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222

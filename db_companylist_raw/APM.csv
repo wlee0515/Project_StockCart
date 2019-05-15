@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APM,Aptorum Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+APMIX,AllianzGI PerformanceFee Mgd Fts Strt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APMRX,AllianzGI PerformanceFee Mgd Fts Strt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APMCF,Morien Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APMPX,AllianzGI PerformanceFee Mgd Fts Strt P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APMCX,Voya Mid Cap Research Enhanced Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APMAX,Yorktown Master Allocation Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APMFF,Eagle Graphite Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APM.BER,"AD PEPPER MEDIA  EO 0,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+APM.DUS,"AD PEPPER MEDIA  EO 0,05",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

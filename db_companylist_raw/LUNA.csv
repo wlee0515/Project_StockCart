@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LUNA,Luna Innovations Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LUNAX,Saratoga Conservative Balanced Allc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+LRD.FRK,"LUNA INOVATIONS  DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+LRD.BER,"LUNA INOVATIONS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+LUNASHSICAV.BCL,Luna SH SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F000002E6R.BCL,Luna SH SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963

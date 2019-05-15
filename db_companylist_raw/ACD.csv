@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACDVF,Air Canada,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDSF,Ascendas Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDKX,AC Alternatives Discp Long Short I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDJX,AC Alternatives Discp Long Short Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDHX,AC Alternatives Discp Long Short C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDWX,AC Alternatives Discp Long Short R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDIX,American Beacon Acdn Emkts Mgd Vol Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDPX,American Beacon Acdn Emkts Mgd Vol Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDQX,AC Alternatives Discp Long Short A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACDYX,American Beacon Acdn Emkts Mgd Vol Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

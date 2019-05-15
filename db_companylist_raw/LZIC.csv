@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LZIC.LON,ETFS 2x Daily Long Zinc ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+LZIC.MIL,ETFS 2x Daily Long Zinc ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BJCHF,Beijing Capital International Airport Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BJCHY,Beijing Capital International Airport Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BJCLF,Beijing Capital Land Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BJC.BAK,Berli Jucker Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+BJCHI-R.BAK,BJC Heavy Industries Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+BJCL.SGP,NGSC^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5455
+BJC-R.BAK,Berli Jucker Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+BJCHI.BAK,BJC Heavy Industries Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4615

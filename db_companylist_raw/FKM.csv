@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FKMCX,Fidelity Mid-Cap Stock K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMOX,Strategic Advisers Value Multi-Mgr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMGAX,FT 7151: Automated Quantitative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMILX,FT 6452: Tax-Advantaged Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMRX,Franklin K2 Global Macro Opps R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMRAX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMZX,Franklin K2 Global Macro Opps Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FKMAX,Franklin K2 Global Macro Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKMDX,Franklin K2 Global Macro Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FKMQX,Franklin K2 Global Macro Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

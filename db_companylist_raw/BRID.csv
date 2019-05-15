@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRID,Bridgford Foods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BLIN,Bridgeline Digital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LOAN,Manhattan Bridge Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BWB,Bridgewater Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BDGE,Bridge Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BPI,Bridgepoint Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BRDCY,Bridgestone Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TBRG,Thunder Bridge Acquisition Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BBGP,Bridgegate Pictures Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2759
+BRSIX,Bridgeway Ultra-Small Company Market,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353

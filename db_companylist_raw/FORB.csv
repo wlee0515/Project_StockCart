@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLSS,Forbes Energy Services Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+FBOHY,Forbo Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+FBOHF,Forbo Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+FOZN.FRK,Forbo Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+FBT.LON,Forbidden Technologies plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+FORN.SWI,Forbo Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4444
+AFH.JOH,Alexander Forbes Group Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4000
+FORBESCO.BSE,Forbes & Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+FBD.FRK,Forbidden Technologies plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581
+0QKD.ILN,FORBO HOLDING AG FORBO HOLDING ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

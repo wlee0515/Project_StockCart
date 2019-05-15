@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMMU,Immunomedics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMGN,ImmunoGen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMMY,Imprimis Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMUC,ImmunoCellular Therapeutics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMNP,Immune Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IMMR,Immersion Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IMMP,Immutep Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IMDZ,Immune Design Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ACIU,AC Immune SA,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ALPN,Alpine Immune Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1935

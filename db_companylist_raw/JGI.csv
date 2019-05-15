@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JGINX,Janus Henderson Growth And Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGISX,JPMorgan Intrepid Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGICX,Janus Henderson Growth And Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGIAX,JPMorgan Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGITX,JPMorgan Investor Growth & Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGIFX,JHancock Government Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JGIRX,JPMorgan Intrepid Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

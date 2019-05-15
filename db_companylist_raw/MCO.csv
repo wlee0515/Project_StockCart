@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCO,Moody's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCOA,Marijuana Company of America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCCX,McorpCX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCOIX,MainStay MacKay CA Tax Free Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCOCX,Madison Conservative Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCOAX,MainStay MacKay Convertible A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCONX,Praxis Genesis Conservative A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCOLF,MAGNOLIA COLOMBIA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

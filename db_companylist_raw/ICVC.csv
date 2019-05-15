@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ICVCIX,Closed-End Strategy: Covered Ca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+ICVCLX,Closed-End Strategy: Covered Ca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+F7H4.FRK,First State Investments ICVC - Stewart Investors Global Emerging Markets Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1481
+F00000VD0G.LON,Valu-Trac Investment Funds ICVC Equity Income Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1455
+GB0006062151.LON,Baillie Gifford Overseas Growth Funds ICVC-Baillie Gifford American Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1111
+GB00BYNK7J27.LON,Baillie Gifford Investment Funds II ICVC-Baillie Gifford Global Select Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1053
+GB0005931570.LON,Baillie Gifford UK & Balanced Funds ICVC-Baillie Gifford British Smaller Co,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1053
+GB00B4KT2864.LON,FP Russell Investments ICVC - UK Growth Assets Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1013
+GB00B7LY8D86.LON,NGAM Investment Funds U.K. ICVC - Loomis Sayles U.S. Equity Leaders Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1013
+GB00B8CQLW05.LON,Scottish Widows Investment Solutions Funds ICVC Dynamic Solution Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.0988

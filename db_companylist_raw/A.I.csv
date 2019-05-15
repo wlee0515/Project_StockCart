@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AISSF,A.I.S. Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MIND.TRT,Horizons Active A.I. Global Equity ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+AIS.TRV,A.I.S. Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+LUM.BER,A.I.S. AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+LUM.DUS,A.I.S. AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+LUM.MUN,A.I.S. AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+LUM.STG,a.i.s. AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+A8S.FRK,A.I.S. Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+LUM.FRK,a.i.s. AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+A14UW0.FRK,A.IX Faktor Fonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2000

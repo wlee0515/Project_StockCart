@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UPS,United Parcel Service Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PNC,The PNC Financial Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EMES,Emerge Energy Services LP,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NOW,ServiceNow Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+1995.HKG,Ever Sunshine Lifestyle Services Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2857
+OIH,VanEck Vectors Oil Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PEG,Public Service Enterprise Group Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+CIFS,China Internet Nationwide Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1463
+DFS,Discover Financial Services,Equity,United States,09:30,16:00,UTC-05,USD,0.1304
+HIG,The Hartford Financial Services Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1224

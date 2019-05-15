@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSK.TRV,Blue Sky Uranium Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ENFX.LON,ETFS G10vsUSD Mlt Strat FX Bskt Sec ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LGBB.LON,ETFS Bullish GBPvsG10 Ccy Bskt Secs ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+SCOM.LON,ETFS Bullish USDvsCmdty Ccy BsktSecs ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+LUSB.LON,ETFS Bullish USDvsG10 Ccy Bskt Secs ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+BSKP.SWI,Basler Kantonalbank,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2222
+BSK.FRK,BR.SCH.ED.HLD.SP.ADR CL.A,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+SGBB.LON,ETFS Bearish GBPvsG10 Ccy Bskt Secs ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGUA.STG,Huber & Suhner AG Nam.-Aktien S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+HGUA.FRK,Huber+Suhner AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HGUA.BER,"HUBER+SUHNER NA  SF-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HGUA.MUN,"HUBER+SUHNER NA  SF-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAUGF,Deep-South Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JAUSPOL.BSE,Jauss Polymers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+526001.BSE,Jauss Polymers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+F00000UQGF.BCL,Jaune Vert Investments SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+JAUNEVERTINV.BCL,Jaune Vert Investments SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2400
+JAURINVERINV.BCL,Jaurinver Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000
+F000001YHL.BCL,Jaurinver Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1935
+F00000QIKP.SAO,JAUAPERI FUNDO DE INVESTIMENTO RENDA FIXA,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1364

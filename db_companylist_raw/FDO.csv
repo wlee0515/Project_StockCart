@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDOGSX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FDOAGX,FT 7585: U.S. Energy Independen,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FDORMX,The First Trust GNMA Series 114,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDOHGX,FT 7543:Stonebridge Preferred I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDOC,Fuel Doctor Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FDO.FRK,Macy's Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FDO.DUS,"MACYS Inc.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+FDO.STG,Macy's Inc. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+FDO.BER,"MACYS Inc.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

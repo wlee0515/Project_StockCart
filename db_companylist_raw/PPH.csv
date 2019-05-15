@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PPH,VanEck Vectors Pharmaceutical ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PPH.LON,PPHE Hotel Group Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+PPH.AUS,Pushpay Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+32P.FRK,PPHE Hotel Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+32P.BER,PPHE HOTEL GROUP LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

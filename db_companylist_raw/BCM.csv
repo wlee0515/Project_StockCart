@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCM,iPath Pure Beta Broad Commodity ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+BCML,BayCom Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BCMAX,Sterling Capital Strategic Allc Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCMIX,Brown Capital Management Mid Co Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCMTX,Sterling Capital Strategic Allc Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCMCX,Sterling Capital Strategic Allc Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCMSX,Brown Capital Management Mid Co Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCMPX,BlackRock 40/60 Target Allocation Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

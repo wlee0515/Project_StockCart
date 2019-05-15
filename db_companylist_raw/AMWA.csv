@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMWAX,ALPS/WMC Research Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AMWA.KLA,AMWAY (M) HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+6351.KLA,Amway (Malaysia) Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2827.HKG,W.I.S.E. - CSI 300 China Tracker ETF,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2143
+0061.TWN,W.I.S.E. Yuanta/P-shares CSI 300 ETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.2143
+2825.HKG,W.I.S.E. - CSI HK 100 Tracker ETF,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2143
+3024.HKG,W.I.S.E. - SSE 50 China Tracker ETF,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000
+3182.HKG,W.I.S.E. - Nasdaq Overseas China New Economy Companies Top 50 Index Tracker Fund,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000
+LYPF.DUS,MUL-LYX.MSCI W.IN.TRUECEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+LYPG.DUS,MUL-LYX.MSCI W.ITTRUE CEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+LYPG.HAM,MUL-LYX.MSCI W.ITTRUE CEO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2000

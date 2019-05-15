@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHWD.FRK,Chunghwa Telecom Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+CHWD.MUN,CHUNGHWA ADR NEW 2011TA10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+CHWD.STG,Chunghwa Telecom Co. Ltd. R.Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

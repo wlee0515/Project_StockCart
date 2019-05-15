@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBD,Inspire Corporate Bond Impact ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FFTY,Innovator IBD 50 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BOUT,Innovator IBD Breakout Opps ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBDRY,"Iberdrola, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IBDK,iShares iBonds Dec 2019 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBDM,iShares iBonds Dec 2021 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBDO,iShares iBonds Dec 2023 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBDN,iShares iBonds Dec 2022 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IBDR,iShares iBonds Dec 2026 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+IBDL,iShares iBonds Dec 2020 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609

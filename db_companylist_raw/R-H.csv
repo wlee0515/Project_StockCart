@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GB00B8J72X47.LON,M&G Global Convertibles GBP R-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BBCR3F13.LON,M&G Global Corporate Bond GBP R-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BP4VN931.LON,M&G Global Fltng Rt Hi Yield GBP R-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BVYJ1063.LON,M&G Global Macro Bond GBP R-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+GB00BVYJ1170.LON,M&G Global Macro Bond GBP R-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+F00000OSIP.LON,M&G Global Convertibles GBP R-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1500
+F00000QAM9.LON,M&G Global Corporate Bond GBP R-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1500
+F00000TWBM.LON,M&G Global Fltng Rt Hi Yield GBP R-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+F00000W5PF.LON,M&G Global Macro Bond GBP R-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DE,Deere & Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GULTU,Gulf Coast Ultra Deep Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+DVLY,Deer Valley Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+TDVFX,Towle Deep Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+DYLLF,Deep Yellow Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DGWR,Deep Green Waste & Recycling Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DVP,Deep Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2727
+DWOG,Deep Well Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FCYOPX,FT 7269: Global Deep Value Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+GODYF,Deer Horn Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1579

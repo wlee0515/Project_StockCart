@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IAEMX,Invesco Emerging Markets Flexible Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAETFX,ETF Allocation Portfolio 2017-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAEX.LON,iShares AEX ETF EUR Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IAECFLXACTCA.TRT,IA Ecflx Canadian Equ (Small Cap.) (QV),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+IAECFLXASIEP.TRT,IA Ecflx Asian Pacific (Dynamic),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+IAE.STG,Acasta Enterprises Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+IAECFLXACTIO.TRT,IA Ecoflex Canadian Equity (Taylor AM),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+IAECFLXAMRDI.TRT,IA Ecflx U.S. Dividend Growth,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVAP.BER,"THAI UN.GRP -NVDR-BA 0,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+THYG.BER,THAI UN. GRP PR. -FGN-,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+THYG.MUN,THAI UN. GRP PR. -FGN-,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2400
+UN.SWI,Unilever N.V.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2400

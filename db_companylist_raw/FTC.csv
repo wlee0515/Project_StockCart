@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTC,First Trust Large Cap Gr AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FTCH,Farfetch Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTCS,First Trust Capital Strength ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FTCHX,Invesco Technology Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCIX,Franklin Conservative Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCOX,Franklin Corefolio Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCWX,Fidelity Advisor Asset Manager 20% C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCCX,Franklin Conservative Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCNX,Fidelity Advisor Canada M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTCIGX,First Trust 718: Corporate Inve,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

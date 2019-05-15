@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+NUGT,Direxion Daily Gold Miners Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+FAS,Direxion Daily Financial Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+TNA,Direxion Daily Small Cap Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SOXL,Direxion Daily Semicondct Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ERX,Direxion Daily Energy Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1667
+SPXL,Direxion Daily S&P500 Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+YINN,Direxion Daily FTSE China Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+BRZU,Direxion Daily MSCI Brazil Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500

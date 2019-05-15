@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+D,Dominion Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DMAC,DiaMedica Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DGAZ,VelocityShares 3x Inv Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+DOMO,Domo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DAVA,Endava plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DDMXU,DD3 Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DDOC,"DERMAdoctor, LLC.",Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DIS,The Walt Disney Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.0513
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.0513

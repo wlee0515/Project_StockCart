@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLFM,Platforms Wireless International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PLFX,Pulse Evolution Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PLFDX,Pacific Funds Floating Rate Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFIX,Principal Large Cap S&P 500 Index Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFPX,Principal Large Cap S&P 500 Index R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFLX,Pacific Funds Floating Rate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFRX,Pacific Funds Floating Rate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFJX,Principal LifeTime 2020 J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFSX,Principal Large Cap S&P 500 Index R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLFRY,Palfinger AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

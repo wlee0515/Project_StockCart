@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBP,Invesco DB Precious Metals,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DBPIX,DWS Short Duration S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DBPK.FRK,X S&P 500 2x Inverse Daily Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DBPD.FRK,X ShortDAX x2 Daily Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DBPD.STG,Xtr.ShortDAX x2 Daily Swap Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+DBPE.FRK,X LevDAX Daily Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DBPG.FRK,X S&P 500 2x Leveraged Daily Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

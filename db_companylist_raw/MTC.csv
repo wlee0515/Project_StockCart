@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTCH,Match Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTCAX,MFS Technology A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCHX,MFS Technology R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCPY,MTR Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCIX,MFS Technology I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCCX,MFS Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCBX,MFS Technology B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCKX,MFS Technology R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCLX,MFS Technology R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCJX,MFS Technology R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

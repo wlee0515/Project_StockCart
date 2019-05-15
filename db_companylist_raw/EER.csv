@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+900936.SHH,Inner Mongolia Eerduosi Resources Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.6667
+EER.AUS,East Energy Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+EER7.FRK,China 3D Digital Entertainment Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+EER7.BER,"HMV DIGITAL CHINA  HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EER7.STG,HMV Digital China Group Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1304
+600295.SHH,Inner Mongolia Eerduosi Resources Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1304

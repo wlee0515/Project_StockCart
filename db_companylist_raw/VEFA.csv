@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VEFA.BER,VANECK VEC. ETF-AGRIB.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+VEFA.MUN,VANECK VEC. ETF-AGRIB.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+VEFA.DUS,VANECK VEC. ETF-AGRIB.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

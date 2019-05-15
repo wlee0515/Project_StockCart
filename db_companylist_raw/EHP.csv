@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EHPTP,EAGLE HOSPITALITY,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+F000010ZYN.TRT,EHP Guardian Alternative Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F000010ZYP.TRT,EHP Guardian Alternative Cl I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1875
+F000010ZYQ.TRT,EHP Advantage Alternative Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1875
+F000010ZYS.TRT,EHP Advantage Alternative Cl I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010ZYT.TRT,EHP Guardian International Alt Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010ZYV.TRT,EHP Guardian International Alt Cl I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F000010ZYW.TRT,EHP Advantage International Alt Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F000010ZYY.TRT,EHP Advantage International Alt Cl I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+F000010ZYZ.TRT,EHP Select Alternative Cl A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538

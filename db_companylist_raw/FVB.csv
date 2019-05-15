@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVBPUX,FT 4597: High Yield Corporate T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHUD.DUS,FVB-RENTEN PLUS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000
+FHUJ.DUS,FVB-DEUTSCHER AKTIENFONDS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3333
+FHUJ.HAM,FVB-DEUTSCHER AKTIENFONDS,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.3333
+FHUJ.STG,FVB-Deutscher Aktienfonds Inhab,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+976685.FRK,FVB-Deutscher Rentenfonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2143
+976686.FRK,FVB-Deutscher Aktienfonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2143
+FVBI11.SAO,FD INV IM VBI FL,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2143
+FHUD.FRK,FVB-RENTEN PLUS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+F0GBR04CG9.FRK,FVB-Deutscher Aktienfonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFMF,Vanguard US Multifactor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VFMV,Vanguard US Minimum Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VFMO,Vanguard US Momentum Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571

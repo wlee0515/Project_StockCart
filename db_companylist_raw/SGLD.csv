@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGLDF,Shoal Games Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SGLD.LON,Invesco Physical Gold ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SGLD.MIL,Invesco Physical Gold ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+SGLD.SWI,Invesco Physical Gold ETC,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

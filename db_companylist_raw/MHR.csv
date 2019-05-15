@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHR.FRK,Herman Miller Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MHR.BER,"MILLER (HERMAN)  DL-,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MHR.HAN,"MILLER (HERMAN)  DL-,20",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+MHR.MUN,"MILLER (HERMAN)  DL-,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MHR.STG,"MILLER INC., HERMAN Registered ",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MHRIL.BSE,Mahindra Holidays & Resorts India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+MHRIL.NSE,Mahindra Holidays & Resorts India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455

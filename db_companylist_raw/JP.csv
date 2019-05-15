@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JP,Jupai Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JPM,JPMorgan Chase & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JPS,Nuveen Preferred Securities Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JPC,Nuveen Preferred Income Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AMJ,JPMorgan Alerian MLP ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JPST,JPMorgan Ultra-Short Income ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+JEMSX,JPMorgan Emerging Markets Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+JPM-PD,JPMorgan Chase & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+JPI,Nuveen Preferred and Income Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JPM-PB,JPMorgan Chase & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

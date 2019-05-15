@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPG,Dorian LPG Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LPGI.JKT,PT Lippo General Insurance Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+0DA.MUN,"DORIAN LPG LTD  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3529
+0DA.FRK,Dorian LPG Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529
+BW9.FRK,BW LPG Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+0DA.BER,"DORIAN LPG LTD  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+0QIX.LON,BW LPG Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+BW9.STG,BW LPG Ltd. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LHIAX,Columbia High Yield Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LHITX,Lord Abbett High Yield T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LHG1.MUN,LHI Portunus I Genusse Gmbh,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+LHG3.MUN,LHI Portunus I Genusse Gmbh,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LHI.FRK,LIVING CELL TECHS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LHI.BER,LIVING CELL TECHS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LHI.STG,Living Cell Technologies Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+LHIN.SGP,Enviro-Hub^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+LHIS.TAV,Lachish Industries Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4000
+L03.MUN,LHI PO.I OB.IV GS.17-2030,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

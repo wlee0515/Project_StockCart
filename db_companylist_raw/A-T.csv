@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000MU9G.TRT,Sun Life MFS International Growth A-T8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2609
+F00000MU9H.TRT,Sun Life MFS International Growth A-T5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+002880.KOR,Dayou A-Tech Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000MU9A.TRT,Sun Life BlackRock Canadian Equity A-T8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000MU9B.TRT,Sun Life MFS Global Growth A-T5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1765
+F00000MU9D.TRT,Sun Life MFS Global Total Return A-T5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+F00000MU9E.TRT,Sun Life MFS Global Value A-T5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+F00000MU9F.TRT,Sun Life MFS Global Value A-T8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+F00000MU9I.TRT,Sun Life MFS International Value A-T8,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463

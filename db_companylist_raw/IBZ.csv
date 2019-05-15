@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBZL.MIL,iShares MSCI Brazil ETF USD Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+IBZL.SWI,iShares MSCI Brazil ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+IBZL.LON,iShares Public Limited Company - iShares MSCI Brazil UCITS ETF (Dist),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+IBZL.AMS,iShares Public Limited Company - iShares MSCI Brazil UCITS ETF USD (Dist),ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000

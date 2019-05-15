@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGFAX,Royce Small/Mid-Cap Premier Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RGFR,Rangeford Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RGFIX,Royce Global Financial Services Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGFTX,Russell Inv Global Infrastructure M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBILIFERGF07.BSE,SBI Life - RGF070311,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+SBILIFERGF15.BSE,SBI Life - RGF150611,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

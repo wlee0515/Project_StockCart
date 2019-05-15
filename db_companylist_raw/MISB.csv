@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MISB.MOS,Public Joint-stock Company TNS energo Mari El,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.7273
+MISBP.MOS,Public Joint-stock Company TNS energo Mari El RUB0.1 PRF(RUB),Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667

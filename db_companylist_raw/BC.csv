@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BC,Brunswick Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BCS,Barclays PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BCE,BCE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BCRX,BioCryst Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BCLI,Brainstorm Cell Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BCC,Boise Cascade Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCEI,Bonanza Creek Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCO,The Brink's Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCOR,Blucora Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCPC,Balchem Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

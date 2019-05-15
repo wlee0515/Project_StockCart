@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6AA0.FRK,AAK AB (publ.),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+6AA0.STG,"AAK AB Namn-Aktier SK 1,67",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+AAKASH-SM.NSE,AAKASH EXPLORATION,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+522201.BSE,AAKAR ENGINEERING & MANUFACTUR,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

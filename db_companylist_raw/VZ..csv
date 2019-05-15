@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VZ.ARG,Verizon Communications Inc.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+VZ.MEX,Verizon Communications Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+VZ.SWI,Verizon Communications Inc.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+VZ.VIE,Verizon Communications Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500

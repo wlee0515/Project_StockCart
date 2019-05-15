@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNK1.FRK,Heineken N.V.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+HNK1.HAN,"HEINEKEN  EO 1,60",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+HNK1.HAM,"HEINEKEN  EO 1,60",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+HNK1.MUN,"HEINEKEN  EO 1,60",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+HNK1.STG,Heineken N.V. Aandelen aan toon,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+HNK1.FRK,Heineken N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HNK2.FRK,Heineken N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HNK1.BER,"HEINEKEN  EO 1,60",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HNK1.DUS,"HEINEKEN  EO 1,60",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+HNKG_P.STG,Henkel AG & Co. KGaA Inhaber-Vo,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

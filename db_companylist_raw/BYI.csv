@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BYIN,Baying Ecological Holding Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BYI.AUS,Beyond International Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BYI.SGP,Phillip SGX APAC Dividend Leaders REIT ETF,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+BYIA.BER,ISHS AS.TR.-CSI300 A-S.I.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BYIA.DUS,ISHS AS.TR.-CSI300 A-S.I.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

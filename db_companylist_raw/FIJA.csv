@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIJAX,Fidelity Advisor NY Municipal Inc Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ES0157023039.BCL,Kutxabank Renta Fija Largo Plazo FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F0GBR058KV.BCL,Renta 4 Renta Fija PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+BHRENTAFIJAI.BCL,BH Renta Fija Europa SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3200
+IMANTIARENTA.BCL,Imantia Renta Fija Flexible FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353
+F0000006AC.BCL,Naranja Renta Fija Corto Plazo PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353
+F0GBR04Q8J.BCL,Bankinter Renta Fija Largo Plazo FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353
+CSRENTAFIJA0.BCL,CS Renta Fija 0-5 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2051

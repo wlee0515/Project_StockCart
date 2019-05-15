@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHH,Armada Hoffler Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HOFT,Hooker Furniture Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HOFD,HomeFed Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HOFBF,Hofseth BioCare ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NBH.MUN,Hoftex Group AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333

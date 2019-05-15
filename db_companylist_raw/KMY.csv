@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMY.FRK,Kimberly-Clark Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KMY.BER,"KIMBERLY-CLARK  DL 1,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KMY.DUS,"KIMBERLY-CLARK  DL 1,25",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KMY.MUN,"KIMBERLY-CLARK  DL 1,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KMY.STG,KIMBERLY-CLARK CORP. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

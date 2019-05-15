@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PEN,Penumbra Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JCP,J. C. Penney Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PENN,Penn National Gaming Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PEI,Pennsylvania Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PGHEF,Pengrowth Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PFLT,PennantPark Floating Rate Capital Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PAG,Penske Automotive Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PNR,Pentair plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PNNT,PennantPark Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PVAC,Penn Virginia Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

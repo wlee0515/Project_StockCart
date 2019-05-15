@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLLVX,JPMorgan Short Duration Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLLOF,Holloway Lodging Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HLLXF,Hellix Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HLLGY,HELLA GmbH & Co. KGaA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HLL.BER,"ELLAKTOR S.A.NAM. EO 1,03",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+HLL.MUN,"ELLAKTOR S.A.NAM. EO 1,03",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HLL.STG,Hargreaves Lansdown plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HLL.FRK,Ellaktor S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

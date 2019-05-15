@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCA,BlackRock MuniYield California Quality Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCAP,Mango Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MAMTF,MCAN Mortgage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCAGX,MFS Aggressive Growth Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCAVX,MFS CA Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCARX,MFS Conservative Allocation R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MKP.TRT,MCAN Mortgage Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+MCAS.JKT,PT M Cash Integrasi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+MCA.AUS,Murray Cod Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222

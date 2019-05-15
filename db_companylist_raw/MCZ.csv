@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCZAF,Mad Catz Interactive Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCZIX,MassMutual Premier Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCZZX,MassMutual Premier Core Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCZRX,MassMutual Premier Core Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCZ.JOH,MC Mining Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667

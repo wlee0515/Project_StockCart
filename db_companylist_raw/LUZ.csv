@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1983.HKG,Luzhou City Commercial Bank Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+LUKN.SWI,Luzerner Kantonalbank AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2609
+000568.SHZ,Luzhou Laojiao Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2609
+0QNU.LON,Luzerner Kantonalbank AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+4J6.STG,Luzerner Kantonalbank AG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+E1S.BER,LUZ SAUDE S.A.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+E1S.MUN,LUZ SAUDE S.A.  EO 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+E1S.STG,Luz Sade S.A. Aces Nominativas ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+L46.SGP,Luzhou Bio-chem Technology Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1500

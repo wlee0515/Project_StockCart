@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BTG,B2Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BTGGF,BTG plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BTGI,Bulova Technologies Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTGOF,BT Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BTG.LON,BTG plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BPAC11.SAO,Banco BTG Pactual S.A. UNITS (1 COM & 2 PRF CL'A'),Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6000
+600258.SHH,BTG Hotels (Group) Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+CFIBTGRCA.SAN,BTG PACTUAL CHILE,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.1935
+BTG4.DUS,BERTELSMANN  GEN.2001,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1667

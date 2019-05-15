@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VDIGX,Vanguard Dividend Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VDIPX,Vanguard Developed Markets Index Ins Pls,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VDITWX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VDIV.FRK,VDIV.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VDIV.FRK,THINK MORN.HIGH DIV.U.ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

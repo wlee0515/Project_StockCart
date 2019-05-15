@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKT,Tanger Factory Outlet Centers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SKTO,SK3 Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SKTPP,Skytop Lodge Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SKTAX,SEI Core Market Strategy Allc F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKTP,Skytop Lodge Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKT.FRK,Storebrand ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SKT.AUS,SKY Network Television Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SKT.BER,STOREBRAND ASA  NK 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

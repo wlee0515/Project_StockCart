@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJARX,Principal SmallCap Value II R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PJAA.JKT,PT Pembangunan Jaya Ancol Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+PJAI.BER,PICTET-WATER P (DL),ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PJAJ.BER,PICTET-JAP.EQ.OPPO.P YN,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+PJA6.FRK,PJA6.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+PJAG.FRK,Pictet - Emerging Local Currency Debt,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+PJA6.BER,PICTET - ROBOTICS PCAPEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+PJAA.STG,Pictet-Global Emerging Debt Nam,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+PJAD.DUS,PICTET-EUROL.IND.NA.PEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+PJAM.DUS,PICTET-TIMBER NAM.P DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

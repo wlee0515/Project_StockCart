@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNOA,Sonoma Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGOO,Snoogoo Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SDPAX,Snow Capital Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNOAX,Snow Capital Long/Short Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SNOCX,Snow Capital Long/Short Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SNWAX,Snow Capital Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SNWIX,Snow Capital Small Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SNWCX,Snow Capital Small Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SFOAX,Snow Capital Focused Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SFOIX,Snow Capital Focused Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

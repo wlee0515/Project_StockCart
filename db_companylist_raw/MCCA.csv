@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCCAX,MFS CA Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+MCS.LON,McCarthy & Stone plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+MCM.FRK,McCarthy & Stone plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444

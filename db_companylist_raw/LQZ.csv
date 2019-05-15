@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LQZ1.BER,THAI OIL -NVDR-  BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+LQZ.BER,THAI OIL PCL -FGN-  BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LQZ.FRK,Thai Oil Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LQZ.MUN,THAI OIL PCL -FGN-  BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LQZ.STG,Thai Oil PCL Reg. Shares (Forei,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LQZ1.FRK,Thai Oil Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LQZ1.MUN,THAI OIL -NVDR-  BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LQZ1.STG,Thai Oil PCL Reg. Shares (NVDRs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

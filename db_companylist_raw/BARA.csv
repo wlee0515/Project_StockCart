@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BARAX,Baron Asset Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+BAOB,The Baraboo Bancorporation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+BJBR.JKT,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+TOBA.JKT,PT Toba Bara Sejahtra Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+BSSR.JKT,PT Baramulti Suksessarana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+F000001XO3.BCL,Baraya Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3636
+BKP.AUS,Baraka Energy & Resources Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3636
+BVCL-EQ.NSE,BARAK VALLEY CEMEN,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+BRAN.TAV,Baran Group Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3333
+F0000002A0.BCL,Barasona de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2424

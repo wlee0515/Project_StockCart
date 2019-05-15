@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBEV,New Age Beverages Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NBEN.SWI,nebag ag,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+NBEQUILIBRIO.BCL,NB Equilibrio RV EPSV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+NBE.FRK,"ANGLO AFR.OIL+GAS LS -,05",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+NBE.STG,Anglo African Oil & Gas PLC Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+NBEURODLAR80.BCL,NB Euro/D?lar 80 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+NBEUROPA25FI.BCL,NB Europa 25,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+NBEUROPA50FI.BCL,NB Europa 50 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+NBEUROPA70FI.BCL,NB Europa 70 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

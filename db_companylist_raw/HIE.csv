@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HIE,Miller/Howard High Income Equity Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HIEMX,Virtus Vontobel Emerging Markets Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIEEX,Harbor Emerging Markets Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HIETUX,ADT 1853 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HIETSX,ADT 1811 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HIETVX,ADT 1867 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HIETTX,ADT 1830 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HIETWX,ADT 1889 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+HIETYX,ADT 1904 Strategic High 80 Divi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GPH1.MEX,"Grupo Palacio de Hierro, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2000

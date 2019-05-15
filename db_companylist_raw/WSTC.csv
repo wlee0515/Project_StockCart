@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSTCX,Ivy Science And Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+WSTIX,WSTCM Sector Select Risk Managed Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WAMIX,WSTCM Credit Select Risk Managed Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WSTEX,WSTCM Sector Select Risk Managed Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+WAMBX,WSTCM Credit Select Risk Managed Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+WSTCSTPAPR-EQ.NSE,WEST COAST PAPER M,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+WSTCSTPAPR.NSE,West Coast Paper Mills Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2222
+WSTCSTPAPR.BSE,West Coast Paper Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

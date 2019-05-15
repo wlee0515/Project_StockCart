@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QSR,Restaurant Brands International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+QSRIX,AQR Small Cap Relaxed Constraint Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSRNX,AQR Small Cap Relaxed Constraint Eq N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSRRX,AQR Small Cap Relaxed Constraint Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSR.TRT,Restaurant Brands International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+QSRN.MEX,Restaurant Brands International Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000

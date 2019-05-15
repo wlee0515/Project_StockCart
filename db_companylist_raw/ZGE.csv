@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZGEAAX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ZGEATX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGEASX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGEADX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGEAQX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGEAIX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGEAPX,Griffin Capital Essential Asset,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZGE.FRK,ZIGExN Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

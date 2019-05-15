@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSD,Morgan Stanley Emerging Markets,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MSDLX,Morgan Stanley Inst Global Strat L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLDH,FlexShares Ccy Hdgd MSDM ex-USFct TltIdx,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MSDSX,Morgan Stanley Inst Short Dur Inc IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSDAX,Wells Fargo Short Duration Govt Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSDRX,Wells Fargo Short Duration Govt Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSDIX,MainStay MacKay Unconstrained I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSDIPX,"Morgan Stanley Portfolios, Seri",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MSDJX,MainStay MacKay Unconstrained R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

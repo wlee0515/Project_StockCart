@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJR,iShares Core S&P Small-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJH,iShares Core S&P Mid-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJS,iShares S&P Small-Cap 600 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJT,iShares S&P Small-Cap 600 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJK,iShares S&P Mid-Cap 400 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJJ,iShares S&P Mid-Cap 400 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IJJP,IJJ Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IJSHF,ISHARES,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IJEAX,VY JPMorgan Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

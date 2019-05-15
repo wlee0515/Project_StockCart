@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TU,TELUS Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HEAR,Turtle Beach Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TRQ,Turquoise Hill Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TUR,iShares MSCI Turkey ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TKC,Turkcell Iletisim Hizmetleri A.S.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TUP,Tupperware Brands Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TPC,Tutor Perini Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TPB,Turning Point Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TUES,Tuesday Morning Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TUSK,Mammoth Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538

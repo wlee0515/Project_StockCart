@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIF,First Trust Energy Infrastructure Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FITB,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FITBI,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FIFAX,American Funds Income Fund of Amer F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIFRX,Franklin Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFTHX,Baron Fifth Avenue Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FSAM,Fifth Street Asset Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FIFG,First Foods Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FIFFX,Fidelity Advisor Freedom 2040 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+NXFNF,Next Fifteen Communications Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XTSA.BER,MSI-EM.MKTS DEBT NAM.A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+XTSA.MUN,MSI-EM.MKTS DEBT NAM.A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XTSA.DUS,MSI-EM.MKTS DEBT NAM.A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

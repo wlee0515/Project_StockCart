@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AC,Associated Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ACB,Aurora Cannabis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ACRX,AcelRx Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ATVI,Activision Blizzard Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ACBFF,Aurora Cannabis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ACAD,ACADIA Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AKAO,Achaogen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ACN,Accenture plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ACHC,Acadia Healthcare Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ATNM,Actinium Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

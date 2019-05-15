@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKTAY,Elekta AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EKTAF,Elekta AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EKTR4.SAO,Elektro Redes S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+EKT.LON,Elektron Technology plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EKT.DUS,ENERGIEKONTOR O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+EKT.MUN,ENERGIEKONTOR O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EKT.STG,ENERGIEKONTOR AG Inhaber-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EKT.FRK,Energiekontor AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

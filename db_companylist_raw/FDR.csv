@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDRR,Fidelity Dividend ETF for Rising Rates,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FDRVF,First Derivatives plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FDRZPX,FT 7392: Water Utility & Infras,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDRYMX,FT 7438: Dow Jones Global Titan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDRDLX,FT 7022: Value Line Target Safe,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDRKAX,FT 7369: SMid High Dividend Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FDROSX,FT 6995: Technology Select Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

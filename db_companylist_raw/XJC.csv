@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XJCEX,Nuveen Core Equity Alpha Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XJCOX,Nuveen Credit Opportunities 202,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XJCA.FRK,Centurion Minerals Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XJCA.MUN,CENTURION MINERALS LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XJCA.STG,Centurion Minerals Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

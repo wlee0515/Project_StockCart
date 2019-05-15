@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RKB.FRK,Webac Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RKB.DUS,WEBAC HOLDING AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+9407.FRK,RKB Mainichi Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1667

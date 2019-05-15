@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NIBCX,Nuveen Minnesota Intermediate Muni Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NIBC.AMS,NIBC Holding N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+4NH.FRK,NIBC Holding N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+4NH.STG,NIBC Holding N.V. Aandelen aan ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+XS0210781828.AMS,NIBC FRN21FEB40,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3810
+XS0249580357.AMS,NIBC FRNPL,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2286

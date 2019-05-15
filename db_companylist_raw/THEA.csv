@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KR5238AL9150.KOR,Richmond Private Doonsan Movie Theater Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.7273
+THEA.KLA,THREE-A RESOURCES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3200
+FR0011350701.PAR,THEAM I FX Opportunities,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+9633.TOK,"Tokyo Theatres Company, Incorporated",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2759
+532791.BSE,PYRAMID SAIMIRA THEATRE LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+F00000QJ7M.KOR,Richmond Private Doonsan Movie Theater Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2286
+F00000TO6V.KOR,Richmond Private Dongdaemoon Theater Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2000
+F00000X4W6.PAR,THEAM Quant FI High Vol Super X,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1538
+FR0010602466.PAR,THEAM Euro Long Vol I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1481
+FR0010722272.PAR,THEAM Euro Long-Dividends,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1481

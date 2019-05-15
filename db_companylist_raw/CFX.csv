@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFX,Colfax Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CFXRX,Columbia Flexible Capital Income Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFXTF,Conifex Timber Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CFX.TRT,Canfor Pulp Products Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+CFX.FRK,Capital One Financial Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CFX.BER,"CAPITAL ONE FINL  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CFX.MUN,"CAPITAL ONE FINL  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CFX.LON,Colefax Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CFX.DUS,"CAPITAL ONE FINL  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CFX.STG,CAPITAL ONE FINANCIAL CORP. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

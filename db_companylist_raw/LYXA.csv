@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYXA.FRK,Multi Units France - Lyxor UCITS ETF EuroMTS Highest Rated Macro-Weighted Govt Bond 3-5Y (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYXA.FRK,MU Lux Lyxor EURMTS HR McWtdGB(DR)ETFAcc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+LYXA.DUS,MUL-LYX.EUROMTS HRM.- A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LYXA.MUN,MUL-LYX.EUROMTS HRM.- A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+LYXA.STG,MUL-LYX.EuroMTS H.R.M.-W.G.B. I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

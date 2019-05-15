@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JOE,The St. Joe Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STJPF,St. James's Place plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+STJO,St. Joseph Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RTLGF,St. Augustine Gold and Copper Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SELSF,St. Elias Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GSTY,Green St. Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+STJ.LON,St. James's Place plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2609
+ROB.BER,ROB.GL ST.EQ.FD N.V. A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+SMP.LON,St. Modwen Properties PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400

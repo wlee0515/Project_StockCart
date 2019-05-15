@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGFN.STG,GFPT Public Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GFPT.BAK,GFPT Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+GFPT-R.BAK,GFPT Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4000

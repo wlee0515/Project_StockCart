@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIXC,Tix Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TIXRX,TIAA-CREF 5-15 Year Ldrd Tax-Exm Bd Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIXHX,TIAA-CREF 5-15 Year Ldrd Tax-Exm Bd Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

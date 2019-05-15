@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEK.TRV,Metals Creek Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+1OM.FRK,Mekonomen AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MEK.FRK,Melkior Resources Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+0HDJ.LON,Mekonomen AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+MEK.BER,MELKIOR RES INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3000
+0HDJ.ILN,MEKONOMEN AB MEKONOMEN ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727
+1OM.BER,MEKONOMEN AB O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+1OM.MUN,MEKONOMEN AB O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1818

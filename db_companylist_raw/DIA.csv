@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIA,SPDR Dow Jones Industrial Average ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DMAC,DiaMedica Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TNDM,Tandem Diabetes Care Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DCIX,Diana Containerships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+FANG,Diamondback Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+IDXG,Interpace Diagnostics Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HTGM,HTG Molecular Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DO,Diamond Offshore Drilling Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DEO,Diageo plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DSX,Diana Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

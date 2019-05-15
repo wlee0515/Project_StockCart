@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMMRX,ClearBridge Dividend Strategy R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMMDX,1919 Maryland Tax-Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMMFF,Lithium Australia NL,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LMMCX,1919 Maryland Tax-Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMMIX,1919 Maryland Tax-Free Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMMV.LON,Ossiam Lux - Ossiam Emerging Markets Minimum Variance NR,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

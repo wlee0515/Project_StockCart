@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUUB,Sub-Urban Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SUUB.BER,SUNTRUST BANKS DEP. PFD G,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

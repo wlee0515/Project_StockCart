@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGWFF,Maple Leaf Green World Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGWIX,MFS Growth Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGWRX,MFS Global Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGWBX,Madison Large Cap Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGWAX,Madison Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

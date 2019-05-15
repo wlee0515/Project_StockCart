@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000QK1G.KOR,MiraeAsset Ann Glb GrtCnsmr Swt Fdr Eq 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+K55301B95215.KOR,MiraeAsset Asia GrtCnsmr Fdr Eq-FoF1 Cpe,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+K55301B95314.KOR,MiraeAsset Glb GrtCnsmr30 FdrBd Bal1 Cpe,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301864942.KOR,MiraeAsset Glb GrtCnsmr30 Fdr Bd Bal1 A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301940882.KOR,MiraeAsset Glb GrtCnsmr30 Fdr Bd Bal1 Ae,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301940908.KOR,MiraeAsset Glb GrtCnsmr30 Fdr Bd Bal1 Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301AL0656.KOR,MiraeAsset Asia GrtCnsmr Fdr Eq-FoF 1 A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301AL0664.KOR,MiraeAsset Asia GrtCnsmr Fdr Eq-FoF 1 Ae,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301AL0672.KOR,MiraeAsset Asia GrtCnsmr Fdr Eq-FoF 1 C1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+KR5301AL0680.KOR,MiraeAsset Asia GrtCnsmr Fdr Eq-FoF 1 C2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818

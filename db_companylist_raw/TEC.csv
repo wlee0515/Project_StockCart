@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXNX,Axonics Modulation Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MU,Micron Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NIU,Niu Technologies,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+ARLO,Arlo Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+VIOT,Viomi Technology Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+LQDA,Liquidia Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+PT,Pintec Technology Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2069
+UTX,United Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2000
+MNGA,MagneGas Applied Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+A,Agilent Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1304

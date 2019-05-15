@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWK,Cushman & Wakefield plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WAKE,Wake Forest Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WORC,Wake Up Now Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+2813.TOK,Wakou Shokuhin Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+2IY.STG,Cushman and Wakefield PLC Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+4512.TOK,Wakamoto Pharmaceutical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+1888.TOK,Wakachiku Construction Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1765
+2IY.BER,"CUSHMAN WAKEF. DL,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1714
+8125.TOK,"Wakita & Co.,LTD.",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1667

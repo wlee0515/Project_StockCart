@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PX,Praxair Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PXS,Pyxis Tankers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PXLW,Pixelworks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PXD,Pioneer Natural Resources Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PXSGX,Virtus KAR Small-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+PXE,Invesco Dynamic Engy Explr & Prdtn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+PXF,Invesco FTSE RAFI Dev Mkts ex-US ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PXLG,Invesco Russell Top 200 Pure Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PXMG,Invesco Russell MidCap Pure Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PXJ,Invesco Dynamic Oil & Gas Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

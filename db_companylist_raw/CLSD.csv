@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLSD,Clearside Biomedical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+F00000P7T8.TRT,Manulife Canadian Stock Seg MLIA A Clsd,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860

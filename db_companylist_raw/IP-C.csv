@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8994.AUS,OnePath OA IP-CFS Imputation NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2581
+13033.AUS,OnePath OA IP-CFS Global Credit Inc EF,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2581
+13620.AUS,ANZ OA IP-CFS Global Credit Income NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2581
+8993.AUS,OnePath OA IP-CFS Imputation EF,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2286
+13619.AUS,ANZ OA IP-CFS Global Credit Income EF,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2286
+13621.AUS,ANZ OA IP-CFS Imputation EF,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1951
+13622.AUS,ANZ OA IP-CFS Imputation NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1951
+18517.AUS,OnePath OA FR IP-CFS Global Credit Inc,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1951
+ANZ0335AU.AUS,ANZ OA IP-CFS Imputation NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1905
+ANZ0827AU.AUS,ANZ OA IP-CFS Global Credit Income NE,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1905

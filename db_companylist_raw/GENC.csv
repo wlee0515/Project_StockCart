@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GENC,Gencor Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GNK,Genco Shipping & Trading Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNCC,Genco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GNKWF,Genco Shipping & Trading Limited WT EXP 123121,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+GENCO.BAK,General Environmental Conservation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5714
+GENCON.BSE,Generic Engineering Construction & Projects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+GNU1.FRK,Genco Shipping & Trading Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+GNU1.BER,"GENCO SHIP.+TRDG  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+GNU1.STG,Genco Shipping & Trading Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BKUTK,Bank of Utica,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BKUT,Bank of Utica,Equity,United States,09:30,16:00,UTC-05,USD,0.4706
+UTICREDITOPP.BSE,UTI Income Opportunities Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTICCPADVANT.BSE,UTI CCP Advantage Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTICHILDRENS.BSE,UTI Childrens Career Balanced Plan,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

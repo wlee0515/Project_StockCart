@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2721.TOK,J-Holdings Corp.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+F000010F3G.LON,M&G Optimal Income Euro J-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F000010F3H.LON,M&G Optimal Income USD J-H Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F000010F3I.LON,M&G Optimal Income USD J-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+F000010FSL.LON,M&G Global Macro Bond GBP J-H Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCGPY,Serco Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SECCF,Serco Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SERCX,DWS World Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SRP.LON,Serco Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+5388.TWN,Sercomm Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.4444
+SEO.FRK,Serco Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+SEO.BER,"SERCO GROUP PLC  LS-,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+SEO.FRK,"SERCO GROUP PLC  LS-,02",Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+SEO.DUS,"SERCO GROUP PLC  LS-,02",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+SEO.MUN,"SERCO GROUP PLC  LS-,02",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3478

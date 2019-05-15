@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BHR,Braemar Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BHRB,Burke & Herbert Bank & Trust Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BHRPP,Braemar Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHR-PB,Braemar Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHR-PD,Braemar Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BHRENTAFIJAI.BCL,BH Renta Fija Europa SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+BHR.TRV,Blackheath Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+BHRD.LON,Be Heard Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4615
+BHRKALM.BSE,Bhoruka Aluminium Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

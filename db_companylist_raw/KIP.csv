@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KME.AUS,Kip McGrath Education Centres Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+FR0010827469.PAR,Kiplink Entreprises,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+KIP.MIL,Kolinpharma S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.3000
+5280.KLA,KIP REAL ESTATE INVESTMENT TRUS,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3000
+F000002OBQ.PAR,Kiplink S?lection,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2727
+FR0010673509.PAR,Kiplink S?lection,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2727
+K553D0B76506.KOR,ADF KIP Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2222
+KIPAINVESTME.BCL,Kipa Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000
+F00000GUZ0.PAR,Kiplink Entreprises,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1875
+F00000WD4W.KOR,ADF KIP Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1875

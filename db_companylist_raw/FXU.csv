@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FXU,First Trust Utilities AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FXUK.MOS,FinEx Funds Public Limited Company - FinEx MSCI United Kingdom UCITS ETF,ETF,Moscow,10:00,18:45,UTC+03,RUB,0.6000
+FXUS.MOS,FinEx Funds Public Limited Company - FinEx MSCI USA UCITS ETF,ETF,Moscow,10:00,18:45,UTC+03,RUB,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNY,First Trust Mid Cap Growth AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FNYTX,Franklin NY Tax Free Income A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYIX,Franklin NY Tax Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYCX,Fidelity Advisor NY Municipal Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYAX,Franklin NY Tax Free Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYQX,Franklin NY Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYZX,Franklin NY Intermediate T/F Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYMGX,ft 7529: High Income Model Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNYPX,Fidelity Advisor NY Municipal Inc M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

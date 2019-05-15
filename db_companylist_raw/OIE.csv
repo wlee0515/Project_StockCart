@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OIEIX,JPMorgan Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEJX,JPMorgan Equity Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIERX,JPMorgan Equity Income R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEQX,JPMorgan Equity Income R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEPX,JPMorgan Equity Income R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEFX,JPMorgan Equity Income R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEMX,Oberweis Emerging Markets Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OIEAX,JPMorgan International Rsrch Enh Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OI3.FRK,Oie Sangyo Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+7481.TOK,Oie Sangyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2609

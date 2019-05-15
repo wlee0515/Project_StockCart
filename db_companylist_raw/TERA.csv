@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TERA,TeraForce Technology Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TER,Teradyne Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TDC,Teradata Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TGCDF,Teranga Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TRARF,Teras Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+TEXG,Terax Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TRAGF,TeraGo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TGZ.TRT,Teranga Gold Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857
+TGO.TRT,TeraGo Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857

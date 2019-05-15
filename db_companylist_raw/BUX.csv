@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUX.AUS,Buxton Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+3B4.FRK,Buxton Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2609
+3B4.BER,BUXTON RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+3B4.STG,Buxton Resources Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

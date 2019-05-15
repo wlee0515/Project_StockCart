@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDICX,Guggenheim Investment Grade Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+600962.SHH,SDIC Zhonglu Fruit Juice Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2500
+600886.SHH,SDIC Power Holdings CO. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2424
+150009.SHZ,UBS SDIC Ruihe CSI 300 Index Classification Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2162
+150213.SHZ,UBS SDIC Fund Management Co Ltd -Ruize CSI Innovation & Growth Index Classified Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1818
+150214.SHZ,UBS SDIC Fund Management Co Ltd -Ruize CSI Innovation & Growth Index Classified Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538
+159933.SHZ,UBS SDIC Financial Property Industry ETF,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538
+161213.SHZ,UBS SDIC CSI Downstream Consumption and Services Industry Index Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538
+161216.SHZ,UBS SDIC Corporate Bond Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538
+161217.SHZ,UBS SDIC CSI Upstream Resources Industry Index Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538

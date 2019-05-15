@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTJSY,Pt Jasa Marga (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+JSMR.JKT,Pt Jasa Marga (Persero) Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4444
+IMJS.JKT,PT Indomobil Multi Jasa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+JMAS.JKT,PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+0JM.BER,PT JASA MARGA  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+I3J.BER,ICTSI JASA PRIMA  RP 500,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3200
+ASJT.JKT,PT Asuransi Jasa Tania Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+IPCM.JKT,PT Jasa Armada Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2581
+603558.SHH,Zhejiang Jasan Holding Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2500
+0JM.FRK,Pt Jasa Marga (Persero) Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1905

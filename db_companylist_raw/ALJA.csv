@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALJABADEINVE.BCL,Aljaba de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+ALJAMIS98SIC.BCL,Aljamis 98 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000001XPV.BCL,Aljaba de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+F00000T326.BCL,Aljamis 98 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581

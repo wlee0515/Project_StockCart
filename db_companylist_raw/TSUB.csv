@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8052.TOK,Tsubakimoto Kogyo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+TSB.FRK,Tsubakimoto Chain Co.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+6371.TOK,Tsubakimoto Chain Co.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2581
+6464.TOK,Tsubaki Nakashima Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2581

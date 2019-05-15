@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EBF,Ennis Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XNGSY,ENN Energy Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4286
+2688.HKG,ENN Energy Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3333
+ENN.AUS,Elanor Investors Group STAPLED SECURITIES,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2609
+FX6A.BER,ENNOX GROUP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+600803.SHH,ENN Ecological Holdings Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2000
+XGH.FRK,ENN Energy Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+XGH.STG,ENN Energy Holdings Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+6414.TWN,Ennoconn Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1714

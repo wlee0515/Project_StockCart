@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBIN,Dacotah Banks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DBIRX,Dreyfus Bond Market Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DBISX,DWS Global Macro A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DBIVX,DWS Global Macro S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

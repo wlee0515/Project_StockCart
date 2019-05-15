@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EDSFF,Exceed Company Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EDSB.KLA,EDARAN BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+EDSE.DUS,ABERD.ST.PHY.PR.MET.BA.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+EDSF.DUS,ASST-STAND.PHY.SILV.SHS.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+EDSG.BER,ABERD.STAND.PHYS.SW.GOLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+EDSG.MUN,ABERD.STAND.PHYS.SW.GOLD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+EDSL.BSE,eDynamics Solutions Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+F00000JY9W.TRT,Manulife Wld Invmt(Cap)GIF Sel InvP EDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

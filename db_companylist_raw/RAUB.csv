@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+B7P.BER,"RAUBEX GROUP LTD  RC -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+B7P.FRK,Raubex Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+RBX.JOH,Raubex Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2759

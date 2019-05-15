@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GQEPX,GQG Partners US Select Quality Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQEFX,GMO Quality IV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQEIX,GQG Partners US Select Quality Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQETX,GMO Quality III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQERX,GQG Partners US Select Quality Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQEA.STG,Lazard European HighYield Inhab,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GQEA.FRK,LAZARD EUROPEAN HIGHYIELD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+GQEA.BER,LAZARD EUROPEAN HIGHYIELD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GQEA.DUS,LAZARD EUROPEAN HIGHYIELD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GQEA.HAM,LAZARD EUROPEAN HIGHYIELD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHAG,Alpha Technologies Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHAP.JKT,PT Asuransi Harta Aman Pratama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+AHL.AUS,AHAlife Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+AEE1.BER,AEE AHAUS-ENSCH.AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AEE1.DUS,AEE AHAUS-ENSCH.AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+AHAF.AMS,Allianz Holland Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2857

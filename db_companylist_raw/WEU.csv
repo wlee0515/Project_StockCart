@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEUSX,SEI World Equity Ex-US A (SIIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WEUM,Western United Mines Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WEU1.FRK,Westell Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WEU1.DUS,"WESTELL TECHS A  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

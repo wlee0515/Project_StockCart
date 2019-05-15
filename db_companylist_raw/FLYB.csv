@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLYBF,Flybe Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+FLYB.LON,Flybe Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+FY0.FRK,Flybe Group PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FY0.BER,"FLYBE GROUP PLC  LS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+FY0.STG,Flybe Group PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

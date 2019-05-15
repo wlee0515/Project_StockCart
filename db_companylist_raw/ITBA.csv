@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITBAX,Hartford Total Return Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ITBA.FRK,Imperial Brands PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ITBA.BER,IMPERIAL BRANDS PLC ADR/1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ITBA.FRK,IMPERIAL BRANDS PLC ADR/1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

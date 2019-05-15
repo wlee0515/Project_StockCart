@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LSUG.MIL,ETFS 2x Daily Long Sugar ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+LSU2.FRK,Land Securities Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LSUG.LON,ETFS 2x Daily Long Sugar ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+LSU2.BER,LAND SECURITIES GROUP PLC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LSU2.DUS,LAND SECURITIES GROUP PLC,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LSU2.STG,Land Securities Group PLC Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

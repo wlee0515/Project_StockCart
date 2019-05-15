@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCGI,MedCareers Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MEDCX,MFS Emerging Markets Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7273
+PTGIF,PT Medco Energi Internasional Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MEDC.JKT,PT Medco Energi Internasional Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+MEDCL.PAR,MedinCell S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4444
+MEF.FRK,PT Medco Energi Internasional Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+MEF.BER,MEDCO ENERGI INTL  RP 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+MEF.MUN,MEDCO ENERGI INTL  RP 25,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+MEF.STG,"MEDCO ENERGI INTL TBK, PT Regis",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2162

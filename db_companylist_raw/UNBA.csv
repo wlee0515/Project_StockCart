@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNBA.FRK,Kindred Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+UNBA.STG,Unibet Group plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+UNBA.BER,"KINDRED GR.PLC LS-,000625",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

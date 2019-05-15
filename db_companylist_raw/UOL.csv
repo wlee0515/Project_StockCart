@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTOS.SGP,UOL,Equity,Singapore,09:00,17:00,UTC+08,SGD,1.0000
+UOLGF,UOL Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UOLGY,UOL Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UOLI,Uonlive Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+U14.SGP,UOL Group Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000
+U1O.FRK,UOL Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+U1O.STG,UOL Group Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+U1O.BER,UOL GROUP LTD.  SD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3000

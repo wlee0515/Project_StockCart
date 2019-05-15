@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QEP,QEP Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QES,Quintana Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QEPC,Q.E.P. Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QEGY,Quantum Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QED,IQ Hedge Event-Driven Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QEDN,QED Connect Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QEFA,SPDR MSCI EAFE StrategicFactors ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QEXXF,Quattro Exploration and Production Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QEMM,SPDR MSCI Emerging Mkts StratcFacts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+QNXC,QENEX Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

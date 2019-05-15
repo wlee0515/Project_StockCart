@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAHD,New Asia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NAH.LON,NAHL Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NAHARSPING.BSE,Nahar Spinning Mills Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+NAHARSPING.NSE,Nahar Spinning Mills Ltd,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+NAH.FRK,Natural Health Trends Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4286
+NAH.STG,Natural Health Trends Corp.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+NAHARCAP.BSE,Nahar Capital and Financial Services Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+NAHARCAP.NSE,Nahar Capital and Financial Services Ltd.,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+NAHARPOLY.BSE,Nahar Poly Films Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+NAHARPOLY.NSE,Nahar Poly Films Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WWE,World Wrestling Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WWEMX,Westwood Emerging Markets Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WWEAX,Westwood Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WWEXF,WAI Capital Investments Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

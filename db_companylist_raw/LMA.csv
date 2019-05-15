@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMAT,LeMaitre Vascular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LMASX,ClearBridge Small Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMAOX,BrandywineGLOBAL Alternative Credit FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMARX,ClearBridge Small Cap R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMANX,BrandywineGLOBAL Alternative Credit I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMAMX,BrandywineGLOBAL Alternative Credit IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMAPX,BrandywineGLOBAL Alternative Credit A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMAQX,BrandywineGLOBAL Alternative Credit C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMAS.JKT,PT Limas Indonesia Makmur Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

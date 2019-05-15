@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0777.HKG,NetDragon Websoft Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+3ND.FRK,NetDragon Websoft Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+3ND.BER,NETDRAGON WEBS.HLDG.DL-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+3ND.STG,NetDragon Websoft Holdings LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2105

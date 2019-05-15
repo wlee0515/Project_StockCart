@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOOG,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GOOGL,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+APT,Alpha Pro Tech Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AOSL,Alpha and Omega Semiconductor Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SBIO,ALPS Medical Breakthroughs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3750
+ATEC,Alphatec Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+SDOG,ALPS Sector Dividend Dogs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+GNAL,Generation Alpha Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AWP,Alpine Global Premier Properties Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+AOD,Alpine Total Dynamic Dividend Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

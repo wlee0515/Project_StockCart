@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCKIY,Babcock International Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BCKIF,Babcock International Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BCK.TRV,Blind Creek Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+BCK.AUS,Brockman Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+BCK.FRK,blockescence plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+BCK.FRK,blockescence plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BCK.BER,BLOCKESCENCE PLC  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHTC.FRK,MFS Meridian Funds - European Core Equity Fund,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FHTC.BER,MFS M.-EURO.CORE EQ.A1 EO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FHTC.HAM,MFS M.-EURO.CORE EQ.A1 EO,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+FHTC.MUN,MFS M.-EURO.CORE EQ.A1 EO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FHTC.DUS,MFS M.-EURO.CORE EQ.A1 EO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

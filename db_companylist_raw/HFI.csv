@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFIL.BSE,HIMALAYA FOOD INTERNATIONAL LI,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+F00000WIWH.KOR,Hi HFI Professional Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+K55104B84613.KOR,Hi HFI Professional Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429

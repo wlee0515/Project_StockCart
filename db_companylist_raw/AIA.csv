@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AIA,iShares Asia 50 ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+AAGIY,AIA Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIGF,AIA Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AIANX,American Century Inflation Adjs Bond R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIAGX,Aberdeen Realty Income & Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIARX,American Century Inflation Adjs Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIAVX,American Century Inflation Adjs Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIAYX,American Century Inflation Adjs Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIADX,American Century Inflation-Adjs Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AIAFX,Aberdeen Global Infrastructure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

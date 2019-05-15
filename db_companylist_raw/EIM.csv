@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EIM,Eaton Vance Municipal Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EIMDX,Eaton Vance MD Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIMNX,Eaton Vance MN Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIMOX,Eaton Vance MO Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIMGX,Eaton Vance Tx-Mgd Small-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIMAX,Eaton Vance MA Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIMI.LON,iShares Core MSCI EM IMI ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EIMU.LON,iShares Core MSCI EM IMI ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EIMI.MIL,iShares Core MSCI EM IMI ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

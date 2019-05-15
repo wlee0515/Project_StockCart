@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RELDIVOPP.NSE,Reliance ETF Dividend Opportunities,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+RELDIVOPP-EQ.NSE,RELIANCE MUTUAL FD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4211

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSEA.BER,NOMURA HLDGS ADR/1 O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+NSEA.FRK,Nomura Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+NSEA.STG,New Sources Energy NV,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

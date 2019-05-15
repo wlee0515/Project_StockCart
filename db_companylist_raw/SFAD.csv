@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UFUT.BER,UBS(CH)-C.O.SF(CHF)H SFAD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+UFUN.BER,UBS ETF (CH) - SMI SFAD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+UFUN.DUS,UBS ETF (CH) - SMI SFAD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2963
+UFUT.DUS,UBS(CH)-C.O.SF(CHF)H SFAD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759

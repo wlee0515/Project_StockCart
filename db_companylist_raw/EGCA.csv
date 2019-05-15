@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGCA.BER,"EGAIN CORP. (NEW) DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+EGCA.FRK,"EGAIN CORP. (NEW) DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+EGCA.STG,eGain Corp. Registered Shs (new,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

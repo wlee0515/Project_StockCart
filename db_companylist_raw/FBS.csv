@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBSOX,Fidelity Select IT Services,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBSS,Fauquier Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBSI,First Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSRX,Franklin Balance Sheet Investment R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSAX,Franklin Balance Sheet Investment Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSWTX,FT 7259: 75/25 Strategic Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSTX,Fidelity Flex Short-Term Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSCX,Nuveen Short-Term Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBSIX,Franklin Balance Sheet Investment R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

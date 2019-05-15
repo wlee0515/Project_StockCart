@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFA,Brown-Forman Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BFAM,Bright Horizons Family Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFACX,American Funds Bond Fund of Amer C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFAFX,American Funds Bond Fund of Amer F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSBCF1B7.MEX,HSBCF1+ BFA,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+HSBCBOLBFA.MEX,HSBCBOL BFA,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HSBCD2BFA.MEX,HSBC-D2 BFA,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+BFA.LON,BASF SE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4286
+HSBCF2BFA.MEX,HSBC-F2 BFA,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HSBCDOLB6.MEX,HSBCDOL BFA,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HQK.FRK,Boral Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HQK.MUN,BORAL LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HQK.STG,BORAL LTD. Registered Shares o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HQK.DUS,BORAL LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HQK.HAM,BORAL LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

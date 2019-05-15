@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VDC,Vanguard Consumer Staples ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+VDCO.AUS,Vanguard Diversified Conservative ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667
+VDC.MEX,Vanguard Consumer Staples ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+VDCP.LON,Vanguard USD Corporate Bond ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

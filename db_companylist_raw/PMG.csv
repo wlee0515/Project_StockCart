@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMGYF,Perpetual Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMGJX,Principal MidCap Growth J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMGRX,Principal Government & High Qual Bd R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMG.LON,The Parkmead Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

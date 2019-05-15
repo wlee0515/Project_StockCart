@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BKPPF,Block One Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKPIX,ProFunds Banks UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BKPSX,ProFunds Banks UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BKP.AUS,Baraka Energy & Resources Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BKP6.FRK,Piraeus Bank S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BKPE.FRK,Piraeus Bank S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+U2I5.FRK,BKP Classic Fonds UI,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+BKP6.BER,PIRAEUS BANK  EO 6,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BKP6.DUS,PIRAEUS BANK  EO 6,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+BKP6.MUN,PIRAEUS BANK  EO 6,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2609

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QSC.STG,QSC AG Namens-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+QSCCX,Oppenheimer Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSCNX,Oppenheimer Mid Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSCYX,Oppenheimer Mid Cap Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QSCIX,Oppenheimer Mid Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QSC.FRK,QSC AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+0CHZ.LON,QSC AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+QSC.BER,QSC AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+QSC.DUS,QSC AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+QSC.HAN,QSC AG NA O.N.,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667

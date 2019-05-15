@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JNBSX,JPMorgan Income Builder I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JNBAX,JPMorgan Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JNBCX,JPMorgan Income Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JNBZX,JPMorgan Income Builder R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+3306.HKG,JNBY Design Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2727

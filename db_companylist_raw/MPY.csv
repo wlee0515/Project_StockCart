@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MPYIX,Meritage Yield-Focus Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPYEX,Meritage Yield-Focus Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPY.FRK,Great Wall Pan Asia Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MPY.BER,"GREAT WALL PAN ASI.HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MPY.MUN,"GREAT WALL PAN ASI.HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

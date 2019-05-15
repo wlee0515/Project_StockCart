@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAFFX,Lord Abbett Affiliated A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCMLY,LafargeHolcim Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFVX,Lord Abbett Affiliated R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFCX,Lord Abbett Affiliated C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFAX,Columbia Acorn International Sel A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFSX,Lord Abbett Affiliated R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCMLF,LafargeHolcim Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFBX,Lord Abbett Affiliated B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAFIX,Western Asset Macro Opportunities FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LAFYX,Lord Abbett Affiliated I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3000

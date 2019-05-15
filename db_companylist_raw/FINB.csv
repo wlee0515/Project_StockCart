@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGL.JOH,Finbond Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4211
+FRI.AUS,Finbar Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+FINBAINVERSI.BCL,Finba Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3529
+F00000NR3G.BCL,Finba Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3200

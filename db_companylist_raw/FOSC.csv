@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOSCX,Tributary Small Company Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FHNIY,The Foschini Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TFG.JOH,The Foschini Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636
+F1WA.BER,"THE FOSCHINI GRP RC-,0125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+TFGP.JOH,The Foschini Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2667

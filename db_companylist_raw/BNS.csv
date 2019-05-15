@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNS,The Bank of Nova Scotia,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BNSO,Bonso Electronics International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BNSCX,UBS US Small Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNSBX,State Farm Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNSAX,State Farm Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNS.TRT,The Bank of Nova Scotia,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+BSC.TRT,BNS Split Corp II,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+BNS-PI.TRT,BNS PREFERRED SHARES SERIES 40,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+BSC-PC.TRT,BNS SPLIT CORP II PREF B SERIES,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BNS-PB.TRT,BNS PREFERRED SHARES SERIES 21,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333

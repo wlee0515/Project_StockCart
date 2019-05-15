@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JHG,Janus Henderson Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+JFRDX,Janus Henderson Forty D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963
+JNRFX,Janus Henderson Research D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+JABAX,Janus Henderson Balanced T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+JAENX,Janus Henderson Enterprise T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+JAGLX,Janus Henderson Global Life Sciences T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+JAGTX,Janus Henderson Global Technology T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JAGIX,Janus Henderson Growth And Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2051
+JMGRX,Janus Henderson Enterprise I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2051
+JAMRX,Janus Henderson Research T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1905

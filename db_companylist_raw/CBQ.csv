@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBQS.LON,The Commercial Bank (P.S.Q.C.),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CBQ1.FRK,EA Education Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CBQS.ILN,THE COMMERCIAL BANK OF QATAR (Q,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

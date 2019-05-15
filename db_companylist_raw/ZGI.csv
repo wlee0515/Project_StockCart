@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZGI.TRT,BMO Global Infrastructure ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+GB00B82D7569.LON,Threadneedle Em Market Bd 5 ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B882KH00.LON,Threadneedle Strategic Bond ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+GB00B8844J65.LON,Threadneedle Glbl Bd ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+F00000OU8W.LON,Threadneedle Glbl Bd ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+F00000OU92.LON,Threadneedle Strategic Bond ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+F00000PPN0.LON,Threadneedle Em Market Bd 5 ZGI,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765

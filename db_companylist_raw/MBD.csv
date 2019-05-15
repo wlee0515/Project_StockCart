@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBDIX,MFS Corporate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MBDLX,AMG GW&K Core Bond Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBDFX,AMG GW&K Core Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBDRX,MainStay Balanced R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBDE,Morris Business Development Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBDBX,MSVIF Emerging Mkts Debt Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBD.BER,ARQ GROUP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

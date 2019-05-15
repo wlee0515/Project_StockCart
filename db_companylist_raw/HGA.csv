@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGASX,Hennessy Gas Utility Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGATX,Janus Henderson All Asset T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGADX,Janus Henderson All Asset D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGARX,Janus Henderson All Asset N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGAQX,Janus Henderson All Asset S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGAAX,Hartford Global Advisers HLS IA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGACX,Janus Henderson All Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGAIX,Janus Henderson All Asset I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FR0012008688.PAR,HGA Mon?taire ISR I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2727
+F00000WHJ6.PAR,HGA Obligations vertes ISR R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRWIX,AMG Managers Brandywine I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWAX,MFS Blended Research Growth Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWSX,MFS Blended Research Growth Eq R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWVX,MFS Blended Research Growth Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWBX,MFS Blended Research Growth Eq B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWUX,MFS Blended Research Growth Eq R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWRX,MFS Blended Research Growth Eq R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWCX,MFS Blended Research Growth Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWTX,MFS Blended Research Growth Eq R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BRWJX,MFS Blended Research Growth Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

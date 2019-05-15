@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPTCX,GuidePath Conservative Allocation Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GPTX,Global Payment Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GPTRF,Grande Portage Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPTC,Golden Patriot Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPTUX,GuidePath Tactical Allocation Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPT.AUS,GPT Group Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+GPT.DUS,GENUINE PARTS  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GPT.STG,GENUINE PARTS CO. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+46T.FRK,GPT Group Stapled Securities,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GPT.FRK,Genuine Parts Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

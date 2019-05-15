@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGOVX,Vanguard Emerging Mkts Govt Bd Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGOMSX,Investment Grade Income Tr 20+Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGOSX,Voya Large-Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGORX,Voya Large-Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VGOMFX,Investment Grade Municipal Tr S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VGOV.LON,Vanguard UK Gilt ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+VGOV.FRK,VANG.U.K. GILT U.ETF LSD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VGOV.MUN,VANG.U.K. GILT U.ETF LSD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+VGOV.FRK,VANG.U.K. GILT U.ETF LSD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

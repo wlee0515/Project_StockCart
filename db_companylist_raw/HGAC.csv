@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGACX,Janus Henderson All Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+GB00BMMV4J16.LON,Artemis Pan-European Abs Ret I GBP HgAcc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000TWAF.LON,Artemis Pan-European Abs Ret I GBP HgAcc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

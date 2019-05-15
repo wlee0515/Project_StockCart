@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRDR,Laredo Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LRDC,Laredo Oil Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LRD.FRK,"LUNA INOVATIONS  DL-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LRD.BER,"LUNA INOVATIONS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

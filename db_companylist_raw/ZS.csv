@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZS,Zscaler Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ZSAN,Zosano Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ZSL,ProShares UltraShort Silver,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+ZSTN,ZST Digital Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZSCIX,Zacks Small-Cap Core Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ZSCCX,Zacks Small-Cap Core Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ZSILF,ZKB Silver ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

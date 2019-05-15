@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFG,Mizuho Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MZHOF,Mizuho Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZAX,Invesco Multi-Asset Inflation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZSX,Invesco Multi-Asset Inflation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZRX,Invesco Multi-Asset Inflation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZFX,Invesco Multi-Asset Inflation R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZYX,Invesco Multi-Asset Inflation Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIZCX,Invesco Multi-Asset Inflation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MIZIX,MassMutual Premier International Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZTFF,MIZRAHI TEFAHOT BK,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

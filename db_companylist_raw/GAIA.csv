@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAIA,Gaia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GA6.BER,"GAIA INC. A  DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GA6.FRK,Gaia Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+GAI.JOH,GAIA Infrastructure Capital Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4000

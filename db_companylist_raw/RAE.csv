@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIXAX,PIMCO RAE PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+PXTIX,PIMCO RAE PLUS Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+PIXCX,PIMCO RAE PLUS C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PEAFX,PIMCO RAE Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PIXPX,PIMCO RAE PLUS I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609
+PEFIX,PIMCO RAE PLUS EMG Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PEFPX,PIMCO RAE PLUS EMG I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PTRCX,PIMCO RAE Fundamental Advantage PLUS C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PKAIX,PIMCO RAE US Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PTFAX,PIMCO RAE Fundamental Advantage PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TA-PD.TRT,TRANSALTA CORP PRFD SERIES A,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+TA-PH.TRT,TRANSALTA CORP PREF SH SERIES E,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+TA-PJ.TRT,TRANSALTA CORP PREF SERIES G,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+ISRL.LON,iShares IV Public Limited Company - iShares TA-35 Israel UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+TA-PF.TRT,TRANSALTA CORP PREF SERIES C,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+TASE.LON,iShares TA-35 Israel ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+2478.TWN,TA-I Technology Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.0870

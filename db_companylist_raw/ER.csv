@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERIC,Telefonaktiebolaget LM Ericsson (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ERX,Direxion Daily Energy Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+ERBB,American Green Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ERI,Eldorado Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ERY,Direxion Daily Energy Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+EROS,Eros International Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ERF,Enerplus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ERII,Energy Recovery Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ERJ,Embraer S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ERIE,Erie Indemnity Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

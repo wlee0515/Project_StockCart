@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOMAX,James Alpha Momentum A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F000001W1Y.PAR,Palatine Moma B,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4706
+F0GBR06785.PAR,Palatine Moma,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4706
+FR0007039441.PAR,Palatine Moma,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4211
+FR0010611335.PAR,Palatine Moma B,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4211
+F00000ZTID.PAR,Palatine Moma Mon?taire C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4211
+F00000ZTIE.PAR,Palatine Moma Mon?taire D,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2759
+F00000ZWX1.PAR,Palatine Moma S,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2759

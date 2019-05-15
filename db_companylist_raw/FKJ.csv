@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FKJ1.FRK,Oclaro Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FKJ1.BER,"OCLARO INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FKJ1.MUN,"OCLARO INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FKJ1.STG,Oclaro Inc. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

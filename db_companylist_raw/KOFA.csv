@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOFAA.PAR,"KOF2,87918MAY24",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+KOFAB.PAR,"KOF3,20418MAY25",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

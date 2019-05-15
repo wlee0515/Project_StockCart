@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSGX,Histogenics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HSGFX,Hussman Strategic Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHOX,Fidelity Select Construction & Hsg Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FR0011973601.PAR,H2O Allegro HSGD-R C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6667
+HSG.FRK,"The Hongkong and Shanghai Hotels, Limited",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2609
+HSG.BER,H.K. SHANGHAI HOT.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

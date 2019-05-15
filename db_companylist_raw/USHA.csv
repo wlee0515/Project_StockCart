@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USHA-P.TRV,Usha Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+USHAMART.NSE,Usha Martin Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+UMESLTD-EQ.NSE,USHA MARTIN EDU,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+513464.BSE,USHA IRON & FERRO METALS CORPO,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+UCL-SM.NSE,USHANTI COLOUR CHE,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+UMESLTD.BSE,Usha Martin Education & Solutions Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UMESLTD.NSE,Usha Martin Education & Solutions Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+USHAMART.BSE,Usha Martin Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+911773.BSE,USHA IRON &F,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+912195.BSE,USHA ISPAT L,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MQGIX,MFS International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MQG.AUS,Macquarie Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+MQG.MUN,MEDUSA MINING LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MQG.FRK,Medusa Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MQG.BER,MEDUSA MINING LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MQG.DUS,MEDUSA MINING LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MQG.HAM,MEDUSA MINING LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+MQG.STG,Medusa Mining Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MQGCD.AUS,MQGCD.AX,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455

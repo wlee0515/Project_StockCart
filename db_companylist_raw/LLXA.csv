@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLXA.DUS,SWISS RK DACH.-RENDITE A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LLXA.HAM,SWISS RK DACH.-RENDITE A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+LLXA.STG,Swiss Rock Sicav,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

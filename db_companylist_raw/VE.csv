@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGAZ,VelocityShares 3x Inv Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+UGAZ,VelocityShares 3x Long Natural Gas ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VZ,Verizon Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TVIX,VelocityShares Daily 2x VIX ST ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VSTM,Verastem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UWT,VelocityShares 3x Lng Crude Oil ETN New,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VRTX,Vertex Pharmaceuticals Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.1026
+DWT,VelocityShares 3x Invrs Crude Oil ETNNew,ETF,United States,09:30,16:00,UTC-05,USD,0.1000
+VCEL,Vericel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.0976
+VEEV,Veeva Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.0952

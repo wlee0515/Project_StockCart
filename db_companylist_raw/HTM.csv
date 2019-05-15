@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HTMNX,Heitman US Real Estate Secs Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HTMIX,Heitman US Real Estate Secs Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HTMEDIA.NSE,HT Media Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+AT0000A0AJ95.VIE,VBV HTM FONDS,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.4615
+AT0000A0CU31.VIE,Vorsorge HTM Portfolio 1,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.4615
+HTMX11.SAO,FD INV IM HOTEL MA,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3750
+HTMEDIA.BSE,HT Media Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+AT0000A0DEZ3.VIE,VBV HTM FONDS 2,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2222
+AT0000A0DYH9.VIE,VORSORGE HTM PORTFOLIO 2,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPLK,Splunk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPLV,Invesco S&P 500 Low Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+NSPDF,Naturally Splendid Enterprises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPLIF,Nutritional High International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPLG,SPDR Portfolio Large Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPLP,Steel Partners Holdings L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPLB,SPDR Portfolio Long Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BSSTF,SOUNDVEST SPLIT TR,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LFBCF,Life & Banc Split Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SPLY,SocialPlay USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

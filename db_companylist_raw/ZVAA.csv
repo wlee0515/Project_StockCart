@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZVAA.BER,"CELLECTIS SP.ADR 1 EO-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+ZVAA.FRK,Cellectis S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ZVAA.STG,Cellectis Act.Nom.(Sp.ADRs)/1 E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

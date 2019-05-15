@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMAT,LeMaitre Vascular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LEMB,iShares JP Morgan EM Local Ccy Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMIF,Leading Edge Materials Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMCX,Lord Abbett Emerging Markets Local Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMKX,Lord Abbett Emerging Markets Local Bd R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMLX,Lord Abbett Emerging Markets Local Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMVX,Lord Abbett Emerging Markets Local Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMRX,Lord Abbett Emerging Markets Local Bd R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMFX,Lord Abbett Emerging Markets Local Bd F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LEMNX,Mondrian Emerging Markets Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

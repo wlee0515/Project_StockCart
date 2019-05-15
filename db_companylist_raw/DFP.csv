@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFP,Delphi Financial Group Inc. JR SUB DEB,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DFPRX,DFA Global Allocation 60/40 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFPIX,Dreyfus Diversified International I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFPCX,Dreyfus Diversified International C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFPAX,Dreyfus Diversified International A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

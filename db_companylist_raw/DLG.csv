@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLGNF,Dialog Semiconductor Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DLGEF,Digital Garage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLGI,DataLogic International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLGCF,Datalogic S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLGBX,DoubleLine Global Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLG.FRK,Dialog Semiconductor Plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+DLG.FRK,Dialog Semiconductor Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DLG.LON,Direct Line Insurance Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DLG.MIL,De'Longhi S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+DLG.BER,"DIALOG SEMICOND.  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

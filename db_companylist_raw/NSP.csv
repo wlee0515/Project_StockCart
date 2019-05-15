@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSP,Insperity Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NSPR,InspireMD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NSPDF,Naturally Splendid Enterprises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NSPX,Inspyr Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NSPIX,Voya SmallCap Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSPAX,Voya SmallCap Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSPCX,Voya SmallCap Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSPT,Newron Sport,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSP.TRV,Naturally Splendid Enterprises Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

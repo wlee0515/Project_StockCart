@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFBIX,iShares US Aggregate Bond Index K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFBFX,American Funds Capital World Bond F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFBRX,Wells Fargo Target 2015 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFBCX,Wells Fargo Moderate Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

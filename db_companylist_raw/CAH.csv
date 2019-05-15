@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAH,Cardinal Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CAHPF,Evolution Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAHEX,Calamos Hedged Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAHIX,Cavalier Hedged High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CEKA.JKT,PT Wilmar Cahaya Indonesia Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+CAKK.JKT,PT Cahayaputra Asa Keramik Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+UNIC.JKT,PT Unggul Indah Cahaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+CAHGBD.SWI,UBS ETF MSCI Canada GBPH A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.2400
+2852.KLA,Cahya Mata Sarawak Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2069
+6CK1.STG,PT Wilmar Cahaya Indonesia Tbk.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

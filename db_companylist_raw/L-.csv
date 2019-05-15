@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LKB.FRK,L-Konzept Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+L-PB.TRT,LOBLAW COMPANIES LTD 2ND PREF S,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857

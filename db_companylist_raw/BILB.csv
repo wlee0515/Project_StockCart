@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BBVXF,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BBVA.MEX,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4444
+BILB.LON,Bilby Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+BOY.FRK,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BBVA.VIE,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4000
+BVA.LON,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+BBV.ARG,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3636
+BBV.BRU,"Banco Bilbao Vizcaya Argentaria, S.A.",Equity,Brussels,09:00,17:00,UTC+01,EUR,0.2222

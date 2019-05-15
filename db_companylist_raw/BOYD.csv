@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BYD,Boyd Gaming Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BWDIX,Boyd Watterson Limited Dur Enh Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BFGIF,Boyd Group Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+BWDTX,Boyd Watterson Limited Dur Enh Inc I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+BYD-UN.TRT,Boyd Group Income Fund,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BO5.FRK,Boyd Gaming Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+BO5.BER,"BOYD GAMING CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+BO5.MUN,"BOYD GAMING CORP.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+BO5.STG,BOYD GAMING CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+BYD_U.TRT,BOYD GROUP INCOME FUND,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3077

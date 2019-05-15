@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWLK,ReWalk Robotics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RWM,ProShares Short Russell2000,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RWT,Redwood Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RWR,SPDR Dow Jones REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RWX,SPDR Dow Jones International RelEst ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RWEOY,RWE Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RWL,Oppenheimer S&P 500 Revenue ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+RWMGX,American Funds Washington Mutual R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RWO,SPDR Dow Jones Global Real Estate ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+RWJ,Oppenheimer S&P SmallCap 600 Revenue ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

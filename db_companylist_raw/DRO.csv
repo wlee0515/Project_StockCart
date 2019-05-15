@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBX,Dropbox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DCAR,DropCar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DRUS,Drone USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DRNE,Drone Aviation Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IFLY,ETFMG Drone Economy Strategy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+TAKOF,Drone Delivery Canada Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DRSHF,DroneShield Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+DROP,Fuse Science Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DRNG,Drone Guarder Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1714

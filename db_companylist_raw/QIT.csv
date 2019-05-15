@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QIT.TRV,Quinto Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+QIT1.FRK,CIT Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QIT1.BER,"CIT GROUP INC. NEW DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+QIT1.STG,CIT Group Inc. New Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

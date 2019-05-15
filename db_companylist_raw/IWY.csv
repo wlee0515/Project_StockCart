@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWY,iShares Russell Top 200 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IWY1.DUS,SIFY TECHNO.LTD.ADR IR 10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+IWY1.FRK,Sify Technologies Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+IWY1.BER,SIFY TECHNO.LTD.ADR IR 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IWY1.MUN,SIFY TECHNO.LTD.ADR IR 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+IWY1.STG,Sify Technologies Ltd. Reg. Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

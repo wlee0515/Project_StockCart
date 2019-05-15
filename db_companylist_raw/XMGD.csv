@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XMGD.FRK,X(IE)-MORNING.GL Q.DIV.1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+XMGD.FRK,X(IE)-MORNING.GL Q.DIV.1D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XMGD.LON,X Morningstar Global Quality Dividend ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273

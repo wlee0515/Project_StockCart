@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFKFX,Hartford Schroders Tax-Aware Bond F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFKYX,Hartford Schroders Tax-Aware Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFKVX,Hartford Schroders Tax-Aware Bond SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFKCX,Hartford Schroders Tax-Aware Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HFK.BER,ENERGI MEGA PERSADA RP800,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HFK.MUN,ENERGI MEGA PERSADA RP800,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HFK.STG,"Energi Mega Persada TBK, PT Reg",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

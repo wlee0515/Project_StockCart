@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMPI,DelMar Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DMPIX,DWS RREEF MLP & Energy Infras Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMPZF,Domino's Pizza Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMPSX,DWS RREEF MLP & Energy Infras S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMPAX,DWS RREEF MLP & Energy Infras A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMPCX,DWS RREEF MLP & Energy Infras C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMP.AUS,Domino's Pizza Enterprises Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+DMPRESOURCEC.TRT,DMP Resource Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+DMP.FRK,Dermapharm Holding SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+F0CAN06ZC6.TRT,DMP Value Balanced Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222

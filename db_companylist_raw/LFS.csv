@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFSYF,Lifestyle International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LFSYY,Lifestyle International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LFS.FRK,Littelfuse Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LFS.BER,"LITTELFUSE INC.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LFS.MUN,"LITTELFUSE INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LFS.STG,LITTELFUSE INC. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

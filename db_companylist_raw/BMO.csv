@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMO,Bank of Montreal,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BMLP,BMO Elkhorn DWA MLP Select ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+BADIX,BMO Dividend Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MITFX,BMO Intermediate Tax-Free Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BLGRX,BMO Large-Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BLCRX,BMO Large-Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MSGIX,BMO Small-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BMMVF,BMO ASSET MGMT,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BMLWF,BMO Low Volatility US Equity ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MSIFX,BMO Short-Term Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

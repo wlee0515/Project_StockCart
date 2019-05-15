@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAWAX,State Farm LifePath 2020 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAWLF,Shawcor Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAWBX,State Farm LifePath 2020 Legacy B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWPIF,Sawai Pharmaceutical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAWMX,SA Worldwide Moderate Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAWIX,State Farm LifePath 2020 Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SSMS.JKT,PT Sawit Sumbermas Sarana Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+4555.TOK,Sawai Pharmaceutical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+5113.KLA,Rimbunan Sawit Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000
+7WS.FRK,Sawai Pharmaceutical Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818

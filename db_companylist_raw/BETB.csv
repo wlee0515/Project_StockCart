@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0BB.BER,BETBULL HOLDING SE INH.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+0BB.STG,Betbull Holding SE Inhaber-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+BET.VIE,Betbull Holding SE,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4000

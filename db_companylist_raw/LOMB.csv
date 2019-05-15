@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVARF,Lombard Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ICICIGI.NSE,ICICI Lombard General Insurance Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+COGG.LON,GO UCITS ETF Solutions plc - ETFS Lombard Odier IM Global Government Bond Fundamental GO UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+CORG.LON,GO UCITS ETF Solutions plc - ETFS Lombard Odier IM Global Government Bond Fundamental GO UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+CREG.LON,GO UCITS ETF Solutions plc - ETFS Lombard Odier IM Global Corporate Bond Fundamental GO UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+LOCE.LON,ETFS Lombard Odier IM Emerging Market Local Government Bond Fundamental GO UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000
+LOCG.LON,ETFS Lombard Odier IM Emerging Market Local Government Bond Fundamental GO UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+ICICIGI.BSE,ICICI Lombard General Insurance Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1569
+166009.SHZ,Lombarda China New Power Equity Securities Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1569
+KR5223AN2549.KOR,KB Lombard Odie Glbl CB Fdr Bd Bal-FoF A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1569

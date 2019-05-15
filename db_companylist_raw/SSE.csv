@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSEZY,SSE plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSEBF,Silver Spruce Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEMX,State Street Disciplined Em Mkts Eq N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSET,Starstream Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEZF,SSE plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEEF,SSgA SPDR ETFs Europe I Public Limited Company - SPDR S&P US Dividend Aristocrats UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSECX,AMG SouthernSun US Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEAX,SEI Screened World Equity Ex-US A (SIIT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEYX,State Street Equity 500 Index II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSEFX,AMG SouthernSun US Equity N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

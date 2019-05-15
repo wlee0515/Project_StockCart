@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAVB,"Navidea Biopharmaceuticals, Inc",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NAVB.TAV,"Navidea Biopharmaceuticals, Inc",Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.7273
+NAVBLDR.BSE,Navkar Builders Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714

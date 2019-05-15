@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEST,Ecoark Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZESM.FRK,Amundi ETF Euro Stoxx Small Cap UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZESM.BER,AMUNDI ETF EUROSTOXX S.C.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZESM.FRK,Amundi ETF Euro Stoxx Small Cap A/I,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ZESM.DUS,AMUNDI ETF EUROSTOXX S.C.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ZESM.MUN,AMUNDI ETF EUROSTOXX S.C.,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+ZESM.STG,Amundi ETF Euro STOXX Sma.Cap A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+F000001Z50.BCL,Zestao de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+ZESTAODEINVE.BCL,Zestao de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000

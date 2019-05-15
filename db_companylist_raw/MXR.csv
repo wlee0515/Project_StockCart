@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MXRSF,Coin Hodl Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXRLX,Great-West Lifetime 2045 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXREX,Great-West Real Estate Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXRCX,Great-West Lifetime Cnsrv 2035 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXROF,Max Resource Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MXRF11.SAO,Maxi Renda Fundo De Investimento Imobiliaro - FII,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+MXR.FRK,Mawson Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MXR.BER,MAWSON RES (NEW),Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MXR.MUN,MAWSON RES (NEW),Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MXR.STG,Mawson Resources Ltd. (new) Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000

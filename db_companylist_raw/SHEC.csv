@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHECY,Shin-Etsu Chemical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SHECF,Shin-Etsu Chemical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+P5U6.BER,AMUN.-CPR GBL LIFE. SHEC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+P5U6.MUN,AMUN.-CPR GBL LIFE. SHEC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2857

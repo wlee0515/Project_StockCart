@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THR,Thermon Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+THRM,Gentherm Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TMSIX,Thrivent Mid Cap Stock S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AAAGX,Thrivent Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AASCX,Thrivent Mid Cap Stock A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TMAAX,Thrivent Moderately Agrsv Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AAMBX,Thrivent Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+THMAX,Thrivent Moderate Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+THLCX,Thrivent Large Cap Growth S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+LBHIX,Thrivent High Yield S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JTTSX,JPMorgan SmartRetirement 2020 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTCX,JPMorgan SmartRetirement 2020 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTPX,JPMorgan SmartRetirement 2020 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTRY,Japan Airport Terminal Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTAX,JPMorgan SmartRetirement 2020 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTLX,JPMorgan SmartRetirement Blend 2055 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTIX,JPMorgan SmartRetirement 2020 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTUX,JPMorgan SmartRetirement Blend 2055 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTZX,JPMorgan SmartRetirement 2020 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTTQX,JPMorgan SmartRetirement 2020 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

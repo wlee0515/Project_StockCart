@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPX,Tempur Sealy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TPX-A.TRT,Molson Coors Canada Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+TPXG.LON,Amundi ETF Japan Topix UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TPXU.LON,Amundi ETF Japan Topix JPY A/I,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TPX-B.TRT,Molson Coors Canada Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+TPXH.SWI,Amundi ETF Japan Topix Daily Hdg EUR A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+TPX.FRK,Toppan Printing Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TPX.BER,TOPPAN PRINTG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+TPXE.PAR,Amundi IS Japan Topix ETF-C EUR,ETF,Paris,09:00,17:30,UTC+01,EUR,0.5455

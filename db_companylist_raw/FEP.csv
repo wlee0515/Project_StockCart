@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FEP,First Trust Europe AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FEPIX,Fidelity Advisor Total Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEPTX,Fidelity Advisor Total Bond M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEPZDX,FT 6446: Energy Select Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEPAX,Fidelity Advisor Total Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEPCX,FA 529 EQUITY INCOME PORT-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

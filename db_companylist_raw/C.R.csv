@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0GBR0530A.BCL,C.R. Navarra PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F0GBR05311.BCL,C.R. Torrent PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+CRNAVARRAPP.BCL,C.R. Navarra PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+CRTORRENTPP.BCL,C.R. Torrent PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QCAAF,QUINSAM CAP CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QCACX,Federated MDT All Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCA1.BER,CHINAAMC CSI 300 IDX ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+QCA1.DUS,CHINAAMC CSI 300 IDX ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+QCA2.MUN,China AMC Hang Seng Small Cap Index ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+QCA2.DUS,CHINAAMC HG SG SMALLC.IDX,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

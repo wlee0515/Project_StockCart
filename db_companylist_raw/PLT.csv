@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLT,Plantronics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PLTM,GraniteShares Platinum Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PLTYF,Plastec Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTYX,Principal LifeTime Hybrid Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTAX,Principal LifeTime 2060 J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTMX,Principal LifeTime 2060 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTRX,Principal LifeTime 2060 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTQX,Principal LifeTime Hybrid 2040 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTJX,Principal LifeTime 2030 J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLTZX,Principal LifeTime 2060 Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

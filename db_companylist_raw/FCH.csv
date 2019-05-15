@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCHS,First Choice Healthcare Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCHKX,Fidelity Advisor China Region C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCHIX,Franklin High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCHPX,Fidelity Municipal Income 2023,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCHDMX,The First Trust Combined Srs 33,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCHQPX,FT 6896: Chaikin Low Beta Growt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCHWRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCHSX,Fidelity Advisor Event Driven Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCHTX,American Funds 2045 Trgt Date Retire F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCHPRX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

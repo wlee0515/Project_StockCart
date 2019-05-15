@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSHCX,Fidelity Select Health Care Svcs Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FSCSX,Fidelity Select Software & IT Svcs Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PSCU,Invesco S&P SmallCap Ult & Comnc Svc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+UEPSX,ProFunds Europe 30 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+BHYSX,BlackRock High Yield Bond Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+INPSX,ProFunds Internet UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+EVX,VanEck Vectors Environmental Svcs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+RYOFX,Royce Opportunity Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+OEPIX,ProFunds Oil Equipment Svc & Dist Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FMDCX,Federated Mid-Cap Index Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBMCF,United Battery Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UBS,UBS Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UBNT,Ubiquiti Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MORL,UBS ETRACS Mthly Py 2xLvg Mortg REIT ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+BDCL,UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+CEFL,UBS ETRACS Mthly Py 2xLvg Closed-End ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+UBQU,Ubiquitech Software Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UBSI,United Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UBIO,ProShares UltraPro Nasdaq Biotechnology,ETF,United States,09:30,16:00,UTC-05,USD,0.0952
+WTIU,UBS ETRACS ProShares Dly 3x Lng Crud ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.0952

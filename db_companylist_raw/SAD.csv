@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRMX,Saddle Ranch Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SADIX,Wells Fargo Ultra Short-Term Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SADL,William H. Sadlier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SADAX,Wells Fargo Ultra Short-Term Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SADMF,Sanatana Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SCG.STG,"Sporting Clube de Portugal - Futebol, SAD",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+SADHNANIQ.BSE,Sadhana Nitro Chem Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+SLBEN.LIS,"Sport Lisboa e Benfica - Futebol, SAD",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.1818
+5436.KLA,Perusahaan Sadur Timah Malaysia (Perstima) Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1224

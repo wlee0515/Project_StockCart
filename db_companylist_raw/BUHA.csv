@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUHA.MUN,"BUCHER INDS NAM.  SF-,20",Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+BUHA.FRK,Bucher Industries AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+BUHA.BER,"BUCHER INDS NAM.  SF-,20",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+BUHA.STG,Bucher Industries AG Namens-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

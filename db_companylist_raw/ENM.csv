@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENMHF,ENM Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ENMT3.SAO,Energisa Mato Grosso - Distribuidora de Energia S/A,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+ENMT4.SAO,Energisa Mato Grosso - Distribuidora de Energia S/A,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455
+ENMA3B.SAO,CEMAR- CIA ENER MA,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455
+EMD.FRK,ENM Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+EMD.BER,ENM HOLDINGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+EMD.STG,ENM Holdings Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+ENMN.FRK,CASI Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+0128.HKG,ENM Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2609

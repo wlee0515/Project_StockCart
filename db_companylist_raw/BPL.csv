@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPL,"Buckeye Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BPLSX,Boston Partners Long/Short Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BPLBX,BlackRock Inflation Protected Bond K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPLEX,Boston Partners Long/Short Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPLT,Blue Planet Research & Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPL.AUS,Broken Hill Prospecting Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BPL.BSE,BPL Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+BPL.NSE,BPL Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+BPLI.TRV,Bluedrop Performance Learning Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+BPLE.ARG,BPLE.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLS1.STG,Liechtensteinische Landesbank Aktiengesellschaft,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+0RP8.LON,Liechtensteinische Landesbank Aktiengesellschaft,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+LLBN.SWI,Liechtensteinische Landesbank Aktiengesellschaft,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.1818

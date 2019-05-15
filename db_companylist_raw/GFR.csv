@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFRIX,Goldman Sachs High Yield Fl Rate Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFRCX,Goldman Sachs High Yield Fl Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFRSX,Goldman Sachs High Yield Fl Rate R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFRAX,Goldman Sachs High Yield Fl Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFRRX,Goldman Sachs High Yield Fl Rate R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GFRD.LON,Galliford Try plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

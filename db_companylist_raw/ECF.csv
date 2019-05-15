@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECF,Ellsworth Growth and Income Fund Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ECFAX,Eaton Vance Floating-Rate Advantage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECFVX,Eaton Vance Focused Value Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECFGX,Eaton Vance Focused Growth Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECFHX,Eaton Vance Floating-Rate & Hi Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECF-PA,Ellsworth Growth and Income Fun,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECF-UN.TRT,East Coast Investment Grade Income Fund,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ECF.FRK,Mountain Alliance AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ECF.DUS,MOUNTAIN ALLIANCE NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OAS,Oasis Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+OAK,"Oaktree Capital Group, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+OMP,Oasis Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OAKIX,Oakmark International Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OAKBX,Oakmark Equity And Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OAKMX,Oakmark Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OCSL,Oaktree Specialty Lending Corpo,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OASM,Oasmia Pharmaceutical AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OAKLX,Oakmark Select Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+OANIX,Oakmark International Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

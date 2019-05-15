@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBS,CBS Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBSH,Commerce Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CBSAX,Columbia Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CBS-A,CBS Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSHP,Commerce Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSYX,AB Global Risk Allocation Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSC,CB Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSTX,Columbia Mid Cap Growth V,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSRX,AB Global Risk Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBSKX,AB Global Risk Allocation K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

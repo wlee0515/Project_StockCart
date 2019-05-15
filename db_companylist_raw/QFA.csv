@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFAL.MIL,QF ALPHA IMM,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+QFARE.MIL,QF AMUNDI RE EUROPA,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455
+QFARI.MIL,QF AMUNDI RE ITALIA,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455
+QFATL.MIL,QF ATLANTIC 1,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455
+QFATL2.MIL,Fondo Atlantic 2-Berenice,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5000

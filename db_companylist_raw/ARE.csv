@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ARE,Alexandria Real Estate Equities Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ARNA,Arena Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ARCC,Ares Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AREX,Approach Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ARES,Ares Management Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GAHC,Global Arena Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACRE,Ares Commercial Real Estate Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARDC,Ares Dynamic Credit Allocation Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AREC,American Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARESF,Artis Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

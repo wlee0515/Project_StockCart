@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMECF,SMC Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMCI,Super Micro Computer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VSS,Vanguard FTSE All-Wld ex-US SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DGS,WisdomTree Emerging Markets SmCp Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SMCWX,American Funds SMALLCAP World A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ASHS,Xtrackers Harvest CSI 500 CHN A SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+VFSVX,Vanguard FTSE All-Wld ex-US SmCp Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+SMCFX,American Funds SMALLCAP World F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+SMLF,iShares Edge MSCI Mltfct USA SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+CSB,VictoryShares US SmCp Hi Dividend Vol Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

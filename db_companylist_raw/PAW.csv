@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAWZ,ProShares Pet Care ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PAWAX,T. Rowe Price New America Growth Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OWH.STG,Oi Wah Pawnshop Credit Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+1319.HKG,Oi Wah Pawnshop Credit Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+PAWANSUT.BSE,Pawansut Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1429

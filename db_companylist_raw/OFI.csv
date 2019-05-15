@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OFIX,Orthofix Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPEYX,OFI Pictet Global Environmental Solu Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFIAX,Oppenheimer Corporate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFIYX,Oppenheimer Corporate Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFINX,Oppenheimer Corporate Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPEIX,OFI Pictet Global Environmental Solu I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFICX,Oppenheimer Corporate Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+OFIIX,Oppenheimer Corporate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

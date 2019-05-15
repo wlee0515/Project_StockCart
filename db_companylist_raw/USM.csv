@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USM,United States Cellular Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+USMJ,North American Cannabis Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USMV,iShares Edge MSCI Min Vol USA ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+USMN,U.S. Rare Earth Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USMF,WisdomTree US Multifactor,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+USMAX,Natixis ASG Tactical US Market A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+USMIX,USAA Extended Market Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+USMC,Principal US Mega-Cap Multi-Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+USMT,US Metro Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+USMTX,JPMorgan Ultra-Short Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

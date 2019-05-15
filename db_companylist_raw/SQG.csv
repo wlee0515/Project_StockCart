@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SQG.TRV,Spackman Equities Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SQG.FRK,Siegfried Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SQG.STG,SIEGFRIED HOLDING AG Nam.Akt. S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

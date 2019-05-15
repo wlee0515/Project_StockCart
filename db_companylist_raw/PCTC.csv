@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCTCX,Putnam CA Tax Exempt Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+K55104B97623.KOR,Hi Ocean PCTC Private Special Asset Ship 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1951
+F00000WP8Q.KOR,Hi Ocean PCTC PF Special Asset Ship 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1739

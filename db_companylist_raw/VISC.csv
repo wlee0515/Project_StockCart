@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLMGF,Viscount Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+VSYS,Viscount Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+VISCX,Invesco Small Cap Discovery Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6154
+VML.TRV,Viscount Mining Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+V6C.FRK,Viscom AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+VISC11.SAO,VINCI SHOPPING CEN,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3810
+IT0005159006.MIL,Anima Visconteo Plus,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3333
+V6C.MUN,VISCOM AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3200
+IT0000380706.MIL,Anima Visconteo A,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3200

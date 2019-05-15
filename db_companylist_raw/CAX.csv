@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAXAX,Catalyst/MAP Global Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAXPF,District Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAXCX,Catalyst/MAP Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAXIX,Catalyst/MAP Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAT.JOH,Caxton and CTP Publishers and Printers Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.7500
+CAX.FRK,Callinex Mines Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CAX.BER,CALLINEX MINES INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CAX.STG,Callinex Mines Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGFCX,Alger Responsible Investing C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AGFCANADIANG.TRT,AGF Canadian Growth Equity Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCATGORIEA.TRT,AGF Global Equity Class Series Q,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCANADDEDI.TRT,AGF Canadian Large Cap Dividend Ser Q,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCANADIANL.TRT,AGF Canadian Large Cap Dividend Ser Q,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCANADIANM.TRT,AGF Canadian Money Market Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCANADIANS.TRT,AGF Canadian Stock Series Q,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCANDIVGRA.TRT,AGF Canadian Large Cap Dividend Series T,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCATACTION.TRT,AGF European Equity Class Series T,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFCATALPHAS.TRT,AGF U.S. Sector Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

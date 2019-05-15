@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNK,Genco Shipping & Trading Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GNKWF,Genco Shipping & Trading Limited WT EXP 123121,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNK.LON,Greene King plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

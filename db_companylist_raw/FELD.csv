@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5222.KLA,Felda Global Ventures Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6154
+ECK.FRK,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6154
+ECK.FRK,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+FELDVR.BSE,Future Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+FELDVR.NSE,Future Enterprises Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1951

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWEB,Direxion Dly CSI CHN Itnet Bull 2X Shrs,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CWEB.MEX,DIREXION SHARES ETF TRUST DAILY,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.7273

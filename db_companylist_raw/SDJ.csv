@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDJAX,Swan Defined Risk Foreign Developed A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDJIX,Swan Defined Risk Foreign Developed I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDJCX,Swan Defined Risk Foreign Developed C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDJ600.MIL,Invesco STOXX Europe 600 ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+SDJE50.MIL,Invesco EURO STOXX 50 ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5000
+SDJE5D.MIL,INVESCO EURO STOXX 50 UCITS ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5000
+SDJMID.MIL,INVESCO STOXX EUROPE MID 200 UC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5000
+SDJSML.MIL,INVESCO STOXX EUROPE SMALL 200 ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5000
+SDJP.LON,iShares MSCI Japan ESG Scrn ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

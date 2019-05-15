@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DUALX,Dupree AL Tax-Free Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DUAVF,Dassault Aviation SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPUM.JKT,PT Dua Putra Utama Makmur Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+TDSA.LIS,"Teixeira Duarte, S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.4000
+TXC2.FRK,"Teixeira Duarte, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+TXC2.DUS,"TEIXEIRA DUARTE EO 0,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+TXC2.MUN,"TEIXEIRA DUARTE EO 0,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500
+3469.TOK,Dualtap Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+TXC2.BER,"TEIXEIRA DUARTE EO 0,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+TXC2.STG,Teixeira Duarte S.A. Namens-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

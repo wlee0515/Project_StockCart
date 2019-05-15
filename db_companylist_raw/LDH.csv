@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDHL,LD Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FP76.BER,DWS I.-CHINA BDS LDH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+FP76.MUN,DWS I.-CHINA BDS LDH,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2609
+2B7Y.BER,IS DL T.BD1-3YR U.ETF LDH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+FP76.DUS,DWS I.-CHINA BDS LDH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

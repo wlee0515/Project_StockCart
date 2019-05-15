@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GVRPX,American Beacon Grosvenor L/S Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRAX,AllianzGI Retirement 2035 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRRX,AllianzGI Retirement 2035 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRYX,American Beacon Grosvenor L/S Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRUX,American Beacon Grosvenor L/S Ultra,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRCX,American Beacon Grosvenor L/S C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVRIX,American Beacon Grosvenor L/S Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVR.TRV,Grosvenor Resource Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GVR.MUN,Glenveagh Properties PLC,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

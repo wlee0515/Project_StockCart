@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3883.HKG,China Aoyuan Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+AOY.FRK,Alpha and Omega Semiconductor Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+8219.TOK,Aoyama Trading Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+47C.FRK,China Aoyuan Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+8929.TOK,"Aoyama Zaisan Networks Company,Limited",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2143
+AOY.BER,"ALPHA+OMEGA SEMIC.DL-,002",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069
+AOY.STG,Alpha & Omega Semiconductor Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2069
+002172.SHZ,Jiangsu Aoyang Health Industry Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1463
+47C.BER,"CHINA AOYUAN GROUP HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1395

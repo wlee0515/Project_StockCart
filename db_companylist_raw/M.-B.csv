@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0TZ0.BER,ETF M.-BLUEST.ISRAEL TEC.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+0TZ0.DUS,ETF M.-BLUEST.ISRAEL TEC.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACKB.BRU,Ackermans & Van Haaren NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.7273
+ACKB.VIE,Ackermans & Van Haaren NV,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273

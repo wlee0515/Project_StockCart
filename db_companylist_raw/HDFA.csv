@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HDFA.STG,HDFC BANK LTD. Reg. Shs (Spons.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+HDFA.FRK,HDFC Bank Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HDFA.BER,HDFC BANK LTD ADR/3 IR 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HDFA.JKT,PT Radana Bhaskara Finance Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273

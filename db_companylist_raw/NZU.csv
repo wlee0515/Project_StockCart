@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NZC.AUS,Nzuri Copper Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+HJY.FRK,Nzuri Copper Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+HJY.STG,Nzuri Copper Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+NZU.BER,"MURGITROYD GRP  LS -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1765

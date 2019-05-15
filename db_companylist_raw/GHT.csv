@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+300711.SHZ,GHT Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.8571
+GHTRX,Goldman Sachs International T/M Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHTMX,Goldman Sachs International T/M Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHTIX,Leland Real Asset Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHTCX,Leland Real Asset Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHTAX,Leland Real Asset Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHTI,G-H-3 International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GHT.LON,Gresham Technologies plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750
+FR0011089127.PAR,GHT Investissement,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+F00000NBF5.PAR,GHT Investissement,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857

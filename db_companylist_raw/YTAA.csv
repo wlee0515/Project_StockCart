@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YTAA.BER,SRI TRANG AGR.-FOR-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+YTAA.MUN,SRI TRANG AGR.-FOR-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+YTAA.STG,Sri Trang Agro-Indust.PCL(STA)R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

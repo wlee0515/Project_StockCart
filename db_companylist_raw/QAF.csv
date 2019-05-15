@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+Q01.SGP,QAF Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,1.0000
+O2H.STG,QAF Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+QAFS.SGP,QAF,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4286

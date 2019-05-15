@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HHOF1140RG-MF.NSE,HDFC ASSET MANAGEM,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+HHOF.AMS,Hof Hoorneman Obligatie Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.3750
+HHOF1140RD.BSE,HDFC Mutual Fund,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+HHOF1140RG.BSE,HDFC Mutual Fund,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+HHOF1140DG.BSE,HDFC Mutual Fund,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+XS0311660392.AMS,HHOMOR2 2A FRN39,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3158
+XS0311660806.AMS,HHOMOR2 B FRN39,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3158

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOGO,Sogou Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SOGFF,Strategic Oil & Gas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRGIF,"MORI TRUST Sogo Reit, Incorporation",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SOG.PAR,Sogeclair SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+SO.MIL,Sogefi S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+SOG.TRV,Strategic Oil & Gas Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+0NV0.LON,Sogefi S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750
+SOG.LON,StatPro Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727
+GEF.FRK,"SOGEFI SPA  EO 0,52",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+0NV0.ILN,SOGEFI SPA SOGEFI ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143

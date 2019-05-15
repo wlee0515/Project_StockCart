@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGM,iPath B Bloomberg Platinum Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PGMIX,JPMorgan Market Expansion Enh Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PGMMX,Principal Multi-Manager Equity L/S A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGMSX,T. Rowe Price Global Multi-Sector Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGMB,iPath B Bloomberg Platinum Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PGMAX,PIMCO Global Multi-Asset A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGMCX,PIMCO Global Multi-Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGMRX,PIMCO Global Multi-Asset R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

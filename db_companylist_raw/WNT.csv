@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WNTR,Worldwide Diversified Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WNTFX,Weitz Nebraska Tax-Free Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WNT.FRK,Winston Resources Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WNTG.STG,Winston Resources Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+WNT.STG,Winston Resources Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

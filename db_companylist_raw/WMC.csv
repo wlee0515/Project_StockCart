@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMC,Western Asset Mortgage Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WMCVX,Wasatch Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WMCR,Invesco Wilshire Micro-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+WMCJX,William Blair Macro Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFHX,Brown Advisory WMC Strat Eurp Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMCIX,William Blair Macro Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMCEX,TETON Westwood Mid-Cap Equity AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMCB,Willamette Community Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.1622
+VGFO,Virtus WMC Global Factor Oppos ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+BIAHX,Brown Advisory WMC Strat Eurp Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

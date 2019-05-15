@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOWLX,Green Owl Intrinsic Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OWLSX,Old Westbury Large Cap Strategies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OWL-P.TRV,Two Owls Ventures Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+OCC-P.TRV,Owl Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3000

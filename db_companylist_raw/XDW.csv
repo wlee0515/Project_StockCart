@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDWD.FRK,X MSCI World ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+XDWH.FRK,X MSCI World Health Care ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+XDW0.LON,X MSCI World Energy ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDWD.LON,X MSCI World ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDWE.LON,Concept Fund Solutions plc - db x-trackers S&P 500 Equal Weight UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDWG.LON,X MSCI World ETF 2D GBP H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDWH.LON,X MSCI World Health Care ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDWI.LON,X MSCI World Industrials ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+XDWL.LON,XTRACKERS (IE) PUBLIC LIMITED C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

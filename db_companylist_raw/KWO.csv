@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0306.HKG,Kwoon Chung Bus Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+1416.TWN,Kwong Fong Industries Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2000
+KWO.FRK,Transport International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+0160.HKG,"Hon Kwok Land Investment Company, Limited",Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000
+8023.HKG,Kwong Man Kee Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2000

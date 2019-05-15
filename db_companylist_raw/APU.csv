@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APU,"AmeriGas Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+APUPX,AllianzGI Prefd Secs and Inc P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APUSX,Cavanal Hill Ultr Shrt Tax-Free Inc Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APURE.BAK,Agripure Holdings Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+H61X.HAN,APUS CAPITAL REVALUE FD.R,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.4615
+H61X.HAM,APUS CAPITAL REVALUE FD.R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+H61X.MUN,APUS CAPITAL REVALUE FD.R,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+A1H44E.FRK,Apus Capital Revalue Fonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2143
+APURE-R.BAK,Agripure Holdings Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2069
+F00000N9P8.FRK,Apus Capital Revalue Fonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2069

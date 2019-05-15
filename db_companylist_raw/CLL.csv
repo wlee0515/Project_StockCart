@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLLS,Cellectis S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLLXF,Callinex Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLLDY,CapitaLand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLLZF,Connacher Oil and Gas Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLLRX,Columbia Disciplined Small Core Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CLLDF,CapitaLand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLLNY,"Cellnex Telecom, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLL.LON,Cello Health plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

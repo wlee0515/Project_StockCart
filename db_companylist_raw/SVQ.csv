@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVQ.MUN,"SINOVAC BIOTECH  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+SVQ.FRK,Sinovac Biotech Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SVQ.BER,"SINOVAC BIOTECH  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SVQ.DUS,"SINOVAC BIOTECH  DL-,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SVQ.STG,Sinovac Biotech Ltd. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLGAX,JPMorgan Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLGCX,JPMorgan Large Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OLG.PAR,Olympique Lyonnais Groupe SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+OLG.FRK,Verallia Deutschland AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OLG.JOH,OneLogix Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+OLG.STG,Verallia Deutschland AG Inhaber,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OLG.BER,VERALLIA DTLD AG  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OLG.DUS,VERALLIA DTLD AG  O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+OLG.MUN,VERALLIA DTLD AG  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

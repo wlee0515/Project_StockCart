@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCID,Global X Scientific Beta Europe ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+INFA.FRK,SciDev Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+SDV.AUS,SciDev Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5714
+INFA.HAM,SciDev Ltd,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5714
+INFA.BER,SCIDEV LTD. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+INFA.MUN,SCIDEV LTD. O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFIN,Medallion Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MEDAX,MFS Emerging Markets Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MFINL,Medallion Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+MLLOF,Medallion Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MDRR,Medalist Diversified REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MAMP,MEDAMERICA PROPERT,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+MD5.STG,MEDALLION FINANCIAL CORP. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+MDR.AUS,MedAdvisor Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857
+MDL.TRV,Medallion Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2759
+MED.LON,MedaPhor Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2759

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+J10L.BER,I.CS.B.P.S.T DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4615
+J10H.BER,I.CS.S.K.T. DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+PCBF.BER,I.CHIN.TECH.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+PWYE.DUS,I.C.MA.A.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+ALICR.PAR,I.CERAM SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000
+CTPL5.TAV,I.C.P. Israel Citrus Plantations Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4000
+ICC-R.BAK,I.C.C. International Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+ICC.BAK,I.C.C. International Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3333
+00MB.BER,I.CLEANT.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+4IU9.BER,I.CEF IN.CO.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1818

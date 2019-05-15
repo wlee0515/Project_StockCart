@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JDCAX,Janus Henderson Forty A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDCRX,Janus Henderson Forty R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JDCEX,James Alpha Managed Risk Domestic Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+A8A.FRK,JDC Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+A8A.BER,JDC GROUP AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+A8A.DUS,JDC GROUP AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000
+A8A.STG,JDC Group AG Inhaber-Aktien o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3000
+A8A.FRK,JDC Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3000
+A8A.HAM,JDC GROUP AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.1765

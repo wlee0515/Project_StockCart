@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEKA.JKT,PT Wilmar Cahaya Indonesia Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+CAKK.JKT,PT Cahayaputra Asa Keramik Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+UNIC.JKT,PT Unggul Indah Cahaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+6CK1.STG,PT Wilmar Cahaya Indonesia Tbk.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+CSIS.JKT,PT Cahayasakti Investindo Sukses Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2286
+CAHAC.PAR,CAHLFRN27MAY2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2000

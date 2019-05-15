@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFXIX,State Farm S&P 500 Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFX.TRV,Sphinx Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SFX.AUS,Sheffield Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+SFX.FRK,Solar-Fabrik Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SFX.BER,SOLAR-FABRIK AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SFX.DUS,SOLAR-FABRIK AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SFX.STG,Solar-Fabrik AG f.Prod.u.Vert.I,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

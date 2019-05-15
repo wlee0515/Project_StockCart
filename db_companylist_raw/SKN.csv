@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKNRX,DWS Enhanced Commodity Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SKNB.FRK,Skanska AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SKN.AUS,Skin Elements Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SKN-R.BAK,S.Kijchai Enterprise Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+SKN.BAK,S.Kijchai Enterprise Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+SKNB.BER,SKANSKA AB B FRIA  SK 3,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SKNB.DUS,SKANSKA AB B FRIA  SK 3,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SKNB.STG,SKANSKA AB Namn-Aktier B (fria),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455

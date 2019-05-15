@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JNK,SPDR Blmbg Barclays High Yield Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JNKE.LON,SPDR Blmbrg Bcly EUR HY Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+JNKS.LON,SSgA SPDR ETFs Europe I plc - SPDR Barclays 0-5 Year U.S. High Yield Bond UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+JNK.MEX,SPDR Blmbg Barclays High Yield Bd ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+JNKE.MIL,SPDR Blmbrg Bcly EUR HY Bd ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTXB,LegacyTexas Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LTXFX,American Funds LtdTerm TxEx Bd F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTXCX,American Funds Ltd-Term Tx-Ex Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTX.TRV,Labrador Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+LTX.BAK,Luckytex (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+LTX-R.BAK,Luckytex (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+LTX.FRK,Lime Technologies AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LTX.BER,LIME TECHNOLOGIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LTX.MUN,LIME TECHNOLOGIES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

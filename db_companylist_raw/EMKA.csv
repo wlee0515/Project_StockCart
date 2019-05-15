@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMKAX,Ashmore Emerging Markets Tot Ret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+EMKAY.NSE,Emkay Global Financial Services Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+EMKAYTOOLS-SM.NSE,EMKAY TAPS AND CUT,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+EMKAY.BSE,Emkay Global Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+531516.BSE,EMKAY INDUSTRIES LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+EMKAY-EQ.NSE,EMKAY GLOBAL FIN,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+531011.BSE,EMKAY AROMATICS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200

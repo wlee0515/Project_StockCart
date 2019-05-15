@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUHJY,Sun Hung Kai Properties Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SUHJF,Sun Hung Kai Properties Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SUHIX,DWS Health and Wellness Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SUHCX,DWS Health and Wellness C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SUHAX,DWS Health and Wellness A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+008490.KOR,Suheung Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+SUH.AUS,Southern Hemisphere Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+026960.KOR,Dong Suh Companies Inc.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3000
+HGUA.STG,Huber & Suhner AG Nam.-Aktien S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+SUH.LON,Sutton Harbour Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

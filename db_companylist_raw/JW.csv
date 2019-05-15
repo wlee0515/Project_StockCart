@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+096760.KOR,JW Holdings Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.8000
+JWN,Nordstrom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JW-A,John Wiley & Sons Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JWA,John Wiley & Sons Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JWCAF,James E. Wagner Cultivation Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JWGRX,Janus Worldwide S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JWWFX,Janus Worldwide I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JWB,John Wiley & Sons Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JWWCX,Janus Worldwide C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JWSOX,JHancock New Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1600

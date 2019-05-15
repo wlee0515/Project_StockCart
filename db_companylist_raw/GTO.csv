@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTO,Invesco Total Return Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GTOMY,Gemalto N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GTOFF,Gemalto N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GTORX,Goldman Sachs Technology Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTO.AMS,Gemalto N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667

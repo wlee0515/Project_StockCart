@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBC,Flagstar Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FBCVX,Fidelity Blue Chip Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBCGX,Fidelity Blue Chip Growth K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBCJNX,FT 5040: Corporate High Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBCTX,American Funds 2020 Trgt Date Retire F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBCNAX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBCE,FiberCore Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBCHVX,FT 6832: Global Bond Income Clo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBCD,FBC Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FBCI,First Banking Center Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

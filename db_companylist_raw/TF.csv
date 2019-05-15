@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TFSL,TFS Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TFX,Teleflex Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TFI,SPDR Nuveen Blmbg Barclays Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TFVR,TimefireVR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TFFYX,Touchstone Focused Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TFIV,Global X TargetIncome 5 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TFLO,iShares Treasury Floating Rate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+TFSIX,Franklin Mutual Financial Services A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TFOIX,Transamerica Capital Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TFEQX,Templeton Instl Intl Eq Ser Primary,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

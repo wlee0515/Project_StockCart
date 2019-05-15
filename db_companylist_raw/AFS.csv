@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFSI,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFSI-PA,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFSI-PC,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFSI-PE,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AFSI-PB,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AFSI-PD,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AFSI-PF,AmTrust Financial Services Inc. DSHS 1/40 PF F,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AFST,AmTrust Financial Services Inc. SUB NT,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AFSS,AmTrust Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AFSLF,Amiad Water Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000

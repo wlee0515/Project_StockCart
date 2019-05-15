@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCHP,Microchip Technology Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHI,iShares MSCI China ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHX,Marchex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHFX,Matthews China Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHQX,BlackRock Total Return Inv C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHA,Matchaah Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCHVF,MGM China Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCHB,Mechanics Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLFN,McHenry Metals Golf Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCHT,Mauch Chunk Trust Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143

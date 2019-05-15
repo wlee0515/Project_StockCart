@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBUSX,Fidelity Advisor Global Equity Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBUREX,"FT 6487: Election Portfolio, 20",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBUVMX,FT 5869: Core Holdings Growth T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBUIX,Fidelity Flex Infl-Prot Bd Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBUETX,FT 7300: Target VIP 2Q '18 - Te,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBU.AUS,Fletcher Building Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+FBU.TRT,First Asset U.S. Buyback ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

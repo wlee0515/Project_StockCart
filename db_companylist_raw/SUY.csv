@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUY1.FRK,J Sainsbury plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SUY1.BER,SAINSBURY-J.- LS-28571428,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SUY1.DUS,SAINSBURY-J.- LS-28571428,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SUY1.HAN,SAINSBURY-J.- LS-28571428,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+SUY1.MUN,SAINSBURY-J.- LS-28571428,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SUY1.STG,"Sainsbury PLC, J. Registered Sh",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+SUYOG.BSE,Suyog Telematics Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455

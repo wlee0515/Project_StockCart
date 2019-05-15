@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMEX,MMEX Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMEXD,MMEX Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMEG,Momentous Entertainment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMELX,MassMutual Select Mid Cap Growth Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMEAX,Victory Integrity Discovery A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMERX,Victory Integrity Discovery R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMEYX,Victory Integrity Discovery Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMECX,Victory Integrity Discovery C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMEMX,MassMutual Select TRP Emrg Mrkts Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

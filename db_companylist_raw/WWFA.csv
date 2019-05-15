@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WWFA.STG,World Wrestling Entertain.Inc.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+WWFA.FRK,World Wrestling Entertainment Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+WWFA.BER,"WW ENTERTAIN A  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WWFA.MUN,"WW ENTERTAIN A  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

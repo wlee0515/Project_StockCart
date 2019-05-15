@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GDDY,GoDaddy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GOR.LON,Gordon Dadds Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3077
+W1G1.BER,"GORDON DADDS GROUP LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759

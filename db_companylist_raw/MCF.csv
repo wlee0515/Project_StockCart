@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCF,Contango Oil & Gas Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCFT,MasterCraft Boat Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCFOX,BlackRock Focus Growth Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFGX,BlackRock Capital Appreciation Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFCX,Miller Convertible Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFDX,Destra Multi-Alternative Fund C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFAX,Miller Convertible Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFRX,Pioneer Multi-Asset Ultrashort Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFTX,MFS CA Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCFUF,Micro Focus International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

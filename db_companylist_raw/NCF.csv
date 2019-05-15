@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCFFF,Northcliff Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NCFCX,Nuveen Symphony Credit Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCF.TRT,Northcliff Resources Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

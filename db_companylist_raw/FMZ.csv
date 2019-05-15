@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMZNF,Family Zone Cyber Safety Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FMZHGX,FT 6860: SMid Capital Strength ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMZQSX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMZOJX,FT 7782: California Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMZJBX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FMZ.FRK,Perfect Holding SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FMZ.STG,Perfect Holding SA Nam.-Akt. SF,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+FMZ.BER,"PERFECT HLDG NA. SF  0,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYC,Blackrock MuniYield California Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MYCIX,MainStay MacKay U.S. Equity Opports I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYCCX,MainStay MacKay U.S. Equity Opports C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYCTX,MainStay MacKay U.S. Equity Opports A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYCNX,MainStay MacKay U.S. Equity Opports Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+0MQG.LON,Mycronic AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+MYX.LON,MYCELX Technologies Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+KR5301985382.KOR,MiraeAsset MyChild Make 300 Million Feeder Equity G1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2857
+MLT.FRK,Mycronic AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1091

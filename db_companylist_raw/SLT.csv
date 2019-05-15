@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLT,Salt truBeta High Exposure ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SLTB,Scorpio Bulkers Inc. 7.5% SR NT 19,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLTTF,Slate Office REIT,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLTN,Silverton Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLTMX,Virtus Seix US Mortgage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLTFF,Pistol Bay Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLT.TRV,Specialty Liquid Transportation Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SLT.FRK,Schaltbau Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SLT.BER,SCHALTBAU HOLDING NA O.N,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

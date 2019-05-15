@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HTWN.LON,HSBC ETFs Public Limited Company - HSBC MSCI Taiwan UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HTW.BER,NATL HEALTHCARE CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HTW.MUN,NATL HEALTHCARE CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HTWD.LON,HSBC MSCI Taiwan ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HTWN.SWI,HSBC MSCI Taiwan ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

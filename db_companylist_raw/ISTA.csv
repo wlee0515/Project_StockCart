@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STAR,iStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+STAR-PI,iStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STAR-PD,iStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+STAR-PG,iStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ISTAX,ICON Long/Short A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SFICP,iStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ISTA.TAV,Issta Lines Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5714
+IWT6.STG,ESPA STOCK ISTANBUL Inh.-Ant.EU,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.5714
+OLZ.FRK,iStar Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636

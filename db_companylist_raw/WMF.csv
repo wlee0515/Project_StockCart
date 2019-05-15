@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMFFX,American Funds Washington Mutual F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMFAX,Wells Fargo Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMFCX,Wells Fargo Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMFDX,Wells Fargo Municipal Bond Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IS3R.FRK,ISIV-E.MSCI WMF U.ETF DLA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+IS3R.DUS,ISIV-E.MSCI WMF U.ETF DLA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+IS3R.MUN,ISIV-E.MSCI WMF U.ETF DLA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

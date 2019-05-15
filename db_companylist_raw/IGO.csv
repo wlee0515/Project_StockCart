@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGOI,iGo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IGOV,iShares International Treasury Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IGODSX,Global Dividend Sustainability ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGODVX,Global Dividend Sustainability ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGOWX,Voya Large-Cap Growth W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGOPPX,ESG Opportunity Portfolio 2018-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGO.AUS,Independence Group NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+IGO.TRV,Independence Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

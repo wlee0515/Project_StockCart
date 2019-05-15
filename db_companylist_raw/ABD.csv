@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABDC,Alcentra Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABDAX,Columbia Capital Allocation Cnsrv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABDP.LON,AB Dynamics Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ABDA.JKT,PT Asuransi Bina Dana Arta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+ABD.LON,Aberdeen New Dawn Investment Trust PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+ABDE.BER,ABERD.GL-E.M.L.C.B. AADL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ABD4.BER,ABERD.GL-EME.MKTS EQ.AADL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ABD2.MUN,ABERD.GL.-AS.PAC.EQU.AADL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

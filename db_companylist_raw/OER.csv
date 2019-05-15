@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OERLF,OC Oerlikon Corporation AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OERL.SWI,OC Oerlikon Corporation AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+OBH.FRK,OC Oerlikon Corporation AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+0QO3.ILN,OC OERLIKON CORPORATION AG PFAE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+OBH.BER,OC OERLIKON CORP.AG SF 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+OBH.DUS,OC OERLIKON CORP.AG SF 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+OBH.MUN,OC OERLIKON CORP.AG SF 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+OBH.STG,OC Oerlikon Corporation AG Name,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+0QO3.LON,OC Oerlikon Corporation AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

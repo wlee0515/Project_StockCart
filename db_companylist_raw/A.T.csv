@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRZBF,Transat A.T. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+TRZ.TRT,Transat A.T. Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3000
+1TJ.FRK,Transat A.T. Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+D5VL.BER,C-QUADRAT A.T.R. GA. VT A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+D5VL.DUS,C-QUADRAT A.T.R. GA. VT A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+D5VL.HAM,C-QUADRAT A.T.R. GA. VT A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+D5VL.MUN,C-QUADRAT A.T.R. GA. VT A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

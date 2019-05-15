@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOEMX,Northern Emerging Markets Equity Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NOEC,New Oriental Energy & Chemical Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+4928.TOK,Noevir Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+543.SGP,Noel Gifts International Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+NOEJ.VIE,NORMA Group SE,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+NOEJ.BER,NORMA GROUP SE NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NOEJ.FRK,NORMA Group SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+NOEJ.MUN,NORMA GROUP SE NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+NOEU.MIL,ETFS Short NOK Long EUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1935

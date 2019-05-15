@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYPD.FRK,Multi Units Luxembourg - Lyxor MSCI World Financials TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LYPD.FRK,Multi Units Luxembourg - Lyxor MSCI World Financials TR UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+LYPD.DUS,MUL-LYX.MSCI W.FI.TRUECEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LYPD.STG,MUL-LYX.MSCI Wd.Fin.TR UC.ETF I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LYPD.MUN,MUL-LYX.MSCI W.FI.TRUECEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

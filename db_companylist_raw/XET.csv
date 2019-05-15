@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XETJX,Eaton Vance Risk-Managed Divers,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETTX,Eaton Vance Municipal Income 20,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETVX,Eaton Vance Tax-Managed Buy-Wri,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETYX,Eaton Vance Tax Managed Diversi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETWX,Eaton Vance Tax-Managed Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETGX,Eaton Vance Tax-Advantaged Glob,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETBX,Eaton Vance Tax-Managed Buy-Wri,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XETOX,Eaton Vance Tax-Advantaged Glob,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+4GLD.STG,Xetra-Gold,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XETC.MIL,db Brent Crude Oil Booster Euro Hdgd ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.4615

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMM,3M Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MMMB,MamaMancini's Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMMM,Mineral Mountain Mining & Milling Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMMW,Mass Megawatts Wind Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMMPX,Morgan Stanley Inst Emerging Mkts IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMMDF,Millennium Minerals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMMKF,Avenira Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMM.AUS,Marley Spoon AG,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MMMC34.SAO,3M Company,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

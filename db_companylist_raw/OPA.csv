@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OPAMX,Oppenheimer Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPATX,Oppenheimer Rochester PA Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPAYX,Oppenheimer Rochester PA Municipal Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPACX,Oppenheimer Rochester PA Municipal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPWEF,Opawica Explorations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LAOPALA.NSE,La Opala RG Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+FR0011445378.PAR,R Opal Emergents,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4615
+OPA.STG,"Orpea Actions Port. EO 1,25",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158

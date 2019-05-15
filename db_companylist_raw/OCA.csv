@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCANF,OceanaGold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OCDGF,Ocado Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OCAYX,Oppenheimer Rochester CA Municipal Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCAIX,Oppenheimer Equity Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OCACX,Oppenheimer Rochester CA Municipal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+OCDDY,Ocado Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+OCDO.LON,Ocado Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+OCA.AUS,Oceania Healthcare Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+0OC.FRK,Ocado Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+0OC.BER,"OCADO GROUP PLC  LS -,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444

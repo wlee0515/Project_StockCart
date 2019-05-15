@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCM,Hutchison China MediTech Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HBP,Huttig Building Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CKHUY,CK Hutchison Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HUTMF,Hut 8 Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HUTN,HUTN Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HTCTF,Hutchison Telecommunications Hong Kong Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HCTPF,Hutchison Port Holdings Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HTHKY,Hutchison Telecommunications Hong Kong Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CKHUF,CK Hutchison Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CLGZF,Hutech21 Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

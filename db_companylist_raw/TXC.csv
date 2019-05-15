@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3042.TWN,TXC Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.7500
+TXCCQ,TranSwitch Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TXCL.PAR,TxCell S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+TXC2.FRK,"Teixeira Duarte, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TXC2.DUS,"TEIXEIRA DUARTE EO 0,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+TXC2.MUN,"TEIXEIRA DUARTE EO 0,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+0TC.FRK,TxCell S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+0TC.BER,"TXCELL  EO -,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333

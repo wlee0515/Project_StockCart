@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZNH,China Southern Airlines Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ZNH.FRK,China Southern Airlines Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ZNH.BER,CHINA SOU.AIRL.YC1 ADR/50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ZNH.MUN,CHINA SOU.AIRL.YC1 ADR/50,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ZNH.STG,CHINA SOUTHERN AIRLINES CO.LTDR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ZNHH.FRK,China Southern Airlines Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ZNHH.BER,CHINA STHN AIRL.CO. H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ZNHH.FRK,CHINA STHN AIRL.CO. H YC1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ZNHH.MUN,CHINA STHN AIRL.CO. H YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

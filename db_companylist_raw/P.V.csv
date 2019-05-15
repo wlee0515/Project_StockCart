@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PVNNF,P.V. Nano Cell Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+UBUS.STG,UBS(I)ETF-Fc.MSCI USA P.V.U.E.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+UBUW.STG,UBS(I)ETF-Fc.MSCI USA P.V.U.E.R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+OVX. P.V,Oculus Ventures Corp,Equity,CDNX,09:30,16:00,UTC-05,USD,0.2000
+WZD8.DUS,H+A P.VAL.-H+A PV EQ A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

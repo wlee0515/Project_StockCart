@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ILSAX,ILSAX,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+KR5233AF3503.KOR,Consus Ilsan Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2222
+F00000PGK3.KOR,Consus Ilsan Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2222

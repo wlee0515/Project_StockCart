@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDEX,Ideanomics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IDRA,Idera Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSC,Ideanomics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+1119.HKG,iDreamSky Technology Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+IDXG,Interpace Diagnostics Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IDXX,IDEXX Laboratories Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IDCC,InterDigital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IDTI,Integrated Device Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+IPWR,Ideal Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+IDN,Intellicheck Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1333

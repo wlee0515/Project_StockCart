@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWEOY,RWE Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RWNFF,RWE Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RWEBX,American Funds Washington Mutual R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWE.FRK,RWE Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+0HA0.LON,RWE Aktiengesellschaft,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RWE.FRK,RWE Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+0FUZ.LON,RWE Aktiengesellschaft,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+0FUZ.ILN,RWE AG RWE PREF SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727
+RWE-B.TRT,First Asset MSCI Europe Low Risk Weighted ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2400
+RWE.MIL,RWE Aktiengesellschaft,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2400

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PILBF,Pilbara Minerals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+PLS.AUS,Pilbara Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+PLR.BER,PILBARA MINERALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+PLR.FRK,Pilbara Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+PLR.HAM,PILBARA MINERALS LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+PLR.STG,Pilbara Minerals Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+PLR.MUN,PILBARA MINERALS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000

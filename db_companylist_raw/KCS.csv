@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KCSVX,Catholic Investor Small Cap Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KCSSX,Catholic Investor Small Cap S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KCSIX,Catholic Investor Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+4761.TOK,SAKURA KCS Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+KCSL.BSE,Karnimata Cold Storage Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2400

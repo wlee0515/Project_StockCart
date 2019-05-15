@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSZIX,Goldman Sachs Strategic Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZAX,Goldman Sachs Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZRX,Goldman Sachs Strategic Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZUX,Goldman Sachs Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZPX,Goldman Sachs Small Cap Gr Insghts P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZCX,Goldman Sachs Strategic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSZ.STG,CSSC Offsh.&Marin.Eng.(Grp)Co.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+GSZ.BER,CSSC OFF.+MAR.ENG.GR.HYC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GSZ.FRK,CSSC Offshore & Marine Engineering (Group) Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

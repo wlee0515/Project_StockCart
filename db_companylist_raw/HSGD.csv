@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0011973601.PAR,H2O Allegro HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+F00000U1YP.PAR,H2O Allegro HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+F00000V3RK.PAR,H2O Adagio HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+F00000W7Y0.PAR,H2O Vivace HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+FR0011981711.PAR,H2O Adagio HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+F00000UKCH.PAR,H2O Allegro HSGD-I C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3478
+F00000V6BZ.PAR,H2O Adagio HSGD-I C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+F00000XLN4.PAR,H2O Multistrategies HSGD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2667

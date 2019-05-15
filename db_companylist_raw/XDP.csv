@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDPGX,Duff & Phelps Global Utility In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDPE.FRK,X S&P 500 ETF 1C - EUR Hedged,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+XDPG.LON,X S&P 500 ETF 2C - GBP Hedged,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDPG.SWI,X(IE) S&P 500  H,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+XDPE.FRK,Concept Fund Solutions plc - db x-trackers S&P 500 UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XDPC.SWI,X S&P 500 ETF 3C - CHF Hedged,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XDPE.MIL,X S&P 500 ETF 1C - EUR Hedged,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XDPE.MUN,X(IE)-S+P 500 1CEOH,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XDPE.STG,Xtr.(IE) - S&P 500 Regist.Share,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XDPD.FRK,X(IE)-S+P 500 1DEOH,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

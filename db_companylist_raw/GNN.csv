@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNNDX,Gotham Index Plus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GNNDY,GN Store Nord A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNNSF,Genscript Biotech Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GNN.MUN,GN STORE NORD A/S NAM.DK1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+GNN.FRK,GN Store Nord A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GNN.BER,GN STORE NORD A/S NAM.DK1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GNN.STG,GN STORE NORD AS Navne-Aktier D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GNNA.MUN,GNNA.MU,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

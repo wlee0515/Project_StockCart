@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLXS,Plexus Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PROP,Pledge Petroleum Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PLECX,PNC Multi-Factor All Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLEIX,PNC Multi-Factor All Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+PLEAX,PNC Multi-Factor All Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PX4.FRK,Plexus Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+POS.LON,Plexus Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3158
+PX4.STG,PLEXUS CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+5075.KLA,Plenitude Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222

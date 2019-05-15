@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TQC.BER,"TOM GROUP LTD.  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+TQC.FRK,TOM Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TQC.MUN,"TOM GROUP LTD.  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TQC.STG,TOM Group Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

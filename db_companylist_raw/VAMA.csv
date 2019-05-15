@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VAMA.BSE,Vama Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273
+512175.BSE,Vama Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+750361.BSE,VAMAINDLR,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963

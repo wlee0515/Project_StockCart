@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMJ.LON,J. Smart & Co. (Contractors) PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+40B.SGP,SMJ International Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2222

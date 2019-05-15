@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEOAY,Stora Enso Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SEOVF,Sernova Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SEOJF,Stora Enso Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KR5213AM0462.KOR,Hanwha Seoul Subway Line No.9 Private Special Asset Infra 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1935
+5142.KLA,Wah Seong Corporation Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1111

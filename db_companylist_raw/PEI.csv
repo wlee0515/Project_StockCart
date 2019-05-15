@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PEI,Pennsylvania Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PEIX,Pacific Ethanol Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PEI-PD,Pennsylvania Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PEI-PB,Pennsylvania Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PEIIX,Principal Equity Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PEI-PC,Pennsylvania Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PEIYX,Putnam Equity Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PEII,Petron Energy II Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PEIMF,PepinNini Lithium Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PEIMX,Putnam Equity Income M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

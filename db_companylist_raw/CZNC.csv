@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CZNC,Citizens & Northern Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CZNC.SWI,ETFS Swiss Franc Dly Hdg Zinc ETC,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

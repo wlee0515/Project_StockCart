@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIISY,Direct Line Insurance Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIISF,Direct Line Insurance Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIIBF,Dorel Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DIISX,Dreyfus International Stock Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DII-B.TRT,Dorel Industries Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+DIIA.STG,"Intiland Development Tbk, PT Re",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+DII-A.TRT,Dorel Industries Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+DIIA.FRK,PT Intiland Development Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+DIIA.MUN,INTILAND DEVELOP.  RP 250,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+DIIB.TRT,"DOREL INDUSTRIES INC., CL.B, SV",Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455

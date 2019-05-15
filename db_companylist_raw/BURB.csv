@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LBC,Luther Burbank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+BURBY,Burberry Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+BBRYF,Burberry Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BRBY.LON,Burberry Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+BB2A.FRK,Burberry Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BB2.FRK,Burberry Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BB2.BER,"BURBERRY GROUP  LS-,0005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+BB2.DUS,"BURBERRY GROUP  LS-,0005",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857

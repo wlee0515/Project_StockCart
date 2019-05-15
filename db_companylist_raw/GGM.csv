@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGM,Guggenheim Credit Allocation Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GGMPX,Goldman Sachs High Yield P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGMMX,Gabelli Global Mini Mites I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GGM.TRV,Granada Gold Mine Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GGM.FRK,Amerisur Resources plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GGM.BER,"AMERISUR RES  LS-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GGM.STG,Amerisur Resources PLC Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GGMUSY.SWI,UBS ETF Solactive Glbl Pure Gld Mnrs USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+GGMUSY-USD.SWI,UBSETF-Sol Gbl  P GoldMiners A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3750

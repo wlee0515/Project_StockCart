@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKGAF,MERCK Kommanditgesellschaft auf Aktien,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MKKGY,MERCK Kommanditgesellschaft auf Aktien,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+MRK.FRK,MERCK Kommanditgesellschaft auf Aktien,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3750
+0O14.LON,MERCK Kommanditgesellschaft auf Aktien,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+FEM.PAR,auFeminin.com,Equity,Paris,09:00,17:30,UTC+01,EUR,0.1463
+MRK.FRK,MERCK Kommanditgesellschaft auf Aktien,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1463
+AEG.STG,auFeminin.com,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1463
+MRK.MIL,MERCK Kommanditgesellschaft auf Aktien,Equity,Milan,09:00,17:30,UTC+01,EUR,0.1463
+MRCK.VIE,MERCK Kommanditgesellschaft auf Aktien,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.1463
+MRKC.STG,MERCK Kommanditgesellschaft auf Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1463

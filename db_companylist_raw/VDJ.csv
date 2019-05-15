@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VDJP.LON,Vanguard FTSE Japan ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+VDJPN.MEX,VANGUARD FUNDS PLC FTSE JAPAN E,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.5455

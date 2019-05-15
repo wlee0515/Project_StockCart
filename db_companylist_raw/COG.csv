@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COG,Cabot Oil & Gas Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTSH,Cognizant Technology Solutions Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGNX,Cognex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CGNSF,Cognetivity Neurosciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCOI,Cogent Communications Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+COGMX,Cognios Market Neutral Large Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+COGIX,Cognios Market Neutral Large Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+COGLX,Cognios Large Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+COGZF,Cogstate Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+COGLF,Chelsea Oil and Gas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

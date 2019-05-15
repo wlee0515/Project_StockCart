@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHMCX,Nuveen Small Cap Select C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHMFX,Fidelity Series Corporate Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHMZAX,FT 6117: Corporate Investment G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHMEX,Fidelity Advisor Freedom Blnd 2060 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHM.TRT,FT AlphaDEX US Materials Sector ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

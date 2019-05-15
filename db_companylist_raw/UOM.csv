@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UOMO,UOMO Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UOM.MUN,A/S Latvijas Juras medicinas centrs,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UOMWPA.JOH,UBS OMWPA 17Oct23,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000

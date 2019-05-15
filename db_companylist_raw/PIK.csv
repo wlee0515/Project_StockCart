@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIKP,Mike the Pike Productions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PIKIX,PNC Intermediate Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIKL,Piksel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DICA.ARG,Argentina 8.28% PIK SNR 31/12/2033 USD1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+RODA.JKT,PT Pikko Land Development Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+PIK.JOH,Pick n Pay Stores Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+PIK.STG,PICK'N PAY STORES LTD. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5714
+DIA0.ARG,Argentina GLBL AMZ PIK 33,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2143
+PIKK.MOS,PIK Group Public Joint Stock Company,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.2000
+PIK.FRK,Pick n Pay Stores Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

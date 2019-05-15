@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBEXF,Hornby Bay Mineral Exploration Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HBEIF,Honey Badger Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HBE.TRV,Hornby Bay Mineral Exploration Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+HBESD.BSE,HB Estate Developers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+HBEE.SGP,Ho Bee Land,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5455
+NDJ4.BER,NORDEA 1-US HIGH YLD HBEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+NDJ4.DUS,NORDEA 1-US HIGH YLD HBEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+NDJ4.MUN,NORDEA 1-US HIGH YLD HBEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGR,Vector Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VGRAX,Invesco Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRLX,Vanguard Global ex-US Real Est Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRBF,VGrab Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRIX,JPMorgan Growth And Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGROX,Voya SMID Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRTX,JPMorgan Growth And Income R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRNX,Vanguard Global ex-US Real Est Index Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGRDX,Invesco Mid Cap Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGREX,VALIC Company I Global Real Estate,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

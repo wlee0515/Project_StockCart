@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JP,Jupai Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JUPGF,Jupiter Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JMIH,Jupiter Marine International Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JEO.LON,Jupiter European Opportunities Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+JUP.LON,Jupiter Fund Management Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+JPR.AUS,Jupiter Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2500
+F00000MWKG.LON,Jupiter Monthly Income I Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+GB0003629374.LON,Jupiter Merlin Income Portfolio Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+GB00B5129B32.LON,Jupiter Absolute Return Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+JMS.AUS,Jupiter Mines Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.1579

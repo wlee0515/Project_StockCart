@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVK.FRK,STEMify Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+FVK.MUN,ROBO 3D LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

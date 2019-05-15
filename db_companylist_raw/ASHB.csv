@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASHGEQ.JOH,Ashburton Global 1200 Equity ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6154
+ASHWGB.JOH,Ashburton World Government Bond ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4615
+ASHMID.JOH,Ashburton MidCap ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4615
+ASHINF.JOH,Ashburton Inflation ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4615
+ASHT40.JOH,Ashburton Top40 ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4615

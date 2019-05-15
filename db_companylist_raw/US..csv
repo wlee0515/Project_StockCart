@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+US.MIL,UnipolSai Assicurazioni S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+US.VIE,UnipolSai Assicurazioni S.p.A.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+UBU5.FRK,UBS(I)-MSCI US.V.U.E.ADDL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+UET1.FRK,UBS ETF-MSCI US.S.R.ADEOH,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+003K.BER,WISDOMTREE US.EARN.500 FD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+003K.DUS,WISDOMTREE US.EARN.500 FD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

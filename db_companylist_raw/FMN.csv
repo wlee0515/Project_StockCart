@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMN,Federated Premier Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FMNB,Farmers National Banc Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMNEX,Free Market International Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FMNJ,Franklin Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNIX,Franklin MN Tax-Free Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNDX,Fidelity Conservative Inc Muni Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNZX,Franklin MN Tax-Free Inc Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNQX,Franklin MN Tax-Free Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNBX,Federated Muni and Stock Advantage B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMNLBX,FT 6427: Alternative Income Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

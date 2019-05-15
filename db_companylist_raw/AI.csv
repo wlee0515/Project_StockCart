@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AI,Arlington Asset Investment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AIG,American International Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+APD,Air Products and Chemicals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AL,Air Lease Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AINV,Apollo Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AMCN,AirMedia Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AIMT,Aimmune Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AYR,Aircastle Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+AIZ,Assurant Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+AIPT,Precision Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

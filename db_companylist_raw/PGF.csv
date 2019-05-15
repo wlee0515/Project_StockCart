@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGF,Invesco Financial Preferred ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PGFY,Pingify International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PGFIX,AllianzGI Focused Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGFDX,Putnam Global Financial C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGFOX,Putnam Global Financial B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGFYX,Putnam Global Financial Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGFRX,Putnam Global Financial R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGFFX,Putnam Global Financial A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

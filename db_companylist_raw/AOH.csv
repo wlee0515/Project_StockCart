@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOHAX,AB Municipal Income II Ohio A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOHBX,AB Municipal Income II Ohio B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOHCX,AB Municipal Income II Ohio C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+2830.TOK,Aohata Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+AOHA.FRK,AorTech International Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+8301.HKG,Shenzhen Mingwah Aohan High Technology Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2857
+AOHA.BER,"AORTECH INTL PLC  LS0,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

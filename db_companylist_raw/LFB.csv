@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LFBCF,Life & Banc Split Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LFBAB.PAR,LFB3.85%22FEB2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+LFBAC.PAR,"LFB2,848%30DEC22",Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DVA,DaVita Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DVAX,Dynavax Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DVAR,Dovarri Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DVACX,Delaware Tax-Free Arizona C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DVALX,Footprints Discover Value Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DVA.TRV,Delivra Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+A1J3WK.FRK,DVAM Mehr Werte AMI,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2727

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMM,3M Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MMNFF,MedMen Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MMP,"Magellan Midstream Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MMLP,Martin Midstream Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MMC,Marsh & McLennan Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MMSI,Merit Medical Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MMS,MAXIMUS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MMEX,MMEX Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MMD,MainStay DefinedTerm Municipal Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MMYT,MakeMyTrip Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OKTA,Okta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+OKE,ONEOK Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OKSWF,OSISKO GOLD ROYAL,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OKMUX,Oklahoma Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OKDCC,Eaton Vance Oaktree Divers Crdt NextShrs,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OKDCCNX,Eaton Vance Oaktree Diversified,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OKMIX,Oklahoma Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OKEPF,"The Okinawa Electric Power Company, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+OKIEY,Oki Electric Industry Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444

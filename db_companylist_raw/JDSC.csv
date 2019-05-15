@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JDSCX,JPMorgan Small Cap Blend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F000010TDK.TRT,IG Core Portfolio Balanced Gr JDSC RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2105
+F00000YLUO.TRT,IG/GWL Allegro Bal Gwth GIF 100/100 JDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F00000YLVW.TRT,IG/GWL Mutual of Canada GIF 100/100 JDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1905
+F00000YLWA.TRT,IG/GWL Fixed Income Flex GIF 75/100 JDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+F00000YLWO.TRT,IG/GWL US Large Cap Value GIF 75/75 JDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010TDE.TRT,IG Core Portfolio Income Focus JDSC RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010TDG.TRT,IG Core Portfolio Income bal JDSC RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010TDI.TRT,IG Core Portfolio Balanced JDSC RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F000010TDM.TRT,IG Core Portfolio Growth JDSC RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

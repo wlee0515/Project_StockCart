@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOM,AGFiQ US Market Neutral Momentum,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MOMO,Momo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTUM,iShares Edge MSCI USA Momentum Fctr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+MNTA,Momenta Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PUI,Invesco DWA Utilities Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+GMOM,Cambria Global Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PTH,Invesco DWA Healthcare Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1667
+PSL,Invesco DWA Consumer Staples Mom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1622
+DWAS,Invesco DWA SmallCap Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579
+MOMT,MoneyOnMobile Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538

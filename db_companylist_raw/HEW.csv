@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPE,Hewlett Packard Enterprise Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HPQ,HP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWA,HealthWarehouse.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWJ,iShares Currency Hedged MSCI Japan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWU,iShares Currency Hedged MSCI UK ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWG,iShares Currency Hedged MSCI Germany ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWP,iShares Currency Hedged MSCI Spain ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWC,iShares Currency Hedged MSCI Canada ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HEWI,iShares Currency Hedged MSCI Italy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+HEWY,iShares Currency Hedged MSCI SouthKr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333

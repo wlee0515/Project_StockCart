@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOIC.BER,UBAM-AJO US EQU.VALUE A C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+SOIC.DUS,UBAM-AJO US EQU.VALUE A C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SOIC.STG,UBAM-AJO US Equity Value Inhabe,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SOIC.FRK,UBAM-AJO US EQU.VALUE A C,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

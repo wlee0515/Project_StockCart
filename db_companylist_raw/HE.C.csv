@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIWA.BER,FIDELITY-MSCI HE.CARE ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+QDVG.STG,iShsV-S&P 500 He.Ca.Sec.U.ETF R,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+FIWA.DUS,FIDELITY-MSCI HE.CARE ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286

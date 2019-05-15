@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOX,Twenty-First Century Fox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FOXA,Twenty-First Century Fox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TWER,Towerstream Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TWEIX,American Century Equity Income Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBGVX,"Tweedy, Browne Global Value",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TFGIX,American Beacon TwentyFour Strat IncInst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TWEBX,"Tweedy, Browne Value",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TWEGX,American Century Intl Discovery Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TWLVU,Twelve Seas Investment Company UNIT EXP 062123,Equity,United States,09:30,16:00,UTC-05,USD,0.1818
+TWLV,Twelve Seas Investment Company,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

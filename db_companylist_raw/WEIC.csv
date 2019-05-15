@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEICY,Weichai Power Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+WEICF,Weichai Power Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+WEICX,TETON Convertible Securities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+2338.HKG,Weichai Power Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4444
+WI4.BER,WEICHAI POWER CO. H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+WI4.FRK,WEICHAI POWER CO. H  YC 1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+WI4.HAM,WEICHAI POWER CO. H  YC 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+WI4.FRK,Weichai Power Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+WI4.MUN,WEICHAI POWER CO. H  YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+WI4.STG,Weichai Power Co. Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2963

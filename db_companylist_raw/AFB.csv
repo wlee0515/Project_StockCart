@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFB,AllianceBernstein National Municipal Income Fund,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+AFMCX,AFBA 5Star Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AFBSX,Access Flex Bear High Yield Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AFBA,Allied First Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AFBIX,Access Flex Bear High Yield Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFBG,American Fiber Green Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OLO,DB Crude Oil Long ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+603326.SHH,Nanjing OLO Home Furnishing Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.4000
+B315.BRU,OLO4%28MAR19,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.3333
+B318.BRU,"OLO3,75%28SEP20",Equity,Brussels,09:00,17:00,UTC+01,EUR,0.1538

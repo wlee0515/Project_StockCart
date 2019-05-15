@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZEMF,HORIZONS EMG MARIJ,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HZEM2M1-C.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+HZEM2A.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+HZEUROB0.MEX,BNMEURO B0-E,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZEM2B2-A.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZEM2C0-C.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZEM2C0-A.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+HZEM2M0-A.MEX,"Horizontes Inversiones Globales, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000

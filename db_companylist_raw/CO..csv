@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COKE,Coca-Cola Bottling Co. Consolidated,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FSNUY,Fresenius SE & Co. KGaA,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CPPD,"Circa Pictures and Production Co., Intl. Inc.",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HMLN,"Hamlin Bank & Trust Co. (Smethport, PA)",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BRCOQ,Beard Co. (The),Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+FSNUF,Fresenius SE & Co. KGaA,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+FLIDY,FLSmidth & Co. A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+FLIDF,FLSmidth & Co. A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+PCG_PA,Pacific Gas & Electric Co. 6% P,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+PCG_PB,Pacific Gas & Electric Co. 5 1/,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NR,Newpark Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NRZ,New Residential Investment Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NRG,NRG Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NRGMF,NRG Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NRP,Natural Resource Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NROM,Noble Roman's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NRE,Northstar Realty Europe Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NRT,North European Oil Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NRIM,Northrim BanCorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

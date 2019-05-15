@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KDP,Keurig Dr Pepper Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KDMN,Kadmon Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KDDIY,KDDI Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KDKGF,Klondike Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDHAX,DWS CROCI Equity Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+KDSKF,Koninklijke DSM N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDNCY,Cadence Minerals Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDKN,Kodiak Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KDHRX,DWS CROCI Equity Dividend R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

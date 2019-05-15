@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKNJX,BlackRock NJ Municipal Bond K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNYX,Invesco Global Market Neutral Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNRX,Invesco Global Market Neutral R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNCX,Invesco Global Market Neutral C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNAX,Invesco Global Market Neutral A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNKX,BlackRock NY Municipal Opps K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNSX,Invesco Global Market Neutral R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKNFX,Invesco Global Market Neutral R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKN1.MUN,SEMICON.MANUF.I.SP.ADR/5,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

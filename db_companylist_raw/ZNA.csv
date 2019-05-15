@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZNAE,Zane Interactive Publishing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZNAVAX,Cole Real Estate Income Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ZNAVIX,Cole Real Estate Income Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+F00000OXIA.LON,Threadneedle China Opportunities ZNA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+GB00B7TRT705.LON,Threadneedle Japan ZNA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2069
+F00000OU8V.LON,Threadneedle Glbl Select ZNA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+F00000OXIF.LON,Threadneedle Pan European Focus ZNA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+F00000SDV0.LON,Threadneedle UK Social Bond ZNA GBP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+GB00B60L2M02.LON,Threadneedle Pan European Focus ZNA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+GB00B7HJLD86.LON,Threadneedle Amer Sel ZNA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

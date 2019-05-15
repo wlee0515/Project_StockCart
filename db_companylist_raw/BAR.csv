@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAR,GraniteShares Gold Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ABX,Barrick Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BCS,Barclays PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CBRL,Cracker Barrel Old Country Store Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+B,Barnes Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+OLLI,Ollie's Bargain Outlet Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BKS,Barnes & Noble Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JNK,SPDR Blmbg Barclays High Yield Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+BOOT,Boot Barn Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+BRFH,Barfresh Food Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500

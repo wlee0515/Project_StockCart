@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMKNX,MassMutual RetireSMART by JPM 2045 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKTX,MassMutual RetireSMART by JPM 2045 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKSX,MassMutual RetireSMART by JPM 2045 Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKAX,MassMutual RetireSMART by JPM 2045 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKBX,Morgan Stanley Inst Emerging Mkts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKZX,MassMutual RetireSMART by JPM 2045 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKYX,MassMutual RetireSMART by JPM 2045 Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMKUX,MassMutual RetireSMART by JPM 2045 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMK.VIE,Mayr-Melnhof Karton AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667

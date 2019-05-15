@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIBN,SI-BONE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SIRI,Sirius XM Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SIX,Six Flags Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SING,SinglePoint Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SINA,SINA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SBGL,Sibanye Gold Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SIGA,SIGA Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SVM,Silvercorp Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SWIR,Sierra Wireless Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SPG,Simon Property Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

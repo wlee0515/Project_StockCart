@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDR,SandRidge Mississippian Trust II,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SDRL,Seadrill Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SDRIX,Swan Defined Risk I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SDRG,Silver Dragon Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SIDRX,Hartford Schroders Intl Multi-Cp Val SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDRCX,Swan Defined Risk C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDRAX,Swan Defined Risk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDRYF,SDX Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMDRX,Hartford Schroders US S/M-Cap Opps SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEMTX,Hartford Schroders Emerging Mkts Eq SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

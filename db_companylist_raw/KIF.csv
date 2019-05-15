@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIFYX,Salient Select Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KIFAX,Salient Select Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KIFCX,Salient Select Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KIFF.STG,Kiatnakin Bank PCL Reg. Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+KIFF.MUN,KIATNAKIN BK-FOREIGN-BA10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+KIFS.BSE,KIFS Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+KIFF.BER,KIATNAKIN BK-FOREIGN-BA10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

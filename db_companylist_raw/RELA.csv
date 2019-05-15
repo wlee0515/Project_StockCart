@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCRC,China Customer Relations Centers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+DURPX,DFA US Hi Relatv Profitability Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3478
+TGIGX,TCW Relative Value Dividend Apprec N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3478
+TGDIX,TCW Relative Value Large Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2759
+CABDX,AB Relative Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGVOX,TCW Relative Value Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RYMDF,Relay Medical Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2353
+CBBYX,AB Relative Value Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+CBBCX,AB Relative Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+TGDVX,TCW Relative Value Large Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

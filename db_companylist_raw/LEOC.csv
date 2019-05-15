@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0842.HKG,Leoch International Technology Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+0LT.FRK,Leoch International Technology Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+0LT.BER,LEOCH INT.TECH.REGS HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1905

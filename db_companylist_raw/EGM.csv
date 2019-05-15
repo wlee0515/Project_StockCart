@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGMCF,Emgold Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGMSX,Eaton Vance Glb Macr Absolt Retrn R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EGMZX,AB Emerging Markets Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EGM.TRV,EnGold Mines Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+EGM.BER,"W RESOURCES PLC  LS -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VAYA.FRK,Vaisala Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+VAYA.BER,VAISALA OY  A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

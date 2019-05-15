@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+URW.AMS,Unibail-Rodamco-Westfield,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+URW.AUS,Unibail-Rodamco-Westfield,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+URW.MIL,Unibail-Rodamco-Westfield,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+1BR1.DUS,"URW (STAPLED SHS)  EO-,05",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+1BR1.BER,"URW (STAPLED SHS)  EO-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+URWN.MEX,Unibail-Rodamco-Westfield,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2143
+1BR1.HAN,"URW (STAPLED SHS)  EO-,05",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.2143
+1BR1.HAM,"URW (STAPLED SHS)  EO-,05",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+1BR1.MUN,"URW (STAPLED SHS)  EO-,05",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143

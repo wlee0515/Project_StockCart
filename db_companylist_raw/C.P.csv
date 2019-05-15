@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTAIF,C.P. Lotus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CPKPY,C.P. Pokphand Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CPKPF,C.P. Pokphand Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+0043.HKG,C.P. Pokphand Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3636
+0121.HKG,C.P. Lotus Corporation,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2500
+CPTGF.BAK,C.P. Tower Growth Leasehold Property Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2400
+CPQA.FRK,C.P. Pokphand Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400

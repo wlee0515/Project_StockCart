@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QQQ,Invesco QQQ Trust,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+QQQC,Global X NASDAQ China Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QQQE,Direxion NASDAQ-100 Equal Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QQEW,First Trust NASDAQ-100 Equal Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QQXT,First Trust NASDAQ-100 ex-Tech Sect ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFHY,WisdomTree Fdmtl US S-T HiYld CorpBd,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SFHI,Sports Field Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFHLF,SAF-Holland S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFHYX,Hundredfold Select Alternative Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFHFX,Shenkman Capital Floating Rt Hi Inc F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFHIX,Shenkman Capital Floating Rt Hi Inc Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

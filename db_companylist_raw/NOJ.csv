@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7419.TOK,Nojima Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+ES0184636001.BCL,Inversiones Nojubi SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000U3AI.BCL,Inversiones Nojubi SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

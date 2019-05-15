@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCNA,Smart Cannabis Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCND,Scientific Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCNLF,Scancell Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCNG,SC Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCNUX,Invesco Low Volatility Equity Yield Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCNSX,Wells Fargo Common Stock Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCNY.LON,ETFS Short CNY Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SCN-R.BAK,Scan Inter Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

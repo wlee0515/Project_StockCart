@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+URE,ProShares Ultra Real Estate,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+UREE,U.S. Rare Earths Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+URE.TRT,Ur-Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+UREKA-R.BAK,Eureka Design Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+UREKA.BAK,Eureka Design Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4615
+010640.KOR,Chinyang Poly Urethane Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1818

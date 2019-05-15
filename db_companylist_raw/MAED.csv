@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1824.TOK,Maeda Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3810
+1883.TOK,MAEDA ROAD CONSTRUCTION Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+6281.TOK,Maeda Seisakusho Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+7821.TOK,Maeda Kosen Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2162

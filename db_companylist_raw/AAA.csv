@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GABUX,Gabelli Utilities AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AAAU,Perth Mint Physical Gold ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+GABSX,Gabelli Small Cap Growth AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GABAX,Gabelli Asset AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOLDX,Gabelli Gold AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AAAGX,Thrivent Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+AAAAX,DWS RREEF Real Assets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+GABEX,Gabelli Equity Income AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AAADX,Aberdeen Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

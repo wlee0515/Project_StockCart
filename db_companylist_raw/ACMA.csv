@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAX1.FRK,Acma Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8889
+ACMTA,ACMAT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ACMAX,Absolute Capital Defender A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+AAX1.BER,ACMA LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6154
+AYV.SGP,Acma Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6154
+AAX1.STG,Acma Ltd. Registered Shares o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

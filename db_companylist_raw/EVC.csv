@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVC,Entravision Communications Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EVCC,Environmental Control Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EVCI,EVCI Career Colleges Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EVCGX,Eaton Vance Greater China Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVCTX,Eaton Vance CT Municipal Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVCLX,Eaton Vance CO Municipal Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVCN.FRK,Eaton Vance Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

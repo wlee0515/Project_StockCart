@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFX,Equifax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EFX.TRT,Enerflex Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+EFX.BER,"EQUIFAX INC.  DL 1,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EFX.DUS,"EQUIFAX INC.  DL 1,25",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+EFX.MUN,"EQUIFAX INC.  DL 1,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EFX.FRK,Equifax Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EFX.STG,EQUIFAX INC. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

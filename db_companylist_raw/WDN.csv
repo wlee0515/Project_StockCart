@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WDNR.FRK,AIS-AM.MSCI WLD E.EOC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WDNR.FRK,AIS-AM.MSCI WLD E.EOC,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+WDNR.MUN,AIS-AM.MSCI WLD E.EOC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WDNR.STG,AIS-Amundi MSCI World Energy Na,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

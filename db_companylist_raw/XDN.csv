@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDNPX,DNP Select Income Fund Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDNIX,Dividend and Income Fd Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDN0.LON,X MSCI Nordic ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDNG.LON,X JPX-Nikkei 400 ETF 2D - GBP Hedged,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDNS.LON,Concept Fund Solutions plc - db x-trackers JPX-Nikkei 400 UCITS ETF (DR),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDNU.LON,X JPX-Nikkei 400 ETF 4C - USD Hedged,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDNY.LON,X JPX-Nikkei 400 ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XDN0.SWI,X MSCI NORDIC,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+XDNE.FRK,X JPX-Nikkei 400 ETF 3C - EUR Hedged,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

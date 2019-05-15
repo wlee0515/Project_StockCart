@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFXCX,American Beacon Flexible Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFXIX,American Beacon Flexible Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFXPX,American Beacon Flexible Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFXAX,American Beacon Flexible Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFXYX,American Beacon Flexible Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFX.FRK,Carl Zeiss Meditec AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+AFX.JOH,African Oxygen Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+AFX.BER,CARL ZEISS MEDITEC AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AFX.HAN,CARL ZEISS MEDITEC AG,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+AFX.HAM,CARL ZEISS MEDITEC AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

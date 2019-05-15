@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSFAX,Touchstone Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+TSFA.BER,TAIWAN SEMICON.MANU.ADR/5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+TSFA.VIE,Taiwan Semiconductor Manufacturing Company Limited,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273
+TSFA.FRK,Taiwan Semiconductor Manufacturing Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+TSFA.DUS,TAIWAN SEMICON.MANU.ADR/5,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+TSFA.MUN,TAIWAN SEMICON.MANU.ADR/5,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TSFA.STG,Taiwan Semiconductor Manufacturing Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+TSFAA.PAR,GRTSF8%09MAY2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

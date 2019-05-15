@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIVYAJYQ.BSE,Divya Jyoti Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+504076.BSE,Jyoti Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+532926.BSE,Jyothy Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+JEL.BSE,Jyotirgamya Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+JYOTIRES.BSE,Jyoti Resins and Adhesives Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+JYOTHYLAB.BSE,Jyothy Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+JYOTHYLAB.NSE,Jyothy Laboratories Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+JYOTISTRUC.BSE,Jyoti Structures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+JYOTISTRUC.NSE,Jyoti Structures Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3158
+JYOTISTRUC-EQ.NSE,JYOTI STRUCTURES,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000

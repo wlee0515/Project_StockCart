@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0186.HKG,Nimble Holdings Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5714
+LEX.BSE,Lex Nimble Solutions Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+530971.BSE,Nimbus Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+NIMBUSI.BSE,Nimbus Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+NIMBSPROJ.BSE,Nimbus Projects Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+NIMBUSFOO.BSE,Nimbus Foods Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667
+F0GBR06M0V.BCL,Nimbus de Inv. Spain SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+NIMBUS2002SI.BCL,Nimbus 2002 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

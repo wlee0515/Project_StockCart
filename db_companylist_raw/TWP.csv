@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWP.BAK,Thai Wire Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TWPC.BAK,Thai Wah Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6000
+TWPH.KLA,TIEN WAH PRESS HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+TWP-R.BAK,Thai Wire Products Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+TWPC-R.BAK,Thai Wah Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

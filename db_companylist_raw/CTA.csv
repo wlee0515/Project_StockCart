@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTAS,Cintas Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTAM,A.M. Castle & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTAA,Qwest Corp. NT 7% 2056,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTACU,ChaSerg Technology Acquisition Corp. UNIT EX 093023,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTAIF,C.P. Lotus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTAGF,Capita plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTAC,ChaSerg Technology Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

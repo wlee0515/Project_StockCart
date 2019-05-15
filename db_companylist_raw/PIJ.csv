@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIJ.BER,PLATINUM ASSET MANAG.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+PIJ.FRK,Platinum Asset Management,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PIJ.DUS,PLATINUM ASSET MANAG.LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+PIJ.MUN,PLATINUM ASSET MANAG.LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

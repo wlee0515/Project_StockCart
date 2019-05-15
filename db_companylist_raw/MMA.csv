@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMMA,Alliance MMA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMAC,"MMA Capital Management, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LUSI,MMA Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAJX,MProved Systematic Merger Arbitrage Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMABX,MFS Moderate Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAAX,MassMutual Select Growth Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMACX,MFS Moderate Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAIX,MFS Moderate Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAZX,MassMutual Select Growth Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAQX,MProved Systematic Merger Arbitrage Insl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

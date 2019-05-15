@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFOA.FRK,AuStar Gold Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QFOA.BER,AUSTAR GOLD LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+QFOBE.MIL,QF OBELISCO,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6000
+QFOPI.MIL,Opportunita Italia - Real Estate Fund,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455
+QFOA.HAM,AUSTAR GOLD LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5455

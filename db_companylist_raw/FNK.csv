@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNK,First Trust Mid Cap Value AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FNKO,Funko Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNKLX,Fidelity Series Value Discovery,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNKIX,Frank Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNKCX,Frank Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNKDTX,FT 7129: European Target High Q,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNKGLX,The First Trust Combined Srs 38,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNKYZX,FT 5706: Balanced Income Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

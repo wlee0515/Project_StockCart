@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BA.LON,BAE Systems plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+BA.BAK,Bangkok Airways Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+BA.SWI,The Boeing Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+HLXD.MUN,TU.TRYCON BA.I.HA.B N.INS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7500
+DXSC.FRK,XTR.ST.EU.600 BA.RE.SW.1C,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BA.ARG,The Boeing Company,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+BA.MEX,The Boeing Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2222
+BA.VIE,The Boeing Company,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2143

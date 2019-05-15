@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFMGF,First Mining Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFMR,First Farmers Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFMH,First Farmers and Merchants Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FFMVX,Fidelity Flex Mid Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFMRX,Templeton Frontier Markets R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFMGX,Fidelity Flex Mid Cap Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFM.HAM,Franconofurt AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

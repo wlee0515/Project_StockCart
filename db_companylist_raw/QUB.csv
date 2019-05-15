@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QUBT,Quantum Computing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QUBSF,Qantas Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QUB.AUS,Qube Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+1K1.STG,Qube Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+F00000PNS2.TRT,RBC QUBE Low Volatility Global Eq A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+F00000X63U.TRT,RBC QUBE Low Volatility US Equity Currency Neutral Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F00000V9BR.TRT,RBC QUBE Low Volatility U.S. Equity Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+F00000PNS3.TRT,RBC QUBE Low Volatility Global Eq Adv,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+1K1.FRK,Qube Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1364
+F00000P2OG.TRT,RBC QUBE Low Volatility Cdn Eq Ser A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1250

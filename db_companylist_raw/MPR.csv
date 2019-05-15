@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMAJX,MProved Systematic Merger Arbitrage Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MMSJX,MProved Systematic Multi-Strategy Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMAQX,MProved Systematic Merger Arbitrage Insl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MLSJX,MProved Systematic Long-Short Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPRAX,MFS AR Municipal Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MPRG,The Motion Picture Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MPRSX,MassMutual Premier Strat Emerg Mkts R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MPRRX,MainStay MAP Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MMSQX,MProved Systematic Multi-Strategy Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MLSQX,MProved Systematic Long-Short Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

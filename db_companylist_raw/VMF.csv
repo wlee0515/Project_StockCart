@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMFIX,Virtus Newfleet Multi-Sect Intrmdt Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMFGX,Vanguard S&P Mid-Cap 400 Growth Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMFVX,Vanguard S&P Mid-Cap 400 Value Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMFRX,Virtus Newfleet Multi-Sect Intrmdt Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

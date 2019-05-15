@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGBNOV24-GB.NSE,BIHAR (GOVT),Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+BIH.FRK,Balfour Beatty plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BIH.BER,"BALFOUR BEATTY PLC LS-,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BIH.DUS,"BALFOUR BEATTY PLC LS-,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BIH.STG,BALFOUR BEATTY PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+500058.BSE,Bihar Sponge Iron Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+BIHSPONG.BSE,Bihar Sponge Iron Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143

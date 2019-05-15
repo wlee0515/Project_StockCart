@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSE,Duff & Phelps Select Energy MLP Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSENX,DoubleLine Shiller Enhanced CAPE N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSEEX,DoubleLine Shiller Enhanced CAPE I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSEFX,Domini Impact Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSEEY,Daiwa Securities Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSECF,Daiwa Securities Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSEUX,DoubleLine Shiller Enhanced Intl CAPE I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSEPX,Domini Impact Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSE.AUS,Dropsuite Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DSE.STG,DAIWA SECURITIES GROUP INC. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

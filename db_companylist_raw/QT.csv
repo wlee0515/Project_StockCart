@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QTT,Qutoutiao Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QTM,Quantum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QTWO,Q2 Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QTNA,Quantenna Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTS,QTS Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTNT,Quotient Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTRX,Quanterix Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTMM,Quantum Materials Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTRH,Quarterhill Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QTEC,First Trust NASDAQ-100-Tech Sector ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

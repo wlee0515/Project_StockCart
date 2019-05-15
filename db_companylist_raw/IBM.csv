@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBM,International Business Machines Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IBMM,iShares iBonds Dec 2024 Term Muni Bond,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBMJ,iShares iBonds Dec 2021 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBMH,iShares iBonds Sep 2019 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBMI,iShares iBonds Sep 2020 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBMK,iShares iBonds Dec 2022 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBML,iShares iBonds Dec 2023 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571

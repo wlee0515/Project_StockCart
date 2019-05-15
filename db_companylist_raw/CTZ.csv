@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTZ,Qwest Corp. NT,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTZIOX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTZIRX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTZIPX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTZIQX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTZISX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTZITX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTZ.TRV,NamSys Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+CTZ.FRK,Citizen Watch Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

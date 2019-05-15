@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQGB.LON,Invesco EQQQ NASDAQ-100 ETF (GBP Hdg),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EQGB.SWI,Invesco EQQQ NASDAQ-100 ETF (GBP Hdg),ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

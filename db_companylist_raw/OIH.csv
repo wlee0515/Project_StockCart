@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OIH,VanEck Vectors Oil Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+OIH.LON,Orascom Investment Holding S.A.E.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+OIH.ILN,ORASCOM INVESTMENT HOLDING S.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+OIH.MEX,VanEck Vectors Oil Services ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+OIHC.FRK,CSI Properties Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VNSAX,Natixis Vaughan Nelson Select A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VAUCF,Viva Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VNVYX,Natixis Vaughan Nelson Value Opp Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+VNSYX,Natixis Vaughan Nelson Select Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VNVAX,Natixis Vaughan Nelson Value Opp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VNVNX,Natixis Vaughan Nelson Value Opp N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NEJYX,Natixis Vaughan Nelson Small Cap Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VNVCX,Natixis Vaughan Nelson Value Opp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VNSNX,Natixis Vaughan Nelson Select N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395
+NEJCX,Natixis Vaughan Nelson Small Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

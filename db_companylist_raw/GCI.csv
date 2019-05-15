@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCI,Gannett Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GLIBA,GCI Liberty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLIBP,GCI Liberty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCIIX,Goldman Sachs Intl Eq Insghts Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCIAX,Goldman Sachs Intl Eq Insghts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCITX,Goldman Sachs Intl Eq Insghts Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLIBB,GCI Liberty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCIRX,Goldman Sachs Intl Eq Insghts R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GCIEX,Gabelli Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GCISX,Goldman Sachs Intl Eq Insghts S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

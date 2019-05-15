@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GFT.FRK,GFT Technologies SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+GFTU.LON,Grafton Group plc Grafton Units,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+GFT.HAN,GFT TECHNOLOGIES SE,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+GFT.FRK,GFT Technologies SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GFT.BER,GFT TECHNOLOGIES SE,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GFT.DUS,GFT TECHNOLOGIES SE,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GFT.HAM,GFT TECHNOLOGIES SE,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GFT.MUN,GFT TECHNOLOGIES SE,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GFT.STG,GFT Technologies SE Inhaber-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GFT.VIE,GFT Technologies SE,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667

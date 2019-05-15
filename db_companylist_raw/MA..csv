@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+94A.MUN,APPLIED GRAPHENE MA.LS-02,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+M9SD.BER,MA.-NYSE AR.GO.BU.IN.UETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+M9SD.DUS,MA.-NYSE AR.GO.BU.IN.UETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+M9SD.MUN,MA.-NYSE AR.GO.BU.IN.UETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000
+MA.MEX,Mastercard Incorporated,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+MA.SWI,Mastercard Incorporated,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KGKG,Kona Gold Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KGC,Kinross Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KGJI,Kingold Jewelry Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KGET,CaliPharms Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KGFHY,Kingfisher plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KGIIX,Kopernik International I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+KGSPF,Kingspan Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KGHI,Kaiser Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KGRN,KraneShares MSCI China Environment ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+KGGIX,Kopernik Global All-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

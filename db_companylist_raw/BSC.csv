@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSCFX,Baron Small Cap Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCL,Invesco BulletShares 2021 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCJ,Invesco BulletShares 2019 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCK,Invesco BulletShares 2020 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCI,Invesco BulletShares 2018 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCM,Invesco BulletShares 2022 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCO,Invesco BulletShares 2024 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCVX,Bernzott US Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BSCS,Invesco BulletShares 2028 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BSCN,Invesco BulletShares 2023 Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500

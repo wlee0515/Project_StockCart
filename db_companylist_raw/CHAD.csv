@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHAD,Direxion Dly CSI 300 Chn A Shr Br 1X ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CDFFX,Chadwick & D'Amato,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+531946.BSE,CHADHA PAPERS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636

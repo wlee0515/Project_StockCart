@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJTSY,Fujitsu Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTNY,Fuji Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTDX,Fidelity Flex Conservative Income Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTHX,Fidelity Advisor 529 Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTSF,Fujitsu Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTNF,Fuji Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTMRX,FT 7314: Dividend & Income Sele,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTKX,Fidelity Freedom 2045 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJTVMX,FT 7186: Utilities Select Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJTMX,Fidelity Advisor Freedom Blnd 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

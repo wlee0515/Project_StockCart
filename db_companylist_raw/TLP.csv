@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLP,Transmontaigne Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TLPY,Telupay International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLPFF,Teleperformance SE,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLPFY,Teleperformance SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLPC,Telpac Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLPRX,TIAA-CREF Lifecycle Index 2040 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCF.STG,Tlperformance SE Actions Port. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSW,DSW Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSWL,Deswell Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DQWS,DSwiss Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+D9W.FRK,DSW Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+D9W.STG,DSW Inc. Reg. Shares Class A o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

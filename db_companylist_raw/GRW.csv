@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRWG,GrowGeneration Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRWC,Grow Condos Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CSLPX,Columbia Select Large Cap Grwth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHOFX,Fidelity Series Large Cp Grwth Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+CSLAX,COLUMBIA SELECT LARGE CAP GRWTH,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+GRWXF,Draper Esprit plc,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+CSLCX,COLUMBIA SELECT LARGE CAP GRWTH,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622
+F0CAN06YSU.TRT,Redwood Resource Grwoth & Income Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+KR5301AI7821.KOR,MiraeAsset RP Grw Prms S-M Cap Fdr Eq 1C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395
+KR5232960389.KOR,NH-Amundi Long-term Grwth Rep Comp Eq C2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1395

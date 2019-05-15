@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSUD,PetroSun Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSU.ARG,PETROLERA DEL CONO,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+123690.BSE,Kotak Banking and PSU Debt Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+PSU-U.TRT,PURPOSE US CASH ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3750
+100261.BSE,Kotak Banking and PSU Debt Reg Mn Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+121270.BSE,DHFL Pramerica Bkg & PSU Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+KOTAKPSUBK.NSE,Kotak PSU Bank ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000
+PSUBNKBEES.NSE,Reliance ETF PSU Bank BeES,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1667
+119762.BSE,Kotak Banking and PSU Debt Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667
+119763.BSE,Kotak Banking & PSU Debt,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1500

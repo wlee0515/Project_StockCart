@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBW.AUS,UBS IQ MSCI World ex Australia Ethcl ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.7500
+UBW.FRK,Babcock & Wilcox Enterprises Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UBW.BER,"BABCOCK+WILCOX ENT.DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UBW.STG,Babcock & Wilcox Enterpr. Inc.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

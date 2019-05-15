@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOH,Molina Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MHK,Mohawk Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%,Equity,United States,09:30,16:00,UTC-05,USD,0.4286
+NMK-PB,Niagara Mohawk Power Corporation PFD 3.60%,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NMPWP,Niagara Mohawk Power Corporation PFD 3.40%,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+NMK_PB,Niagara Mohawk Holdings Inc. P,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+NMK_PC,Niagara Mohawk Holdings Inc. P,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+0K2F.LON,Mohawk Industries Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+MOHITIND.BSE,Mohit Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

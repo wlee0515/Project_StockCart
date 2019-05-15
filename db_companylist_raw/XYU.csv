@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XYUA.FRK,Hengdeli Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XYUA.BER,"HENGDELI HLDG.SUB.HD-,005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+XYUA.MUN,"HENGDELI HLDG.SUB.HD-,005",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XYUA.STG,Hengdeli Holdings Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

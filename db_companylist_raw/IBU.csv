@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBUY,Amplify Online Retail ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBUYBX,Buyback Leaders Portfolio 2016-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBUYOX,Buyout Opportunity Portfolio 20,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBUYLX,Buyback Leaders Portfolio 2016-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBUBKX,Buyback Leaders Portfolio 2017-,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBUOTX,Buyout Opportunity Portfolio 20,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBUSTX,Insider Buy Strategy 2017-1 (In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IBULHSGFIN.NSE,Indiabulls Housing Finance Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+IBULHSGFIN-EQ.NSE,INDIABULLS HOUSING,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3158

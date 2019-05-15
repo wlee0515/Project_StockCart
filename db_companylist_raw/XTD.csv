@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XTD.AUS,XTD Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+XTDFX,"Templeton Dragon Fund,  Inc.",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XTD.TRT,TDb Split Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XTD-PA.TRT,"TDB SPLIT CORP., PRIORITY EQUIT",Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

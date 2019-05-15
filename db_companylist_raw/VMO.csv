@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMO,Invesco Municipal Opportunity Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VMOT,Alpha Architect Value Momentum Trend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+VMO.TRT,Vanguard Global Momentum Factor ETF CAD,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+VMOM.LON,Vanguard Funds Public Limited Company - Vanguard Global Momentum Factor UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+O9C.BER,VMOTO LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VMT.AUS,Vmoto Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+VMOM.FRK,VANG.GBL MOM.FAC.U.ETF DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+VMOM.AMS,Vanguard Funds Public Limited Company - Vanguard Global Momentum Factor UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.4444

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPP.DUS,CHINA OV.LD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+CPP.MUN,CHINA OV.LD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+CPP.STG,CHINA OV.LAND & INV. LTD. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+UOB.BER,UTD OV. BK  SD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+UOB.MUN,UTD OV. BK  SD 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4286
+CPP.BER,CHINA OV.LD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+UOB.DUS,UTD OV. BK  SD 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222

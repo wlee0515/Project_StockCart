@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLWD,Almost Never Films Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HLW.FRK,Highlands Pacific Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HLW.BER,"HIGHLDS PACIFIC  KI-,40",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HLW.MUN,"HIGHLDS PACIFIC  KI-,40",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+HLW.STG,HIGHLANDS PACIFIC LTD. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+HLW.HAM,"HIGHLDS PACIFIC  KI-,40",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

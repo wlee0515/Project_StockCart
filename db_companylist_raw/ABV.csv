@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ABVG,Affinity Beverage Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABVN,ABV Consulting Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ABVCX,AB Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ABVYX,AB Value Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVRX,AB Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVKX,AB Value K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVIX,AB Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVBX,AB Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVAX,AB Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ABVC,American BriVision (Holding) Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

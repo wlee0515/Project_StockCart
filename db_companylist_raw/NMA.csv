@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMAEX,Nuveen Equity Market Neutral A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMANX,Neuberger Berman Mid Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMARX,Nuveen AZ Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMACX,Nuveen MA Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMAVX,Nuance Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMAAX,Nuveen MA Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMA.FRK,Newcrest Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NMA.BER,NEWCREST MNG LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NMA.DUS,NEWCREST MNG LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+NMA.HAM,NEWCREST MNG LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

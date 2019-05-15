@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZDO.FRK,"Zardoya Otis, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+ZDO.BER,"ZARDOYA OTIS INH. EO 0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ZDO.STG,"Zardoya Otis, S.A.",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+ZDO.DUS,"ZARDOYA OTIS INH. EO 0,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+0NR7.ILN,ZARDOYA OTIS SA ZARDOYA OTIS OR,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+ZOTN.MEX,"Zardoya Otis, S.A.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2286

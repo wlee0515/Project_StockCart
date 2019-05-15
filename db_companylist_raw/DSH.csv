@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFSI-PF,AmTrust Financial Services Inc. DSHS 1/40 PF F,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HBANN,Huntington Bancshares Incorporated DSHS 1/40 PFD,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSHAX,DWS Short Duration High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSHGX,DFA Selectively Hedged Glbl Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSHRX,DWS Short Duration High Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSHSX,DWS Short Duration High Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSHPX,Dreyfus Short Term Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DSHIX,DWS Short Duration High Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DSH.BER,"SENSYNE HEALTH LT  LS-,1",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

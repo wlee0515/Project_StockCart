@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSLBL.LIS,"Sport Lisboa e Benfica - Futebol, SAD 4% BDS 24/04/2020 EUR100",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6667
+BSLBK.LIS,"SLB 4,25%3MAY19",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6667
+BSLBM.LIS,SLB 4% 16JUL21,Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6667

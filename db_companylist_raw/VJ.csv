@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VJET,voxeljet AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VJC.STG,JGC CORP. Registered Shares o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5714
+VJPN.LON,Vanguard Funds Public Limited Company - Vanguard FTSE Japan UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+VJ6.BER,BEFIMMO S.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+VJ6.FRK,Befimmo SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+VJC.FRK,JGC Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+VJF.FRK,Vital Metals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+VJ6.DUS,BEFIMMO S.A.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5000

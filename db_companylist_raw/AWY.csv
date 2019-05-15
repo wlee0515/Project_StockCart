@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWYIX,CIBC Atlas Equity Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AWY.AUS,Australian Whisky Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AWY.BER,ANTISENSE THERAPEUTICS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+JAW.MUN,"JETBLUE AWYS CORP. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444

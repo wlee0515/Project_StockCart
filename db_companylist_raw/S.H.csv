@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2LL3.BER,"CHINA BIOTECH S.H. HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+EHDV.BER,IMIII-I.EO S.H.DI.L.VO. A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+EHDV.STG,I.M.III-I.EO S.H.Div.L.Vo.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

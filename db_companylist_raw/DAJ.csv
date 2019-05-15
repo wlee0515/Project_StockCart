@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJIFF,Dajin Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DJI.TRV,Dajin Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+C2U1.FRK,Dajin Resources Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+C2U1.BER,DAJIN RESOURCES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+C2U1.STG,Dajin Resources Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+002487.SHZ,Dajin Heavy Industry Corporation,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+DAJAMAINVERS.BCL,Dajama Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765
+F000001Y00.BCL,Dajama Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1714

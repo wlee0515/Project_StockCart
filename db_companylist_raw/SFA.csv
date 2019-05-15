@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFAAX,Wells Fargo Index Asset Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFAAAX,ADT 1856 60-40 Asset Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFAFX,Goldman Sachs Strategic Fac Allc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFARX,Test Mutual Fund - ADTA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SFAABX,ADT 1865 60/40 Asset Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SFAACX,ADT 1884 60/40 Asset Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SFAADX,ADT 1900 60/40 Asset Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+UFUT.BER,UBS(CH)-C.O.SF(CHF)H SFAD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143

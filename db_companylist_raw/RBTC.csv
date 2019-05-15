@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBOT,"Direxion Dly Rbtc,AtfclItlgcAutoBl3XShrs",ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ROBT,FT Nasdaq Artfcl Intllgnc and Rbtc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+ROBO.MIL,L&G ROBO Global Rbtc and Atmtn ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.4000
+IROB.FRK,L&G ROBO Global Rbtc and Atmtn ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+ROBO.LON,L&G ROBO Global Rbtc and Atmtn ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+ROBO.SWI,L&G ROBO Global Rbtc and Atmtn ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3636

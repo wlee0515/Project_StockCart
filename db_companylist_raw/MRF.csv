@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRF.NSE,MRF Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+MRFIX,MFS Research I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFOX,Marshfield Concentrated Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFGX,BlackRock Capital Appreciation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFUX,MassMutual RetireSMART by JPM 2040 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFAX,MassMutual RetireSMART by JPM 2040 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFYX,MassMutual RetireSMART by JPM 2040 Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFZX,MassMutual RetireSMART by JPM 2040 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRFTX,MassMutual RetireSMART by JPM 2040 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MRFG3.SAO,Marfrig Global Foods S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455

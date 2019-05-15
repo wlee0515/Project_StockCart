@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KNDI,Kandi Technologies Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+1942.TOK,Kandenko Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+K8A.BER,"KANDI TECHNOL.GRP DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+K8A.FRK,Kandi Technologies Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+1992.TOK,Kanda Tsushinki Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+9059.TOK,Kanda Holdings Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+K8A.MUN,"KANDI TECHNOL.GRP DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+K8A.STG,Kandi Technologies Group Inc. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2963
+KANDAGIRI.BSE,Kandagiri Spinning Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759

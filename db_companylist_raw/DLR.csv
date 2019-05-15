@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLR,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DLR-PJ,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLR-PI,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLR-PH,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DLR-PG,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DLRHX,Delaware Healthcare R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DLR-PC,Digital Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DLREX,DoubleLine Colony Rl Estt Inc N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DLR.TRT,Horizons US Dollar Currency ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+DLRTRAC15.MEX,DLRTRAC 15,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.4615

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCEL,FuelCell Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCE-A,Forest City Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCEF,First Trust CEF Income Opportunity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FCELB,FuelCell Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCECX,Fidelity Advisor Consumer Discret C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCEQX,Franklin Select US Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCETX,American Funds 2030 Trgt Date Retire F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCEDX,Franklin Select US Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCEPX,Fidelity Advisor Total Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

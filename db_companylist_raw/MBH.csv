@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+M8H.FRK,MBH CORP. PLC  EO 1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+MBH.LON,Michelmersh Brick Holdings plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+M8H.DUS,MBH Corporation PLC,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MBH3.BER,MASCH.BERT.HER. O.N. VZO,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MBH.SGP,NikkoAM SGD IGBond ETF,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+MBH3.FRK,Maschinenfabrik Berthold Hermle AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MBH3.DUS,MASCH.BERT.HER. O.N. VZO,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+MBH3.STG,MASCH. BERTH. HERMLE AG Inhaber,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+M8H.FRK,MBH Corporation PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+MBH3.HAM,MASCH.BERT.HER. O.N. VZO,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444

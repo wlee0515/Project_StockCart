@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSEX,Middlesex Water Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MSEGX,Morgan Stanley Inst Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSEQX,Morgan Stanley Inst Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSELX,Morgan Stanley Inst Emerging Mkts L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSEIX,AMG Managers Special Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSEFX,Litman Gregory Masters Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSEQSX,"Morgan Stanley Portfolios, Seri",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSEAX,MainStay MacKay International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSECX,Morgan Stanley Inst International Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYY0.STG,MUL-Lyx.MSCI All C.Worl.UC.ETFN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LYYG.FRK,Lyxor UCITS ETF Turkey (DJ TURKEY TITANS 20),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LYYE.FRK,Lyxor MSCI Russia ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+LYYA.FRK,Lyxor MSCI World ETF Dist A/I,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LYY7.FRK,Multi Units Luxembourg - Lyxor DAX (DR) UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYYI.FRK,Lyxor UCITS ETF Stoxx Europe 600 Retail,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYY0.FRK,Lyxor MSCI All Country World ETF C-EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LYY0.MUN,MUL-LYX.MSCI A.C.W.UC.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LYY6.FRK,Lyxor Commodit Thm R/C CRB TR ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LYY7.FRK,MU Lux Lyxor DAX (DR) ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

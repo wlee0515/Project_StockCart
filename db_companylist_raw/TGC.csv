@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGC,Tengasco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TGCDF,Teranga Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGCEX,TCW Select Equities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGCFX,TCW Core Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGCNX,TCW Select Equities N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGCIX,Timothy Plan Growth & Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGCM,Trans-Global Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGC.FRK,TGS-NOPEC Geophysical Company ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TGC.BER,"TGSNOP.GEOPHYSICAL NK0,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

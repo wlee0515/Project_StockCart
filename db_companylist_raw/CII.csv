@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CII,BlackRock Enhanced Capital and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CIIX,Chineseinvestors.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CIIG,Color Imaging Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CIICX,American Funds Intl Gr and Inc 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CIISX,Causeway International Small Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CIIT,Tianci International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGRA.STG,Randgold Resources Ltd. Reg. Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+RGRA.BER,"RANDGOLD RES.DL-,05 ADR",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+RGRA.MUN,"RANDGOLD RES.DL-,05 ADR",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+RGRA.FRK,"RANDGOLD RES.DL-,05 ADR",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+RGRA.DUS,"RANDGOLD RES.DL-,05 ADR",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

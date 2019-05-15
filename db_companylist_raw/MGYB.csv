@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGYB.BER,MAGYAR TELEK.T.NA A UF100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+MGYB.MUN,MAGYAR TELEK.T.NA A UF100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+MGYB.FRK,Magyar Telekom Telecommunications Public Limited Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+MGYB.STG,Magyar Telekom Telecommun.PLC N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

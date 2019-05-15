@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMTFX,Delaware Tax-Free USA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DMTRF,3-D Matrix Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DMTR.LON,DeepMatter Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

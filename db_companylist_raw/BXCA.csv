@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXCAPA.MEX,BX+CAP A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BXCAPB1.MEX,BX+CAP B-1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+BXCAPB2.MEX,BX+CAP B-2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+BXCAPB3.MEX,BX+CAP B-3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+BXCAPB5.MEX,BX+CAP B-5,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+BXCAPBE1.MEX,Compass Investments Catorce SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333

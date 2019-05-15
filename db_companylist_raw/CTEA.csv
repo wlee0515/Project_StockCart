@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTEA.LON,Catenae Innovation Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+CTEAA.PAR,"CTE0,875%29JUN24",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+CTEAB.PAR,"CTE1,5%29JUL28",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+CTEAC.PAR,"CTE2,125%29JUL32",Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

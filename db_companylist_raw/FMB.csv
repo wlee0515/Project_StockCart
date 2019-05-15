@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMB,First Trust Managed Municipal ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FMBI,First Midwest Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBH,First Mid-Illinois Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBL,Farmers & Merchants Bank of Long Beach,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBM,F&M Bank Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBE,FMB Equibanc Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBV,Full Motion Beverage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FMBPX,Federated Mortgage Strategy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMBRX,Franklin Mutual Beacon R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FMBROX,FT 7441: Market Strength Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

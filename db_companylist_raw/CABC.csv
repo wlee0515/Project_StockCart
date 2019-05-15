@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFH,CABCO Trust for JC Penney Debentures,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+GYB,CABCO Series 2004-101 Trust (Goldman Sachs Capital I) CTF CALL 6.345,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+GYC,Cabco Series 2004-102 Trust (sbc Communications Inc.) CTF FLT RATE,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+CAB.AUS,Cabcharge Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857
+GK6.BER,CABCHARGE AUSTRALIA LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+CABC.KLA,CAB CAKARAN CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+GK6.FRK,CABCHARGE AUSTRALIA LTD.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+GODHA-SM.NSE,GODHA CABCON & INS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000

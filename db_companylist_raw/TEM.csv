@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8346.HKG,TEM Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8571
+MTEM,Molecular Templates Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TPX,Tempur Sealy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TEPLX,Templeton Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TPINX,Templeton Global Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+TDF,Templeton Dragon Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TGBAX,Templeton Global Bond Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+GIM,Templeton Global Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+TEI,Templeton Emerging Markets Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+EMF,Templeton Emerging Markets Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

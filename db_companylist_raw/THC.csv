@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THC,Tenet Healthcare Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+THCBF,THC BIOMED INTL LT,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBDG,THC Farmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THCGX,Thornburg Core Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THCVX,TIAA-CREF Large-Cap Value Index Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THCRX,Thornburg Core Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THCYX,Transamerica High Yield Muni C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THCTX,Transamerica High Yield Muni T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+HDRPF,THC Global Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MBLCD,THC Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

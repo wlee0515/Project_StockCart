@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAVE,Spirit Airlines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NFEC,NF Energy Saving Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SVRA,Savara Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FSFG,First Savings Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ESBK,Elmira Savings Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HIFS,Hingham Institution for Savings,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SNVP,Savoy Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WAYN,Wayne Savings Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PFOH,Perpetual Federal Savings Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+CCSB,Community Savings Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

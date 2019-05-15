@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BRY,Berry Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BRK-B,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BRK-A,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BRKB,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BERY,Berry Global Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BRKA,Berkshire Hathaway Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WRB,W. R. Berkley Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BFOCX,Berkshire Focus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+NML,Neuberger Berman MLP Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1500

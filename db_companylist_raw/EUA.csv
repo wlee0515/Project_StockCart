@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUAG.LON,SPDR Blmbrg Bcly EUR Aggt Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EUA.LON,Eurasia Mining Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EUA2.FRK,"UMANIS INH.  EO -,11",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EUAU.MIL,ETFS Long AUD Short EUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+EUA2.STG,"Umanis Actions Port. EO -,11",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZGAEKWAR.BSE,Gaekwar Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+F00000OU8Z.LON,Threadneedle Strategic Bond ZGA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+F00000SDV1.LON,Threadneedle UK Social Bond ZGA GBP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1935
+GB00B80NJR42.LON,Threadneedle Emerg Markt Local ZGA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+GB00B82VC222.LON,Threadneedle High Yield Bd ZGA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+GB00B836MP96.LON,Threadneedle Sterling Bd ZGA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714
+GB00B8863D91.LON,Threadneedle Strategic Bond ZGA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714
+GB00BF233808.LON,Threadneedle UK Social Bond ZGA GBP Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+F00000OU8Y.LON,Threadneedle High Yield Bd ZGA,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429
+F00000OXI7.LON,Threadneedle Sterling Bd ZGA Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

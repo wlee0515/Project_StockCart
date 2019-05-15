@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0CAN06P6A.TRT,Union-Vie Mer Global Equity Index MSW,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+F0CAN05N5P.TRT,Union-Vie Mer Global Equity Index MSW,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500
+UNIONVIEMERG.TRT,Union-Vie Mer Global Equity Index MSW,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1500

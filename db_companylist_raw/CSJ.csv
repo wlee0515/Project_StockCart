@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSJA.FRK,CSL Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CSJ.FRK,CSL Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CSJP.LON,iShares MSCI Japan ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CSJ.DUS,CSL LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CSJ.HAM,CSL LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+CSJ.MUN,CSL LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CSJ.STG,CSL LTD. Registered Shares o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CSJP.AMS,iShares VII Public Limited Company - iShares MSCI Japan UCITS ETF USD (Acc),ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+CSJP.MIL,iShares MSCI Japan ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

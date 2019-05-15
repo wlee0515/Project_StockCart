@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMRGX,Vanguard Morgan Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VMRAX,Vanguard Morgan Growth Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMRI,Valmie Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VMRPX,Voya Mid Cap Research Enhanced Index P3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMR1.BER,VALUE MGMT+RESH  INH.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VMR1.DUS,VALUE MGMT+RESH  INH.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+VMR1.STG,Value Management & Research AGI,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+VMR1.FRK,Value Management & Research AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

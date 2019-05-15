@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BINA.JKT,PT Bank Ina Perdana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273
+8255.HKG,China Binary New Fintech Group,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5455
+ABDA.JKT,PT Asuransi Bina Dana Arta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+5789.KLA,LBS Bina Group Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3636
+0192.KLA,INTA BINA GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3077
+BIKA.JKT,PT Binakarya Jaya Abadi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2424
+0195.KLA,BINASAT COMMUNICATIONS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2353

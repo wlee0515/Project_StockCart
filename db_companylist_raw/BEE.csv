@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAM,The Boston Beer Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BEEHX,The BeeHive,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BESE,Beeston Enterprises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BEEI,Bald Eagle Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRHKY,China Resources Beer (Holdings) Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BHTAX,Beech Hill Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BEECX,BlackRock Total Emerging Markets Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BEVVF,Bee Vectoring Technologies International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BEEAX,BlackRock Total Emerging Markets Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+BHTCX,Beech Hill Total Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1200

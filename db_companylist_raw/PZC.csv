@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PZC,PIMCO California Municipal Income Fund III,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PZCUY,PZ Cussons Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PZCRX,PIMCO Credit Opportunities Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZCUF,PZ Cussons Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PZC.LON,PZ Cussons Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+PZC.BER,PROACTIS HOLDINGS PLC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+PZC.TRT,Invesco FTSE RAFI Canadian Small-Mid ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+PZC.FRK,Proactis Holdings PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PZC.STG,Proactis Holdings PLC Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+PZC3D.ARG,PZC3D.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

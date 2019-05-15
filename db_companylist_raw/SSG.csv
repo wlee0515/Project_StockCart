@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSG,ProShares UltraShort Semiconductors,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SVSPX,SSgA S&P 500 Index N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHE,SPDR SSGA Gender Diversity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+LGLV,SPDR SSGA US Large Cap Low Volatil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+SSGAX,SEI Aggressive Strategy F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+GAL,SPDR SSgA Global Allocation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+SMLV,SPDR SSGA US Small Cap Low Volatil ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ULST,SPDR SSgA Ultra Short Term Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+RLY,SPDR SSgA Multi-Asset Real Return ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+SSAIX,SSgA International Stock Selection N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500

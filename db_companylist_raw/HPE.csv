@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HPE,Hewlett Packard Enterprise Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HPEYX,Highland Premier Growth Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HPEAX,Highland Premier Growth Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HPECX,Highland Premier Growth Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HPE.MEX,Hewlett Packard Enterprise Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+HPE.FRK,Hokuetsu Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HPE.BER,HOKUETSU,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HPE.DUS,HOKUETSU,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HPE.VIE,Hewlett Packard Enterprise Company,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667

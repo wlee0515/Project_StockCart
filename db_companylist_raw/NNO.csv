@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNOMF,Nano One Materials Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NNOCF,Nanoco Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NNO.TRV,Nano One Materials Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+NNOR.VIE,Novo Nordisk A/S,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000

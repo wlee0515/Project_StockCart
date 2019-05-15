@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SDP,ProShares UltraShort Utilities,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SDPI,Superior Drilling Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SDPAX,Snow Capital Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDPSX,Invesco Short Duration Inflation Prot R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDPIX,Snow Capital Equity Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SDPC.JKT,PT Millennium Pharmacon International Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

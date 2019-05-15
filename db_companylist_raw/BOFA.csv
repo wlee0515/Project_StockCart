@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CJNK,SPDR ICE BofAML Crossover Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+FLWGKX,FT 7070: BofA Merrill Lynch ESG,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+NVMFSX,Nuveen BofA Merrill Lynch Food ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+FAUBRX,FT 7010: BofA Merrill Lynch Saf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+FLOGNX,FT 6422: BofA Merrill Lynch US ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1951

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIJ.BER,TEIJIN LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+TIJARIA.NSE,Tijaria Polypipes Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+TIJ.FRK,Teijin Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TIJ.DUS,TEIJIN LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+TIJ.STG,TEIJIN LTD. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TIJARIA.BSE,Tijaria Polypipes Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+TIJ.MUN,TEIJIN LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4615

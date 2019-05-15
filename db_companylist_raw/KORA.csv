@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOR.AUS,Korab Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8000
+3709.HKG,Koradior Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+KORAF.AMS,Kempen Orange Fund N.V.,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.4706
+F00000W8JO.KOR,Koramco US Debt Strategy Private Real Estate Bond-Fund of Funds 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2759
+C6S.BER,KORAB RES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1860
+K55381B36138.KOR,Koramco US Value Add Strategy Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+K55381B60500.KOR,Koramco US Debt Strategy Private Real Estate Bond-Fund of Funds 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1455
+K55381B83221.KOR,Koramco Per Step Private Real Estate 31,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1176
+K55381B83247.KOR,Koramco Per Step Private Real Estate 32,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1159

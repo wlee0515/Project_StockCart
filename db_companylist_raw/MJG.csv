@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MJGCF,Majestic Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MJG1.MUN,MAJOR CINEPLEX -FGN- BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MJG1.FRK,Major Cineplex Group Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MJG1.BER,MAJOR CINEPLEX -FGN- BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MJG1.STG,Major Cineplex Group PCL Reg. S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

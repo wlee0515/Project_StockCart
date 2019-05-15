@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFVIX,Pear Tree Polaris Foreign Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QFVOX,Pear Tree Polaris Foreign Value Ord,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QFVRX,Pear Tree Polaris Foreign Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QFVIG.MIL,QF VALORE IMM GLOBAL,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455

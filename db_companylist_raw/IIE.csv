@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IIEMX,Invesco Emerging Markets Flexible Bd R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIE.FRK,Ingenico Group - GCS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IIE.BER,INGENICO GROUP S.A.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IIE.STG,Ingenico Group S.A. Actions Por,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IIE.MUN,INGENICO GROUP S.A.  EO 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

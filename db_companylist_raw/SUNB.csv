@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBST,Sunburst Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SBB.AUS,Sunbridge Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4211
+SUNBGCDNBOND.TRT,Sun BG Cdn Bond - LT Adv Sr F,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNBALE.TRT,Sun BR Cdn Bal - Est Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNBALI.TRT,Sun BR Cdn Bal - Inv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNBALL.TRT,Sun BR Cdn Bal - LT Adv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNBALP.TRT,Sun BR Cdn Bal - Protect Sr F,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNCMEQ.TRT,Sun BR Cdn Cm Eq Bu-LT Ad Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNCOMP.TRT,Sun BR Cdn Comp Eq - Inv Sr A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+SUNBRCDNEQES.TRT,Sun BR Cdn Eq - Est Sr F,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4000

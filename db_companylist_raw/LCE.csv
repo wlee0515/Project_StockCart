@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LCEAX,Invesco Diversified Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCEIX,Invesco Diversified Dividend Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCEYX,Invesco Diversified Dividend Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCEFX,Invesco Diversified Dividend R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCEVX,Invesco Diversified Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCE.AUS,London City Equities Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+LCEU.FRK,BNP Paribas Easy - BNP Paribas Easy Low Carbon 100 Europe,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LCEU.FRK,BNPPE.-L.C.100.EU.UECEO,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LCEU.BER,BNPPE.-L.C.100.EU.UECEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+LCEU.DUS,BNPPE.-L.C.100.EU.UECEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

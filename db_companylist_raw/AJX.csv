@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AJX,Great Ajax Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AJXA,Great Ajax Corp. 7.25 CV SR NT 24,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AJXGF,AgJunction Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AJX.TRT,AgJunction Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+AJX.AUS,Alexium International Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AJXA.FRK,AFC Ajax NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AJXA.DUS,"AFC AJAX N.V.  EO -,45",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+AJXA.MUN,"AFC AJAX N.V.  EO -,45",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+AJXA.STG,AFC Ajax N.V. Aandelen op naam ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

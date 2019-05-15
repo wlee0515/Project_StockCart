@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USRM,U.S. Stem Cell Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USRT,iShares Core US REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+USRC,Unisource Corporate Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USRI,USA Recycling Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+USR.AUS,US Residential Fund,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+USR.FRK,Shanghai Electric Group Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

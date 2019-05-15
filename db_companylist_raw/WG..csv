@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WG.LON,John Wood Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+WG.BAK,White Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500

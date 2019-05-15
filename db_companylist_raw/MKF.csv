@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000H3IB.KOR,Yurie MKF Wealth Total Index Fdr Eq Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+F00000LXBW.KOR,KB MKF Commodity Special Asset Master Commodity-Derivatives,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+F00000T6RK.KOR,KB MKF Commodity Spec Asst Fdr Deriv S,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+KR5223161104.KOR,KB MKF Commodity Special Asset Master Commodity-Derivatives,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1463
+KR5223161112.KOR,KB MKF Commodity Spec Asst Fdr Deriv A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5223161138.KOR,KB MKF Commodity Spec Asst Fdr Deriv C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5223161146.KOR,KB MKF Commodity Special Asset Feeder Commodity-Derivatives,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429
+KR5223980230.KOR,KB MKF Commodity Spec Asst Fdr Deriv C2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+KR5223980255.KOR,KB MKF Commodity Spec Asst Fdr Deriv C3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111
+KR5223980263.KOR,KB MKF Commodity Spec Asst Fdr Deriv C4,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPSYX,MainStay Epoch Global Equity Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EPLPX,MainStay Epoch US Equity Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MOPAX,MainStay Epoch US Small Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MATIX,MainStay Epoch US All Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+EPLCX,MainStay Epoch US Equity Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MAWDX,MainStay Epoch US All Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2581
+EPSPX,MainStay Epoch Global Equity Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MOPIX,MainStay Epoch US Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+ICEUX,MainStay Epoch International Choice I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+EPLDX,MainStay Epoch US Equity Yield R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

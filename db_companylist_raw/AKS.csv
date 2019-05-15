@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AKS,AK Steel Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AKSY,Aksys Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GAMA.JKT,PT Aksara Global Development Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+AKSHOPTFBR.BSE,Aksh Optifibre Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+AKSHARCHEM.NSE,AKSHARCHEM (INDIA),Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+AKS.MEX,AK Steel Holding Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.3750

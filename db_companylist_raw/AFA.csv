@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFAP,AFA Protective Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AFAVX,AMG River Road Focused Absolute Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFAAX,Yorktown Capital Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFA.AUS,ASF Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+AFA.FRK,ARRIS International plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+V5W.FRK,Afarak Group Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AFA.MUN,"ARRIS INTL PLC  DL -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AFA.STG,ARRIS International PLC Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158

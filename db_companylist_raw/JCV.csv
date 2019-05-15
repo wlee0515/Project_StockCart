@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JCVIX,JHancock Classic Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVCX,JHancock Classic Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVBX,JHancock Classic Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVWX,JHancock Classic Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVSX,JHancock Classic Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVHX,JHancock Classic Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVFX,JHancock Classic Value R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVRX,JHancock Classic Value R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCVVX,JHancock Classic Value R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

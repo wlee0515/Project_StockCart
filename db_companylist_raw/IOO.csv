@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IOO,iShares Global 100 ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IOOFY,IOOF Holdings Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IOO.AUS,iShares Global 100 ETF (AU),ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667
+IFL.AUS,IOOF Holdings Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3000
+2882.AUS,IOOF Flexi Trust - Balanced Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1714
+3321.AUS,IOOF MultiMix Wholesale Australian Property Trust,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1154

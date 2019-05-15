@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDSA,Industrial Services of America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IDSY,I.D. Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IDSTBX,Dividend Sustainability Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IDSTLX,Dividend Sustainability Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSIX,Voya Global Multi-Asset O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSCOX,Closed-End Strategy: Discount O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSUPX,Dividend Sustainability Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSSTX,Dividend Sustainability Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSSOX,Dividend Sustainability Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDSVFX,ETF Diversified Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

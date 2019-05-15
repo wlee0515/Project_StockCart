@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AUHEF,Anhui Expressway Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AUH.AUS,AustChina Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AUHCHA.SWI,UBS ETF MSCI Australia H CHF A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+AUHEUA.MIL,UBS ETF MSCI Australia H EUR A acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5000
+AUHN.FRK,EVITRADE Health Systems Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+AUHEUA.SWI,UBS ETF MSCI Australia H EUR A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AUHGBA.SWI,UBS ETF MSCI Australia H GBP A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+AUHUSA.SWI,UBS ETF MSCI Australia H USD A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

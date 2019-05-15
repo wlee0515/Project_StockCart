@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRTCX,PIMCO Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+LIPRX,Loomis Sayles Inflation Prtctd Secs Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+PRTC.LON,PureTech Health plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+PRTC.TAV,Priortech Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.4444

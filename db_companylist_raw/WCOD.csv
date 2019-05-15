@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WCOD.LON,SPDR MSCI Wld Cnsmr Discret ETF USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+WCOD.AMS,SSgA SPDR ETFs Europe II Public Limited Company - SPDR MSCI World Consumer Discretionary UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+WCOD.SWI,SPDR MSCI Wld Cnsmr Discret ETF USD,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

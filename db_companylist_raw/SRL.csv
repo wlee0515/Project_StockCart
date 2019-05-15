@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRLP,Sprague Resources LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRLN,SPDR Blackstone / GSO Senior Loan ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SRLZF,Salazar Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRLTF,Seafield Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRLY,Southern Realty Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRL.TRV,Salazar Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

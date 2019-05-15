@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHRW,C.H. Robinson Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RWLK,ReWalk Robotics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+BOTZ,Global X Robotics & Artfcl Intllgnc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+CVRS,Corindus Vascular Robotics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ROBO,Robo Global Robotics&Automation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+RRGB,Red Robin Gourmet Burgers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MZOR,Mazor Robotics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RHI,Robert Half International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+HAIR,Restoration Robotics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+IRBO,iShares Robotics and Artfcl Intlgc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857

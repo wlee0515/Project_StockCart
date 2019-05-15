@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KATFF,Katanga Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KTHN,Katahdin Bankshares Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+KAT.TRT,Katanga Mining Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+31Z.FRK,Katanga Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4286
+31Z.BER,KATANGA MINING LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+KATRSPG.BSE,Katare Spinning Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+3001.TOK,Katakura Industries Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+31Z.MUN,KATANGA MINING LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500
+31Z.STG,Katanga Mining Ltd. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+4031.TOK,Katakura & Co-op Agri Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2162

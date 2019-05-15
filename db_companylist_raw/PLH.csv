@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLHZX,PGIM QMA Long-Short Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHTX,Principal LifeTime Hybrid 2055 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHIX,Pacific Funds High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHQX,PGIM QMA Long-Short Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHAX,PGIM QMA Long-Short Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHCF,Plant Health Care plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHYX,Pacific Funds High Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHHX,Principal LifeTime Hybrid 2065 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHRX,Principal LifeTime Hybrid 2065 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PLHCX,PGIM QMA Long-Short Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

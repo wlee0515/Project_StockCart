@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JIXAY,Jiangxi Copper Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JIX.BER,JIANGXI COPPER CO. -H-YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+JIX.STG,Jiangxi Copper Co. Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+601218.SHH,Jiangsu JIXIN Wind Energy Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.6667
+JIX.FRK,Jiangxi Copper Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JIX.FRK,JIANGXI COPPER CO. -H-YC1,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+JIX.MUN,JIANGXI COPPER CO. -H-YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1875
+600868.SHH,Guangdong Meiyan Jixiang Hydropower Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1250
+603399.SHH,Jinzhou Jixiang Moly Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1224

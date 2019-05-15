@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRCBX,BlackRock Total Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+MRCBF,Morguard Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+5123.KLA,MRCB-Quill REIT,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4211

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BK-PC,The Bank of New York Mellon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BK-PA.TRT,CANADIAN BANC CORP PREF A,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+KIFF.MUN,KIATNAKIN BK-FOREIGN-BA10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+KIFF.BER,KIATNAKIN BK-FOREIGN-BA10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

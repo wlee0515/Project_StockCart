@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALVRQ,Alvarion Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ALVAX,American Beacon Large Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+ALVAL.PAR,Valbiotis SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+ALVAMANINVER.BCL,Alvaman Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.7273
+ALVA.FRK,Allianz SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ALVA.BER,ALLIANZ SE ADR 1/10/O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ALVA.MUN,ALLIANZ SE ADR 1/10/O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ALVA.STG,Allianz SE V.NAM.-AKT. (SP.ADRS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211

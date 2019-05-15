@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000NASQ.TRT,IG Core Portfolio Balanced A-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+OZF.AUS,SPDR S&P/ASX 200 Fincls EX A-REIT ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.3750
+41082.AUS,Australian Unity A-REIT Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222
+1555.TOK,Listed Index Fund Australian REIT (S&P/ASX200 A-REIT),ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.1935
+A-R.BAK,Areeya Property Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818
+7214.KLA,A-Rank Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1667
+13289.AUS,Folkestone Maxim A-REIT Securities Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1500
+F00000NASM.TRT,IG Core Portfolio Income Focus A-RDSP,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1071

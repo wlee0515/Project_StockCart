@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MS.MIL,Mediaset S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+MS.MEX,Morgan Stanley,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+MS.VIE,Mediaset S.p.A.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500
+MS.SAN,Morgan Stanley,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.7500

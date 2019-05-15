@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CX,"CEMEX, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CXO,Concho Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CXW,CoreCivic Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CXDC,China XD Plastics Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CXP,Columbia Property Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CXSE,WisdomTree China ex-State-Owd Entpr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+CXE,MFS High Income Municipal Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CXRXF,ADVANZ PHARMA Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CXBTF,XBT PROVIDER AB,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CXDO,Crexendo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

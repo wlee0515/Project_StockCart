@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOPPX,Franklin Growth Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOPIX,Fidelity Advisor Intl Sm Cap Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOPAHX,ADT 1850 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOPACX,ADT 1735 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPTNX,FT 7085: January Effect Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPCX,Fidelity Advisor Intl Sm Cap Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPAFX,ADT 1809 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPAIX,ADT 1860 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPAEX,ADT 1791 Financial Opportunitie,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FOPGLX,FT 6370: Municipal Income Selec,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

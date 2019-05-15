@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESFAX,Ashmore Emerging Markets Short Dur A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ESFIX,Ashmore Emerging Markets Short Dur Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESFS,Eco Safe Systems USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ESFHX,Eaton Vance Floating-Rate & Hi Inc R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESFCX,Ashmore Emerging Markets Short Dur C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESFOF,Espirito Santo Financial Group SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ESF.BER,"EUROFINS SCIEN.INH.EO 0,1",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ESF.DUS,"EUROFINS SCIEN.INH.EO 0,1",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ESF.MUN,"EUROFINS SCIEN.INH.EO 0,1",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ESF.STG,Eurofins Scientific S.E. Action,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

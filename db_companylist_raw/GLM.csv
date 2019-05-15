@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLMD,Galmed Pharmaceuticals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GLMB,Global MobileTech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GLMFF,Glacier Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLMN.FRK,MUL-LYX.SC.BE.DE.L./S. EO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+F00000TY0O.TRT,Manulife Id S2 Fty GlMtI 100PL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818
+F00000TY0P.TRT,Manulife Id S2 Fty GlMt In75PL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

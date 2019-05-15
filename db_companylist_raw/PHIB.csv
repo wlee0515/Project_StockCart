@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAHC,Phibro Animal Health Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PB8.FRK,PHIBRO ANIMAL HEALTH A,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+PB8.BER,PHIBRO ANIMAL HEALTH A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+PB8.STG,Phibro Animal Health Corp. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

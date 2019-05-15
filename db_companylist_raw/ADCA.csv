@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADCV,ADCapital US Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADC.STG,ADCAPITAL AG Inhaber-Aktien o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ADC.FRK,AdCapital AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ADC.BER,ADCAPITAL AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+ADC.DUS,ADCAPITAL AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ADC.MUN,ADCAPITAL AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+ADCG.MUN,ADCAPITAL AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

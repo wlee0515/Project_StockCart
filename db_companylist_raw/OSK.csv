@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSK,Oshkosh Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OSKA,Osyka Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OSKGF,OSISKO GOLD ROYAL,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OSK.TRT,Osisko Mining Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+5053.KLA,OSK Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+0053.KLA,OSK VENTURES INTERNATIONAL BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+OSK.FRK,JAPAN EXCHANGE GROUP INC.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OSK.BER,JAPAN EXCHANGE GROUP INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+OSK.STG,Japan Exchange Group Inc. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2727
+MILA.BER,MITSUI OSK LINES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

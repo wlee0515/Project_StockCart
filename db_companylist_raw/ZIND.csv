@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000YJSG.FRK,Zindstein Werte-Sammler P,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+F00000YJSH.FRK,Zindstein Werte-Sammler I,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759
+F00000YJSI.FRK,Zindstein Opportunit?ten-Sammler P,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2353
+F00000YJSJ.FRK,Zindstein Opportunit?ten-Sammler I,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2105

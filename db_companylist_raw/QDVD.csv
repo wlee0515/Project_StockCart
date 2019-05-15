@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QDVD.FRK,iShares II plc - iShares MSCI USA Quality Dividend UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+QDVD.FRK,iShares II plc - iShares MSCI USA Quality Dividend UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+QDVD.STG,iShsII-iShs MSCI USA Q.D.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+QDVD.DUS,I2-I.MSCI USA QD.UETF DLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

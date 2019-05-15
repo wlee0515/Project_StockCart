@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCNB,Northern California National Bank,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NCNBX,Nuveen Nebraska Municipal Bond C2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NCNB.BER,CONCORDIA MARIT.B FR.SK 8,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

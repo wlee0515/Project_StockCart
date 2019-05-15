@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KOOL,Cesca Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KTNNF,Kootenay Zinc Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KOOYF,Kootenay Silver Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KOYWF,KOOTENAY SILVER IN,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KTN.TRV,Kootenay Silver Inc,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2727
+7187.KLA,Boon Koon Group Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2727
+KYH1.STG,Kootenay Zinc Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+0KV.FRK,Koovs plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

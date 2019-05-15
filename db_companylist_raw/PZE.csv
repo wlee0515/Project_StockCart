@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PZN,"Pzena Investment Management, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PZVEX,Pzena Emerging Markets Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDAX,Ivy Pzena International Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PZVLX,Pzena Long/Short Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PZILX,Pzena Long/Short Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PZIEX,Pzena Emerging Markets Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ICDBX,Ivy Pzena International Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+ICDCX,Ivy Pzena International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+IYCUX,Ivy Pzena International Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+PZVMX,Pzena Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765

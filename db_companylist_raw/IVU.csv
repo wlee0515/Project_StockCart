@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVUEIX,Closed-End Strategy: Value Equi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVU.FRK,IVU Traffic Technologies AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+IVU.DUS,IVU TRAFFIC TECHN.AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+IVU.MUN,IVU TRAFFIC TECHN.AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+IVU.STG,IVU TRAFFIC TECHNOLOGIES AG Inh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IVU.BER,IVU TRAFFIC TECHN.AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IVU.FRK,IVU Traffic Technologies AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667

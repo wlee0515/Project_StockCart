@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1860.TOK,Toda Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+WDYAX,Wells Fargo Dynamic Target Today A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WOTDX,Wells Fargo Target Today R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+WFRRX,Wells Fargo Target Today R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+WOTRX,Wells Fargo Target Today R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+WDYYX,Wells Fargo Dynamic Target Today R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2581
+WDYCX,Wells Fargo Dynamic Target Today C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2353
+WFLOX,Wells Fargo Target Today Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+WDYZX,Wells Fargo Dynamic Target Today R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+STWRX,Wells Fargo Target Today A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

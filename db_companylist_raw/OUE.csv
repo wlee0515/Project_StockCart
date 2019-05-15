@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LJ3.SGP,OUE Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+TS0U.SGP,OUE Commercial Real Estate Investment Trust,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+SK7.SGP,OUE Hospitality Trust,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+5WA.SGP,OUE Lippo Healthcare Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+FR0010985945.PAR,Ouessant A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+OUE1.FRK,OUE Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615
+OUE1.BER,OUE SD-.20,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+OUE1.STG,Oue Ltd. Registered Shares SD -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+FR0011540558.PAR,Ouessant,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2000
+OUE1.HAM,OUE SD-.20,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.1935

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PXLW,Pixelworks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PIXY,ShiftPixy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PIXAX,PIMCO RAE PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIXCX,PIMCO RAE PLUS C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIXPX,PIMCO RAE PLUS I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADPXY,Audio Pixels Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PIXEX,Principal Intl Emerging Markets R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+PXRB,PixarBio Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PIX.PAR,Pixium Vision SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5000

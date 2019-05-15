@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ILCC,International Leaders Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ILCCEX,Large Cap Core Strategy 2018-2 ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+ILCCRX,Large Cap Core Strategy 2017-3 ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

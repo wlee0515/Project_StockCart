@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTPZ,PIMCO 15+ Year US TIPS ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LTPFX,Principal LifeTime 2015 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTPEX,Principal LifeTime 2035 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTPDX,Principal LifeTime 2025 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTPF9.ARG,LTPF9.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LTPN8.ARG,ARGENTINA(REP OF) 42.23% NTS 30,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4306.TWN,YC Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.8000
+YCS,ProShares UltraShort Yen,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+YCL,ProShares Ultra Yen,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+YCGEX,YCG Enhanced,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+YCRG,YC Precision Fabrication,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

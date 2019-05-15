@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGU,Macquarie Global Infrastructure Total Return Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MGUY,Mogul Energy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MGU.AUS,Magnum Mining and Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MGU6.MUN,MAGNUM AG GEN.03 S.2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+MGU5.BER,MAGNUM AG GEN.99/UNB.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MGU5.DUS,MAGNUM AG GEN.99/UNB.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+MGU5.MUN,MAGNUM AG GEN.99/UNB.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+MGU5.STG,MAGNUM AG Genuscheine 99/unbegr,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+MGU6.BER,MAGNUM AG GEN.03 S.2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MGU6.DUS,MAGNUM AG GEN.03 S.2,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

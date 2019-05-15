@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TINS.JKT,PT Timah Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+NIKL.JKT,PT Pelat Timah Nusantara Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+TML.AUS,Timah Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+5436.KLA,Perusahaan Sadur Timah Malaysia (Perstima) Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5000
+TIH1.FRK,PT Timah Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+TIH1.BER,PT TIMAH TBK  RP 50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+TIH1.MUN,PT TIMAH TBK  RP 50,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+TIH1.STG,"Timah TBK, PT Registered Shares",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+PSTM.KLA,PSAHAAN SADUR TIMAH MSIA,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1600

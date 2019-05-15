@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2357.HKG,AviChina Industry & Technology Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+0232.HKG,AVIC International Holding (HK) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3333
+000768.SHZ,AVIC AIRCRAFT Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2963
+600862.SHH,AVIC Aviation High-Technology Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2353
+600760.SHH,AVIC Shenyang Aircraft Company Limited,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2353
+0161.HKG,AVIC International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2051
+0260.HKG,AVIC Joy Holdings (HK) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+600705.SHH,AVIC Capital Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1860
+AVT.BER,AVICHINA IND.+TECH. H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1860
+600765.SHH,AVIC Heavy Machinery Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1600

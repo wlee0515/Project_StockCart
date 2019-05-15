@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4PIG.BER,I.S+P SC.FI.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+WTEC.MUN,WISDOMTREE US SC.DIV.DZ,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000
+SC.BAK,SC Asset Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4000
+09SQ.BER,SCHWAB S.T.-S.F.US SC.IDX,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+09SQ.DUS,SCHWAB S.T.-S.F.US SC.IDX,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+4PIC.BER,I.S+P SC.CS.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+CXGH.STG,Xinjiang Goldwind Sc.&T.Co.LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+FK4B.STG,Jan.Hend.C.-J.H.Gbl Life Sc.FdR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+IV0E.BER,I.S+P SC.LV.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+UEFD.STG,UBS-ETF-UBS-ETF MSCI EMU SC.UEI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

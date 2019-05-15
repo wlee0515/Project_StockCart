@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWA,Mueller Water Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MWTIX,Metropolitan West Total Return Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWTRX,Metropolitan West Total Return Bd M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWTSX,Metropolitan West Total Return Bd Plan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWXRF,Mineworx Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MWNIX,MFS International New Discovery I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWEIX,MFS Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWCRX,Metropolitan West Unconstrained Bd M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWEMX,MFS Global Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MWLDX,Metropolitan West Low Duration Bd M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

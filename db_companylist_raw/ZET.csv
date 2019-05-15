@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+8135.TOK,Zett Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+9ZR.STG,Zeta Resources Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158
+Z03.STG,ZetaDisplay AB (publ),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+ZER.AUS,Zeta Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2400

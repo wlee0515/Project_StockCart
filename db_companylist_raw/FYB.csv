@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FYBTX,Fidelity Series Short-Term Credit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYBDHX,FT 6608: Emerging Markets Stren,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FYBDLX,FT 7327: Core Three Closed-End ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FYBUHX,FT 7275: E-Commerce Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBEN.FRK,Fyber N.V.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+FBEN.FRK,Fyber N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FYB.FRK,Formycon AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+FYB.BER,FORMYCON AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4615
+FBEN.DUS,"FYBER N.V.  EO -,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4615
+FYB.FRK,Formycon AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000

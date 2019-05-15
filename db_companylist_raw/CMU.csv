@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMU,MFS High Yield Municipal Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CMUAX,Columbia Select Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CMUV,CMUV Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CMUWX,Columbia Select Mid Cap Value T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMUCX,Columbia Select Mid Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMUYX,Columbia Multi-Asset Income Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMU.LON,Amundi ETF MSCI EMU DR A/I,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+CMU.PAR,Amundi IS MSCI EMU ETF-C,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7500
+CMU.TRV,Comet Industries Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+CMU.MIL,Amundi ETF MSCI EMU DR A/I,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667

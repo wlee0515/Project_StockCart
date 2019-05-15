@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MANU,Manchester United plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+0Z1Q.LON,Manchester United plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MANCREDIT.BSE,Mangal Credit and Fincorp Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+MNL.LON,Manchester & London Investment Trust Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+MANUN.MEX,Manchester United plc,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4444
+MANC.FRK,MAN SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+MUF.FRK,Manchester United plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3200
+MUF.BER,MANCHESTER UTD (NEW) A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3077
+MUF.MUN,MANCHESTER UTD (NEW) A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3077

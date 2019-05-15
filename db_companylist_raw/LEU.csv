@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LEU,Centrus Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LCORX,Leuthold Core Investment Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609
+LCRIX,Leuthold Core Investment I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LSLTX,Leuthold Select Industries,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LGINX,Leuthold Global Industries Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LCRTF,Leucrotta Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+LGIIX,Leuthold Global Industries Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GLBIX,Leuthold Global Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BLMIF,Bank Leumi le- Israel B.M.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+GLBLX,Leuthold Global Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FC,Franklin Covey Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FCX,Freeport-McMoRan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FCEL,FuelCell Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FCNTX,Fidelity Contrafund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCAU,Fiat Chrysler Automobiles N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FCNKX,Fidelity Contrafund K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCG,First Trust Natural Gas ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FCISX,Franklin Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FCE-A,Forest City Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FCSC,Fibrocell Science Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

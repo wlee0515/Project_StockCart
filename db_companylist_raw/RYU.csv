@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYU,Invesco S&P 500 Equal Weight Utilts ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RYPPF,RYU Apparel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RYURX,Rydex Inverse S&P 500 Strategy Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYUHX,Rydex Inverse S&P 500 Strategy H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYUIX,Rydex Utilities Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYUTX,Rydex Utilities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYUCX,Rydex Inverse S&P 500 Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

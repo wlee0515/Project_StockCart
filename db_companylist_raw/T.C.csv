@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TCJ.BAK,T.C.J. Asia Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+TCJ-R.BAK,T.C.J. Asia Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+I4SP.BER,ISH.T.IBD.DEC26 T.COR.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+I4SP.DUS,ISH.T.IBD.DEC26 T.COR.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

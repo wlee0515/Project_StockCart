@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFID.LON,Edita Food Industries Company (S.A.E),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+EFID.ILN,EDITA FOOD INDUSTRIES S.A.E. GD,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AQCIX,American Beacon Alpha Quant Core Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AQCPX,American Beacon Alpha Quant Core Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AQCYX,American Beacon Alpha Quant Core Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AQC.AUS,Australian Pacific Coal Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

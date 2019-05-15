@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUD.AUS,Buddy Platform Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+TRO.FRK,Buddy Platform Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+TRO.BER,BUDDY PLATFORM LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+TRO.HAM,BUDDY PLATFORM LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3077
+F0CAN05O08.TRT,FaithLife Balanced (McLean Budden),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2105
+SWESS2CROISA.TRT,SunWise Essential 2 Sun Life MFS McLean Budden U.S. Growth Seg Fd,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1159
+SWESS2CROISM.TRT,SunWise Essential 2 Sun Life MFS McLean Budden Global Growth Seg Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1096

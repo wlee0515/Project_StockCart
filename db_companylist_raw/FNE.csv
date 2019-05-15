@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNEFX,American Funds New Economy F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNEBOX,FT 7446: Diversified Equity Str,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNEDMX,FT 6501: Automated Quantitative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNERGX,FT 5771: Municipal Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNEVY,"Fraser and Neave, Limited",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNESTX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNEVJX,FT 7189: High-Yield Income Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNEIRX,FT 7450: Dow Target 5 3Q '18 - ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNEKLX,FT 7300: Value Line Target 25 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNEGAX,FT 7428: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

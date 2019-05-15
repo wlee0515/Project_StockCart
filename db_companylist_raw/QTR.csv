@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QTRX,Quanterix Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QTRH,Quarterhill Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QTRRF,Quaterra Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QTRCX,Quaker Global Tactical Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTRIX,Quaker Global Tactical Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTRAX,Quaker Global Tactical Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QTRH.TRT,Quarterhill Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+107472.BSE,Invesco India Gilt L/T Qtr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000
+108561.BSE,IDFC Dynamic Bond Reg Qtr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1875
+108764.BSE,IDFC SS Inc Inv Reg Qtr Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

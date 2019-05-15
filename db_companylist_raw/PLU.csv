@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PLUG,Plug Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSTI,Pluristem Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PS,Pluralsight Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SP,SP Plus Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SLP,Simulations Plus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+PLUS,ePlus inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BCOIX,Baird Core Plus Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+PLBC,Plumas Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WACPX,Western Asset Core Plus Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PIXAX,PIMCO RAE PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BEXFX,Baron Emerging Markets Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXLC,Bexil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BEXIX,Baron Emerging Markets Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BEXUX,Baron Emerging Markets R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1775.HKG,BExcellent Group Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+BEX.TRV,Benton Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5714
+R2WA.FRK,Beximco Pharmaceuticals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+F00000PHOV.MEX,SURBONO BEXT,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+BXP.LON,Beximco Pharmaceuticals Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+BEXQ.BER,"UNIBIOS HLDGS NAM. EO0,30",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1667

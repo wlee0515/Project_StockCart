@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHA,China Telecom Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CHACU,CHARDAN HEALTHCARE ACQUISITION CORP.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JPM,JPMorgan Chase & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLNK,Blink Charging Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CHTR,Charter Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CWBHF,Charlotte's Web Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SCHW,The Charles Schwab Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CLDT,Chatham Lodging Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CYOU,Changyou.com Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHAU,Direxion Dly CSI 300 CHN A Shr Bl 2X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609

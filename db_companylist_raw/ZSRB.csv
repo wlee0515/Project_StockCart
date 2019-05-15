@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZSRB.BER,BNP A-EUR.MUL.-AS.IN.CLAS,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ZSRB.MUN,BNP A-EUR.MUL.-AS.IN.CLAS,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6628.TOK,ONKYO Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+ONK.FRK,ONEOK Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+L95.STG,Loxo Onkology Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ONK.MUN,"ONEOK INC. (NEW)  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3000
+ONK.STG,ONEOK INC. (NEW) Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

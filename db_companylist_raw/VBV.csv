@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VBVT,Viabuilt Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VBVBF,VERBIO Vereinigte BioEnergie AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AT0000A0AJ95.VIE,VBV HTM FONDS,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3750
+AT0000697222.VIE,VBV Global Bonds 1,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+AT0000A07HJ6.VIE,VBV Dach-Hedgefonds (VI),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+AT0000A0DEZ3.VIE,VBV HTM FONDS 2,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2857
+AT0000A0NUY1.VIE,VBV Fokus ?sterreich,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+AT0000A1FVA3.VIE,VBV VK Global Bonds ESG Fund A,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2222
+AT0000A1FVB1.VIE,VBV VK Global Bonds ESG Fund C,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2222

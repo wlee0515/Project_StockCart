@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RBC,Regal Beloit Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ROLL,RBC Bearings Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBCN,Rubicon Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBCAA,Republic Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBCDF,Royal Bank of Canada,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBCL,RBC Life Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBCC,Rainbow Coral Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBCGX,Reynolds Blue Chip Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+RUDQF,RBC QUANT U S DIVI,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RMVIX,RBC Microcap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609

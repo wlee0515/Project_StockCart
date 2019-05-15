@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OGNG,Bravo Enterprises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OGNAX,JPMorgan Multi-Cap Market Neutral A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+OGNCX,JPMorgan Multi-Cap Market Neutral C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGNIX,JPMorgan Multi-Cap Market Neutral I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OGNT,Organa Technologies Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OGN.LON,Origin Enterprises plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

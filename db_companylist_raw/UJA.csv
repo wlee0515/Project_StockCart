@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UJAAS.BSE,Ujaas Energy Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+UJAAS.NSE,Ujaas Energy Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+UJAAS-EQ.NSE,UJAAS ENERGY LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+F00000PRMW.SAO,UJAY LONG BIASED FUNDO DE INVESTIMENTO DE ACOES,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1250

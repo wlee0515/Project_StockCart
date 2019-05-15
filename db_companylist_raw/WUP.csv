@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WUP.FRK,Sanai Health Industry Group Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WUP.MUN,SANAI HEALTH IND. GRP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+WUP.STG,Sanai Health Industry Grp Co. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+WUP.BER,SANAI HEALTH IND. GRP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

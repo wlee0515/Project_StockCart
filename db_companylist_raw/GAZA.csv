@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GZL.AUS,Gazal Corporation Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7273
+GAZA.MOS,Public Joint Stock Company GAZ,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+GAZAP.MOS,Public Joint Stock Company GAZ,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.4211
+GAZAMIAINVER.BCL,Gazamia Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+F0GBR06NGX.BCL,Gazamia Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

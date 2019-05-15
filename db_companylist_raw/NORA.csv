@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NORNQ,Noranda Aluminum Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NNDIF,Noranda Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NRVTF,Noram Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NRM.TRV,Noram Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+NIF-UN.TRT,Noranda Income Fund,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+NUVA.FRK,Noratis AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3478
+MJ2.FRK,NORAMCO QUALITY FDS-EUR.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+NORAVALORESM.BCL,Nora Valores Mobiliarios SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857
+MJ2.DUS,NORAMCO QUALITY FDS-EUR.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+MJ2.HAM,NORAMCO QUALITY FDS-EUR.,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSJ.FRK,Nutrisystem Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NSJ.BER,"NUTRISYSTEM (NEW) DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NSJ.STG,Nutrisystem Inc. Reg. Shares (n,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

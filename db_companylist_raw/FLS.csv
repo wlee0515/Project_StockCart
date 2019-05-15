@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLS,Flowserve Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FLSA,Franklin FTSE Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSR,FLASR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSCX,Fidelity Advisor Leveraged Co Stk C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSAX,Fidelity Advisor Leveraged Co Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSS,Forbes Energy Services Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSPX,Meeder Spectrum Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLSW,Franklin FTSE Switzerland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FLSKX,Franklin LifeSmart 2050 Retire Trgt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FLST,Fuelstream Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

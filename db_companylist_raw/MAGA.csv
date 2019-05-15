@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAGA,Point Bridge GOP Stock Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+MAGS,Magal Security Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGLU3.SAO,Magazine Luiza S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4444
+MAGADHSUGAR.BSE,Magadh Sugar & Energy Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3478

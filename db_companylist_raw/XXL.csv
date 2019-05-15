@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XLEFF,XXL Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+XL.TRV,XXL Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+2XX.FRK,XXL ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+2XX.BER,"XXL ASA A  NK -,40",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+0R3P.ILN,XXL ASA XXL ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+0R3P.LON,XXL ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727

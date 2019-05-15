@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPRA.JKT,PT Perdana Gapuraprima Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+BINA.JKT,PT Bank Ina Perdana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2963
+KONI.JKT,PT Perdana Bangun Pusaka Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2963
+CARS.JKT,PT Industri dan Perdagangan Bintraco Dharma Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+PKPK.JKT,PT Perdana Karya Perkasa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2759
+SHIP.JKT,PT Sillo Maritime Perdana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+7108.KLA,PERDANA PETROLEUM BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+6IN.FRK,PT Bank Ina Perdana Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2424
+6IN.BER,BK INA PERDANA TBK RP 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1818

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LXU,LSB Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LSBRX,Loomis Sayles Bond Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSBDX,Loomis Sayles Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSBK,Lake Shore Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LSBIX,Ladder Select Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSBNX,Loomis Sayles Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+LS3.FRK,LSB Industries Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+LS3.BER,"LSB IND. INC.  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+LS3.STG,LSB INDUSTRIES INC. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333

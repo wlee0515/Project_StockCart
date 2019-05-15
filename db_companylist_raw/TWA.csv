@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWAC,TWA Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TWADX,American Century Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWAIX,Thrivent Partner Worldwide Allocation S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWAAX,Thrivent Partner Worldwide Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWAOX,Thomas White American Opportunities Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWAVX,American Century Short-Term Govt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWACX,American Century Short-Term Govt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TWARX,American Century Short-Term Govt R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IHM.FRK,Turquoise Hill Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IHM.BER,TURQUOISE HILL RES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+IHM.MUN,TURQUOISE HILL RES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+IHM.STG,Turquoise Hill Resources Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBIA,UBI Blockchain Internet Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UBIAA.PAR,UBISOFT3.99%DEC18,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+UBIAC.PAR,UBISOFT1.289%JAN23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

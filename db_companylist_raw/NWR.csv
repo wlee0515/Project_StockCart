@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWR.FRK,"NEBAG NA  SF 2,50",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NWR.BAK,Nawarat Patanakarn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NWR.STG,nebag ag,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NWR-R.BAK,Nawarat Patanakarn Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NWR.BER,"NEBAG NA  SF 2,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NWRN.SWI,Newron Pharmaceuticals S.p.A.,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5455

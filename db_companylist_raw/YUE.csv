@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YUXXF,Yuexiu Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YUEIY,Yue Yuen Industrial (Holdings) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YUEIF,Yue Yuen Industrial (Holdings) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+POYN,Po Yuen Cultural Holdings (Hong Kong) Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+0551.HKG,Yue Yuen Industrial (Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1765
+1052.HKG,Yuexiu Transport Infrastructure Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1579
+0123.HKG,Yuexiu Property Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1538
+0405.HKG,Yuexiu Real Estate Investment Trust,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1500
+300742.SHZ,Nanjing Yueboo Power System Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1463
+2069.TWN,Yuen Chang Stainless Steel Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1429

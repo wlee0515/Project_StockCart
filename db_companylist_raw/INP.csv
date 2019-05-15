@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INPX,Inpixon,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IPHI,Inphi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INPIX,ProFunds Internet UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INPFX,American Funds Cnsrv Gr & Inc F-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INPSX,ProFunds Internet UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INPAX,American Funds Cnsrv Gr & Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INPTF,iPath MSCI India ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INPCX,American Funds Cnsrv Gr & Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+INPCF,Input Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IPXHY,Inpex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

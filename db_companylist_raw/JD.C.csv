@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0JOQ.LON,JD.COM INC JD.COM ADR REPRESENT,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+013A.DUS,JD.COM SP.ADR A1 DL-00002,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759
+013A.BER,JD.COM SP.ADR A1 DL-00002,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+013A.HAM,JD.COM SP.ADR A1 DL-00002,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2759
+013A.MUN,JD.COM SP.ADR A1 DL-00002,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759
+013A.STG,JD.com Inc. R.Shs Cl.A(Sp.ADRs),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACXIF,"Acciona, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ACXIX,Catalyst Multi-Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACXCX,Catalyst Multi-Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACXAX,Catalyst Multi-Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACX.BER,BET-AT-HOME.COM AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ACX.FRK,Bet-At-Home.com AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ACX.STG,bet-at-home.com AG Inhaber-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

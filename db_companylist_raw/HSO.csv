@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSON,"Hudson Global, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HSOAX,HSBC Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSOVX,Harbor Small Cap Value Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSON.KLA,HARRISONS HOLDINGS (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+HSO.AUS,Healthscope Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+0057.HKG,Chen Hsong Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+HSOA.STG,Encompass Health Corp. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+CHJ.FRK,Chen Hsong Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HSOA.FRK,Encompass Health Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+HSOA.BER,"ENCOMP.HEALT.CORP. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

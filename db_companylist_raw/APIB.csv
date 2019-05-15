@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APIBX,Yorktown Short Term Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+APIBONOA.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+APIBONOAPIM.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOF2.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOF4.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOM5.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOAPIF.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOE1.MEX,OPERADORA DE FONDOS BANORTE IXE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+APIBONOE2.MEX,Fondo Banorte IXE 33 S A De C V,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4444
+APIBONOE3.MEX,OPERADORA DE FONDOS BANORTE IXE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4444

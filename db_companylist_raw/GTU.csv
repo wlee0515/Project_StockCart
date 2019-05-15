@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTU1.MUN,"GTX INC. (DEL.)  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GTU1.FRK,GTx Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+GTU1.STG,GTX Inc. (Del.) Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GTU0008AU.AUS,Invesco Wholesale Global Opportunities Fund - Hedged,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+GTU0096AU.AUS,Invesco WS Aus Smaller Companies-Class R,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+GTU0097AU.AUS,Invesco WS Diversified Growth-Class R,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+GTU0098AU.AUS,Invesco WS Gbl Opportunities Hgd-Class R,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+GTU0102AU.AUS,Invesco Wholesale Global Opportunities Fund - Unhedged,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+GTU0109AU.AUS,Invesco Wholesale Global Targeted Returns Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

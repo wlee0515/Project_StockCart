@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEZ.JOH,Wesizwe Platinum Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.7500
+WEZ.FRK,Weiqiao Textile Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WEZ.BER,WEIQIAO TEXTILE CO. H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WEZ.MUN,WEIQIAO TEXTILE CO. H YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+WEZ.STG,Weiqiao Textile Co. Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FXD,First Trust Cnsmr Discret AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FIXD,First Trust TCWOpportunistic Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DWFIX,DFA World ex US Government Fxd Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+RIMOX,City National Rochdale Fxd Inc Opps N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CGFIX,Aberdeen Global Uncons Fxd Inc Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PFXYX,PACE Mort-Backed Secs Fxd Inc Invests Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NTAUX,Northern Tax-Advantaged U/S Fxd Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+INBKL,First Internet Bancorp SB NT FXD FLG MA,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DELNX,DoubleLine Low Dur Emerg Mkts Fxd Inc N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+EMTL,SPDR DoubleLine Emerg Mkts Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1429

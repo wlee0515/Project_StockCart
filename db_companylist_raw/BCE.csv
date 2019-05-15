@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BCE,BCE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BCEI,Bonanza Creek Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BCEKF,Bear Creek Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BCEDX,BlackRock Emerg Mkts Flex Dyn Bd Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCEGX,Sterling Capital Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BCCCF,BCE INC,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BCE.TRT,BCE Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+BCE-PK.TRT,BCE INC PREF SERIES AK,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+BCE-PC.TRT,BCE Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+BCE-PA.TRT,BCE FIRST PR SHARES SERIES AA,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

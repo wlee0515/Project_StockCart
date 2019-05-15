@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPOP,Popular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BPOPN,Popular Capital Trust I PFD 6.70% GTD,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOPO,Popular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOL,BlackPoll Fleet International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOSY,bpost SA/NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOPP,Popular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOSF,bpost SA/NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BPOST.BRU,bpost SA/NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+BPO-PI.TRT,BROOKFIELD OFFICE PROPERTIES PR,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

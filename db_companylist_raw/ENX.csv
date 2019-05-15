@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENX,Eaton Vance New York Municipal Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EXNT,EnXnet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ENX.PAR,Euronext N.V.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ENX.AUS,Enegex Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+E8U.STG,EnXnet Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+ENX.JOH,enX Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+ENXB.FRK,Euronext N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+4A21.BER,ENX GROUP LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+ENXB.BER,"EURONEXT N.V. WI EO 1,60",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ENXB.MUN,"EURONEXT N.V. WI EO 1,60",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3750

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHV.FRK,AXT Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AHV.MUN,"AXT INC.  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AHV.STG,AXT INC. Registered Shares DL -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

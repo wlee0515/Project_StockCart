@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLEDUCATE.NSE,CL Educate Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+CLEDUCATE.BSE,CL Educate Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000

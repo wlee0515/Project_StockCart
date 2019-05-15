@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACM,AECOM,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AECTX,American Century Emerg Mkts Sm Cp R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AECSX,American Century Emerging Mkts Sm Cp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AECVX,American Century Emerg Mkts Sm Cp Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AECMX,American Century Emerg Mkts Sm Cp R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AECHX,American Century Emerg Mkts Sm Cp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AECLX,American Century Emerg Mkts Sm Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AEGXF,Aecon Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AECFF,Action Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

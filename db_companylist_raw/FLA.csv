@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SIX,Six Flags Entertainment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IFF,International Flavors & Fragrances Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FLATX,Fidelity Latin America,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+FBC,Flagstar Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PFD,Flaherty & Crumrine Preferred Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BDL,Flanigan's Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FLC,Flaherty & Crumrine Total Return Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FLMP,Flame Seal Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1579

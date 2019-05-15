@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELFB.FRK,Deka Oekom Euro Nachhaltigkeit UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ELFB.FRK,Deka Oekom Euro Nachhaltigkeit ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ELFB.BER,DEKA OEKOM EO NACHH.U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ELFB.DUS,DEKA OEKOM EO NACHH.U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ELFB.MUN,DEKA OEKOM EO NACHH.U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ELFB.STG,Deka Oekom Euro Nachhal.UC.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5704.TOK,JMC Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+JMCVX,Janus Henderson Mid Cap Value T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCGX,Jacob Micro Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCEX,JPMorgan Mid Cap Equity R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCCX,JPMorgan Mid Cap Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCMX,JPMorgan Multi-Manager Alternatives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCRX,James Micro Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMCCF,JAMCO Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+JMCORE11GR.BSE,JM Core 11 Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0011829209.PAR,LBP EuroCap 90 Ao?t 2022,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.7500
+FR0010805788.PAR,LBPAM Responsable Tr?so E,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0011418011.PAR,LBP Index Euro PEA 90 Juin 2021,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0011527944.PAR,LBPAM S?lection Pro Rendement Gbl M A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+LBP.LON,Lb-shell plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+F0GBR04FDP.PAR,LBPAM Actions Midcap C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935
+FR0000008963.PAR,LBPAM ISR Actions Euro C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1765
+FR0000936528.PAR,LBPAM Actions Europe Monde C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1714
+FR0000939829.PAR,LBPAM Actions Europe Monde D A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1429

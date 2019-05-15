@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TATB.BER,TATA MTRS LTD ADR/5 IR 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+TATB.DUS,TATA MTRS LTD ADR/5 IR 2,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+TATB.MUN,TATA MTRS LTD ADR/5 IR 2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+TATB.VIE,Tata Motors Limited,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273
+TATB.FRK,Tata Motors Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+TATB.STG,Tata Motors Ltd. Reg.Shares (Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

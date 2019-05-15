@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WARFY,Wharf (Holdings) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WHAYX,Western Asset High Yield A2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WARFF,Wharf (Holdings) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WRFRF,Wharf Real Estate Investment Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WHA.AMS,Wereldhave N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.5000
+WHA.BAK,WHA Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+0004.HKG,Wharf (Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2500
+1997.HKG,Wharf Real Estate Investment Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2500
+WHA.AUS,Wattle Health Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222
+4WF.FRK,Wharf Real Estate Investment Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

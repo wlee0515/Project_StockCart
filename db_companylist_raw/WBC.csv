@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WBC,WABCO Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WBCCX,TETON Westwood Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WBC.AUS,Westpac Banking Corporation,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+WBCC.FRK,Westpac Banking Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WBC.DUS,WESTPAC BKG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+WBCCD.AUS,WBCCD.AX,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+WBC.FRK,Westpac Banking Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WBC.BER,WESTPAC BKG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WBC.MUN,WESTPAC BKG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

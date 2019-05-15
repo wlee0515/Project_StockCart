@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALHYX,AB Limited Duration High Income Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALHIX,AC Alternatives Equity Market Netr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALHAX,AB Limited Duration High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALHKX,AB Limited Duration High Income K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALHCX,AB Limited Duration High Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALHRX,AB Limited Duration High Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALH.JOH,Alaris Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+ALHVS.PAR,Harvest S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+ALHEO.PAR,H2O Innovation Inc.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455

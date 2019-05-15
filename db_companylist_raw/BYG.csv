@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BYG.LON,Big Yellow Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+0MR4.LON,Byggmax Group AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BYG.BER,BOUYGUES SA INH.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+7B1.FRK,Bygghemma Group First AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+BYG.FRK,Bouygues SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+BYY.FRK,Byggmax Group AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308
+0SOM.LON,Bygghemma Group First AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765

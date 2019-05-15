@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDX,FedEx Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FDX-USD.SWI,Fedex,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+FDX.AUS,Frontier Diamonds Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+FDX.FRK,FedEx Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FDX.BER,"FEDEX CORP.  DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FDX.FRK,FedEx Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+FDX.DUS,"FEDEX CORP.  DL-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+FDX.HAM,"FEDEX CORP.  DL-,10",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+FDX.MUN,"FEDEX CORP.  DL-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+FDX.MEX,FedEx Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667

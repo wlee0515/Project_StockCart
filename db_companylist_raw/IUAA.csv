@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUAAX,VY Invesco Equity and Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IUAA.LON,iShares US Aggregate Bond ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+IUAA.SWI,iShares US Aggregate Bond ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+IUAAN.MEX,iShares II Public Limited Company - iShares US Aggregate Bond UCITS ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

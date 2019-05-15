@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5116.KLA,Al-'Aqar Healthcare REIT,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+5269.KLA,AL-SALAM REAL ESTATE INVESTMENT,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2222
+IAM.PAR,Itissalat Al-Maghrib (IAM) S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2222
+MSPA.FRK,Itissalat Al-Maghrib (IAM) S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

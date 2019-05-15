@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+U.TRT,Uranium Participation Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.8571
+IFA.BER,IFA HOTEL U.TOURISTI.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+IFA.DUS,IFA HOTEL U.TOURISTI.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+IFA.MUN,IFA HOTEL U.TOURISTI.O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+IFA.HAM,IFA HOTEL U.TOURISTI.O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2222

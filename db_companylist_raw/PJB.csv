@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJB,PowerShares Dynamic Banking,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+7163.KLA,PJBumi Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+PJSB.KLA,PJBUMI BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3750

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZEEL.NSE,Zee Entertainment Enterprises Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+ZEEMEDIA.NSE,Zee Media Corporation Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+ZEEL.BSE,Zee Entertainment Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+ZEE.TRV,Zenith Energy Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+ZEE.FRK,Zug Estates Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+NBZ.AMS,Nederlandse Beleggingsmaatschappij Voor Zeeschepen BV,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.4615
+ZEE.STG,Zug Estates Holding AG Namens-A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+ZEEL-P2.NSE,ZEE ENTERTAIN ENT,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+ZEELEARN.BSE,Zee Learn Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+ZEELEARN.NSE,Zee Learn Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2222

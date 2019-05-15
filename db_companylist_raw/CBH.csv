@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBH,AllianzGI Convertible & Income 2024 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBHIX,Victory Market Neutral Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBHMF,Cobham plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBHMY,Cobham plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBHCX,Victory Market Neutral Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBHAX,Victory Market Neutral Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CBH.TRT,iShares 1-10 Year Laddr Corp Bd ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CBHD.HAN,COLOPLAST NAM. B  DK 1,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+CBHD.FRK,Coloplast A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

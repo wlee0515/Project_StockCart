@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCVAX,Hartford Conservative Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVIX,Hartford Conservative Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVFX,Hartford Conservative Allocation F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVCX,Hartford Conservative Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVPX,"HC Capital Tr, The Value Equity",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVEX,"HC Capital Trust, The Value Equ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVRX,Hartford Conservative Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVSX,Hartford Conservative Allocation R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCVTX,Hartford Conservative Allocation R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

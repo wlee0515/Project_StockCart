@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBK.FRK,UmweltBank AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UBK.BER,UMWELTBANK AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UBK.FRK,UmweltBank AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+UBK.HAN,UMWELTBANK AG O.N.,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+UBK.HAM,UMWELTBANK AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+UBK.MUN,UMWELTBANK AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UBK.DUS,UMWELTBANK AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+UBK.STG,UMWELTBANK AG Inhaber-Aktien o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+UBKG.FRK,UMWELTBANK AG O.N.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

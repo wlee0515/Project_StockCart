@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INB,"Cohen & Steers Global Income Builder, Inc",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BUD,Anheuser-Busch InBev SA/NV,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+INBK,First Internet Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BUDFF,Anheuser-Busch InBev SA/NV,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+INBP,Integrated Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INBKL,First Internet Bancorp SB NT FXD FLG MA,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+GPFOY,"Grupo Financiero Inbursa, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+INBI,Infusion Brands International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+GPFOF,"Grupo Financiero Inbursa, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+ABI.BRU,Anheuser-Busch InBev SA/NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.1395

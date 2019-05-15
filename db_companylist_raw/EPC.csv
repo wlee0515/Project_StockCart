@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPC,Edgewell Personal Care Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EPCUF,Earthport plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFC,Epcylon Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RAUNAQEPC.BSE,Raunaq EPC International Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+EXPL.PAR,EPC Groupe,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4615
+SHRIRAMEPC.BSE,Shriram EPC Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+2311.TOK,EPCO Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+EPCC.FRK,Cementos Pacasmayo S.A.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3750

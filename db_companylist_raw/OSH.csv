@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSK,Oshkosh Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OSH.AUS,Oil Search Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+OSHAUGHNESSY.TRT,RBC O'Shaughnessy U.S. Growth Fund II A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+OK3.FRK,Oshkosh Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OK3.BER,"OSHKOSH CORP.  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+OK3.STG,Oshkosh Corp. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+OSH4.DUS,O'SHS FTSE INTL QU.DV.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3333
+OSH4.MUN,OSI ETF Trust - O'Shares FTSE Russell International Quality Dividend ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2727
+OSH4.BER,O'SHS FTSE INTL QU.DV.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2400

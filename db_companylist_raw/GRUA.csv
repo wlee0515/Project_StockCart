@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRUA,Garuda Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GRUA.FRK,Geely Automobile Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+GRUA.STG,Geely Automobile Holdings Ltd.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+GRUA.BER,GEELY AUTO.H.ADR/20 HD-02,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+GRUA.DUS,GEELY AUTO.H.ADR/20 HD-02,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

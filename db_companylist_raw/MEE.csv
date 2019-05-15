@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEET,The Meet Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MEEC,Midwest Energy Emissions Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MEME,MeeMee Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLRUX,Meeder Conservative Allocation Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MEFOX,Meehan Focus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FLMFX,Meeder Muirfield Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+QNTAX,Meeder Quantex Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+IFAIX,Meeder Conservative Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+FLMIX,Meeder Muirfield Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+FLSPX,Meeder Spectrum Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500

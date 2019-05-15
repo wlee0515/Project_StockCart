@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NWVCF,EnWave Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ENW.TRV,EnWave Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+E4U.FRK,EnWave Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+E4U.BER,ENWAVE CORPORATION,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+E4U.DUS,ENWAVE CORPORATION,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636
+E4U.STG,EnWave Corporation Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+E4U.HAN,ENWAVE CORPORATION,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.3636
+E4U.HAM,ENWAVE CORPORATION,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2286

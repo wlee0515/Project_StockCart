@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSM,MSC Industrial Direct Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MSMLX,Matthews Asia Small Companies Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MSMY,MC Endeavors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MSMAX,Manning & Napier Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSMIX,MainStay MAP Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSMBX,MSVIF Emerging Mkts Equity Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSMUX,Morgan Stanley Inst Glbl MltiAsst Inc IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSMGF,Grid Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

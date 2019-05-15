@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPX,Louisiana-Pacific Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LPXIX,Cohen & Steers Low Duration Pref & Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPXAX,Cohen & Steers Low Duration Pref & Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPXCX,Cohen & Steers Low Duration Pref & Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPXRX,Cohen & Steers Low Duration Pref & Inc R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPXZX,Cohen & Steers Low Duration Pref & Inc Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DX2D.FRK,X LPX Private Equity Swap ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LPXA.HAM,Lux-Portfolio SICAV - Lux-Portfolio Defensive,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2000

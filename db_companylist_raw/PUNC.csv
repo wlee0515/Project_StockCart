@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6165.TOK,Punch Industry Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+6807.KLA,Puncak Niaga Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+PNHB.KLA,PUNCAK NIAGA HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500

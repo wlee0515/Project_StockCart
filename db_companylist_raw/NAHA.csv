@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAHARSPING.BSE,Nahar Spinning Mills Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+NAHARSPING.NSE,Nahar Spinning Mills Ltd,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+NAHARCAP.BSE,Nahar Capital and Financial Services Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+NAHARCAP.NSE,Nahar Capital and Financial Services Ltd.,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+NAHARPOLY.BSE,Nahar Poly Films Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+NAHARPOLY.NSE,Nahar Poly Films Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+NAHARINDUS.BSE,Nahar Industrial Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+NAHARINDUS.NSE,Nahar Industrial Enterprises Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+NAHARINDUS-EQ.NSE,NAHAR IND ENTERPRI,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+532952.BSE,Nahar Capital & Financial Services Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1905

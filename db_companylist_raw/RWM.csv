@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWM,ProShares Short Russell2000,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RWMGX,American Funds Washington Mutual R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMCX,American Funds Washington Mutual R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMFX,American Funds Washington Mutual R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMEX,American Funds Washington Mutual R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMBX,American Funds Washington Mutual R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMIX,Redwood Managed Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMHX,American Funds Washington Mutual R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMAX,American Funds Washington Mutual R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWMNX,Redwood Managed Municipal Income N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

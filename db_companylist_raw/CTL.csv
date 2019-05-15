@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTL,CenturyLink Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTLT,Catalent Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTLE,Nano Labs Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTLAX,American Funds College 2033 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTLRX,Columbia Limited Duration Credit Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTLFX,American Funds College 2033 529F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTLEX,American Funds College 2033 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

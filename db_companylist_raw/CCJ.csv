@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCJ,Cameco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCJTX,American Funds 2055 Trgt Date Retire C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCJ.AUS,County International Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+CCJ.DUS,CINCINNATI FINL  DL 2,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CCJ.FRK,Cincinnati Financial Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CCJ.BER,CINCINNATI FINL  DL 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CCJ.STG,CINCINNATI FINANCIAL CORP. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CCJI.LON,CC Japan Income & Growth Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

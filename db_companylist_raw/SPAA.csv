@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ME9.STG,MEDIOBANCA - BCA CRED.FIN. SPAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+BN7.STG,COFIDE-Gruppo De Benedetti SpAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+DAS.STG,DANIELI & C. -OFF. MECCAN. SPAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+TV9.STG,TREVI-FINANZIARIA INDUSTR. SPAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XCW.STG,SOC. CATTOLICA DI ASSICUR. SPAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+RER1.STG,Recordati - Ind.Chim.Farm. SpAA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

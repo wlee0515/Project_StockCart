@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGRA.LON,ETFS 2x Daily Long Grains ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+LGRA.MIL,ETFS 2x Daily Long Grains ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

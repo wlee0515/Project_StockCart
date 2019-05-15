@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KTOS,Kratos Defense & Security Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KTOV,Kitov Pharma Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KTOV.TAV,Kitov Pharma Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.7500
+KTO.TRV,K2 Gold Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+168300.KOR,Hana UBS KTOP KOSPI50 Securities ETF Investment Trust - Equity,ETF,Korea,09:00,15:30,UTC+09,KRW,0.3750
+228820.KOR,Mirae Asset Tiger KTOP 30 ETF,ETF,Korea,09:00,15:30,UTC+09,KRW,0.2857
+229720.KOR,KODEX KTOP 30,ETF,Korea,09:00,15:30,UTC+09,KRW,0.1875
+530013.KOR,Samsung KTOP30 ETN,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1667

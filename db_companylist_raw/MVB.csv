@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MVBF,MVB Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MVB.AUS,VanEck Vectors Australian Banks ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6667
+975788.FRK,MVB TrendStrategie: Value,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+MVB1.MUN,MBK PCL -FGN-  BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+F0GBR04NNN.FRK,MVB TrendStrategie: Value,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2143
+MVB1.BER,MBK PCL -FGN-  BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

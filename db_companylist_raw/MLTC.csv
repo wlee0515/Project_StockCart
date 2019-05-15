@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLTC,Melt Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MLTCX,MFS Lifetime 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+MOTILALOSWAL.BSE,Motilal Oswal MOSt Foc Mltcap 35 Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2105
+129048.BSE,Motilal Oswal MOSt Foc Mltcap 35 Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1860
+F00000TE7F.BSE,Motilal Oswal MOSt Foc Mltcap 35 Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1860
+129047.BSE,Motilal Oswal MOSt Foc Mltcap 35 Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818
+129049.BSE,Motilal Oswal MOSt Foc Mltcap 35 Reg Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

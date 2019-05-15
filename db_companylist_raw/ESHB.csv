@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESHB.FRK,Esprit Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ESHB.BER,"ESPRIT HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ESHB.DUS,"ESPRIT HLDGS  HD-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ESHB.MUN,"ESPRIT HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ESHB.STG,ESPRIT Holdings Ltd. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

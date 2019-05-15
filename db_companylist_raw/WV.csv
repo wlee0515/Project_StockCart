@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WVE,Wave Life Sciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WVVI,Willamette Valley Vineyards Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WVFC,WVS Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WVVIP,Willamette Valley Vineyards Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WVALX,Weitz Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WVCCX,Aberdeen International Small Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WVCAX,WV Concentrated Equities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WVCIX,WV Concentrated Equities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WVAIX,Weitz Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WVV.BER,"WILLAMETTE VALLEY  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000

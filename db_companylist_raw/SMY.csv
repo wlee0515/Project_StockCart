@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMYIX,QS Global Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMYFX,SEI Small Cap Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMY.TRV,Search Minerals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

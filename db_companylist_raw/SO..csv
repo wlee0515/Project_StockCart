@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SO.MIL,Sogefi S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+SO.PAR,Somfy SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+RZ8G.BER,SO.NA.GA.N.R.GDR REGS LN1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

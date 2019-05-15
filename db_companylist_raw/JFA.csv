@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFAMX,JPMorgan Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFARX,JHancock Fundamental All Cap Core R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFAIX,JHancock Fundamental All Cap Core R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFACX,JHancock Fundamental All Cap Core R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFAIF,JPMORGAN AMER IT,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

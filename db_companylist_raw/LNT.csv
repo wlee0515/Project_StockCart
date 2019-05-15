@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNT,Alliant Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LNTH,Lantheus Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LNTA.MOS,Lenta Ltd,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6667
+LNTA.LON,Lenta Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+LNTA.ILN,LENTA LTD GDR (EACH 5 REPR 1 OR,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+LNTA.VIE,Lenta Limited,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000

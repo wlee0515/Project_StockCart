@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGRIX,Eaton Vance Glbl Macro Abs Ret Advtg I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIGMX,Eaton Vance Glbl Macr Absolute Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PTOAX,PIMCO StocksPLUS Absolute Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ALSWF,Absolute Software Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PTRNX,Putnam Fixed Income Absolute Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PDMAX,Putnam Multi-Asset Absolute Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GJRTX,Goldman Sachs Absolute Ret Trckr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500
+ABSAX,American Beacon Small Cp Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+WARDX,Wells Fargo Absolute Return Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+WABIX,Wells Fargo Absolute Return Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

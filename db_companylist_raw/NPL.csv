@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPLVX,NorthPointe Large Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000QSYI.KOR,Consus Discorery NPL Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1935
+K55310B41467.KOR,Koreit NPL Private Real Estate AP3-2A,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1622
+KR5223AK2211.KOR,KB Private Real Estate NPL 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+KR5233AM8701.KOR,Consus Discorery NPL Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1500
+KR5233AN7447.KOR,Consus Discorery NPL Private Real Estate 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5301AT7794.KOR,MiraeAssetMAPS Frontier NPL Private Real Estate 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5310AS6366.KOR,Koreit NPL Private Real Estate AP2-1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5310AY3563.KOR,Koreit NPL Private Real Estate AP3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1154

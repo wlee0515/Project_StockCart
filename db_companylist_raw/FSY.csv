@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSYPLX,FT 7334: SMid Capital Strength ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSYWLX,FT 6564: Municipal Income and D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSYNDX,FT 7405: Dorsey Wright Relative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSYHGX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSYKCX,FT 6980: Senior Loan and Divide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSYRPX,FT 7684: Equity Income Select P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSY.TRT,Forsys Metals Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FSY.FRK,FORMULA SYS 1985 ADR,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FSY.BER,FORMULA SYS 1985 ADR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FSY.MUN,Formula Systems (1985) Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

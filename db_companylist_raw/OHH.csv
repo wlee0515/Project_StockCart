@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OHH.BER,PT PANIN FINANCIAL RP 125,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+OHH.FRK,PT Panin Financial Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OHH.MUN,PT PANIN FINANCIAL RP 125,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

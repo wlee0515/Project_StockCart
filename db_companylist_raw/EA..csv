@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EA.BAK,Energy Absolute Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+EA.MEX,Electronic Arts Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+EA.VIE,Electronic Arts Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7500

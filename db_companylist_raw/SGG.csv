@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGG,iPath B Bloomberg Sugar Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SGGFF,iPath Bloomberg Sugar SubTR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGGDX,First Eagle Gold A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGB,iPath B Bloomberg Sugar Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGAX,DWS Large Cap Focus Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGKF,Singapore Technologies Engineering Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGTF,Signature Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGKY,Singapore Technologies Engineering Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGEF,The Sage Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGGDF,Sage Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

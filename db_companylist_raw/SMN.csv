@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMN,ProShares UltraShort Basic Materials,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SMNNY,Shimano Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMNUF,PT Sarana Menara Nusantara Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMNYPX,"Smart Trust, New York Municipal",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMNYNX,"Smart Trust, New York Municipal",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMNJHX,"Smart Trust, New Jersey Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMNJJX,"Smart Trust, New Jersey Municip",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMNYQX,"Smart Trust, New York Municipal",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

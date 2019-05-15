@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XCRFX,"Cornerstone Total Return Fund, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+XCRP,Xcorporeal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XCRA.STG,CRH PLC Reg. Shares (ADRs)/1 EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XCRA.FRK,CRH plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

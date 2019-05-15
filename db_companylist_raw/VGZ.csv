@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGZ,Vista Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VGZ.TRT,Vista Gold Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

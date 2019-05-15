@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACRS,Aclaris Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ACLAX,American Century Mid Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+8AT.MUN,Aclaris Therapeutics Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2667
+8AT.FRK,Aclaris Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667
+0H8T.LON,Aclaris Therapeutics Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPFNX,PIMCO Income Strategy Fund II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPFLX,PIMCO Income Strategy Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPFOX,Flaherty & Crumrine Preferred I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPFDX,Flaherty & Crumrine Preferred I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XPF.TRT,iShares S&P/TSX NA Prefr Stk ETF CADH,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XPFT.JKT,Reksa Dana Indeks Pinnacle FTSE,Mutual Fund,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

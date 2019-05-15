@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PBC,Prospect Capital Corporation 6.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PBCT,People's United Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PBCTP,People's United Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PBCRY,PT Bank Central Asia Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCKX,Principal Blue Chip Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCJX,Principal Blue Chip J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCO,People's Bank of Commerce,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCRF,PT Bank Central Asia Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCFX,PGIM Income Builder B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PBCAX,PGIM California Muni Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

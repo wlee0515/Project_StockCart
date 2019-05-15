@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSWS,PureSafe Water Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSWIX,Principal SAM Strategic Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PSWW,Principal Solar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSWRX,PNC Multi Factor Small Cap Gr R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSWR,Prism Software Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSWJX,Principal SAM Strategic Growth J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSWC.LON,PowerShares Global Funds Ireland Public Limited Company - PowerShares Dynamic US Market UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PSWD.FRK,PowerShares Global Funds Ireland plc - PowerShares FTSE RAFI All-World 3000 UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PSWD.FRK,Invesco FTSE RAFI All World 3000 ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+PSWD.STG,I.M.III-I.FTSE R.A.W.3000 UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

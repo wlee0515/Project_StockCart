@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAP,Advance Auto Parts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AZO,AutoZone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FCAU,Fiat Chrysler Automobiles N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ORLY,O'Reilly Automotive Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+ADP,Automatic Data Processing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+ADSK,Autodesk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ROK,Rockwell Automation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ATHM,Autohome Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+FRSX,Foresight Autonomous Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+AN,AutoNation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

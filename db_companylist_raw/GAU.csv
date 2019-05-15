@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAUCX,Gabelli Utilities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAUAX,Gabelli Utilities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAUIX,Gabelli Utilities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAUTX,Gabelli Utilities T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F000001YQ0.BCL,Gaudi Inversions 2 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4615
+1KK.FRK,Gaussin SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615
+1KK.STG,Gaussin SA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4615
+GAM.PAR,Gaumont SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2727
+GEL.BSE,Gautam Exim Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727
+GGL.BSE,Gautam Gems Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222

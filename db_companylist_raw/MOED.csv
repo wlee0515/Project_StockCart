@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOED.DUS,BNPPE.-E.MO.EU.UEDEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+MOED.FRK,BNP Paribas Easy - Equity Momentum Europe,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+MOED.PAR,BNPP E Equity Momentum Europe ETF D,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+MOED.FRK,BNP Paribas Easy - Equity Momentum Europe,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

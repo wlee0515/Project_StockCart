@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSOL,Drug Free Solution Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DSOSX,DWS CROCI Sector Opportunities S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DSOX,Triton Emission Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSOCX,DWS CROCI Sector Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSOIX,DWS CROCI Sector Opportunities Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSOAX,DWS CROCI Sector Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSOM.KLA,DIGI.COM BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3FU1.BER,FUXING CHINA GRP  SD 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+HFE.FRK,Huadian Fuxin Energy Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FUX.BER,FUNAI EL. CO. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FUX.STG,FUNAI ELECTRIC CO. LTD. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+0816.HKG,Huadian Fuxin Energy Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+FUX.FRK,Funai Electric Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+3FU1.FRK,Fuxing China Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2069
+AWK.SGP,Fuxing China Group Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1500
+000926.SHZ,Hubei Fuxing Science and Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1395
+300473.SHZ,Fuxin Dare Automotive Parts Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1250

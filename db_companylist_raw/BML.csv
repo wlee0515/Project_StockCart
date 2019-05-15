@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4694.TOK,BML Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+BMLP,BMO Elkhorn DWA MLP Select ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BML-PL,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BML-PJ,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BML-PG,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMLWF,BMO Low Volatility US Equity ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BML-PH,Bank of America Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BMLEX,Mount Lucas US Focused Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+BML.TRV,Barker Minerals Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000

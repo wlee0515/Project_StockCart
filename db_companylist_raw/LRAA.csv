@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LRAA.FRK,Aura Resources Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LRAA.PAR,LEGRAND1.875%DEC27,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+LRAA.STG,Aura Resources Inc. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

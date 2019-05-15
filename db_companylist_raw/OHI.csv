@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OHI,Omega Healthcare Investors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OVBC,Ohio Valley Banc Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EVO,Eaton Vance Ohio Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NUO,Nuveen Ohio Quality Municipal I,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FOHFX,Fidelity Ohio Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+EIO,Eaton Vance Ohio Municipal Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OART,The Ohio Art Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AOHAX,AB Municipal Income II Ohio A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+XNUOX,Nuveen Ohio Quality Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+TOHIX,Touchstone Ohio Tax-Free Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TS.ARG,Tenaris S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+MI40.VIE,EB OE TS.Z./MERCK,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+AY57.VIE,RCB OE TS.Z./Rosneft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+HC35.VIE,EB OE TS.Z./BMW,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+HR68.VIE,EB OE TS.Z./K+S,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3000
+LY25.VIE,EB OE TS.Z./LENZING,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2857
+MO27.VIE,RCB OE TS.Z./Merck,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2727
+NN00.VIE,RCB OE TS.Z./Hugo Boss,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+NQ33.VIE,EB OE TS.Z./OMV,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2500
+AR36.VIE,RCB OE TS.Z./Bank VTB,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2400

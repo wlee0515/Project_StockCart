@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VBO.FRK,"CGN MINING CO.LTD  HD-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+VBO.BER,"CGN MINING CO.LTD  HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VBO.STG,CGN Mining Co. Ltd. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

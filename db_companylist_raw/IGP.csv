@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGPK,Integrated Cannabis Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IGPAX,Voya Global Target Payment A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IGPFF,Imperial Ginseng Products Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPTFX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPIX,Voya Global Target Payment I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPPF,Impellam Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPG,Ignis Petroleum Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPRX,Voya Global Target Payment R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGPCX,Voya Global Target Payment C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGPTRX,Investment Grade Corporate Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

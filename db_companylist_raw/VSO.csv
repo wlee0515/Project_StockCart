@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VSOIX,Victory Sycamore Small Company Opp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSOPX,Voya SmallCap Opportunities P3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSOYX,Victory Sycamore Small Company Opp Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSORX,Victory Sycamore Small Company Opp R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VSO.AUS,Vanguard MSCI Australian Small Coms ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.7500
+VSO.FRK,Sotkamo Silver AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VSO.BER,SOTKAMO SILVER AB NAM.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+0066.KLA,VSOLAR GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2727

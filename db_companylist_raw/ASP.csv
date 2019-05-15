@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZPN,Aspen Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASPS,Altisource Portfolio Solutions S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AHL,Aspen Insurance Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ASPU,Aspen Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASPN,Aspen Aerogels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ASPCX,Alger Spectra C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+REDWX,Aspiration Redwood,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ASPZX,Alger Spectra Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+APNHY,Aspen Pharmacare Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ASPFX,Aspiration Flagship,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

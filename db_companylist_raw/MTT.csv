@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTT,Western Asset Municipal Defined Opportunity Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTTWF,Metro AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTRX,Manning & Napier Target 2040 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTIX,Manning & Napier Target 2040 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTZX,Manning & Napier Target 2040 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTTX,Test Mutual Fund - MFSC,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTKX,Manning & Napier Target 2040 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTRY,Ceconomy AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTTGF,New Energy Minerals Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTT.HAM,MATTEL INC.  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

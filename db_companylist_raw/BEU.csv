@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BVALX,Brown Advisory BeutelGoodmanLg-CpValInst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BEUT,Science to Consumers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+F00000JXRS.TRT,Beutel Goodman International Equity Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F00000JWIB.TRT,Beutel Goodman Global Dividend Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1875
+F0CAN05P6Y.TRT,IG Beutel Goodman Canadian Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1622
+F00000JXRR.TRT,Beutel Goodman Small Cap Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F00000OM2I.TRT,IG Beutel Goodman Canadian Equity J NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1579
+F00000VFYI.TRT,Sun Beutel Goodman Cdn Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+F00000WTPF.TRT,SSQ Beutel Goodman U.S. Equity GIF,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+F0CAN05OHH.TRT,Beutel Goodman American Equity Class D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1395

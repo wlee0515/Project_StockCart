@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PUZ.FRK,Pongs & Zahn AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+PUZ.BER,PONGS + ZAHN AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+PUZ2.STG,Pongs & Zahn AG Inh.Genusch. 20,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

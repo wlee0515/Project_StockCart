@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALKKO.BRU,KKO International SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+KKOWA.BRU,KKO INT WARRANT A,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+5KI1.FRK,KKO International SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+ALKKO.PAR,KKO International SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+KKOWA.PAR,KKO INT WARRANT A,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2609

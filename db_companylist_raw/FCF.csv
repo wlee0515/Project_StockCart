@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCF,First Commonwealth Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FCFS,FirstCash Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCFRX,Franklin Floating Rate Daily Access C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFVX,Fidelity Advisor Freedom 2005 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFTX,Fidelity Advisor Freedom 2010 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFFX,Fidelity Advisor Freedom 2040 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFAX,Frost Credit Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFWX,American Funds Retire Inc Port-Enh F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFEX,Fidelity Advisor Freedom 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCFBX,Frost Credit A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

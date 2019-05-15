@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNB,The Dun & Bradstreet Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DNBF,DNB Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DNHBY,DNB ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DNBHF,DNB ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NBA.BER,DNB NOR ASA A  NK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+0O84.LON,DNB ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+CFPN.BER,DNB FD-DNB RENEW.ENER.A A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+CFPC.FRK,DNB Global SRI,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.3529
+0O84.ILN,DNB ASA DNB ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMT,MFS Multimarket Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MFEGX,MFS Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CIF,MFS Intermediate High Income Fu,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MFST,"Medifirst Solutions, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MFEKX,MFS Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4286
+MCR,MFS Charter Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MEIKX,MFS Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+MIGFX,MFS Massachusetts Inv Gr Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+MEIIX,MFS Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+MIN,MFS Intermediate Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

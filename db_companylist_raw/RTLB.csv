@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000WXYF.LON,IFSL Tilney Bestinvst Advd Pasv:Cau RtlB,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+F00000WXZE.LON,IFSL Tilney Bestinvst Advd Pasv:Bal RtlB,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00BDFYCZ66.LON,IFSL Tilney Bestinvst Advd Pasv:Cau RtlB,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818
+GB00BDFYDG43.LON,IFSL Tilney Bestinvst Advd Pasv:Bal RtlB,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1818

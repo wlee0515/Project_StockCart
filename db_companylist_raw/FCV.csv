@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCV,FaithShares Catholic Values ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FCVSX,Fidelity Convertible Securities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FCVT,First Trust SSI Strat Convert Secs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVAX,Fidelity Advisor Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVIX,Fidelity Advisor Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVZLX,FT 7122: Sabrient Baker's Dozen,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVTX,Fidelity Advisor Small Cap Value M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVFX,Fidelity Advisor Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCVCX,Fidelity Advisor Small Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCVJQX,FT 6843: Interest Rate Hedge Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

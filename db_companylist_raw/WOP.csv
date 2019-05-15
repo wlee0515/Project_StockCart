@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WOPEY,Woodside Petroleum Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WOPEF,Woodside Petroleum Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WOP.FRK,Woodside Petroleum Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WOP.BER,WOODSIDE PET. SP.ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WOPA.FRK,Woodside Petroleum Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WOPA.BER,WOODSIDE PET.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WOPA.MUN,WOODSIDE PET.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WOPA.STG,WOODSIDE PETROLEUM LTD. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+WOPA.DUS,WOODSIDE PET.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WOPA.HAM,WOODSIDE PET.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

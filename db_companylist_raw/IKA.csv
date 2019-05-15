@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KANG,iKang Healthcare Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IKAI.JKT,PT Intikeramik Alamasri Industri Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+IKA.LON,Ilika plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IK9A.STG,iKang Healthcare Group Inc. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+IK9A.FRK,iKang Healthcare Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+IKAP.FRK,Aurinia Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+IKAP.BER,AURINIA PHARMACEUT.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IKAP.STG,Aurinia Pharmaceuticals Inc. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+IKAB.BSE,Ikab Securities & Investment Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+IKAP.MUN,AURINIA PHARMACEUT.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5714

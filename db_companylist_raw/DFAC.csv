@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFACANADIANV.TRT,DFA Canadian Vector Equity Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+DFACANADIANC.TRT,DFA Canadian Core Equity A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

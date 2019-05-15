@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMRC,Digimarc Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DMRL,DeltaShares S&P 500 Managed Risk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DMRS,DeltaShares S&P 600 Managed Risk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DMREX,DFA Municipal Real Return Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DMRI,DeltaShares S&P Intl Managed Risk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DMRM,DeltaShares S&P 400 Managed Risk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500

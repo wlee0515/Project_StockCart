@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPOCF,FPX Nickel Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FPODX,Franklin Payout 2018 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOFX,Franklin Payout 2019 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOCHX,FT 7531: Dividend & Income Sele,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOQX,Franklin Payout 2022 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPONX,Franklin Payout 2022 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOGX,Franklin Payout 2020 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOMX,Franklin Payout 2021 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPOJX,Franklin Payout 2021 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPOWDX,FT 6884: Health Care Opportunit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

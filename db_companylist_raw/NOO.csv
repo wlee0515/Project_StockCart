@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NDLS,Noodles & Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KBBR.KLA,EKA NOODLES BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4444
+NO3.FRK,Noodles & Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+NO3.BER,"NOODLES+CO. A  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3000
+NO3.STG,Noodles & Co. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+7182.KLA,EKA Noodles Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+AVIAN.AMS,Actiam Beleggingsfondsen N.V. - Actiam Verantwoord Index Aandelenfonds - Noord-Amerika Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.1818

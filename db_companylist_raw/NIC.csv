@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGOV,NIC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NICE,NICE Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NILSY,Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NICK,Nicholas Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NCBS,Nicolet Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+NICSX,Nicholas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NCLEX,Nicholas Limited Edition I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NSEIX,Nicholas Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NCPCF,Nickel Creek Platinum Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+JJNTF,iPath Bloomberg Nickel SubTR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

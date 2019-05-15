@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT0000496310.VIE,Niederoesterreich III,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3478
+DE000A169K76.STG,"Niedersachsen, Land Landessch.v",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+AT0000497185.VIE,Niederoesterreich I,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3200
+AT0000A05D45.VIE,Niederoesterreich IV,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2286

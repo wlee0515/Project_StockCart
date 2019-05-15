@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OYIEF,Ocean Yield ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+M6Q.MUN,OUTOTEC OYI,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4615
+JP2.BER,POEYRY OYI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+TI6.BER,DIGITALIST GROUP OYI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+JP2.STG,Pyry Oyi Registered Shares o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+M6Q.BER,OUTOTEC OYI,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1765
+M6Q.STG,Outotec Oyi Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

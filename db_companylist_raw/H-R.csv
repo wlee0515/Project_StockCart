@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0011146786.PAR,Natixis Actions US Value H-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935
+FR0011010149.PAR,Natixis Actions US Growth H-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1935
+F00000MQUP.PAR,Natixis Actions US Growth H-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1875
+F00000NEX5.PAR,Natixis Actions US Value H-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1875

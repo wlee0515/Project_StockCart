@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JVA,Coffee Holding Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JVAAX,JPMorgan Value Advantage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JVACX,JPMorgan Value Advantage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVAIX,JPMorgan Value Advantage L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVASX,JPMorgan Value Advantage I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVAYX,JPMorgan Value Advantage R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVAQX,JPMorgan Value Advantage R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JVAL,JPMorgan US Value Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JVAPX,JPMorgan Value Advantage R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

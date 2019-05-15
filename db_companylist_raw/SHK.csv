@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHK.NSE,S H Kelkar and Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+SHK.MUN,SUN HUNG K.CO.LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SHK-EQ.NSE,S H KELKAR AND COM,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+YUM.FRK,SHK Hong Kong Industries Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SHK.AUS,Stone Resources Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SHK.BSE,S H Kelkar and Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+SHK.STG,Sun Hung Kai & Co. Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+YUM.STG,SHK Hong Kong Industries Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+0666.HKG,SHK Hong Kong Industries Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2069
+513660.SHH,ChinaAMC SHK Hangsheng ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1714

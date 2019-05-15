@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMGRX,Janus Henderson Enterprise I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGMX,JPMorgan Mid Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGIX,JPMorgan Managed Income L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGLX,JPMorgan Managed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGPX,JPMorgan Mid Cap Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGZX,JPMorgan Mid Cap Growth R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGQX,JPMorgan Mid Cap Growth R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGFX,JPMorgan Mid Cap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMGOVSECANND.BSE,JM Gov Sec Ann Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JMGOVSECDIRH.BSE,JM Gov Sec Dir HY Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

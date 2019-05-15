@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EWX,SPDR S&P Emerging Markets Small Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EWX.FRK,Essex Minerals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

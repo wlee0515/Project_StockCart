@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLX,Deluxe Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DLXXF,Dalet S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DLX.AUS,DuluxGroup Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+DLX.FRK,Delignit AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DLX.DUS,DELIGNIT AG  INH.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DLX.STG,Delignit AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DLX.BER,DELIGNIT AG  INH.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DLX.FRK,Delignit AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+DLX.HAM,DELIGNIT AG  INH.O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

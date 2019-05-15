@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HEI,HEICO Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KHC,The Kraft Heinz Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HEINY,Heineken N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HSII,Heidrick & Struggles International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HEI-A,HEICO Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HDELY,HeidelbergCement AG,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HEIA,HEICO Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HINKF,Heineken N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HBGRY,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+HKHHF,Heineken Holding N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

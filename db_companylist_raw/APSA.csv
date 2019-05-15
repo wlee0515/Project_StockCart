@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APSAX,Columbia Inflation Protected Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+APSAA.PAR,Financiere Apsys SAS 5% BDS 13/11/2020 EUR10000,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+APSALPHA.SGP,APS Funds APS Funds - APS Alpha Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+APSAC.PAR,FAPSYS5.50%14NOV23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5333
+APSALPHASGD.SGP,APS Funds APS Funds - APS Alpha Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.4444

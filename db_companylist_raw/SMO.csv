@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMKC,Smoke Cartel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMOAX,SEI Moderate Strategy F (SAAT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMOFF,Sonoro Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFIO,Smokefree Innotec Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMOYX,SEI Multi-Asset Accumulation Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SMO.TRV,Sonoro Metals Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+SMO.BER,SUMITOMO EL.IND.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SMO.DUS,SUMITOMO EL.IND.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5714
+SMO.MUN,SUMITOMO EL.IND.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5714
+SOCK.TRV,Smooth Rock Ventures Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASGLY,AGC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AGCO,AGCO Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AGCAX,Water Island Credit Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCZ,Andes Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCWX,American Century Global Small Cap R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCVX,American Century Global Small Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCCX,AB Unconstrained Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCBF,Amarillo Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCIX,Aberdeen Global Uncons Fxd Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AGCTX,American Century Global Small Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455

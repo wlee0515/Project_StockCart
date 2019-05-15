@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOG,Northern Oil and Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NOG.LON,Nostrum Oil & Gas PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+NOGN.FRK,Georgian Mining Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NOGRAROINVES.BCL,Nograro Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6000
+NOGN.STG,Georgian Mining Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333

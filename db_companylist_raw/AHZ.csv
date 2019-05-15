@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHZ.FRK,Blackrock Gold Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AHZ.AUS,Admedus Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AHZRA.AUS,ADMEDUS RTS 06DEC,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5455

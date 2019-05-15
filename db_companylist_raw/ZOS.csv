@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZSAN,Zosano Pharma Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+0ZPN.BER,"ZOSANO PHARM.NEW DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+7004.TOK,Hitachi Zosen Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+HZS.DUS,HITACHI ZOSEN CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+0ZPN.FRK,Zosano Pharma Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+HZS.FRK,Hitachi Zosen Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+7018.TOK,Naikai Zosen Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+HZS.BER,HITACHI ZOSEN CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+0ZPN.STG,Zosano Pharma Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143

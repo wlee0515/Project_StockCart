@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PZVEX,Pzena Emerging Markets Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZVLX,Pzena Long/Short Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZVMX,Pzena Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZVIX,Pzena International Small Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZVSX,Pzena Small Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PZV1.STG,Mirach Energy Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

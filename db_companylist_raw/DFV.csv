@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFVEX,DFA US Vector Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFVQX,DFA International Vector Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFVIX,DFA International Value III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFVL,iPath US Treasury 5-year Bull ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DFVS,iPath US Treasury 5-year Bear ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DFVA.FRK,DFV Deutsche Familienversicherung AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TMMI,TMM Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TMMAX,SEI Tax-Managed Mgd Volatility F (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTMAY,"Grupo TMM, S.A.B.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMMTX,Transamerica Asset Allocation Mod T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMMIX,Transamerica Asset Allocation Mod I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMMFF,TMAC Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMMVX,Transamerica Asset Allocation Mod Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TMMG.LON,The Mission Marketing Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+TMMA.MEX,"Grupo TMM, S.A.B.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+TR61.FRK,TMM Real Estate Development Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

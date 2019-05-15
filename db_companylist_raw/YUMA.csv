@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YUMA,Yuma Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+P3CN.FRK,Yuma Energy Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+P3CN.BER,YUMA ENERGY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3810
+P3CN.STG,Yuma Energy Inc. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEZ.BER,SPECTRA ENERG. PARTN. LP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+SEZ.FRK,"Spectra Energy Partners, LP",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SEZ.MUN,"Spectra Energy Partners, LP",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SEZ.STG,Spectra Energy Partners L.P. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SEZAL.BSE,Sejal Glass Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+SEZAL.NSE,Sejal Glass Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+SEZAL-EQ.NSE,SEZAL GLASS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+ES0155989033.BCL,Inversiones Sezur SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308
+F000001YGM.BCL,Inversiones Sezur SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308

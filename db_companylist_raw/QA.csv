@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QADA,QAD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QABA,First Trust NASDAQ ABA Community Bk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+QADB,QAD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QAI,IQ Hedge Multi-Strategy Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QAT,iShares MSCI Qatar ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QARP,Xtrackers Russell 1000 US QARP ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QALGX,Federated MDT Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QUBSF,Qantas Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+QABGX,Federated MDT Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QALAX,Quantified Alternative Investment Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

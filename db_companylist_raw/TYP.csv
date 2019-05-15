@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TYPE,Monotype Imaging Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TYPFF,Typhoon Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TYP.TRV,Typhoon Exploration Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+1541.TWN,CHANG TYPE Industrial Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.6667
+849081.FRK,DWS US Equities Typ O NC,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2400
+976985.FRK,DWS Health Care Typ O NC,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2222
+847421.FRK,DWS Telemedia Typ O ND,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2222
+DZ7J.STG,DWS INTERNAT.RENTEN TYP O Inhab,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+1677.TOK,Listed Index Fund International Bond (Citigroup WGBI) Monthly Dividend Payment Type,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+TYP.STG,TYLER TECHNOLOGIES INC. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPO.FRK,LifePoint Health Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LPO.MUN,LifePoint Health Inc.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LPO.STG,LifePoint Health Inc. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LPO9X.ARG,LPO9X.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LPO9Z.ARG,LPO9Z.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

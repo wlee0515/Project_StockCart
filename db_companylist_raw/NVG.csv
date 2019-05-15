@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NVGS,Navigator Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVGLF,NV Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVGT,Novagant Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVGC,Nevada Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NVGBX,Wells Fargo Growth Balanced Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NVG.LIS,"The Navigator Company, S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.7500
+NVG.BER,NUVISTA ENERGY LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NVG.FRK,NuVista Energy Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NVG.STG,Nuvista Energy Ltd. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

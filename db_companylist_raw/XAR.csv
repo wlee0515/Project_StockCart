@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XAR,SPDR S&P Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+XAR.LON,Xaar plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+XAR.STG,XAAR PLC Registered Shares LS -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+XAR.FRK,"XAAR PLC  LS-,10",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

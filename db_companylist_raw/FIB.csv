@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGEN,FibroGen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HMMR,Hammer Fiber Optic Investments Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCSC,Fibrocell Science Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FIBK,First Interstate BancSystem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBR,Fibria Celulose S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HMPPF,Hempco Food and Fiber Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FBASF,Fibra UNO,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+FIBAX,Fidelity Intermediate Trs Bd Index Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FIBIX,Fidelity Intermediate Trs Bd Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FIBR,iShares Edge US Fixed Income Bal Rsk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579

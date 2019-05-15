@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNK,Cinemark Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CNKEF,Chinook Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNK.BER,INCA MINERALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CNKS.LON,Cenkos Securities plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CNKY.LON,iShares Nikkei 225 ETF JPY Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CNKO.JKT,PT Exploitasi Energi Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

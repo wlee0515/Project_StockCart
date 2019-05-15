@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSGDU-D1.TAV,USD/PSAG NDO CD S1,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2857
+INTERMGBE.MEX,"Ndo Interacciones Pb, S. A. De CV, Fondo De Inversion En Instrumentos De Deuda",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1333
+INTERMGN2.MEX,"Ndo Interacciones Pb, S. A. De CV, Fondo De Inversion En Instrumentos De Deuda",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1333

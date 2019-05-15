@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XBAFX,BlackRock Municipal Income Inve,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XBAK.LON,X MSCI Pakistan Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XBAN.STG,Xtrackers MSCI Bangladesh SwapI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XBAN.FRK,db x-trackers - MSCI Bangladesh IM Index UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XBAS.FRK,db x-trackers - MSCI Singapore IM Index UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XBAE.SWI,X II Global Agg Bd Swap ETF 5C EUR H,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+XBAG.MIL,X II Global Agg Bd Swap ETF 1D,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XBAE.FRK,db x-trackers II - Barclays Global Aggregate Bond UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XBAG.FRK,db x-trackers II - Barclays Global Aggregate Bond UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

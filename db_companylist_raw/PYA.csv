@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYACX,Payden Corporate Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYASX,Principal LifeTime 2040 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYAIX,Payden Absolute Return Bond SI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYARX,Payden Absolute Return Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYA.MUN,WAYSIDE TECHNOL.GRP DL-01,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+PYA.FRK,Wayside Technology Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PYA.STG,Wayside Technology Group Inc. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

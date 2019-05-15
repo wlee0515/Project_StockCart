@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOJVSX,FT 6965: Income Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOJCY,Fortum Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FOJCF,Fortum Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FOJ1.BER,"PREMIER FOODS PLC  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FOJ1.MUN,Premier Foods plc,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FOJ1.STG,Premier Foods PLC Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+FOJ1.FRK,Premier Foods plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

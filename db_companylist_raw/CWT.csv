@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWT,California Water Service Group,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CWTC,Clearwave Telecommunications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+0521.HKG,CWT International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+SUO.FRK,CWT International Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CWT-R.BAK,Chai Watana Tannery Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+CWT.FRK,Curtiss-Wright Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+CWT.BAK,Chai Watana Tannery Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2143
+SUO.STG,CWT International Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

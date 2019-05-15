@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGKCX,PGIM Jennison Technology C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGKRX,PGIM Jennison Technology R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGKZX,PGIM Jennison Technology Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGKAX,PGIM Jennison Technology A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGKN.KLA,PAN MALAYSIA HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000

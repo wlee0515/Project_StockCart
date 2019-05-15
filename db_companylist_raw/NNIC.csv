@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNIC.FRK,Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NNIC.STG,MMC Norilsk Nickel PJSC Reg.Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+NNIC.BER,MMC NOR.NICK.PJSC ADR RL1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NNIC.DUS,MMC NOR.NICK.PJSC ADR RL1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+NNIC.MUN,MMC NOR.NICK.PJSC ADR RL1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

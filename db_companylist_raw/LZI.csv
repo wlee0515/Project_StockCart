@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LZIEX,Lazard International Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LZISX,Lazard International Small Cap Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LZIOX,Lazard International Equity Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LZIC.LON,ETFS 2x Daily Long Zinc ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+LZIC.MIL,ETFS 2x Daily Long Zinc ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

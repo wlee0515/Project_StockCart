@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBALX,Fidelity Balanced,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FBAK,First National Bank Alaska,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBAKX,Fidelity Balanced K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBASF,Fibra UNO,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBAAX,AIG Active Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBAYF,"kneat.com, inc.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBAVDX,FT 7263: U.S. Energy Independen,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBACX,AIG Active Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBATX,American Funds 2010 Trgt Date Retire F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBABNX,First Trust Combined Series 299,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

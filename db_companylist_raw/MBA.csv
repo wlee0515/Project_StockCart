@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBAIF,CIBT Education Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MBAAX,Morgan Stanley Inst Global Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBAIX,MainStay Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBAGX,MFS Aggressive Growth Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBAPX,Praxis Genesis Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBAYX,MassMutual Premier Balanced Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBARX,MFS AR Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBABX,MFS AL Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBACX,MainStay Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBAY,MediaBay Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

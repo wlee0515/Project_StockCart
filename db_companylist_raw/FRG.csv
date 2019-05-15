@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRGI,Fiesta Restaurant Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FRGSX,Franklin Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FRGOX,Franklin Gold and Precious Metals C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRGZBX,FT 7051: Senior Loan Select Clo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FRGONX,FT 6447: Income Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRGY,Frontier Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FRGEPX,FT 7342: High Dividend Equity P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRGKBX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FRGNBX,FT 7109: Dow Jones Global Titan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

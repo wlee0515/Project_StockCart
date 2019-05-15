@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSMCX,Royce Special Equity Multi-Cap Invt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMRX,RBC SMID Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMGX,Victory Sophus Emerging Markets Sm Cp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMOX,Victory RS Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMAX,RBC Emerging Markets Small Cap Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMSX,Victory Sophus Emerging Markets Sm Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMKX,Victory RS Mid Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMLX,Royce Special Equity Multi-Cap Cnsltnt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSMYX,Victory Sophus Emerging Markets Sm Cp Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RSM.FRK,Resolute Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

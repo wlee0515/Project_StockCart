@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDAU.KLA,LEBTECH BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+LDA9D.ARG,LDA9D.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LDA9C.ARG,LDA9C.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

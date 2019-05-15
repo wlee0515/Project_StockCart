@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISCO,International Stem Cell Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISCA,International Speedway Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISCB,International Speedway Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ISCF,iShares Edge MSCI Mltfct Intl SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ISCOX,Voya Small Company O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISCSX,VY Columbia Contrarian Core S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISCAX,Federated International Small-Mid Co A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISCFX,Voya Investment Grade Credit SMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISCIX,Federated International Sm Mid Co Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

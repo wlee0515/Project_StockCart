@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+POL,PolyOne Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PLM,PolyMet Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PII,Polaris Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LOCO,El Pollo Loco Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTE,PolarityTE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+POLA,Polar Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EPOL,iShares MSCI Poland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+POLIX,Polen Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PLND,VanEck Vectors Poland ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+PLCY,EventShares US Policy Alpha ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857

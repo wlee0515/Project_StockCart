@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRK,Merck & Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IXT.AUS,Global Merces Funds Management Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+MTOR,Meritor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MELI,MercadoLibre Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MDP,Meredith Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MTSL,MER Telemanagement Solutions Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MACK,Merrimack Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MMSI,Merit Medical Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MERC,Mercer International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+FRME,First Merchants Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

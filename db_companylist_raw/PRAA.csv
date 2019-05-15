@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRAA,PRA Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PRAAX,AllianzGI NFJ Mid-Cap Value Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PRAA.PAR,PROMEO5.5%DEC2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273

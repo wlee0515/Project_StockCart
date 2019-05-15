@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CS,Credit Suisse Group AG,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CSCO,Cisco Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CSIQ,Canadian Solar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CSX,CSX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CCLP,CSI Compressco LP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSTM,Constellium N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSGP,CoStar Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSV,Carriage Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSLT,Castlight Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CSBR,Champions Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

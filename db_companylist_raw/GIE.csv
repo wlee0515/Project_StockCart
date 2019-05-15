@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIEZX,GuideStone Funds International Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIEYX,GuideStone Funds International Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIEAX,GMO International Equity Allc III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+2GI.MUN,GIEAG Immobilien AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444

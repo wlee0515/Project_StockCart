@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+511736.BSE,Ushdev International Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+USHDI.BSE,Ushdev International Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3158
+F00000N4ZJ.TRT,Russell Diversified Mthly Inc Cl B USHdg,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2500
+RUSSELLINVDV.TRT,Russell Diversified Mthly Inc Cl B USHdg,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

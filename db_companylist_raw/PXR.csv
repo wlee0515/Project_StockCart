@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PXR,Invesco Emerging Markets Infras ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PXRCX,Virtus Duff & Phelps Intl Rl Estt Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PXRAX,Virtus Duff & Phelps Intl Rl Estt Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXRIX,Virtus Duff & Phelps Intl Rl Estt Secs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PXRB,PixarBio Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PXR.STG,PRAXAIR INC. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

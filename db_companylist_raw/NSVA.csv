@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSVAX,Columbia Small Cap Value II Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NSVA.STG,Nevado Resources Corporation,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

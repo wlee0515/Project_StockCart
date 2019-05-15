@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKNB.FRK,Skanska AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SKNB.BER,SKANSKA AB B FRIA  SK 3,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SKNB.DUS,SKANSKA AB B FRIA  SK 3,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SKNB.STG,SKANSKA AB Namn-Aktier B (fria),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

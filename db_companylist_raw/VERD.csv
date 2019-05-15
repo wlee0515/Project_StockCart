@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VRCI,Verde Science Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SIVE,Silver Verde May Mining Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VRDR,Verde Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CAPV,Cabo Verde Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AMHPF,Verde Agritech Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+ARDWF,Captiva Verde Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+OVL.AUS,Oro Verde Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3636
+NPK.TRT,Verde Agritech Plc,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3636
+VDTK.LON,Verditek plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2963

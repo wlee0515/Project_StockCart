@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFRDX,Janus Henderson Forty D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+JFR,Nuveen Floating Rate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JFBC,Jeffersonville Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JFNIX,Janus Henderson Global Life Sciences I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JFFAX,JPMorgan SmartRetirement 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JFGI,Jacobs Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JFAMX,JPMorgan Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JFWV,Jefferson Security Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JFIVX,JHT Floating Rate Income NAV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JFNAX,Janus Henderson Global Life Sciences A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

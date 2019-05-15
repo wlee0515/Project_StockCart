@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZJPB.FRK,Schroder International Selection Fund SICAV - Greater China,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ZJPB.BER,SISF GREATER CHINA ADAV,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ZJPB.DUS,SISF GREATER CHINA ADAV,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ZJPB.MUN,SISF GREATER CHINA ADAV,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

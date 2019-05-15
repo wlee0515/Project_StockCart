@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9369.TOK,K.R.S. Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+KRE.MIL,K.R.Energy S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2857

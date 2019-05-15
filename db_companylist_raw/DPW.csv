@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPW,DPW Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DPWWD,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DPWW,Diego Pellicer Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DPWRX,Dreyfus Worldwide Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DPW.FRK,Deutsche Post AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+DPW.FRK,Deutsche Post AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DPW.DUS,DEUTSCHE POST AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DPW.HAM,DEUTSCHE POST AG NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+DPW.SWI,Deutsche Post,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+DPWA.FRK,Deutsche Post AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWZ.BAK,TWZ Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+TWZ.FRK,Trican Well Service Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TWZ.BER,TRICAN WELL SERVICE,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TWZ.STG,TRICAN WELL SERVICE LTD. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TWZ-R.BAK,TWZ Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TWZ.MUN,TRICAN WELL SERVICE,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

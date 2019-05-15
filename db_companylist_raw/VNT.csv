@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VNTR,Venator Materials PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LDVAX,Leland Thomson Reuters Vntr Cptl Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LDVIX,Leland Thomson Reuters Vntr Cptl Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VNTH,Nano Mobile Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VNTA,Ventana Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VNTYF,Vanity Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+LDVCX,Leland Thomson Reuters Vntr Cptl Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455
+VNT.BAK,Vinythai Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+VNTZ.TAV,Vonetize Plc,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2500
+VNT-R.BAK,Vinythai Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500

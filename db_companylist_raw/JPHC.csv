@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JPHCX,JPMorgan Floating Rate Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+JPHC.PAR,Amundi IS JPX-Nikkei 400 ETF-C CHF Hdg,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+JPHC.SWI,Amundi ETF Jpx-Nikkei 400 Daily HCHF A/I,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

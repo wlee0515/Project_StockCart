@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNLC,The First Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNLPF,Fresnillo PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNLAMX,"FT 6408: Election Portfolio, 20",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNLDRX,FT 7119: ETF Growth and Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNLKRX,FT 7469: Global Commodities Opp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNLYOX,FT 6779: Defensive Equity Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNLCBX,FT 7321: Senior Loan and Divide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNLIF,First National Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNLPTX,FT 7674: Technology Dividend Op,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TEUM,Pareteum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CORN,Teucrium Corn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+WEAT,Teucrium Wheat ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SOYB,Teucrium Soybean ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+CANE,Teucrium Sugar ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TEUFF,Box Ships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+TEURX,Franklin Mutual European C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+TEUCF,Box Ships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TEUKF,BOX SHIPS INC,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TAGS,Teucrium Agricultural ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609

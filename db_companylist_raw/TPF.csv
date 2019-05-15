@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPFIX,Timothy Plan Fixed Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TPFG.LON,The Property Franchise Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TPF.JOH,Transcend Residential Property Fund Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+AW43.BER,AXA WLD-OPT.INCOME A TPF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+AW43.DUS,AXA WLD-OPT.INCOME A TPF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3158
+AW43.HAM,AXA WLD-OPT.INCOME A TPF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+AW43.MUN,AXA WLD-OPT.INCOME A TPF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222
+FR0011042183.PAR,DPG TPF Flexible,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+FR0011191279.PAR,DPG TPF Prudent,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

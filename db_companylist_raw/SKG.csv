@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKG.LON,Smurfit Kappa Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SKG-UN.TRT,Skylon Growth & Income Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+SKG_U.TRT,SKYLON GROWTH & INCOME FUND,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

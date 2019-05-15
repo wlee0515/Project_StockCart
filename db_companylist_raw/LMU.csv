@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMUGX,QS U.S. Large Cap Equity Fund C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMUSX,QS US Large Cap Equity FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMU1.FRK,Nostra Terra Oil and Gas Company plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

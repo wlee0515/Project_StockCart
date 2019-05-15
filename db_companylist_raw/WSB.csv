@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSBC,WesBanco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WSBF,Waterstone Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WSBFX,Walden Asset Management,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSBIX,Wells Fargo Short-Term Municipal Bd Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSFGQ,WSB Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WSBAX,Wilmington Short-Term Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WSBP.JKT,PT Waskita Beton Precast Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+WSBN.LON,Wishbone Gold Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

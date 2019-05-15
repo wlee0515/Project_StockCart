@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVOI,Advanced Voice Recognition Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VSST,Voice Assist Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VMII,Voice Mobility International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+VSRV,VoiceServe Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+VMY-H.TRV,Voice Mobility International Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2105

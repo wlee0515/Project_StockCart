@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAP,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BNO,United States Brent Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BREW,Craft Brew Alliance Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SBIO,ALPS Medical Breakthroughs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+BREFX,Baron Real Estate Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+BOUT,Innovator IBD Breakout Opps ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+HOPS,Appalachian Mountain Brewery Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GCFB,Granite City Food & Brewery Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BDRY,Breakwave Dry Bulk Shipping ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1935
+BRTNX,Bretton Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622

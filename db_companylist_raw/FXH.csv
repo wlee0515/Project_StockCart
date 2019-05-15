@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FXH,First Trust Health Care AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FXH.BER,FAIRFAX MEDIA LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+FXH.MUN,FAIRFAX MEDIA LTD.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+FXH.FRK,Fairfax Media Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FXH.DUS,FAIRFAX MEDIA LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+FXH.HAM,FAIRFAX MEDIA LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

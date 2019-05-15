@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUL.LON,Mulberry Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MUY.FRK,"MULBERRY GRP PLC  LS-,05",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+MUY.BER,"MULBERRY GRP PLC  LS-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+MUY.STG,MULBERRY GROUP PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+GB00B02R3P49.LON,CF The Mulberry,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4211
+F0GBR06OPB.LON,CF The Mulberry,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000

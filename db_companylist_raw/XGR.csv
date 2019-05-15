@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGR2.BER,"COMPASS GROUP  LS-,1105",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XGR2.FRK,Compass Group PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XGR2.DUS,"COMPASS GROUP  LS-,1105",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XGR2.MUN,"COMPASS GROUP  LS-,1105",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XGR2.STG,Compass Group PLC Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XGRO.TRT,ISHARES CORE GROWTH ETF PORTFOL,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000

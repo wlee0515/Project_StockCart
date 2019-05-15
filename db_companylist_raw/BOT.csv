@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COKE,Coca-Cola Bottling Co. Consolidated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BOTZ,Global X Robotics & Artfcl Intllgnc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EPAY,Bottomline Technologies (de) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRCU,Green Cures & Botanical Distribution Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCOJY,Coca-Cola Bottlers Japan Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BOTJ,Bank of the James Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BOTY,Lingerie Fighting Championships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BORT,Bank Of Botetourt,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BHHKF,Benchmark Botanics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1622
+BOTSX,Bridgeway Omni Tax-Managed Sm-Cp Val N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1364

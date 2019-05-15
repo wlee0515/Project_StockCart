@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSA,National Storage Affiliates Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NSANY,Nissan Motor Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NSAV,NSAV Holding Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSANF,Nissan Motor Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSAOX,Nuveen Strategic Municipal Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSAUF,MegumaGold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSA-PA,National Storage Affiliates Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSARO,NSTAR Electric Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NSAGX,Nuveen Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSARP,NSTAR Electric Company PFD 4.25%,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

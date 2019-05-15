@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSW,Guggenheim Inverse 2x S&P 500 E,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RSW.LON,Renishaw plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+RSWM.BSE,RSWM Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+RSWM.NSE,RSWM Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000

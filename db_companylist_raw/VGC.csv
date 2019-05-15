@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGCAX,Vanguard Global Credit Bond Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VGCIX,Vanguard Global Credit Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGCP,Arizona Gold and Onyx Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VGCL.BSE,Vibrant Global Capital Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TMP,Tompkins Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TMPS,Tempus Applied Solutions Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TPPM,TMPOS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMPSW,Tempus Applied Solutions Holdings Inc. WT EXP 073120,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMPPF,Times China Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMPFX,Tactical Multi-Purpose,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMPIX,Touchstone Mid Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMPHF,Temple Hotels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TMPL.LON,Temple Bar Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+TMPO.JKT,PT Tempo Inti Media Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSW,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SSWH,SanSal Wellness Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSW-PI,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSW-PG,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSW-PE,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSW-PD,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSW-PH,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSWA,Seaspan Corporation 7.125% NT DUE 27,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSWN,Seaspan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SSWL.BSE,Steel Strips Wheels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

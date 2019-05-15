@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNBIF,SanBio Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+4592.TOK,SanBio Company Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+SANB11.SAO,Banco Santander (Brasil) S.A. Units,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6154
+S0B.FRK,"Grupo Sanborns, S.A.B. de C.V.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+GSANBORB-1.MEX,GRUPO SANBORNS SAB DE CV,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4444
+8501.HKG,Sanbase Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+SANB4.SAO,Banco Santander (Brasil) S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4000
+9113.KLA,Sanbumi Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3077
+S0B.BER,GRPO SANBORNS SA DE CV B1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+S0B.MUN,GRPO SANBORNS SA DE CV B1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2581

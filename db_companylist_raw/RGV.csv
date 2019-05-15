@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RGVFX,American Funds US Government Sec R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVGX,American Funds US Government Sec R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVBX,American Funds US Government Sec R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVCX,American Funds US Government Sec R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVAX,American Funds US Government Sec R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVJX,American Funds US Government Sec R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RGVEX,American Funds US Government Sec R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

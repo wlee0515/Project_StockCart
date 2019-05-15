@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CGIX,Cancer Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+CNCR,Loncar Cancer Immunotherapy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MDIT,Medite Cancer Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CCCMF,Cancom SE,Equity,United States,09:30,16:00,UTC-05,USD,0.6154
+CANCX,American Funds Strategic Bond 529-C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6154
+CTHZ,Cancer Treatment Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+CNCXY,Cancom SE,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+COK.FRK,Cancom SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2286
+SDX.AUS,Sienna Cancer Diagnostics Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2162

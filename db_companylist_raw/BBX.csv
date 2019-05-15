@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBX,BBX Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BBXTB,BBX Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BBX.AUS,BBX Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BCB.FRK,BBX Capital Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+FZ7.FRK,BBX Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2609

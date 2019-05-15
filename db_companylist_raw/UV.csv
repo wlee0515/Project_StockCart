@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UVXY,ProShares Ultra VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+UVE,Universal Insurance Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UVV,Universal Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UVSP,Univest Corporation of Pennsylvania,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UVSE,Universal Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UVALX,USAA Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+UVFT,UV Flu Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UVPIX,ProFunds UltraShort Emerg Market Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+UVSS,Universal Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

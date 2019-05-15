@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBM,Foundation Building Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SOFO,Sonic Foundry Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FFNOX,Fidelity Four-in-One Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FCPT,Four Corners Property Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FFWM,First Foundation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FFALX,Franklin Founding Funds Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FEDU,Four Seasons Education (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SLCTX,Selective Opportunity Foundation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FFACX,Franklin Founding Funds Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FOUHMX,FT 7067: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDBZX,PGIM Total Return Bond Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRUAX,PGIM Jennison Utility A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PHYZX,PGIM High Yield Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PTRQX,PGIM Total Return Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+GHY,PGIM Global Short Duration High Yield Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+PGNAX,PGIM Jennison Natural Resources A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3000
+PJFZX,PGIM Jennison Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PGIE,PGI Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ISD,PGIM Short Duration High Yield Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PBHAX,PGIM High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

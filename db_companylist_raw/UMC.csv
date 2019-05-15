@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UMC,United Microelectronics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+UMCVX,Invesco VI American Value Fund ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+UMCCX,Invesco VI American Value Fd Sr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+UMCN,UMC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6615.TOK,UMC Electronics Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+UM3.FRK,UMC Electronics Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+UM3.STG,UMC Electronics Co. Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+UMCB.FRK,United Microelectronics Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+UMCB.BER,UTD MICROELECTR.ADR NEW/5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+UMCB.STG,United Microelectronics Corp. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143

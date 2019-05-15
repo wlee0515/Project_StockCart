@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1296.HKG,Guodian Technology & Environment Group Corporation Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2286
+000966.SHZ,Guodian Changyuan Electric Power Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+9GT.FRK,Guodian Technology & Environment Group Corporation Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+9GT.STG,Guodian Tech.&Enviro.Grp Corp.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1739
+600268.SHH,Guodian Nanjing Automation Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1290

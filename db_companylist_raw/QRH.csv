@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QRHC,Quest Resource Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QRHRX,AQR Risk Parity II HV R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QRHIX,AQR Risk Parity II HV I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QRHNX,AQR Risk Parity II HV N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

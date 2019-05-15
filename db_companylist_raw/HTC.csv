@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+2498.TWN,HTC Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.7500
+HTCMY,Hitachi Construction Machinery Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HTCTF,Hutchison Telecommunications Hong Kong Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HTCIX,Eagle Large Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HTPRF,HTC Purenergy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HTC.TRV,HTC Purenergy Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5455
+HTC-R.BAK,Haad Thip Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+HTJ.FRK,HTC Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+UII.FRK,HTC Purenergy Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+HTC.BAK,Haad Thip Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2857

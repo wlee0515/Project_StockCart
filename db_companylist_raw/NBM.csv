@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBMBX,Neuberger Berman Mid Cap Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMLF,Noble Metal Group Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMLX,Neuberger Berman Mid Cap Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMTX,Neuberger Berman Mid Cap Growth Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMAX,Nuveen MA Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMIX,Neuberger Berman Small Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMOX,Neuberger Berman Small Cap Growth Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBMVX,Neuberger Berman Small Cap Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

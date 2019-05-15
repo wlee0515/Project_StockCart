@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JPMB,JPMorgan USD Emerging Mkts Svr Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JPMB.LON,JPM USD Emerging Mkts Sov Bd ETF USD Inc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+JPMB.SWI,JPM EM Sov Bond UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+JPMB.MIL,JPM USD Emerging Mkts Sov Bd ETF USD Inc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

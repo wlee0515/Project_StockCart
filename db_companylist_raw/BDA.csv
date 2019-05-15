@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDAFX,Baron Durable Advantage Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDAIX,Baron Durable Advantage Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDAUX,Baron Durable Advantage R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDABF,Boule Diagnostics AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BDAQX,BMO Disciplined International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDAVX,BlackRock iShares Dynamic Alloc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BDA.AUS,Bod Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BDA.SGP,PNE Industries Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+ABD0.STG,Aberdeen Gl.-Sel.Emerg.Mkts BdA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+ABD3.STG,Aberdeen Gl.-Sel.EO Hgh Yield BdA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

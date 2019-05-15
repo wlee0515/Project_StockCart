@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OFAFX,Olstein All Cap Value Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFALX,Olstein All Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFAAX,O'Shaughnessy All Cap Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFAIX,O'Shaughnessy All Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFAVX,Olstein All Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OFACX,O'Shaughnessy All Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

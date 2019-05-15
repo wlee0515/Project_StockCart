@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XXSC.LON,Xtrackers - MSCI Europe Small Cap UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+XXSC.MIL,X MSCI Europe Small Cap ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

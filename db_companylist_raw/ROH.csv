@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROHCY,ROHM Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ROHHX,Royce Small-Cap Leaders Invmt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+4527.TOK,Rohto Pharmaceutical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+ROM.STG,ROHM CO. LTD. Registered Shares,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+6963.TOK,ROHM Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+ROH.FRK,"ROLL HLDG -VON INH.SF-,10",Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+847509.FRK,Allianz Rohstofffonds,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3529
+ROH.BAK,Royal Orchid Hotel (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+ROM.FRK,ROHM Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308
+DJFK.FRK,ALLIANZ ROHSTOFFFONDS A,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1818

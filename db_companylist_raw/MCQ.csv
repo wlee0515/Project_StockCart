@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCQAX,Morgan Stanley Glb Concntr Rl Estt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCQCX,Morgan Stanley Glb Concntr Rl Estt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCQIX,Morgan Stanley Glb Concntr Rl Estt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCQEF,Macquarie Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCQJX,Morgan Stanley Glb Concntr Rl Estt IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

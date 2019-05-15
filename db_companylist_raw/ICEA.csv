@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ICEAX,ICON Energy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ICEAMINVERSI.BCL,Iceam Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F0GBR06N20.BCL,Iceam Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963

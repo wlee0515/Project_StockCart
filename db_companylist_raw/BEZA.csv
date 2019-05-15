@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BN5.FRK,Bezant Resources Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+BZT.LON,Bezant Resources Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333
+BN5.STG,Bezant Resources PLC Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

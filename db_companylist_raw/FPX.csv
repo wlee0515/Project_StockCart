@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPX,First Trust US Equity Opportunities ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FPXI,First Trust International IPO ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FPOCF,FPX Nickel Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FPXTX,Fidelity Pennsylvania Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPXAX,FA 529 VALUE STRATEGIES PORT-CL,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPXE,First Trust IPOX Europe Equity Opps ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

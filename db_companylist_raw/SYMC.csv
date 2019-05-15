@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYMC,Symantec Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SYMC.BAK,Symphony Communication Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+SYMC.VIE,Symantec Corporation,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273
+SYMC-R.BAK,Symphony Communication Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154

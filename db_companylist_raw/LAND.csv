@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAND,Gladstone Land Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TPL,Texas Pacific Land Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SITE,SiteOne Landscape Supply Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+LDSR,LandStar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LMRK,Landmark Infrastructure Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+LE,Lands' End Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LSTR,Landstar System Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LMRKN,Landmark Infrastructure Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+CTO,Consolidated-Tomoka Land Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MLP,Maui Land & Pineapple Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2353

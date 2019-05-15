@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSDVF,DSV A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSDVY,DSV A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSDDX,Dreyfus Ultra Short Income D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSDYX,Dreyfus/Standish Global Fixed Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSDAX,Dreyfus Tax Sensitive Total Return Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSDCX,Dreyfus Tax Sensitive Total Return Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSD.PAR,Lyxor Daily ShortDAX x2 ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667

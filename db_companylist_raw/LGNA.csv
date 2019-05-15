@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGNA.MUN,LIONS GATE ENTERT. CL. A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+LGNA.STG,Lions Gate Entertainment Corp.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LGNA.FRK,Lions Gate Entertainment Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

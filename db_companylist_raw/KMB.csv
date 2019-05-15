@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMB,Kimberly-Clark Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KMB.FRK,SK TELECOM CO.LTD.ADR 1/9,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KMB.BER,SK TELECOM CO.LTD.ADR 1/9,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KMB.DUS,SK TELECOM CO.LTD.ADR 1/9,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KMB.MUN,SK Telecom Co. Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KMB.STG,SK Telecom Co. Ltd. Reg.Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

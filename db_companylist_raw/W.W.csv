@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWW,W.W. Grainger Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+0IZI.LON,W.W. Grainger Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+GWW.FRK,W.W. Grainger Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+GWW.STG,"GRAINGER INC., W.W. Registered ",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2727
+CFE5.BER,C WO.WI.-C W.W.G.E.E. A1,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+CFE5.HAM,C WO.WI.-C W.W.G.E.E. A1,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+CFE5.MUN,C WO.WI.-C W.W.G.E.E. A1,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222
+CFE5.FRK,C WO.WI.-C W.W.G.E.E. A1,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+CFE5.DUS,C WO.WI.-C W.W.G.E.E. A1,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+CFE5.HAN,C WO.WI.-C W.W.G.E.E. A1,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.2222

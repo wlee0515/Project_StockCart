@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCZ.FRK,ProCredit Holding AG & Co. KGaA,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+PCZ.FRK,ProCredit Holding AG & Co. KGaA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PCZ.DUS,PROCREDIT HLDG AG NA EO 5,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+PCZ.STG,ProCredit Holding AG & Co.KGaAN,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+PCZ.MUN,PROCREDIT HLDG AG NA EO 5,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBGRY,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+HDD.FRK,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2286
+HDD.SWI,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2222
+HDD.FRK,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+HDD.STG,HEIDELBERGER DRUCKMASCHINEN AGI,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+HDD.VIE,Heidelberger Druckmaschinen Aktiengesellschaft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000
+0OC2.ILN,HEIDELBERGER DRUCKMASCHINEN AG ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

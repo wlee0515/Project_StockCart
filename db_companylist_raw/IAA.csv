@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAALF,IBC Advanced Alloys Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IAAAX,Transamerica Asset Allocation Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAAAUX,Invesco Unit Tr Srs 1384 Conser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IAAAZX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAACMX,Investment Grade Income Trust 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAABX,Transamerica Asset Allocation Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAAFAX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAAACX,Quality Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAADJX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IAAAYX,Variable & Fixed Rate Short Ter,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

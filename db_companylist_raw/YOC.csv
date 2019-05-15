@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YOC.DUS,YOC AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+YOC.FRK,YOC AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+YOC0001AU.AUS,AUI Property Income Fund R,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+YOC.FRK,YOC AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YOC.BER,YOC AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YOC.MUN,YOC AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YOC.STG,YOC AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+YOC0008AU.AUS,AUI Retail Property Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

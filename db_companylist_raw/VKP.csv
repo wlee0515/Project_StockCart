@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKPYX,Invesco PA Tax Free Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKPCX,Invesco PA Tax Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKPNTX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKPSX,Invesco PA Tax Free Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMBRX,MassMutual Premier Balanced R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MMBVX,MassMutual Select TRP Retirement Bal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBMX,BNY Mellon MA Interm Muni Bd M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBF,Momentum Biofuels Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBYX,MassMutual Select TRP Retirement Bal M4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBUX,MassMutual Select TRP Sm&Mid Cap Blend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBIX,BNY Mellon MA Interm Muni Bd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBLX,MassMutual Premier Balanced Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBEX,MassMutual Select TRP Bond Asset I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMBDX,MassMutual Premier Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

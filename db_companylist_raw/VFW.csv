@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFWAX,Vanguard FTSE All-Wld ex-US Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFWIX,Vanguard FTSE All-Wld ex-US Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFWSX,Vanguard FTSE All-Wld ex-US Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFWPX,Vanguard FTSE All-Wld ex-US Index Ins Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

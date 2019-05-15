@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMUAX,Federated Muni and Stock Advantage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FMUA.BER,MEAG EURORENT A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+FMUA.DUS,MEAG EURORENT A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+FMUA.HAM,MEAG EURORENT A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+FMUA.MUN,MEAG EURORENT A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FMUA.STG,MEAG EURORENT Inhaber-Anteile A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+FMUA.FRK,MEAG EURORENT A,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

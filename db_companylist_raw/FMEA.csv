@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FMEAX,Fidelity Advisor EMEA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FMEA.FRK,Fresenius Medical Care AG & Co. KGaA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FMEA.BER,FRESENIUS MD.CARE ADR 1/2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FMEA.MUN,FRESENIUS MD.CARE ADR 1/2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FMEA.STG,Fresenius Medical Care KGaA Nam,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

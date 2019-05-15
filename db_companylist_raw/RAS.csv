@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRHC,Tabula Rasa HealthCare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RASF,RAIT Financial Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RASFP,RAIT Financial Trust 7.75% CUM PFD A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RASFN,RAIT Financial Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RASFO,RAIT Financial Trust 8.375% CUM PFD B,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RASP,Rasna Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RASIX,Brookfield Real Assets Securities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNCVF,"Rassini, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RASYX,Brookfield Real Assets Securities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+RASCX,Brookfield Real Assets Securities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

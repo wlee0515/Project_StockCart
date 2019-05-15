@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XUTD.LON,X II US Treasuries ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+XUTD.MIL,XTRACKERS II US TREASURIES UCIT,ETF,Milan,09:00,17:30,UTC+01,EUR,0.8000
+XUTD.STG,Xtrackers II US Treasuries Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+XUTD.FRK,db x-trackers II - iBoxx $ Treasuries UCITS ETF (DR),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XUTD.FRK,X II US Treasuries ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+XUTD.DUS,XTR.II US TREASURIES 1D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XUTD.MUN,XTR.II US TREASURIES 1D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XUTD.SWI,X II US Treasuries ETF 1D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

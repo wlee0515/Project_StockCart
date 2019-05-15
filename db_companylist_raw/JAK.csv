@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAKK,JAKKS Pacific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JAKIX,JPMorgan SmartRetirement 2060 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKYX,JPMorgan SmartRetirement 2060 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JKRO,Jakroo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKZX,JPMorgan SmartRetirement 2060 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKSX,JPMorgan SmartRetirement 2060 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKCX,JPMorgan SmartRetirement 2060 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKPX,JPMorgan SmartRetirement 2060 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKQX,JPMorgan SmartRetirement 2060 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAKAX,JPMorgan SmartRetirement 2060 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

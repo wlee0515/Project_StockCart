@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOOXF,Givot Olam Oil Exploration - Limited Partnership (1993),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGYOY,MOL Magyar Olaj- es Gazipari Nyilvanosan Mukodo Reszvenytarsasag,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OLMIY,Olam International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+O32.SGP,Olam International Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+BOSS.JKT,PT. Borneo Olah Sarana Sukses Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+OLA.TRV,Orla Mining Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2500
+OLA.TRT,Orla Mining Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+0FHP.LON,Olav Thon Eiendomsselskap ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+UU4.FRK,AS Olainfarm,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

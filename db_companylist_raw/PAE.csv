@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PAEL.BSE,PAE Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+PAEAX,Putnam Dynamic Asset Allocation Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAEMX,PIMCO Emerging Markets Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAECX,Putnam Dynamic Asset Allocation Gr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAEGF,Peace Arch Entertainment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAEIX,T. Rowe Price Overseas Stock Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAEFX,PNC Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAEBX,Putnam Dynamic Asset Allocation Gr B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAERX,T. Rowe Price Target 2010 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000

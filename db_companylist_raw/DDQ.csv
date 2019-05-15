@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDQ.FRK,Diodes Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DDQ.BER,"DIODES INC.  DL -,666",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DDQ.MUN,"DIODES INC.  DL -,666",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+DDQ.STG,DIODES INC. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CKG.TRV,Chesapeake Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+CKG.STG,Chesapeake Gold Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+CKG.FRK,Chesapeake Gold Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CKG.BER,CHESAPEAKE GOLD CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

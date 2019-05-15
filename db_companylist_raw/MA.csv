@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MA,Mastercard Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+T,AT&T Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+M,Macy's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNGA,MagneGas Applied Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MDGL,Madrigal Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MPC,Marathon Petroleum Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MRO,Marathon Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MNKD,MannKind Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MTSI,MACOM Technology Solutions Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MTCH,Match Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

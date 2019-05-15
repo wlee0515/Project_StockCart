@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HDK.FRK,Halfords Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HDK.MUN,"HALFORDS LTD.  LS -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

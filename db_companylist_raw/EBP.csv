@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EBP8.VIE,EB Zert./NTX 05-25,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+EBPF.PAR,Financiere et Immobiliere de l'Etang de Berre et de la Mediterranee S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+AT0000A17Z29.VIE,EBPM (TF),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.5455
+AT0000A17Z11.VIE,EBPM (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.5000

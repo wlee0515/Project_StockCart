@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MUJERXXIPP.BCL,Mujer XXI PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.7500
+MUJ.BER,MITSUBISHI MAT.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MUJ.DUS,MITSUBISHI MAT.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MUJ.FRK,Mitsubishi Materials Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+F00000NWNP.KOR,Consus Muju Pinestone Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.4000
+F0GBR05310.BCL,Mujer XXI PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+KR5233978034.KOR,Consus Muju Pinestone Private Real Estate,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1364
+MUJ.STG,MITSUBISHI MATERIALS CORP. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1364

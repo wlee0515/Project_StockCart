@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBIO,ALPS Medical Breakthroughs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8889
+BOUT,Innovator IBD Breakout Opps ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+BDRY,Breakwave Dry Bulk Shipping ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+BKDCF,Breaking Data Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+BTHCD,Breathtec Biomedical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+BTHCF,Breathtec Biomedical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+BABFX,Bread & Butter,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+BTKGF,BreadTalk Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BREAX,BlackRock International Dividend Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

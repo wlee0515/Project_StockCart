@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSU,BlackRock Debt Strategies Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSUM,Invesco Chinese Yuan Dim Sum Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DSUS,Drone Services USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DSUG.LON,Multi Units France - Lyxor UCITS ETF Daily Double Short 10Y US Treasury,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DSUS.LON,Lyxor 10Y US Trsry Dly -2x Inv ETF Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+DSUS.MIL,Lyxor 10Y US Trsry Dly -2x Inv ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000

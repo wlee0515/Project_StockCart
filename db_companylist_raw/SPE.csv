@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPE,Special Opportunities Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SPPI,Spectrum Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLMT,"Calumet Specialty Products Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SPB,Spectrum Brands Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SEP,"Spectra Energy Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PAH,Platform Specialty Products Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SPEX,Spherix Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TSLX,TPG Specialty Lending Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+OCSL,Oaktree Specialty Lending Corpo,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SPRO,Spero Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1364

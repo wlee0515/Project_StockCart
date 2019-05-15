@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZGFF,Azteca Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AZGSQ,Aztec Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AZG.SGP,8Telecom International Holdings Co. Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+AZG2.BER,ACACIA RESEARCH CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AZG2.STG,Acacia Research Corp. Reg. Shs ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+AZG2.FRK,Acacia Research Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

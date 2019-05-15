@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MFIN,Medallion Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MFIAX,MFS Municipal Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFINL,Medallion Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MFIWX,MFS Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFIOX,MFS Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFIIX,MFS Strategic Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFIRX,Morgan Stanley Global Fixed Inc Opps IR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFIPX,MSVIF Core Plus Fixed Income Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MFI.TRT,Maple Leaf Foods Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

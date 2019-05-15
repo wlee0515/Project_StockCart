@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PG,The Procter & Gamble Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PGR,The Progressive Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PCG,PG&E Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PGNX,Progenics Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PGHEF,Pengrowth Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PGEOX,George Putnam Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+PGX,Invesco Preferred ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PGTI,PGT Innovations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PGP,PIMCO Global StocksPLUS & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PGC,Peapack-Gladstone Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTPM,420 Property Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FTPAX,First Investors Tax Exempt PA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPLF,Fortress Global Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPMRX,The First Trust Combined Srs 28,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPUEX,FT 7137: Dividend Strength Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPIX,Invesco Technology R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPDX,First Investors Tax Exempt PA B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTPEX,First Investors Tax Exempt PA Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTPFX,First Investors Tax Exempt PA Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FTPRYX,The First Trust Combined Srs 31,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

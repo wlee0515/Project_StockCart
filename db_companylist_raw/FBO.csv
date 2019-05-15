@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBOP,IntellaEquity Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBOHF,Forbo Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBOGX,Templeton Global Smaller Comp R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBOHY,Forbo Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FBOCMX,FT 6711: Cloud Computing Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBONOX,The First Trust GNMA Reinvestme,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBORNX,FT 7389: Cybersecurity Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBONEX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBOAIX,FT 7202: New Jersey Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBOK34.SAO,Facebook Inc.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RWDYX,Redwood Managed Volatility Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWDNX,Redwood Managed Volatility N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWDIX,Redwood Managed Volatility I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RWD.AUS,Reward Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

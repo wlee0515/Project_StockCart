@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNTWX,Nicholas II N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNTS.AMS,ING Telecommunication Services Basis Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+NNTL.BSE,N2N Technologies Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVPT,Travelport Worldwide Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TVPKF,Travis Perkins plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TVPTX,Tortoise VIP MLP & Pipeline Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVPC,Twin Vee PowerCats Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TVP.BER,TVI PAC. INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TVPA.ARG,Argentina GDP-LNKD BDS 15/12/35 USD1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+TVPE.ARG,TVPE.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+TVPP.ARG,Argentina GDP-LNKD BDS 15/12/2035 ARS1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+TVPY.ARG,Argentina GDP-LNKD SNR BDS 15/12/35 USD1 (PBI),Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+TVPAD.ARG,TVPAD.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

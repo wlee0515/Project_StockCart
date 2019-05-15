@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZJ.AUS,Aurizon Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+AZJ.FRK,Aceto Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AZJ.BER,"ACETO CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AZJ.STG,ACETO CORP. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

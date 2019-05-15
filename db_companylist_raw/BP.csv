@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BP,BP p.l.c.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BPT,BP Prudhoe Bay Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BPL,"Buckeye Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BPMC,Blueprint Medicines Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BPMX,BioPharmX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BPY,Brookfield Property Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BPMP,BP Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BPOP,Popular Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BPTH,Bio-Path Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BPR,Brookfield Property REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

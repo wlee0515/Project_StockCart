@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIMAX,Vanguard Mid Cap Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIMSX,Vanguard Mid Cap Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIMCX,Virtus KAR Mid-Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIMIX,Alphaone Vimco Small Cap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIMSIX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIMOX,Alphaone Vimco Small Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VIMITX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VIMIIX,Insured Municipals Income Tr Sr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VIMTFX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VMY.AUS,Vimy Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444

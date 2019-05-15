@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GYE.BER,GMM GRAMMY  -FGN-  BA 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GYE.STG,GMM GRAMMY PCL Reg. Shares (For,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KR5210AW9100.KOR,SHBNPP Gyeonggi Highway Private Special Asset Infra Business,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5213A76756.KOR,Hanwha 3 Gyeong-In Highway Private Special Asset Infra 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5213AW9149.KOR,Hanwha Gyeonggi Highway Private Special Asset Infra 2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1333
+KR5223568241.KOR,KB Gyeonggi Love BTL Private Special Asset,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1071
+KR5223690342.KOR,KB Gyeonggi Hope BTL Private Special Asset,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1017
+KR5453AW8926.KOR,DarbyHana Gyeonggi Highway Private Special Asset Infra Business,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.0952
+F00000NUNO.KOR,KB Gyeonggi Hope BTL Private Special Asset,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.0909

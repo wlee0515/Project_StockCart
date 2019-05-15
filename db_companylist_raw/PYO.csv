@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYOIF,"Promotora y Operadora de Infraestructura, S. A. B. de C. V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PYODX,Pioneer Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+070960.KOR,Yong Pyong Resort Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.1875

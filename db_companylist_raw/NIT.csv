@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NITE,Nightstar Therapeutics plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NDEKY,Nitto Denko Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NDEKF,Nitto Denko Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NITEX,Idaho Tax-Exempt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NITFX,Aquila Narragansett Tax-Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NITIX,Aquila Narragansett Tax-Free Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NITYX,Aquila Narragansett Tax-Free Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NITAX,Nuveen Inflation Protected Muni Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NITRX,Columbia Select International Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NITCX,Aquila Narragansett Tax-Free Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIOT,Viomi Technology Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VKTX,Viking Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+V,Visa Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VIPS,Vipshop Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VVUS,VIVUS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VFFIF,Village Farms International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VIG,Vanguard Dividend Appreciation ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+VIAB,Viacom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VIRT,Virtu Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGH,The Hartford Financial Services Group Inc. DEB FIX/FLT 42,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HGHAX,Hartford Healthcare A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHYX,Hartford Healthcare Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHIX,Hartford Healthcare I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHCX,Hartford Healthcare C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHTX,Hartford Healthcare R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHRX,Hartford Healthcare R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHGF,Highland Gold Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHRF,Highlands Natural Resources plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HGHSX,Hartford Healthcare R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

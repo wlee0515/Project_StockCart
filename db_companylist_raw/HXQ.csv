@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HXQ.TRT,Horizons NASDAQ-100 Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HXQ-U.TRT,HORIZONS NASDAQ 100 INDEX ETF U,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

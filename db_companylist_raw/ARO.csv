@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ARTX,Arotech Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AROC,Archrock Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AROW,Arrow Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AROSF,Aurora Spine Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AROIX,American Century One Choice 2045 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARORX,American Century One Choice 2045 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARWJF,Aroway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AROAX,American Century One Choice 2045 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AROCX,American Century One Choice 2045 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+AROFF,AFRICA OPPORTUNITY,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

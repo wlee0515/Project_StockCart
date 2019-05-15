@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYO,Myomo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MYOK,MyoKardia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYOS,MYOS RENS Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYOV,Myovant Sciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYOR.JKT,PT Mayora Indah Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+MYOH.JKT,PT Samindo Resources Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+MYO.AUS,MYOB Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+0M6.STG,Myomo Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286
+LXH.MUN,Myotoku Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+6265.TOK,Myotoku Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000

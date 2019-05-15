@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELFA.FRK,Deka EURO STOXX 50 (thes.) ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ELFA.FRK,Deka EURO STOXX 50 (thes.) ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ELFA.STG,Deka EURO STOX.50 (thes.)U.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+ELFA.DUS,DEKA EO ST.50(THES.)U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ELFA.MUN,DEKA EO ST.50(THES.)U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

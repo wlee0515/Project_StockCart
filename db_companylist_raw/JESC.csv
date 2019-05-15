@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JESC.LON,JPMorgan European Smaller Comp Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+1434.TOK,Jesco Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333

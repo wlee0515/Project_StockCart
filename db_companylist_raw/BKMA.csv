@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BKMA.FRK,"BURKHALTER HLDG  SF 0,04",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+BKMA.BER,"BURKHALTER HLDG  SF 0,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+BKMA.STG,Burkhalter Holding AG Namens-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EIG,Employers Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EIGR,Eiger BioPharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EIGI,Endurance International Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EIGMX,Eaton Vance Glbl Macr Absolute Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIGOX,Eaton Vance Government Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIGAX,Eaton Vance GA Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIGIX,Eaton Vance Core Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIG.LON,Ei Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EIGA.AUS,eInvest Income Generator ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6000
+H5E.FRK,HELMA Eigenheimbau Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSBRX,Nuveen Santa Barbara Dividend Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBCX,Nuveen Santa Barbara Dividend Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBAX,Nuveen Santa Barbara Dividend Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBFX,Nuveen Santa Barbara Dividend Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBDX,North Star Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBTX,Neuberger Berman Short Duration Bd Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSBIX,Neuberger Berman Short Duration Bd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NSB.AUS,NeuroScientific Biopharmaceuticals Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

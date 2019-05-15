@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALDBT.PAR,DBT SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ALDBL.PAR,Bernard Loiseau S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

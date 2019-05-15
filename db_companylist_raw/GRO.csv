@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TME,Tencent Music Entertainment Group,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CGC,Canopy Growth Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BABA,Alibaba Group Holding Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MESA,Mesa Air Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+REPL,Replimune Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GS,The Goldman Sachs Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+CRON,Cronos Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+MO,Altria Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+AAL,American Airlines Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+BX,The Blackstone Group L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.1667

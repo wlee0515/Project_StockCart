@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTA.AUS,TTA Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8571
+TTAC,TrimTabs All Cap US Free-Cash-Flow ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TTABX,T. Rowe Price Intl Bd (USD Hdgd) Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TTAI,TrimTabs All Cap Intl Free-Cash-Flow ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TTAPY,TTW Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

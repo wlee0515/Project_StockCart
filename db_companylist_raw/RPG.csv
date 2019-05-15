@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPG,Invesco S&P 500 Pure Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+RPGEX,T. Rowe Price Global Growth Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPGAX,T. Rowe Price Global Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPGLF,Regent Pacific Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RPGMX,T. Rowe Price Instl Glbl Mult-Sect Bd Fd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RPGIX,T. Rowe Price Global Industrials,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

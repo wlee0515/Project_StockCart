@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITJTY,Intrum AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ITJ.FRK,I.T Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+ITJ.BER,"IT LTD  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ITJ.MUN,"IT LTD  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+ITJ.STG,"IT Ltd. Registered Shares HD -,",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

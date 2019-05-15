@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHE,BlackRock Massachusetts Tax-Exempt Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MHESX,MH Elite Select Portfolio of Funds,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MHELX,MH Elite Small Cap Fund of Funds,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MHEFX,MH Elite Fund of Funds,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MHEIX,MH Elite Income Fund of Funds,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ELLH.FRK,Lyxor Global Gender Eqlty (DR) ETF MHEUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+LMVC.MUN,MUL-LYX. FTSE 100 MHEOA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000
+NK4S.BER,LYX.MSCI WRLD UETF MHEOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+NK4S.DUS,LYX.MSCI WRLD UETF MHEOD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+KLMH.FRK,MUL-LYXOR GR.BD(DR) MHEOA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

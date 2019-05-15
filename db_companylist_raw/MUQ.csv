@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUQ.FRK,Murphy Oil Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MUQ.BER,MURPHY OIL CORP.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MUQ.DUS,MURPHY OIL CORP.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MUQ.MUN,MURPHY OIL CORP.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MUQ.STG,MURPHY OIL CORP. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TKAT,Takung Art Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TKAMY,thyssenkrupp AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKAYF,Takeaway.com N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKAGY,Telekom Austria Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TKA.FRK,thyssenkrupp AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+TKA.FRK,thyssenkrupp AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TKA.MIL,THYSSENKRUPP,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+TKA.VIE,Telekom Austria Aktiengesellschaft,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+TKA.HAN,THYSSENKRUPP AG O.N.,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667

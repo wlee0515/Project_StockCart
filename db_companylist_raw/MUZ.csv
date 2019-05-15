@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MZFIX,Muzinich High Income Floating Rate Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZLSX,Muzinich Low Duration Supra Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZCSX,Muzinich Credit Opps Supra Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZCRX,Muzinich Credit Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZHSX,Muzinich US High Yield Corp Bond Sl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZHIX,Muzinich US High Yield Corp Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MZCIX,Muzinich Credit Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

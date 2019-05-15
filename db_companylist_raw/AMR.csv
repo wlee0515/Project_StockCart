@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMR,Alta Mesa Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMRN,Amarin Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRS,Amyris Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRH,AMERI Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRX,Amneal Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRC,Ameresco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRMX,American Funds American Mutual A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRK,A-Mark Precious Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AMRB,American River Bankshares,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AMREX,American Growth Fund Series Two E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

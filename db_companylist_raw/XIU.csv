@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XIU.TRT,iShares S&P/TSX 60 ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XIU.MEX,iShares S&P/TSX 60 ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+300160.SHZ,Jiangsu Xiuqiang Glasswork Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1538

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYV,Live Nation Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LYV.FRK,Lundin Petroleum AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LYV.BER,"LUNDIN PETROLEUM  SK-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LYV.DUS,"LUNDIN PETROLEUM  SK-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+LYV.STG,LUNDIN PETROLEUM AB Namn-Aktier,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

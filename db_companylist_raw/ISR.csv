@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISR,IsoRay Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ISRG,Intuitive Surgical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ICL,Israel Chemicals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CEL,Cellcom Israel Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EIS,iShares MSCI Israel Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+ITEQ,BlueStar Israel Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+AMDAX,AMIDEX35 Israel A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+ISRL,Isramco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+ISRA,VanEck Vectors Israel ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+IZRL,ARK Israeli Innovation ETF Hdg,ETF,United States,09:30,16:00,UTC-05,USD,0.2727

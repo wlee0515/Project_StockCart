@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAEX,SAExploration Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAENF,Solar Alliance Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAEUF,Saturn Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SAEI,Supatcha Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAEC,Starlight Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAELX,SA Emerging Markets Value Select,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAEMX,SA Emerging Markets Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAESX,AIG Japan A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAE.FRK,Shop Apotheke Europe N.V.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+SAE.TRV,Sable Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

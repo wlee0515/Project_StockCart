@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TER,Teradyne Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TRTC,Terra Tech Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TERP,TerraForm Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TEX,Terex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TDC,Teradata Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TX,Ternium S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JPI,Nuveen Preferred and Income Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TRSSF,TerrAscend Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BTT,Blackrock Municipal 2030 Target Term Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1500
+SPSB,SPDR Portfolio Short Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1500

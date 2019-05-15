@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPOR,Direxion Dly Transp Bull 3X Shrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TPOU.LON,Third Point Offshore Investors Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+TPO.BER,TOKYO ELECTR.POW.CO.HLDGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TPO.DUS,TOKYO ELECTR.POW.CO.HLDGS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+TPOLY.BAK,Thai Polycons Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TPO.FRK,"Tokyo Electric Power Company Holdings, Incorporated",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

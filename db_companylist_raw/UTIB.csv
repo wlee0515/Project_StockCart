@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UTIBALANCEDG.BSE,UTI Balanced Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+UTIBALANCEDI.BSE,UTI Balanced Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+UTIBONDGR.BSE,UTI Bond Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+UTIBONDACC.BSE,UTI Bond Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+UTIBONDDIV.BSE,UTI Bond Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIBONDINC.BSE,UTI Bond Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIBALANCEDA.BSE,UTI Balanced Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIBALANCEDD.BSE,UTI Balanced Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIBANKINGSE.BSE,UTI Banking Sector Dir Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+UTIBONDANNDI.BSE,UTI Bond Ann Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

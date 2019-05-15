@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESU.TRV,EEStor Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+0571.HKG,eSun Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+ESUR.LON,esure Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+5EG.STG,esure Group PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ESUG.MIL,ETFS EUR Daily Hedged Sugar ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.4444
+002751.SHZ,Shenzhen ESUN Display Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3333
+5EG.FRK,esure Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+5EG.BER,"ESURE GROUP PLC LS-,08333",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+ESUN.SWI,Edisun Power Europe AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.1875

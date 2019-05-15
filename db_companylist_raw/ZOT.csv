@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZTF.LON,Zotefoams plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+000980.SHZ,Zotye Automobile Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.5000
+ZOTA-SM.NSE,ZOTA HEALTH CARE L,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+23Z.STG,Zotefoams plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3750
+ZOTN.MEX,"Zardoya Otis, S.A.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2143

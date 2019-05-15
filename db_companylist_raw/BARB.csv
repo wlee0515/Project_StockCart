@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSBCX,Nuveen Santa Barbara Dividend Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NSBRX,Nuveen Santa Barbara Dividend Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NSBAX,Nuveen Santa Barbara Dividend Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+STBMF,St Barbara Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+NUGAX,Nuveen Santa Barbara Global Dividend Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3636
+STBMY,St Barbara Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+NBDRX,Nuveen Santa Barbara Dividend Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+NUGRX,Nuveen Santa Barbara Global Dividend Gr R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+NUIAX,Nuveen Santa Barbara Intl Dividend Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+NUGIX,Nuveen Santa Barbara Global Dividend Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

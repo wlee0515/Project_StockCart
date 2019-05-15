@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATHOF,Athabasca Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ATHAX,American Century Heritage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ABCAF,Athabasca Minerals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ATH.TRT,Athabasca Oil Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+ABM.TRV,Athabasca Minerals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+25B.STG,Athabasca Minerals Inc. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+ATHARVENT.BSE,Atharv Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+ATI.FRK,Athabasca Oil Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963
+ATI.STG,Athabasca Oil Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+530187.BSE,Atharv Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286

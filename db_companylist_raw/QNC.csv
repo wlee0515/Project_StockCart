@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QNCCF,Quantum Numbers Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QNCO.TAV,Y.Z. Queenco Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.7500
+QNC.TRV,Quantum Numbers Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+QNC1.BER,BONTERRA ENERGY CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+QNC1.STG,Bonterra Energy Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+QNC1.FRK,Bonterra Energy Corp,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

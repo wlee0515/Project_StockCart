@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TUR,iShares MSCI Turkey ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+HEAR,Turtle Beach Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPST,Capstone Turbine Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRQ,Turquoise Hill Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TKC,Turkcell Iletisim Hizmetleri A.S.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+APPS,Digital Turbine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TPB,Turning Point Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TURV,Two Rivers Water & Farming Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TURN,180 Degree Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+TKGBY,Turkiye Garanti Bankasi A.S.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

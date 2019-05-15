@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNJLX,Western Asset New Jersey Municipals C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNJYX,SEI New Jersey Municipal Bond Y (STET),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNJG.BER,SAMART CORP.PCL -FGN- BA1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SNJG.STG,Samart Corp. PCL Reg. Shares (F,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

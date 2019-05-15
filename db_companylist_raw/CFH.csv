@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFHIX,Catalyst Hedged Commodity Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFHAX,Catalyst Hedged Commodity Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFHCX,Catalyst Hedged Commodity Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CFH.FRK,China Foods Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CFH.BER,"CHINA FOODS LTD.  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CFH.STG,China Foods Ltd. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CFHS.ILN,CATHAY FINANCIAL HOLDING CO LTD,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+CFHS.LON,Cathay Financial Holding Co. Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

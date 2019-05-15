@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLEEY,Valeo SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VLEQX,Villere Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLEOX,Value Line Small Cap Opportunities Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLEEF,Valeo SA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VLEIX,Value Line Small Cap Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLE.TRT,Valeura Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+VLED.FRK,BNPPE.-E.L.V.E.UEDEO,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+VLE.JOH,Value Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+VLE.LON,Volvere plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+VLED.PAR,BNPP EASY LWVOLEU,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000

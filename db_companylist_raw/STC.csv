@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STC,Stewart Information Services Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STCN,Steel Connect Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STCMB,Stonecutter Mills Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STCC,Sterling Consolidated Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STCFX,Virtus Silvant Large-Cap Growth Stk C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STCZX,Virtus Silvant Large-Cap Growth Stk R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STCEX,Virtus Ceredex Small-Cap Value Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STCAX,Virtus Silvant Large-Cap Growth Stk I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STCCX,Principal Short-Term Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STCIX,Virtus Silvant Large-Cap Growth Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

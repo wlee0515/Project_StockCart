@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTMMX,DFA Tax-Managed US Marketwide Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMXF,Datametrex AI Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMIX,DFA Tax-Managed International Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMVX,DFA Tax-Managed US Targeted Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMAX,Dreyfus Total Emerging Markets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMEX,DFA Tax-Managed US Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMCX,Dreyfus Total Emerging Markets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMGX,Dreyfus Tax-Managed Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTMYX,Dreyfus Total Emerging Markets Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTM.AUS,Dart Mining NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

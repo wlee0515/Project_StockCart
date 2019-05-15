@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3686.TOK,DLE Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+DLENX,DoubleLine Emerging Markets Fixed Inc N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DLEUX,DoubleLine Shiller Enhanced Intl CAPE N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DLEKG.TAV,Delek Group Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000
+DLEA.TAV,Delek Automotive Systems Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5455
+DLE.MUN,"DATALEX PLC  DL-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

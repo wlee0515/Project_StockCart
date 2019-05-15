@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GVP,GSE Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GVPIX,ProFunds US Government Plus Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVPSX,ProFunds US Government Plus Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVPAX,AllianzGI Retirement 2035 P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GVP.LON,Gabelli Value Plus+ Trust Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GVP1.FRK,GULF KEYSTONE PETR.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GVP1.STG,Gulf Keystone Petroleum Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+GVP1.BER,GULF KEYSTONE PETR.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

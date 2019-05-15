@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTHIF,InZinc Mining Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IZN.TRV,InZinc Mining Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3000
+32L.FRK,InZinc Mining Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+32L.BER,INZINC MINING LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+023800.KOR,INZI Controls Co. Ltd..,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2400
+600858.SHH,Inzone Group Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2400

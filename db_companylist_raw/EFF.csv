@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EFF,Eaton Vance Floating-Rate Income Plus Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SEIT.LON,SDCL Energy Efficiency Income Trust PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8571
+EFFI,Efftec International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EFFE,Global X/JPMorgan Efficiente ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+EFFDF,GO UCITS ETF Solutions plc - ETFS Russell 2000 US Small Cap GO UCITS ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SFWJ,Software Effective Solutions Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+FOPTNX,FT 7085: January Effect Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+FRISHX,FT 6460: January Effect Plus Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

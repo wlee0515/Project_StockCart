@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGUARD.NSE,V-Guard Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+V-USD.SWI,Visa,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.3077
+VMART-EQ.NSE,V-MART RETAIL LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2857
+VMART.NSE,V-Mart Retail Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2857
+VCU.FRK,V-cube Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+3681.TOK,V-cube Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+VMART.BSE,V-Mart Retail Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818
+532953.BSE,V-Guard Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1429

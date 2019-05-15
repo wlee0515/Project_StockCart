@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIACF,American Lithium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LLIT,Lianluo Smart Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LHUAF,Lianhua Supermarket Holdings Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LIATX,QS International Equity A2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LNDT,LianDi Clean Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LIACX,Columbia Acorn C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+603315.SHH,Liaoning Fu-An Heavy Industry Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1765
+603609.SHH,Liaoning Wellhope Agri-Tech Joint Stock Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1500
+J8D.STG,Lianluo Smart Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1154

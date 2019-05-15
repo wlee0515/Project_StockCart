@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0999.HKG,I.T Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8571
+ITJ.FRK,I.T Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+I.TWN,Schroder Lohas Small and Mid Capital Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4444
+AICA.FRK,AVANA I.T. E. D. A.KL.R,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4286
+AICA.BER,AVANA I.T. E. D. A.KL.R,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+AICA.DUS,AVANA I.T. E. D. A.KL.R,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+AICA.HAM,AVANA I.T. E. D. A.KL.R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+AICA.MUN,AVANA I.T. E. D. A.KL.R,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUZOF,Eurazeo SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EUZ.FRK,Eckert & Ziegler Strahlen- und Medizintechnik AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+0DMM.LON,DB X-TRACKERS II EUZN GOV BD 5-,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EUZ.AUS,Europa Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+EUZ.LON,Europa Metals Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EUZ.HAM,ECKERT+ZIEGLER AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+EUZ.STG,ECKERT & ZIEGLER STR.-U.MED.AGI,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EUZ.FRK,Eckert & Ziegler Strahlen- und Medizintechnik AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EUZ.BER,ECKERT+ZIEGLER AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EUZ.DUS,ECKERT+ZIEGLER AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765

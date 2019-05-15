@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUHDTX,FT 6396: Market Strength Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FUH.BER,SUBARU CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FUH.STG,Subaru Corp. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TW000T2205Y0.TWN,Fuh-hwa High Growth Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2500
+00649.TWN,Fuh Hwa Hang Seng ETF,ETF,Taiwan,09:00,13:30,UTC+08,TWD,0.2500
+F0HKG0712Z.TWN,Fuh Hwa Global Asset Backed Securities Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.2222
+TW000T2218Y3.TWN,Fuh Hwa Global Fixed Income Fund of Funds,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1463
+TW000T2270Y4.TWN,Fuh Hwa Emerging Market Active Allc Fund of Funds,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1364
+42303511A.TWN,Fuh Hwa China New Economy A Shr Eq TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1277
+F00000LP54.TWN,Fuh Hwa Greater China Mid and Small Cap Fund,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.1154

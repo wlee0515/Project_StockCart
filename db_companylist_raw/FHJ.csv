@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHJUX,Fidelity Advisor Europe A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJVX,Fidelity Advisor Europe M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJGX,Fidelity Advisor Freedom Blnd 2035 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJMX,Fidelity Advisor Europe I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJCX,Fidelity Advisor Freedom Blnd 2050 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJTX,Fidelity Advisor Europe C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJMAX,FT 7144: BofA Merrill Lynch Ele,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHJTVX,FT 7142: UBS Fallen Angels: Equ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHJKX,Fidelity Advisor Freedom Blnd 2050 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHJETX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

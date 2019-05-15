@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UVXY,ProShares Ultra VIX Short-Term Futures,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TQQQ,ProShares UltraPro QQQ,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+SQQQ,ProShares UltraPro Short QQQ,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+UPL,Ultra Petroleum Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+UCO,ProShares Ultra Bloomberg Crude Oil,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+ULTA,Ulta Beauty Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BOIL,ProShares Ultra Bloomberg Natural Gas,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+UCTT,Ultra Clean Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+SDS,ProShares UltraShort S&P500,ETF,United States,09:30,16:00,UTC-05,USD,0.2000
+QID,ProShares UltraShort QQQ,ETF,United States,09:30,16:00,UTC-05,USD,0.1935

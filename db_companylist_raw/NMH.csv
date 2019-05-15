@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMHLY,NMC Health Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NMHYX,Northern Multi-Manager Hi Yield Opp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMHCX,Neuberger Berman Municipal Hi Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMHIX,Neuberger Berman Municipal Hi Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMHAX,Neuberger Berman Municipal Hi Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMHQB.MIL,NEW MILLENNIUM AUGUST HIGH QUAL,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455

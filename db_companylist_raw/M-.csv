@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MWIS,m-Wise Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+M-II.BAK,MFC Industrial Investment Property and Leasehold Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+3661.TOK,m-up Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+M-R.BAK,MK Restaurant Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+0059.KLA,M-MODE BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3333
+M-CHAI.BAK,Mahachai Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3333
+M-STOR.BAK,MFC-Strategic Storage Fund,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3333
+M-CHAI-R.BAK,Mahachai Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3077
+UINE.FRK,M-LY.IN.DL10Y I.EX.UE ADL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1481

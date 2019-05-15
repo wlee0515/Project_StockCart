@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCK,McKesson Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CMCO,Columbus McKinnon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKAX,MainStay Conservative Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKIEX,McKee International Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKBX,MainStay Conservative Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKRF,Jade Leader Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKCX,MainStay Conservative Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKNX,MainStay Conservative Allocation Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKIX,MainStay Conservative Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MCKRX,MainStay Conservative Allocation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

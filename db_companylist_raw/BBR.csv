@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KJ5.SGP,BBR Holdings (S) Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8571
+BBRYF,Burberry Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BBRE,JPMorgan BetaBuilders MSCI US REIT ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BBRC,Columbia Beyond BRICs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609

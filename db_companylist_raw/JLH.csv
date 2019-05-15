@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JLHEX,JHancock Multimanager 2035 Lifetime R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHFX,JHancock Multimanager 2035 Lifetime R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHHX,JHancock Multimanager 2035 Lifetime R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHOX,JHancock Multimanager 2035 Lifetime 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHAX,JHancock Multimanager 2035 Lifetime A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHGX,JHancock Multimanager 2035 Lifetime R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHIX,JHancock Multimanager 2035 Lifetime R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLHDX,JHancock Multimanager 2035 Lifetime R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JLH.LON,John Lewis of Hungerford plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRAD,Digirad Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WMS,Advanced Drainage Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PGJ,Invesco Golden Dragon China ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+TDF,Templeton Dragon Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LYL,Dragon Victory International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DOTA,Draper Oakwood Technology Acquisition Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RCCMF,Nippon Dragon Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+BDGR,Black Dragon Resource Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+NOHO,Dragon Life Science Holdings Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+MDPCX,BlackRock Asian Dragon Investor A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BJ1.BER,BEIJING C.INTL AIR.-H-YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+CIG-R.BAK,C.I. Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3636
+3540.TOK,C.I. Medical Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+4215.TOK,C.I. Takiron Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+CIG.BAK,C.I. Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+8520.BER,C.I.E.S.G.C.3M-2T.U.ETF I,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+8520.DUS,C.I.E.S.G.C.3M-2T.U.ETF I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+8521.BER,C.IB.E.S.G.C.1-5T.U.ETF I,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+8521.DUS,C.IB.E.S.G.C.1-5T.U.ETF I,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+8521.HAM,C.IB.E.S.G.C.1-5T.U.ETF I,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143

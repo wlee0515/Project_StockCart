@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VGM,Invesco Trust for Investment Grade Municipals,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VGMIF,Visible Gold Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VGMRX,Voya Global Multi-Asset R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGMUFX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VGMLIX,Investment Grade Municipal Tr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VGMTSX,"Investment Grade Income Trust, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VGM.TRV,Global Gardens Group Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

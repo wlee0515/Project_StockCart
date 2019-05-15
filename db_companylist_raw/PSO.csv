@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSO,Pearson plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PSOPX,JPMorgan Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PSON,Petrosonic Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSOIX,Palmer Square Opportunistic Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSOAX,JPMorgan Small Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSOCX,PIMCO StocksPLUS Absolute Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSOMX,Principal SystematEx International Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSORX,PNC Multi Factor Small Cap Core R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSORF,Pearson plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSON.LON,Pearson plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

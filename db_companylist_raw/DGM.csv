@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGMLF,De Grey Mining Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DGMS,digiMedical Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGMMX,DGHM MicroCap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGMDF,Digital Domain Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGMIX,DGHM MicroCap Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGM.PAR,Diagnostic Medical Systems S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMODIVIDEND.TRT,BMO Dividend Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BMODEDIVIDEN.TRT,BMO Dividend D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BMODEREVENUM.TRT,BMO Monthly Income T6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+BMODEREVENUT.TRT,BMO Floating Rate Income Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODESMARCHS.TRT,BMO Emerging Markets D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODIVIDENDA.TRT,BMO Dividend Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODIVIDENDC.TRT,BMO Dividend Class Advisor,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODIVIDENDD.TRT,BMO Dividend D,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODIVIDENDE.TRT,BMO Dividend Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+BMODIVIDENDS.TRT,BMO Dividend T5,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

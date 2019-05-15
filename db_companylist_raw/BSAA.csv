@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ODIBS.PAR,O2I BSAAR 2019,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5000
+PRBS1.PAR,PROLOG BSAAR20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5000
+PRBS2.PAR,PROLOGUE BSAA2021,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHC,Focus Morningstar Health Care I,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FHCIX,Fidelity Advisor Health Care I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCCX,Fidelity Advisor Health Care C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCBRX,FT 7514: American Agenda Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCJLX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCDX,Fidelity Freedom Blnd 2060 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCAX,FA 529 HIGH INCOME PORT-CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHCRMX,FT 6377: Financials Select Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHCFX,Fidelity Advisor Freedom Blnd 2045 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHCEX,Fidelity Freedom Blnd 2020 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

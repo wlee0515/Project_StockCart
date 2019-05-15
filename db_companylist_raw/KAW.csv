@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWHIY,Kawasaki Heavy Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KAIKY,Kawasaki Kisen Kaisha Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KWHIF,Kawasaki Heavy Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KIJA.JKT,PT Kawasan Industri Jababeka Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+1899.KLA,Batu Kawan Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4000
+0KW.FRK,Kawakin Holdings Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+2689.TOK,Kawanishi Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+7952.TOK,Kawai Musical Instruments Manufacturing Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+KLI1.FRK,Kawasaki Kisen Kaisha Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+KHE.FRK,Kawasaki Heavy Industries Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1154

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NFEC,NF Energy Saving Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NFEAX,Columbia Large Cap Growth III A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NFEI,New Frontier Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NFEPX,Columbia Large Cap Growth III Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NFECX,Columbia Large Cap Growth III C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NFEMOM.JOH,NEWFUNDS EQUITY MOM ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+NFEVOL.JOH,NF Low Volatility ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+NFEVAL.JOH,NF Equity Value ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000

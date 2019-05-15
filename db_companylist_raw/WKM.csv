@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WKM.TRV,West Kirkland Mining Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+WKM3.BER,WKM TERR..BET.I.A. VZO ON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WKM.BER,WKM TERR.BET.I.A. ST O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WKM.DUS,WKM TERR.BET.I.A. ST O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WKM3.DUS,WKM TERR..BET.I.A. VZO ON,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

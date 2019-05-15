@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VHT,Vanguard Health Care ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+VHC,VirnetX Holding Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VHI,Valhi Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+VHDYX,Vanguard High Dividend Yield Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHCOX,Vanguard Capital Opportunity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHCAX,Vanguard Capital Opportunity Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHGEX,Vanguard Global Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHCIX,Vanguard Health Care Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHIAX,JPMorgan Growth Advantage A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHFIX,Virtus Herzfeld I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

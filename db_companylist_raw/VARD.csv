@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DOLLF,Dolly Varden Silver Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4706
+DV.TRV,Dolly Varden Silver Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4000
+VHL.BSE,Vardhman Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+DVQ1.FRK,Dolly Varden Silver Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+VSSL.BSE,Vardhman Special Steels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+VARDHACRLC.NSE,Vardhman Acrylics Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2759
+VARDMNPOLY-EQ.NSE,VARDHMAN POLYTEX,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+VHL.NSE,Vardhman Holdings Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286
+VTL.BSE,Vardhman Textiles Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2286
+VTL.NSE,Vardhman Textiles Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286

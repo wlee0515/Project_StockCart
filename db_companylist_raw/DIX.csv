@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DXYN,The Dixie Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DLII,Dixie Lee International Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DSITF,Dixons Carphone plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+DC.LON,Dixons Carphone plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+ED1.AUS,Evans Dixon Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+DX6.FRK,The Dixie Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+DIXON.BSE,Dixon Technologies (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+CWB.FRK,Dixons Carphone plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+CWB.BER,"DIXONS CARPHONE  LS -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+CWB.DUS,"DIXONS CARPHONE  LS -,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

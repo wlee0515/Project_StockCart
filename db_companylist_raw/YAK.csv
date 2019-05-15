@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YKLTY,Yakult Honsha Co. Ltd..,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YAK.TRV,Mongolia Growth Group Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+2267.TOK,Yakult Honsha Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+3537.TOK,Shoei Yakuhin Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+YAK.MUN,NEXUS MINERALS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5000
+YAKG.MOS,Public Joint Stock Company Yakutsk Fuel and Energy Company,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.5000
+YKEN.MOS,Public joint stock company Yakutskenergo,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.4000
+YAK.FRK,Nexus Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+YKH.FRK,Yakult Honsha Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+3385.TOK,Yakuodo Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2400

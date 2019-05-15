@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MESCON.BSE,Mideast Integrated Steels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+1737.TOK,MESCO Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5333
+MESPHAR-B.BSE,Mesco Pharmaceuticals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+500274.BSE,MESCO PHARMACEUTICALS LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667

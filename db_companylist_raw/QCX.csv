@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QCX1.FRK,Carmanah Technologies Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QCX1.BER,CARMANAH TECHNOLOGIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+QCX1.STG,Carmanah Technologies Corp. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

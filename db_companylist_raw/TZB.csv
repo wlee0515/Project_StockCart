@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TZB3.FRK,Tethys Oil AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TZB3.BER,"TETHYS OIL AB AK SK-,0417",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TZB3.STG,Tethys Oil AB Namn-Aktier AK SK,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

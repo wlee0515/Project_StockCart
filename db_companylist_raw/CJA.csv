@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CJA.FRK,Alimentation Couche-Tard Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CJA.STG,ALIMENTATION COUCHE-TARD INC. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

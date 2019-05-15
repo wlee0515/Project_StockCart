@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9629.TOK,PCA Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+PCAR,PACCAR Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCARX,PIMCO Credit Opportunities Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAOX,Principal Capital Appreciation R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAQX,Principal Capital Appreciation R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAMX,Principal Capital Appreciation R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAPX,Principal Capital Appreciation R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAFX,Prospector Capital Appreciation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCANX,Principal Capital Appreciation R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCAIX,PGIM California Muni Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

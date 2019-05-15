@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLLI,Lamperd Less Lethal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+LCAR,Lescarden Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+AAGRY,PT Astra Agro Lestari Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+AALI.JKT,PT Astra Agro Lestari Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+RANC.JKT,PT Supra Boga Lestari Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2222
+RIMO.JKT,PT Rimo International Lestari Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2143
+RALS.JKT,PT Ramayana Lestari Sentosa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2143
+300104.SHZ,"Leshi Internet Information & Technology Corp., Beijing",Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2143
+DMAS.JKT,PT Puradelta Lestari Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1667
+LES-H.TRV,Leis Industries Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.1667

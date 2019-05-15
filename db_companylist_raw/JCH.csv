@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JCHOX,JHancock Multi-Index 2060 Presv 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCH.LON,JPMorgan Claverhouse Investment Trust Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+603979.SHH,JCHX Mining Management Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.5455
+JCHAC.BSE,Johnson Controls-Hitachi Air Conditioning India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+JCHAC.NSE,Johnson Controls-Hitachi Air Conditioning India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1765

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDREF,Beadell Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4706
+BDR.AUS,Beadell Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4706
+3B7.FRK,Beadell Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+3B7.BER,BEADELL RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+3B7.DUS,BEADELL RESOURCES LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+3B7.HAM,BEADELL RESOURCES LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000
+3B7.STG,Beadell Resources Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+BANARBEADS.BSE,Banaras Beads Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+BANARBEADS.NSE,Banaras Beads Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2759
+BANARBEADS-EQ.NSE,BANARAS BEADS LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2286

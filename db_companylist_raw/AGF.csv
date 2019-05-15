@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGF,DB Agriculture Long ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+AGFS,AgroFresh Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOM,AGFiQ US Market Neutral Momentum,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BTAL,AGFiQ US Market Neutral Anti-Beta,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+DIVA,AGFiQ Hedged Dividend Income,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+CHEP,AGFiQ US Market Neutral Value,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+AGFIX,AB Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+AGPIX,AGF Global Sustainable Growth Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1935
+AGPRX,AGF Global Sustainable Growth Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+SIZ,AGFiQ US Market Neutral Size,ETF,United States,09:30,16:00,UTC-05,USD,0.1714

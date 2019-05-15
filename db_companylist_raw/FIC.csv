@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FICO,Fair Isaac Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FICDX,Fidelity Canada,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICMX,Federated Government Income Trust Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICIX,First Investors Select Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICGX,First Investors Select Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICHX,First Investors Select Growth Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICUX,First Investors Tax Exempt CT B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICNX,Fidelity Connecticut Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICWX,American Funds Retire Inc Port-Cnsrv F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FICKX,FA STRATEGIC INCOME 529 PORT C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

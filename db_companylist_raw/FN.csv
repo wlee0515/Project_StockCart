@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FN,Fabrinet,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FNSR,Finisar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FNMA,Federal National Mortgage Association,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FNKO,Funko Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FNJN,Finjan Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FNV,Franco-Nevada Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNGU,MicroSectors FANG+ 3X Leveraged ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+FND,Floor & Decor Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNB,F.N.B. Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FNF,Fidelity National Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

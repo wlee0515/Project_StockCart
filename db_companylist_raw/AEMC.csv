@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEMC,Archer Entertainment Media Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AEMC.LON,Aberdeen Emerging Markets Investment Company Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000

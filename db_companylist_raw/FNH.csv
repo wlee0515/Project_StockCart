@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNHC,FedNat Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNHI,Franchise Holdings International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNHOJX,FT 5723: Diversified Income & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FNHBLX,FT 6667: Nasdaq Factor Dogs Opp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNHSX,Silk Invest New Horizons Frontier Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNHRVX,FT 6808: Strategic Income Close,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNHM,FNBH Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

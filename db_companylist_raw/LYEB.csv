@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYEB.FRK,MUL-LYX.EO CORP.BD UC.ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+LYEB.FRK,LYEB.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+LYEB.MUN,MUL-LYX.EO CORP.BD UC.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+LYEB.STG,Mu.Un.L.-Lyx.EO Corp.Bd UC.ETFN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

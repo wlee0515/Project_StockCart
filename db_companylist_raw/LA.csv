@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAIX,LAIX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+LRCX,Lam Research Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LVS,Las Vegas Sands Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LGORF,Largo Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LADR,Ladder Capital Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LCI,Lannett Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LABD,Direxion Daily S&P Biotech Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+LPI,Laredo Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LAZ,Lazard Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

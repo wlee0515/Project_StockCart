@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EUHA.FRK,PFISE.-E ST HY CB ISU.EOA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+EUHA.FRK,PIMCO Euro ST HY Corp Bd Sou EUR Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+EUHA.SWI,PMCO SRC EU ST HY Corp Bnd Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

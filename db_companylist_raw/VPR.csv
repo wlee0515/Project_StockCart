@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VPRB,"VPR Brands, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VPRO,Viropro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VPRIF,Vitality Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VPRAX,VY T. Rowe Price Capital Apprec R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VPRDX,VY Morgan Stanley Global Franchise R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VPRSX,VY JPMorgan Small Cap Core Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VPR.AUS,Volt Power Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

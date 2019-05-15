@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XYLD.FRK,X(IE)-IB.DL C.B.Y.P. 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+XYLD.FRK,X(IE)-IB.DL C.B.Y.P. 1D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+XYLD.MIL,XTRACK IBOXX USD CORP YIELD PL ,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+XYLD.SWI,X USD Corp Bnd Yield Plus 1D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

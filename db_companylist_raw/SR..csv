@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3HL1.BER,HIGHL.I-H./IBOXX SR.LN DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+SR.BAK,Siamraj Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2143
+3HL1.DUS,HIGHL.I-H./IBOXX SR.LN DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

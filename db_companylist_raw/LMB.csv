@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LMB,Limbach Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LMBS,First Trust Low Duration Oppos ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LMBMX,QS US Small Capitalization Equity IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBEX,BrandywineGLOBAL Dyn US Large Cap Val I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBBX,BrandywineGLOBAL Dyn US Large Cap Val C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBGX,BrandywineGLOBAL Dyn US Large Cap Val IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBCX,QS US Small Capitalization Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBSX,Western Asset Mortgage Backed Sec IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBHX,BrandywineGLOBAL Dyn US Large Cap Val R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LMBJX,BrandywineGLOBAL Dyn US Large Cap Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

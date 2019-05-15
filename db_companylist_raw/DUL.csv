@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DLTH,Duluth Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DULUF,DuluxGroup Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DULTX,Delaware Investments Ultrashort Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DLX.AUS,DuluxGroup Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+019.DUS,DULUXGROUP LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5714
+019.FRK,DuluxGroup Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+019.STG,Duluxgroup Ltd. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+DUL.HAM,"ALNYLAM PHARMACE.DL-,0001",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+DUL.MUN,"ALNYLAM PHARMACE.DL-,0001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+6DU.FRK,Duluth Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

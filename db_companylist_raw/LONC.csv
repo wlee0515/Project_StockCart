@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNCR,Loncar Cancer Immunotherapy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8889
+CHNA,Loncar China BioPharma ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+LONCF,Loncor Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+LN.TRT,Loncor Resources Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+E18B.MUN,ETF Series Solutions - Loncar Cancer Immunotherapy ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2667
+LONCONSERVAT.TRT,LON Conservative Prof (PSG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1379

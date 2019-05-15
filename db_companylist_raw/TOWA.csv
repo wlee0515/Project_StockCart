@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWA.FRK,TOWA Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+3329.TOK,Towa Food Service Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+4553.TOK,Towa Pharmaceutical Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3478
+6315.TOK,TOWA Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2581
+8558.TOK,The Towa Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2424

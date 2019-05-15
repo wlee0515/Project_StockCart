@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IOCJY,Iochpe-Maxion S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IOCCX,ICON Risk-Managed Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOCZX,ICON Risk-Managed Balanced S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOCLX,Voya Corporate Leaders 100 O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOCAX,ICON Risk-Managed Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOC.NSE,Indian Oil Corporation Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+MYPK3.SAO,Iochpe-Maxion S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+IOC.FRK,ITOCHU Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+IOC.BSE,Indian Oil Corporation Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857

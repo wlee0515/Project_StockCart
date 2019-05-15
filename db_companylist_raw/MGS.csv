@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGSEX,AMG Managers Special Equity N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSSX,MassMutual Select BlackRock Glb Allc R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSLX,MassMutual Select BlackRock Glb Allc Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSDX,AMG Managers Amundi Short Duration Gov N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSFX,DWS Fixed Income Opportunities Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSYX,MassMutual Select BlackRock Glb Allc Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSIX,MFS Government Securities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGSMX,DWS Short Term Municipal Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

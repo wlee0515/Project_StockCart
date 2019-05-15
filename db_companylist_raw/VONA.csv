@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VG,Vonage Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+V1Y.STG,Vonage Holdings Corp. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3200
+V1Y.FRK,Vonage Holdings Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+V1Y.BER,"VONAGE HLDGS CORP. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+V1Y.MUN,"VONAGE HLDGS CORP. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

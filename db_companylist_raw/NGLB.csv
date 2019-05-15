@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGLB.FRK,Anglo American plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NGLB.FRK,Anglo American plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+NGLB.BER,"ANGLO AMERICAN DL-,54945",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NGLB.DUS,"ANGLO AMERICAN DL-,54945",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+NGLB.HAN,"ANGLO AMERICAN DL-,54945",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+NGLB.HAM,"ANGLO AMERICAN DL-,54945",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+NGLB.MUN,"ANGLO AMERICAN DL-,54945",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+NGLB.STG,Anglo American PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

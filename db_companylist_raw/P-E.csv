@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPAP.LON,Source Physical Palladium P-ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+SGLP.LON,Source Physical Gold P-ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400
+SPPP.LON,Source Physical Platinum P-ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+FR0011571371.PAR,Oddo Avenir Euro P-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222
+F00000S8DO.PAR,Oddo Avenir Euro P-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

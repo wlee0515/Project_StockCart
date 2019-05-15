@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CB,Chubb Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+9502.TOK,"Chubu Electric Power Company, Incorporated",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4706
+0VQD.LON,Chubb Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706
+PUO19.ARG,Provincia De Chubut 4% GTD BDS 21/10/2019 USD1 'CL 1',Equity,Argentina,11:00,17:00,UTC-03,ARS,0.4706
+0C2.DUS,CHUBU EL. PWR,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4706
+AEX.MUN,"CHUBB LTD.  SF 24,15",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4706
+0C2.FRK,"Chubu Electric Power Company, Incorporated",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+AEX.FRK,Chubb Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+0C2.BER,CHUBU EL. PWR,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+0C2.FRK,CHUBU EL. PWR,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1739

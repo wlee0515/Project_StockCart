@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0613.HKG,Yugang International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+YUI.FRK,Yugang International Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+YUI.BER,YUGANG INTL  HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+YUI.STG,YUGANG INTERNATIONAL LTD. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500

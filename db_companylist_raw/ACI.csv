@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACIA,Acacia Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACIW,ACI Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACIU,AC Immune SA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ACINX,Columbia Acorn International Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ACITX,American Century Inflation Adjs Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACIIX,American Century Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACIM,SPDR MSCI ACWI IMI ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ACIZX,Alger Capital Appreciation Instl Z-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACISX,AB Corporate Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ACIOX,American Century International Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

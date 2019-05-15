@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CSIA.LON,Lyxor CSI 300 A-Share ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+KRW.LON,Lyxor MSCI Korea ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+ASIL.LON,Lyxor China Enterprise (HSCEI) ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+ASIU.LON,Lyxor China Enterprise (HSCEI) ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+CSIL.LON,Lyxor ETF CSI 300 A-Share C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+INRL.LON,Lyxor MSCI India ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+LTMU.LON,Lyxor ETF MSCI EM Latin America C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+RIOU.LON,Lyxor Brazil (Ibovespa) ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2069
+INRU.LON,Lyxor MSCI India ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2069
+CRBU.LON,Lyxor Commodit Thm R/C CRB TR ETF C-USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

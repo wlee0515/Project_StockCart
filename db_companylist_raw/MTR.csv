@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTR,Mesa Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTRN,Materion Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTRX,Matrix Service Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTRCX,MFS Total Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MTRAF,Metro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTRBX,MFS Total Return B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTRAX,MainStay Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTCPY,MTR Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTRJF,MTR Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTRT,The Metal Arts Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

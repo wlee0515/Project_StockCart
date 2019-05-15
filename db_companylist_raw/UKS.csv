@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UKS3.LON,SG FTSE 100 x3 Daily Short ETN,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+UKSR.LON,UBS ETF MSCI UK IMI SRI GBP A dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+UKSR.AMS,UBS (Irl) ETF Public Limited Company - MSCI United Kingdom IMI Socially Responsible UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+UKSR.SWI,UBS ETF MSCI UK IMI SRI GBP A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+UKSR-GBP.SWI,UBS ETF UK Socially Resp A-dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UKSRT.SWI,UBS ETF MSCI UK IMI SRI H CHF A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4286

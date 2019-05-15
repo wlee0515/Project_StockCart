@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WPY.LON,Worldpay Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+WPY.STG,W.P. Carey Inc. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+WPY.FRK,W. P. Carey Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

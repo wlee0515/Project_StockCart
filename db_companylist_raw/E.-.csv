@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYYH.STG,Lyxor C.TR/C.CRB E.-E.TR U.ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+UIMR.DUS,UBS E.-MSCI EMU S.R.EOAD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

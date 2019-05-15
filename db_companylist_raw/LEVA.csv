@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT0000A1XFQ5.VIE,Levante,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.7273
+F000001YIB.BCL,Levante 2.013 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+LEVANTE2013S.BCL,Levante 2.013 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+LEVARAINVEST.BCL,Levara Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3478
+F000001YJX.BCL,Levara Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3478

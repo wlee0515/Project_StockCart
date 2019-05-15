@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WBENX,William Blair Emerging Mkts Growth N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WBEMX,Wells Fargo Emerging Markets Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WBEIX,William Blair Emerging Mkts Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WBELX,William Blair Emerging Mkts Ldrs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WBE.AUS,Whitebark Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+WBE.TRV,WestBond Enterprises Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEE,NextEra Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NEP,"NextEra Energy Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NXNN,Nexeon MedSystems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VEND,Generation Next Franchise Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NXST,Nexstar Media Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NXE,NexGen Energy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NXRT,NexPoint Residential Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NXGN,NextGen Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NXEO,Nexeo Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NHF,NexPoint Strategic Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

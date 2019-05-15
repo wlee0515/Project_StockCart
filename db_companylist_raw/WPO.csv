@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WPOPX,Weitz Partners III Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WPOIX,Weitz Partners III Opportunity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WPOB.DUS,GRAHAM HLDGS CO.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+WPOB.FRK,Graham Holdings Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WPOB.BER,GRAHAM HLDGS CO.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WPOB.STG,Graham Holdings Company Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

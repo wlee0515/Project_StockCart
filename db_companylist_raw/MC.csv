@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MC,Moelis & Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCD,McDonald's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MDR,McDermott International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MCHP,Microchip Technology Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MUX,McEwen Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MCIG,mCig Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MCK,McKesson Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MCHI,iShares MSCI China ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+MKC,"McCormick & Company, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MCO,Moody's Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

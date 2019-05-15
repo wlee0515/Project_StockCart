@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMWIX,Ivy ProShares MSCI ACWI Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMWEX,Ivy ProShares MSCI ACWI Index E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMWAX,Ivy ProShares MSCI ACWI Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMW.FRK,4imprint Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+IMW.STG,4IMPRINT GROUP PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

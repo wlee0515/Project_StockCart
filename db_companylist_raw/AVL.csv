@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVLR,Avalara Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVLNF,Avalon Advanced Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVLIF,Advantage Lithium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVLP,"Avalanche International, Corp.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVLIX,American Century Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AVLS,Advanced Lighting Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVL.TRT,Avalon Advanced Materials Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+AVL.AUS,Australian Vanadium Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+AVLN.TAV,Aviv Arlon Ltd.,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+AVL.BSE,Aditya Vision Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

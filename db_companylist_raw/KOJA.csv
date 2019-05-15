@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+V4OC.FRK,Kojamo Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+V4OC.BER,KOJAMO OYJ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714

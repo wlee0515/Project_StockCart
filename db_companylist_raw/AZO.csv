@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZO,AutoZone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+5PL.FRK,GRUPA AZOTY S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+3496.TOK,Azoom Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+5PL.BER,GRUPA AZOTY S.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158
+5PL.MUN,GRUPA AZOTY S.A.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3158
+5PL.STG,Grupa Azoty S.A. Inhaber-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3158
+AZRM.TAV,"Azorim-Investment, Development & Construction Co. Ltd",Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.1765

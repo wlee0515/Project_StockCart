@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDI,Telephone and Data Systems Inc. SR NT 2045,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TDIV,First Trust NASDAQ Technology Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+TDIFX,Dimensional Retirement Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDIBX,AB Multi-Manager Select 2010 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDIMX,AB Multi-Manager Select 2035 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDIPX,AB Multi-Manager Select 2055 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDIHX,AB Multi-Manager Select 2030 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDIGX,AB Multi-Manager Select 2025 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDITX,ClearTrack 2025 R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

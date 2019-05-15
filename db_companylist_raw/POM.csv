@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+POMIX,T. Rowe Price Total Equity Market Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+POMCX,Pacific Funds Port Optim Mod C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+POMDX,Pacific Funds Port Optim Mod Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+POMBX,Pacific Funds Port Optim Mod B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+POMFX,Principal Opportunistic Municipal Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+POM.PAR,Compagnie Plastic Omnium SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+POM.TRT,PolyMet Mining Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+POM.SWI,Compagnie Plastic Omnium SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+POMO3.SAO,Marcopolo S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455

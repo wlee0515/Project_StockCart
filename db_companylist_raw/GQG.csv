@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSIMX,Goldman Sachs GQG Ptnrs Intl Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GQGIX,GQG Partners Emerging Markets EquityInst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSINX,Goldman Sachs GQG Ptnrs Intl Opps Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSIYX,Goldman Sachs GQG Ptnrs Intl Opps R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GQEPX,GQG Partners US Select Quality Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GSIHX,Goldman Sachs GQG Ptnrs Intl Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GQEIX,GQG Partners US Select Quality Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GQGRX,GQG Partners Emerging Markets Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GSIQX,Goldman Sachs GQG Ptnrs Intl Opps R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GQGPX,GQG Partners Emerging Markets Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

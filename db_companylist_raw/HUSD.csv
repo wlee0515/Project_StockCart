@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0011973676.PAR,H2O Multibonds HUSD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+GB00BZ0P6780.LON,Henderson Inst Divers Crdt Z HUSD Gro,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3810
+FR0011973635.PAR,H2O Allegro HUSD-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+FR0011981745.PAR,H2O Adagio HUSD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3810
+FR0012497980.PAR,H2O Vivace HUSD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+FR0012498004.PAR,H2O Vivace HUSD-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+F00000W33T.LON,Henderson Inst Divers Crdt Z HUSD Gro,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+F00000U20Y.PAR,H2O Multibonds HUSD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3200
+F00000UERF.PAR,H2O Adagio HUSD-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1951
+F00000UKCG.PAR,H2O Allegro HUSD-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1951

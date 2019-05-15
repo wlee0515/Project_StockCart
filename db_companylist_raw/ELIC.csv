@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0EA2.LON,Elica S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+ELC.MIL,Elica S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.5000
+7L4.FRK,Elica S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000

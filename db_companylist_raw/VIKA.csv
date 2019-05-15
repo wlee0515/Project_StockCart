@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+519307.BSE,Vikas WSP Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+VIKASECO.BSE,Vikas EcoTech Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+VIKASECO.NSE,Vikas EcoTech Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5333
+VIKASWSP.BSE,Vikas WSP Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+VIKASECO-EQ.NSE,VIKAS ECOTECH LIMI,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+531334.BSE,VIKALP SECURITIES LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+531518.BSE,VIKAS PROPPANT & GRANITE LTD,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3810
+VIKALPS.BSE,Vikalp Securities Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3077
+VIKASPROP.BSE,VIKAS PROPPANT & GRANITE LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500

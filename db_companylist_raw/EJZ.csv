@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EJZN.FRK,Wealth Minerals Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EJZN.MUN,WEALTH MINERALS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+EJZN.STG,Wealth Minerals Ltd.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+EJZN.BER,WEALTH MINERALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIRT,Virtu Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VHC,VirnetX Holding Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VTSI,VirTra Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PVAC,Penn Virginia Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VRTU,Virtusa Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PSGAX,Virtus KAR Small-Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+ZTR,Virtus Global Dividend & Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VGI,Virtus Global Multi-Sector Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ZF,Virtus Total Return Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+VRCP,Virtual Crypto Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

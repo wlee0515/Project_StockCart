@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCI,Barings Corporate Investors,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCIG,mCig Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCIC,Multicorp International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCIFX,Miller Convertible Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCILX,BlackRock International Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCIYX,BMO TCH Corporate Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCIIX,BMO TCH Corporate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCISX,Victory Trivalent International Sm-Cp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCIQX,FDP BlackRock International Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCINX,MainStay MacKay Convertible Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

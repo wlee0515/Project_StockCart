@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMD,Advanced Micro Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DVN,Devon Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADI,Analog Devices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FSMEX,Fidelity Select Medical Tech and Devcs,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+WRD,WildHorse Resource Development Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CDEV,Centennial Resource Development Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VEA,Vanguard FTSE Developed Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PRPCF,Prophecy Development Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+IHI,iShares US Medical Devices ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2069
+IDTI,Integrated Device Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWI,SolarWinds Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SWN,Southwestern Energy Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SWKS,Skyworks Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SWCH,Switch Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SWIR,Sierra Wireless Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SWK,Stanley Black & Decker Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SWPPX,Schwab S&P 500 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SWET,Solar Wind Energy Tower Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SWM,Schweitzer-Mauduit International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SWZ,Swiss Helvetia Fund Inc. (The),Equity,United States,09:30,16:00,UTC-05,USD,0.5714

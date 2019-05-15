@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WMB,The Williams Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WMBFX,Wells Fargo WealthBuilder Mod Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBIX,Wells Fargo Municipal Bond Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBLX,WesMark Balanced,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBAX,Ivy Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBZX,Wells Fargo WealthBuilder Mod Bal Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBGX,Wells Fargo WealthBuilder Mod Bal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBCX,Ivy Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBDX,WesMark Government Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WMBBX,Ivy Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

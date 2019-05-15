@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLGT,Teligent Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLGN,Totally Green Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLGUX,Consulting Group Large Cap Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGRF,Talga Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGHY,Telenet Group Holding NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGQX,TIAA-CREF Life Growth Equity Fu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGWX,TIAA-CREF Life Growth & Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGAX,Timothy Plan Large/Mid Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGCX,Timothy Plan Large/Mid Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLGYX,Touchstone Large Company Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

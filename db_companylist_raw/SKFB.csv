@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKFB.DUS,"SKF AB B  SK 0,625",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+SKFB.FRK,AB SKF (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+SKFB.BER,"SKF AB B  SK 0,625",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SKFB.HAN,"SKF AB B  SK 0,625",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+SKFB.STG,"SKF AB Namn-Aktier B SK 0,625",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

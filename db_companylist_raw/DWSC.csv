@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DWSC.BER,DWS INV.-TOP ASIA LC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+DWSC.DUS,DWS INV.-TOP ASIA LC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+DWSC.HAN,DWS INV.-TOP ASIA LC,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+DWSC.HAM,DWS INV.-TOP ASIA LC,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+DWSC.MUN,DWS INV.-TOP ASIA LC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DWSC.STG,DWS Invest-Top Asia Inhaber-Ant,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+DWSCHINAEQA.SGP,Deutsche Premier Investments Funds - Deutsche China Equity Fund,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.4444
+DWSCASHOPPOR.BSE,DHFL Pramerica Low Dur Ann Bns,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+DWSCORPDEBTO.BSE,DHFL Pramerica Credit Opps Rg Pl Ann Dv,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+DWSCRECIMIEN.BCL,DWS Crecimiento A FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211

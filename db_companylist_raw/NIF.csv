@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NFTY,First Trust India NIFTY 50 Equal Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+NIFIX,Nationwide Inflation-Prot Secs R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NIFFX,Aquila Narragansett Tax-Free Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NIFAX,Nationwide Inflation-Prot Secs A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NIF-UN.TRT,Noranda Income Fund,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+XNIF.LON,db x-trackers - NIFTY 50 UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+F00000PDXY.BSE,Franklin India Index NSE Nifty Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+HDFCNIFETF.NSE,HDFC Nifty 50 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1500

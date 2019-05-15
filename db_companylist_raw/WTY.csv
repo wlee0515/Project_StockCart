@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTY.STG,Willis Towers Watson PLC Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+WTY.FRK,Willis Towers Watson Public Limited Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0CAN05M9A.TRT,Mackenzie Cundill Value AG,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+F00000LJSW.TRT,Mackenzie Cundill Cdn Security Cl J,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+F0CAN071NN.TRT,IG Mackenzie Cundill Global Value C,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2667
+CANCUNDILLGL.TRT,CAN Cundill Global Val (M) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2353
+IGMACCUNDILL.TRT,IG Mackenzie Cundill Global Value Class,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2051
+F000002KQ2.TRT,Mac Cundill Cdn Balanced GIF Core A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2051
+F000002KZA.TRT,Mac Cundill Cdn Balanced GIF Interm A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1951
+F000002KZC.TRT,Mac Cundill Cdn Balanced GIF Enhanced A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+F000003XT6.TRT,SunWise 2001 Mac Cundill Cdn Bal 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1860
+F000003XUI.TRT,SunWise 2001 Mack Cundill Cdn Sec 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

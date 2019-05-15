@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFF,International Flavors & Fragrances Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IFMK,iFresh Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IFN,The India Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IFNNY,Infineon Technologies AG,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IFXY,Infrax Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IROQ,IF Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IFLY,ETFMG Drone Economy Strategy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IFACX,American Funds Income Fund of Amer C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+IFRX,InflaRx N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IFEU,iShares Europe Developed Real Estate ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333

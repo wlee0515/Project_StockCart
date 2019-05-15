@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QVCD,QVC Inc. 6.375% Senior Secured,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QVCIIX,QS Variable Conservative Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+LB3A.MUN,QURATE RETAIL INC. QVC A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+LB3A.BER,QURATE RETAIL INC. QVC A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+LB3A.DUS,QURATE RETAIL INC. QVC A,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2222
+LB3A.STG,Qurate Retail Inc. Reg. Shs QVC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

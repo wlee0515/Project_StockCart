@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGP,MGM Growth Properties LLC,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MGPI,MGP Ingredients Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MGPHF,Mason Graphite Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MGPC,Moregain Pictures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGPRF,Mag One Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGPPF,Megaport Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGPSX,ProFunds Mid Cap Growth Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGPIX,ProFunds Mid Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGPOX,Morgan Stanley Inst Global Strat IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGP.LON,Medica Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

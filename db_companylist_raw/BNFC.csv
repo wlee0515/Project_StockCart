@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KR5101974461.KOR,KIM China Consmp Grw Bnfc Fdr Eq A Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5101974479.KOR,KIM China Consmp Grw Bnfc Fdr Eq C Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5101974487.KOR,KIM China Consmp Grw Bnfc Fdr Eq C2 Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5101974503.KOR,KIM China Consmp Grw Bnfc Fdr Eq C4 Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5101974511.KOR,KIM China Consmp Grw Bnfc Fdr Eq Ce Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000LLAR.KOR,KIM China Consmp Grw Bnfc Fdr Eq A Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000LLAW.KOR,KIM China Consmp Grw Bnfc Fdr Eq C Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000LOOJ.KOR,KIM China Consmp Grw Bnfc Fdr Eq Ce Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000NDX8.KOR,KIM China Consmp Grw Bnfc Fdr Eq C2 Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818
+F00000S7MF.KOR,KIM China Consmp Grw Bnfc Fdr Eq C4 Hdgd,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1818

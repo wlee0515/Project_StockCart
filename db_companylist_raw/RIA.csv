@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+300596.SHZ,Rianlon Corporation,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.7500
+RIALSAMACART.BCL,Rialsama Cartera e Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6000
+RIA.FRK,Rivera (Holdings) Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+RIAA.PAR,PRICARD2.0%22JUN20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+RIAB.PAR,PERNODR2.125%SEP24,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000
+RIAC.PAR,PERNODR1.875%SEP23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+RIAD.PAR,PERNODR1.5%18MAY26,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3333
+RIAAA.PAR,SOPSTER4.25%JUL19,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2727
+F00000NDAE.BCL,Rialsama Cartera e Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1538

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHN,First Horizon National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FHKAX,Fidelity Advisor China Region A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+FHLC,Fidelity MSCI Health Care ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+FHB,First Hawaiian Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FHKCX,Fidelity China Region,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FHKIX,Fidelity Advisor China Region I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FHAIX,Franklin High Income A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FHIGX,Fidelity Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FHCIX,Fidelity Advisor Health Care I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FHLB,Friendly Hills Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

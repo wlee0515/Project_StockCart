@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASPCX,Alger Spectra C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+HK0000150935.HKG,Amundi HK NewGen AsPc EqDv Clc USD Acc,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000150943.HKG,Amundi HK NewGen AsPc EqDv Clc USD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000150950.HKG,Amundi HK NewGen AsPc EqDv Clc HKD Acc,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000150968.HKG,Amundi HK NewGen AsPc EqDv Clc HKD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000150976.HKG,Amundi HK NewGen AsPc EqDv Clc AUD H Acc,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000150984.HKG,Amundi HK NewGen AsPc EqDv Clc AUD H Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1905
+HK0000251816.HKG,Amundi HK NewGen AsPc EqDv Clc NZDH DisI,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1818
+F00000QO9A.HKG,Amundi HK NewGen AsPc EqDv Clc USD Acc,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1818
+F00000QO9B.HKG,Amundi HK NewGen AsPc EqDv Clc USD Dis,Mutual Fund,Hong Kong,09:30,16:00,UTC+08,HKD,0.1818

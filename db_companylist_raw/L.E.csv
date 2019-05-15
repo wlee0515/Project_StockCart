@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYQS.DUS,L.IBOXX DL L.E.M.S.UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+LYS5.DUS,L.E.HRMWGB.3-5Y(DR)UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+LYS4.DUS,L.E.HRMWGB.1-3Y(DR)UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+LYS6.DUS,L.EHRMWGB5-7Y(DR)UETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXW.PAR,Axway Software SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+1XV.STG,Axway Software Actions Port. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

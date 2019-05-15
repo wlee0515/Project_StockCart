@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FR0013053790.PAR,CPR USA H-P EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+F00000SA4G.PAR,CPR Japon H-P EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+F00000X23R.TRT,Renaissance Flexible Yield Class H-Prem,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3000
+F00000X3VN.PAR,CPR USA H-P EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1538
+F00000X7FM.TRT,Renaissance EMkts Eq Prv Pl Cl H-Prm,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+F00000X7FN.TRT,Renaissance EMkts Eq Prv Pl Cl H-Prm T4,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000X7FO.TRT,Renaissance EMkts Eq Prv Pl Cl H-Prm T6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000X7GG.TRT,Renaissance Glb Eq Prv Pool Cl H-Prm,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000X7GH.TRT,Renaissance Glb Eq Prv Pool Cl H-Prm T4,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429
+F00000X7GI.TRT,Renaissance Glb Eq Prv Pool Cl H-Prm T6,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1429

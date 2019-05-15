@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KHDHF,KHD Humboldt Wedag International AG,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KWG.FRK,KHD Humboldt Wedag International AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+KWG.FRK,KHD Humboldt Wedag International AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+KWG.BER,KHD HUMBOLDT WEDAG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+KWG.DUS,KHD HUMBOLDT WEDAG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2286
+KWG.STG,KHD Humboldt Wedag Intl AG Inha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+HETA.STG,KHD Humboldt Wedag VV-AG Namens,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

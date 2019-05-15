@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOOCY,S-Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SOUM,SoOum Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+SOON.VSX,Sonova Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+0411.HKG,Lam Soon (Hong Kong) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5714
+5MD.SGP,Soon Lian Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3158
+5SN.BER,SOON LIAN HLDGS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2727
+BFU.SGP,Tye Soon Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+SOO1.HAM,SOLON Energy GmbH,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.1935

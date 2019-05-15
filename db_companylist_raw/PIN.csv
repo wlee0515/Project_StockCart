@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIN,Invesco India ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PDD,Pinduoduo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PT,Pintec Technology Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PF,Pinnacle Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PNW,Pinnacle West Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PNFP,Pinnacle Financial Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+PINC,Premier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+PNGAY,Ping An Insurance (Group) Company of China Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+MLP,Maui Land & Pineapple Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PME,Pingtan Marine Enterprise Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

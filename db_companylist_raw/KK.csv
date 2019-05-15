@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KKR,KKR & Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KREF,KKR Real Estate Finance Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KIO,KKR Income Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KKUR,ChromoCure Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KKR-PA,KKR & Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KKPNY,Koninklijke KPN N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KKR-PB,KKR & Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KKKUF,Kakaku.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KKWFF,Royal Boskalis Westminster N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KKPNF,Koninklijke KPN N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKJAX,Wells Fargo Premier Large Co Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKJYX,Wells Fargo Premier Large Co Gr Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKJCX,Wells Fargo Premier Large Co Gr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKJRX,Wells Fargo Premier Large Co Gr R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKJFX,Wells Fargo Premier Large Co Gr R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

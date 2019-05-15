@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNL.DUS,DR. HOENLE AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+LHCK.KLA,LIEN HOE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3158
+HNL.HAM,DR. HOENLE AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2857
+HNL.MUN,DR. HOENLE AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+HNL.STG,DR. HOENLE AG Inhaber-Aktien o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+WIIK.BAK,Wiik & Hoeglund Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+1H6.FRK,HOEGH LNG PARTNERS UTS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+1H6.BER,HOEGH LNG PARTNERS UTS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+5JK.SGP,Hiap Hoe Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.1463

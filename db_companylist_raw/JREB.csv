@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JREB.FRK,JREB.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+JREB.FRK,JPM(I)-JPM ECBREI ETF EOA,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+JREB.MIL,JPM EUR Corporate Bd Rsh Enh ETF EUR Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273

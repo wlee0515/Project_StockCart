@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTRL,Get Real USA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GTRAX,PGIM Global Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRNX,Gotham Total Return N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRFX,Gotham Total Return Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRSX,Goldman Sachs Target Date 2050 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRCX,Nationwide C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRMX,Goldman Sachs Target Date 2040 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTROX,Goldman Sachs Target Date 2035 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTRHX,Goldman Sachs Target Date 2020 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

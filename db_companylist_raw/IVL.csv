@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IVLU,iShares Edge MSCI Intl Value Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IVLEIX,Closed-End Strategy: Value Equi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IVLEX,Ivy Limited-Term Bond E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVLEQX,Closed-End Strategy: Value Equi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IVL.BAK,Indorama Ventures Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667

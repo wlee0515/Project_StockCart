@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AT,Atlantic Power Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+T,AT&T Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ATVI,Activision Blizzard Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ATRS,Antares Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AMS.AUS,Atomos Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ATHX,Athersys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ATNM,Actinium Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ATTU,Attunity Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TEAM,Atlassian Corporation Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ATNX,Athenex Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

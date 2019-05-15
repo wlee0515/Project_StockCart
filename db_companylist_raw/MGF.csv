@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGF,MFS Government Markets Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MGFIX,AMG Managers Loomis Sayles Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MGFAX,MassMutual Premier Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFZX,MassMutual Premier Global I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFX,Monarch Gulf Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFOX,Morgan Stanley Global Fixed Inc Opps IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFRX,MassMutual Premier Global R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFNX,MassMutual Premier Global R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGFYX,MassMutual Premier Global Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

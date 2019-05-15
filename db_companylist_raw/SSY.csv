@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSY,SunLink Health Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SSYS,Stratasys Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSYGX,Dreyfus/The Boston Co Small Cap Gr Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SSYT,Systech Systems International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LJUIF,SSY Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+2005.HKG,SSY Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+SSYA.BER,SSGA-SPDR BLACKS.GSO S.L.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SSYO.LON,ETFS 1x Daily Short Soybean Oil ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+SSY.LON,SCISYS Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3000
+SSYA.DUS,SSGA-SPDR BLACKS.GSO S.L.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3000

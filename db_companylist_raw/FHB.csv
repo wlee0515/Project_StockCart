@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHB,First Hawaiian Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FHBC,Fernhill Beverage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FHBWZX,FT 7248: Tactical Income Opport,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHBZX,Fidelity Freedom Blnd Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHBRLX,FT 4580: Equity Income Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHBONX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHBRX,Federated High Income Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHBBX,Federated High Income Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHBQPX,FT 7505: Utilities Select Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHBCX,Fidelity Advisor Freedom Blnd 2035 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

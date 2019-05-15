@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ETWA.JKT,PT Eterindo Wahanatama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+ETWO.TRV,Ecc Ventures 2 Corp,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000

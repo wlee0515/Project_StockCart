@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BOJA,Bojangles' Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BAH.AUS,Bojun Agriculture Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+300404.SHZ,Guangzhou Boji Medical & Biotechnological Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6000
+BOJB.STG,BIMobject AB Namn-Aktier o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+1758.HKG,Bojun Education Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.3333
+64B.FRK,Bojangles' Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3158
+64B.MUN,"BOJANGLES INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2400
+BOJB.FRK,BIMobject AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+BOJINVESTMEN.BCL,Arkadia Finanzas SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765
+BOJB.BER,BIMOBJECT AB,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1111

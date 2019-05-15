@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SXLV.LON,SPDR S&P US Health Care Select Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SXL.TRV,Slam Exploration Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+SXL.AUS,Southern Cross Media Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SXLB.LON,SPDR S&P US Materials Select Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLC.LON,SPDR S&P US Comm Svcs Sel Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLE.LON,SPDR S&P US Energy Select Sector ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLF.LON,SPDR S&P US Financials Select Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLI.LON,SPDR S&P US Industrials Select Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLU.LON,SPDR S&P US Utilities Select Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SXLY.LON,SPDR S&P US Cnsmr Discret Sel Sect ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

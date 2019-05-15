@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JNPR,Juniper Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JE,Just Energy Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JP,Jupai Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JMEI,Jumei International Holding Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+JUST,Goldman Sachs JUST US Large Cap Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+JSTTY,Just Eat plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JE-PA,Just Energy Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JVTSF,Juventus Football Club S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+JUEMX,JPMorgan US Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+JUSSX,JPMorgan US Small Company L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

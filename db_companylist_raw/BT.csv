@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BT,BT Group plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BTI,British American Tobacco p.l.c.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BTE,Baytex Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BTX,BioTime Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BTG,B2Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BTU,Peabody Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BTSC,Bitcoin Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BTCY,Biotricity Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BTCS,BTCS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BTAI,BioXcel Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

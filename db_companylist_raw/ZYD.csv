@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZYDUSWELL.NSE,Zydus Wellness Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ZYD.BER,ASPO OYJ NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ZYDUSWELL.BSE,Zydus Wellness Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000

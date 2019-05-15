@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HE,Hawaiian Electric Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HMNY,Helios and Matheson Analytics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HEAR,Turtle Beach Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HEMP,Hemp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HL,Hecla Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HPE,Hewlett Packard Enterprise Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+HMPQ,"HempAmericana, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+HPQ,HP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HYYDF,HEXO Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HSY,The Hershey Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

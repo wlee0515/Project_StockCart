@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002831.SHZ,ShenZhen YUTO Packaging Technology Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2500
+600066.SHH,Zhengzhou Yutong Bus Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2400
+2806.TOK,Yutaka Foods Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+7229.TOK,Yutaka Giken Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1818
+8747.TOK,Yutaka Shoji Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1277

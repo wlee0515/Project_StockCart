@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGM,First Trust Germany AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FGMNX,Fidelity GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGMHUX,FT 7156: Senior Loan and Divide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGMMMX,The First Trust GNMA Reinvestme,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGMULX,FT 7130: Target Triad 1Q '18 - ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGMNAX,FT 7512: Nasdaq Factor Dogs Opp,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGMBOX,FT 7643: Sabrient Baker's Dozen,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IS3S.DUS,ISHSIV-E.MSCI W.VAL.F.DLA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+IS3S.MUN,ISHSIV-E.MSCI W.VAL.F.DLA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+QDV3.MUN,ISHSIV-E.MSCI W.VAL.F.DLD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

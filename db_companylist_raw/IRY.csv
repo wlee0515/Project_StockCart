@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7634.TOK,Hoshi Iryo-Sanki Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+IRYA.BER,IRSA INV. Y REPR. ADR 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IRYA.MUN,IRSA INV. Y REPR. ADR 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+IRYA.STG,IRSA -INVERSIONES Y REPRES. SAR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2069

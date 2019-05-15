@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GYJ.FRK,Faroe Petroleum plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GYJ.BER,"FAROE PETROLEUM  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GYJ.STG,Faroe Petroleum PLC Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

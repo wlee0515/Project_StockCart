@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNI,Canadian National Railway Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CP,Canadian Pacific Railway Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RAIL,FreightCar America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RASF,RAIT Financial Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ARII,American Railcar Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GSH,Guangshen Railway Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RFTA,RAIT Financial Trust 7.125% SR NT 19,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RASFP,RAIT Financial Trust 7.75% CUM PFD A,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RASFN,RAIT Financial Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+RASFO,RAIT Financial Trust 8.375% CUM PFD B,Equity,United States,09:30,16:00,UTC-05,USD,0.1667

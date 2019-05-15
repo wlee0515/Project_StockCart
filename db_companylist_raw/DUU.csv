@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ASN.AMS,ASN Duurzaam Aandelenfonds NV,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2500
+NNDZA.AMS,NN Paraplufonds 1 N.V. - NN Duurzaam Aandelen Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2000
+ABFW.AMS,ASN Duurzaam Mixfonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2000
+ADWF.AMS,Allianz Duurzaam Wereld Aandelen Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.1875
+ASN5.AMS,ASN Duurzaam Small & Midcapfonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.1818
+ASNOB.AMS,ASN Duurzaam Obligatiefonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.1714

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+017900.KOR,AUK Corp.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+AUKUF,ams AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AUKNY,Auckland International Airport Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AUK.LON,Aukett Swanke Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+AKN.AUS,Auking Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+AUK.FRK,AMERCO,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+AU000AKN.BER,AUKING MINING LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286

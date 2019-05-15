@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OTTR,Otter Tail Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OTTV,Viva Entertainment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OTTW,Ottawa Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OTTEF,Otto Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FOTB,First Ottawa Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OTTVD,Viva Entertainment Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OTCRX,Otter Creek Long/Short Opportunity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+OTTRX,Otter Creek Long/Short Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+OEL.AUS,Otto Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2727
+WOMF.JKT,PT Wahana Ottomitra Multiartha Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2000

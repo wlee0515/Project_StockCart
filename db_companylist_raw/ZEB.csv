@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZBRA,Zebra Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AZSAX,American Beacon Zebra Small Cap Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+AZSPX,American Beacon Zebra Small Cap Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AZSYX,American Beacon Zebra Small Cap Eq Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AZSCX,American Beacon Zebra Small Cap Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+AZSIX,American Beacon Zebra Small Cap Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+ZEB.TRT,BMO Equal Weight Banks ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.2500

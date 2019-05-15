@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NFRIX,Nuveen Symphony Floating Rate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NFRA,FlexShares STOXX Global Broad Infras ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+NFRAX,Nuveen Symphony Floating Rate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NFRCX,AIG Senior Floating Rate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NFRFX,Nuveen Symphony Floating Rate Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NFRWX,AIG Senior Floating Rate W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

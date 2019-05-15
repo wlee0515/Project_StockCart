@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CARCF,Carube Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+CAR.LON,Carclo plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+F00000U3YX.BCL,Carcogor 1915 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+C1Y.FRK,Carclo plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+7602.TOK,Carchs Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+C1Y.STG,CARCLO PLC Registered Shares LS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4211
+CARC.ARG,Carboclor S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3478
+CARCANTISICA.BCL,Carcanti SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+CARCOGOR1915.BCL,Carcogor 1915 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

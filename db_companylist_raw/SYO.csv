@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYO4.FRK,SW.(L)EQU.-SUSTAINABLE AA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SYOC.FRK,SW.(L)PTF-SUS.BAL.EUR AT,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SYO1.DUS,SWISS.(LU)PTF-R.A.EO AT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO1.HAM,SWISS.(LU)PTF-R.A.EO AT,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+SYO2.DUS,SWISS.(LU)PTF-RE.BA.EO AA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO4.DUS,SW.(L)EQU.-SUSTAINABLE AA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO5.DUS,Swisscanto (LU) Portfolio Fund - Swisscanto (LU) Portfolio Fund Green Invest Balanced,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO7.DUS,SW.(L)EQU.-SUSTAINABLE AT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO8.DUS,Swisscanto (LU) Portfolio Fund - Swisscanto (LU) Portfolio Fund Income,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SYO8.HAM,SWISS.(LU)PTF-R.R.SF AA,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAOBLCOURTTE.TRT,IA Short Term Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAOBLIGCOURT.TRT,IA SRP Prestige 75/75 Short Term Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+IAOBLIGDESOC.TRT,IA SRP Prestige 75/75 Can Corporate Bond,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

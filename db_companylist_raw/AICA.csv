@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AICAF,Air China Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+AICAX,AB Intermediate California Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+4206.TOK,"Aica Kogyo Company, Limited",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8000
+AICA.FRK,AVANA I.T. E. D. A.KL.R,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+AICA.BER,AVANA I.T. E. D. A.KL.R,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AICA.DUS,AVANA I.T. E. D. A.KL.R,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+AICA.HAM,AVANA I.T. E. D. A.KL.R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+AICA.MUN,AVANA I.T. E. D. A.KL.R,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+AICA.STG,AVANA IndexTrend Europ.DynamicI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2581

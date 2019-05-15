@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMBBY,Imperial Brands PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IMBBF,Imperial Brands PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IMBNX,Ivy Municipal Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMBIX,Ivy Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMBAX,Voya Limited Maturity Bond Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMB.LON,Imperial Brands PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+IMBS.LON,iShares US Mortg Backed Secs ETF USD Dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IMBA.LON,iShares US Mortgage Backed Secs ETF $Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IMB.SWI,Imperial Brands PLC,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+DINBUR2B-2.MEX,"Fondo de Dinero Empresarial Imbursa, S.A. De C.V., S.I.I.D.P.M",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2500

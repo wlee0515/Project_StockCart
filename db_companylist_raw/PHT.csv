@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHT,Pioneer High Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PHTYX,Principal LifeTime Hybrid 2045 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTQX,Principal LifeTime Hybrid 2025 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTMX,Principal LifeTime Hybrid 2015 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTTX,Principal LifeTime Hybrid 2020 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTJX,Principal LifeTime Hybrid 2035 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTUX,Principal LifeTime Hybrid 2050 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTFX,Principal LifeTime Hybrid Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTNX,Principal LifeTime Hybrid 2030 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHTCF,PLDT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

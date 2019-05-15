@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNRD,Conrad Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CNRYX,Fiera Capital Emerging Markets Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRLX,City National Rochdale Select S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRMF,Confederation Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRFF,"Consorcio ARA, S. A. B. de C. V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRIX,City National Rochdale Interm Fxd Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRVX,City National Rochdale US Cor Eq Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNREX,Commonwealth Real Estate Securities,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRMX,City National Rochdale Muni Hi Inc Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNRIF,Condor Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

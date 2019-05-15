@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGC,Legacy Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LGCY,Legacy Reserves Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSLC,Goldman Sachs ActiveBeta US LgCp Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+CDL,VictoryShares US LgCp Hi Dividend Vol Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+CHGX,Change Finance US LgCp FossilFuel Fr ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+LGGCF,LGC Capital Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LGCAX,Lord Abbett Global Equity Research A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+LGCHF,LCT  Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LGCVX,Lord Abbett Global Equity Research R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+LGC-UN,Legacy Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

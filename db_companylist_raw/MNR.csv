@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNR,Monmouth Real Estate Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JNUG,Direxion Daily Jr Gld Mnrs Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+MNRO,Monro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UNWPX,US Global Investors World Prec Mnral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GOAU,US Global GO GOLD and Prec Mtl Mnrs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+MNR-PC,Monmouth Real Estate Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MNRLF,Mineral Mountain Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MNREX,Manning & Napier Real Estate S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+MNRIF,Minor International Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

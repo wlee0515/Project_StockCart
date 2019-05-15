@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDBG.LON,X DBLCI Cmdty Optm Y Swap ETF 3C GBP H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+DXSM.FRK,X DBLCI Cmdty Optm Y Swap ETF 1C H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+DXSM.FRK,db x-trackers - DBLCI - OY Balanced UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2105
+XBCU.LON,X DBLCI Cmdty Optm Y Swap ETF 2C USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

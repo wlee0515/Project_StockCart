@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XCOMQ,Xtera Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XTPEF,Xtep International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XTEIX,Templeton Emerging Markets Inco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XTERF,NORVISTA CAP CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+1368.HKG,Xtep International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+XTE.AUS,XTEK Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+4QI.FRK,Xtep International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+XTE.FRK,"EnLink Midstream Partners, LP",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+4QI.BER,"XTEP INTL HOL.REGS HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1579
+XTE.BER,ENLINK MIDSTREAM PART.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1579

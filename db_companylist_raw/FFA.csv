@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFA,First Trust Enhanced Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FFANX,Fidelity Asset Manager 40%,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFALX,Franklin Founding Funds Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFACX,Franklin Founding Funds Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFAGX,FA 529 AGGRESSIVE GROWTH PORT: ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFAAX,Franklin Founding Funds Allocation Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFARX,Franklin Founding Funds Allocation R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFAQX,Franklin Founding Funds Allocation R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFAVX,Fidelity Advisor Freedom 2005 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFAMX,Fidelity Advisor Asset Manager 50% A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

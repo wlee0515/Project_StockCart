@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDI,PIMCO Dynamic Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PDINX,Putnam Diversified Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIIX,PIMCO Diversified Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDICX,PIMCO Diversified Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIGX,Prudential Day One 2045 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIAX,Virtus Rampart Enhanced Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIHX,Prudential Day One 2045 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIEX,Prudential Day One 2045 R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIKX,Prudential Day One 2045 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PDIJX,Prudential Day One 2045 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

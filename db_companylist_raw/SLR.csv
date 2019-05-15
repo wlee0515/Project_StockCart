@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLRC,Solar Capital Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLRAX,State Farm LifePath Retirement Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SLRK,Solera National Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLRFF,Sigma Lithium Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLRRF,Silver Range Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLRBX,State Farm LifePath Retirement Legacy B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLRIX,State Farm LifePath Retirement Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLRYX,SEI Large Cap Growth Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLR.AUS,Silver Lake Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

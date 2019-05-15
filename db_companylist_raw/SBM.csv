@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBM,ProShares Short Basic Materials,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SBMSF,Danakali Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBMAX,ClearBridge Mid Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBFFY,SBM Offshore N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBFFF,SBM Offshore N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBMBX,Saratoga Energy & Basic Materials A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBMFF,Sino Biopharmaceutical Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBMLX,ClearBridge Mid Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SBMIX,Saratoga Moderate Balanced Allc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

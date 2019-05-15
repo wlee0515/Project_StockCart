@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SJP3.LON,ETFS 3x Short JPY Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SJPY.LON,ETFS Short JPY Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SJPP.LON,ETFS Foreign Exchange Limited - ETFS Short JPY Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SJPA.MIL,iShares Core MSCI Japan IMI ETF USD Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+SJPA.SWI,iShares Core MSCI Japan IMI ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+SJPA.LON,iShares III Public Limited Company - iShares Core MSCI Japan IMI UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+SJPL.STG,ETFS Short JPY Long EUR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+SJPS.STG,ETFS Long JPY Short EUR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

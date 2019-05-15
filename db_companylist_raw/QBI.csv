@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QBIO,Q BioMed Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QBIEY,QBE Insurance Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QBI.HAM,Q2M Managementberatung AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

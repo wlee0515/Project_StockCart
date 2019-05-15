@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BHMG.LON,BH Macro Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BHMU.LON,BH Macro Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+BHM.MUN,"BACHEM HLDG NA B  SF 0,05",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+BHM.STG,Bachem Holding AG Namens-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BHM.FRK,Bachem Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BHM.BER,"BACHEM HLDG NA B  SF 0,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BHM.HAM,"BACHEM HLDG NA B  SF 0,05",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+F00000TYA7.SAO,BHMARES FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCA,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.0769

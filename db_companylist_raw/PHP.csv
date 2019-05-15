@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHPPX,Principal MidCap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHPIX,ProFunds Pharmaceuticals UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHPPY,Signify N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PHPSX,ProFunds Pharmaceuticals UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

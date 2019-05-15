@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OAB.BER,OAB OSNABR.ANL.BET.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+OAB.HAM,OAB OSNABR.ANL.BET.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMGC,Emergent Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMGF,iShares Edge MSCI Multifactor EmMkts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EMGNX,Wells Fargo Emerging Markets Equity Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLTE,FlexShares Mstar EmgMkts FctTilt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PEFIX,PIMCO RAE PLUS EMG Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HZEMF,HORIZONS EMG MARIJ,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EMGAX,Wells Fargo Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PEFPX,PIMCO RAE PLUS EMG I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+EGMCF,Emgold Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+EMGYX,Wells Fargo Emerging Markets Equity Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

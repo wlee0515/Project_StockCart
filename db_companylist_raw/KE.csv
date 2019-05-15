@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KE,Kimball Electronics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+K,Kellogg Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KERX,Keryx Biopharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KEY,KeyCorp,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KDP,Keurig Dr Pepper Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KEM,KEMET Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+KEYS,Keysight Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KMPH,KemPharm Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+KMT,Kennametal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+KMPR,Kemper Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

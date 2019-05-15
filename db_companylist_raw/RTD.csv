@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AURT,"Attune RTD, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDYX,Russell Inv Multifactor US Equity Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDCX,Russell Inv Multifactor US Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDSX,Russell Inv Multifactor US Equity S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDTX,Russell Inv Multifactor US Equity M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDAX,Russell Inv Multifactor US Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RTDRX,Russell Inv Multifactor US Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+0E46.LON,LYXOR EUROMTS HGT RTD MCR-WGD G,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.1765
+X1G.PAR,Amundi IS Gvt Bd Lwst Rtd Er InvGr ETF-C,ETF,Paris,09:00,17:30,UTC+01,EUR,0.1395
+AA13.PAR,Amundi IS Gvt Bd Hgh Rtd ErInGr1-3 ETF-C,ETF,Paris,09:00,17:30,UTC+01,EUR,0.1395

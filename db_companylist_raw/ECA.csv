@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECT,ECA Marcellus Trust I,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ECTE,Echo Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ECTMX,Eaton Vance Dividend Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ECTX,Eco Tek 360 Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ECTRX,MFS Total Return 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ECTGX,Eaton Vance Tx-Mgd Growth 1.1 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ECTTX,Eaton Vance TABS 10to20 Yr Ldrd Mn Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ECTVX,Eaton Vance Tx-Mgd Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+ECT.AMS,Eurocastle Investment Limited,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.5000
+ECT.AUS,Environmental Clean Technologies Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5024.KLA,Hup Seng Industries Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+C33.SGP,Chuan Hup Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+7053.KLA,See Hup Consolidated Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+HHCS.KLA,HO HUP CONSTRUCTION COMPANY,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+HSIB.KLA,HUP SENG INDUSTRIES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+HUP.BER,HUANENG PWR H YC 1 ADR/40,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+HUP.MUN,HUANENG PWR H YC 1 ADR/40,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2308
+HUP.STG,HUANENG POWER INTERNATL INC. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2069
+HUP1.FRK,Huaneng Power International Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+HUP1.BER,HUANENG PWR INTL H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

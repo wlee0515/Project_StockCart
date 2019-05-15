@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSX,Diana Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DSX-PB,Diana Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSX.AUS,Decimal Software Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DSX.FRK,PT Dian Swastatika Sentosa Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DSX.BER,DIAN SWASTATIKA  RP 250,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DSX.STG,Dian Swastatika Sentosa Tbk Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

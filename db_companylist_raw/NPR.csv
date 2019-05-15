@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NPRTX,Neuberger Berman Large Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NPRUF,Northview Apartment Real Estate Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPRVF,Napier Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NPR1.MUN,"INSYS THERAPEUT.DL-,00021",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NPR1.FRK,INSYS Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+NPR1.BER,"INSYS THERAPEUT.DL-,00021",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NPR1.STG,Insys Therapeutics Inc. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+530127.BSE,NPR Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727

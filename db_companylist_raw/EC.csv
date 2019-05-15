@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EC,Ecopetrol S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ECA,Encana Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ECL,Ecolab Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ECR,Eclipse Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ECC,Eagle Point Credit Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ESES,Eco-Stim Energy Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ECYT,Endocyte Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ECOR,electroCore Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ECT,ECA Marcellus Trust I,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SATS,EchoStar Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1818

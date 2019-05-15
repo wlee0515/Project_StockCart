@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OOEB.STG,ETFS Commodity Securities Ltd.D,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+3472.TOK,Ooedo Onsen Reit Investment Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+OOEA.STG,ETFS Commodity Securities Ltd.D,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+OOEC.STG,ETFS Commodity Securities Ltd.D,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+AT0000814918.VIE,OOEV 2,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+AT0000969795.VIE,OOEV 1,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.1429

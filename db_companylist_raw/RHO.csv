@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRH0.LON,db Physical Rhodium ETC,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RHO5.FRK,Roche Holding AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+RHO5.FRK,Roche Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+RHO5.HAM,ROCHE HLDG AG GEN.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+RHO5.BER,ROCHE HLDG AG GEN.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+RHK.MUN,RHOEN-KLINIKUM O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+TITLE-R.BAK,Rhom Bho Property Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4444
+RHK.DUS,RHOEN-KLINIKUM O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+RHK.HAM,RHOEN-KLINIKUM O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+RHO.DUS,ROCHE HLDG AG INH. SF 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1538

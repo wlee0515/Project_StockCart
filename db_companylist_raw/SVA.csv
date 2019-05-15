@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVA,Sinovac Biotech Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SVAIX,Federated Strategic Value Dividend Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SVAAX,Federated Strategic Value Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVACX,Federated Strategic Value Dividend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVAD,Silverton Adventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVALX,Federated Strategic Value Dividend R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVARX,Spectrum Low Volatility Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVAYX,SEI Large Cap Value Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVAUF,StorageVault Canada Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVAB.FRK,Stockholm IT Ventures AB (publ),Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCI,Donaldson Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DNA.AUS,Donaco International Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6154
+DNZ.FRK,Donaldson Company Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+UGS.FRK,Donaco International Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+A12BPU.FRK,MPF Donar,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4211
+AT0000767652.VIE,DONAU STAR-FONDS (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.4211
+AT0000A0W4G7.VIE,RT Donau,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.3333
+DONADIOINVER.BCL,Donadio Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+DONADOS2000S.BCL,Donados 2000 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

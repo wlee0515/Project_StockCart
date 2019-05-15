@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAS,Masco Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MA,Mastercard Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTZ,MasTec Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LM,Legg Mason Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MASI,Masimo Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MSRT,MassRoots Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MCFT,MasterCraft Boat Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MGPHF,Mason Graphite Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DOOR,Masonite International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+MHH,Mastech Digital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

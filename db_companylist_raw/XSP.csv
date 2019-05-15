@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSPA,XpresSpa Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XSPY,SPY Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XSPT,XSport Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XSP.TRT,iShares Core S&P 500 ETF (CAD-Hedged),ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+XSPS.LON,db x-trackers - S&P 500 Inverse Daily UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XSPX.LON,X S&P 500 Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XSPR.LON,X Stoxx Europe 600 Basic Res Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

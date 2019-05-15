@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBMA.NSE,JBM Auto Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+JBMA-EQ.NSE,JBM AUTO LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+JBMA.BSE,JBM Auto Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+532605.BSE,JBM Auto Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3158

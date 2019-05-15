@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDVIX,Delaware Value Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDVAX,Delaware Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDVCX,Delaware Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDVRX,Delaware Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DDV1.LON,Downing ONE VCT Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

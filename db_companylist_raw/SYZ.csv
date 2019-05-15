@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYZLF,Sylogist Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SYZ.TRV,Sylogist Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SYZ.FRK,Syzygy AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SYZ.BER,SYZYGY AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYZ.FRK,Syzygy AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SYZ.DUS,SYZYGY AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SYZ.HAM,SYZYGY AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+SYZ.MUN,SYZYGY AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SYZ.STG,Syzygy AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

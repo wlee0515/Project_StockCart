@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WFUFX,Wells Fargo Target 2060 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFURX,Wells Fargo Target 2020 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFUSX,Wells Fargo Ultra Shrt-Term Muni Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WFU.FRK,China Tonghai International Financial Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WFU.BER,"CHINA TONGH.INTL HD-,0033",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

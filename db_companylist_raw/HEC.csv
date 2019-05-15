@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HL,Hecla Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HECO,Strategy Shares EcoLogical Strategy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+HL-PB,Hecla Mining Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+HE-PU,HECO Capital Trust III QUIPS 6.5% 04,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+HL_PB,Hecla Mining Company Preferred ,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+HECPROJECT-SM.NSE,HEC INFRA PROJECTS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500

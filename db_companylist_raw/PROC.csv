@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PG,The Procter & Gamble Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ADP,Automatic Data Processing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SMPR,Standard Metals Processing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ADMG,Adamant DRI Processing and Minerals Group,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PCYN,Procyon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PCSA,Processa Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+RVIV,Reviv3 Procare Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GJR,Strats Trust For Procter & Gambel Security CTF 2006-1,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PROCX,Probabilities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1778

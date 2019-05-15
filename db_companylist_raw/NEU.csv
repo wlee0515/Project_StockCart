@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEU,NewMarket Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STIM,Neuronetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NBIX,Neurocrine Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CUR,Neuralstem Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NERV,Minerva Neurosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NURO,NeuroMetrix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+CGNSF,Cognetivity Neurosciences Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NTRP,Neurotrope Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NHPI,Neuro-Hitech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGUAX,Federated Government Ultrashrt Dur A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FGUA.BER,VERI-SAFE A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FGUA.MUN,VERI-SAFE A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

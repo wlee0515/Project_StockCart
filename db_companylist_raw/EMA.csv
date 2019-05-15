@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EMAN,eMagin Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMRN,eMarine Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EMAYX,Gabelli Entpr Mergers & Acquisitions Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+EMAG,VanEck Vectors EM Aggregate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+EMBA,eMamba International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EMACX,Gabelli Entpr Mergers & Acquisitions C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMAPX,Morgan Stanley EmMkts Breakout Ntns A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EMAIX,Eaton Vance Short Duration Muni Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

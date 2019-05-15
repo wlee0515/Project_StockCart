@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BEI.SGP,LHT Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7500
+LHTOF,Lehto Group Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+LHTM.KLA,LEE SWEE KIAT GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2609

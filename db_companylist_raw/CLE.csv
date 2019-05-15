@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLF,Cleveland-Cliffs Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLNE,Clean Energy Fuels Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UCTT,Ultra Clean Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CWEN,Clearway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CLSD,Clearside Biomedical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CWEN-A,Clearway Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CLH,Clean Harbors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CLRO,ClearOne Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+CCTC,Clean Coal Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CETY,Clean Energy Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIUTQ,Paiute Oil & Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PIUHX,PIMCO StocksPLUS Intl (USD-Hedged) I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIUCX,PNC International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIUIX,PNC International Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PIU.TAV,Poalim I.B.I.-Managing & Underwriting Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+PIU.BER,PROACT IT GROUP AB  SK 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PIU.STG,PROACT IT GROUP AB Namn-Aktier ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+F00000N62E.MIL,Aviva Cu A Bilanciato Piu',Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2222
+F00000N62V.MIL,Aviva Cu D Prudente Piu',Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2222
+AVIVACUABILA.MIL,Aviva Cu A Bilanciato Piu',Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2069

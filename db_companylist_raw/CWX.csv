@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWXZF,CanWel Building Materials Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWX.TRT,CanWel Building Materials Group Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CWX.AUS,Carawine Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SSCN.SGP,$ CWX Global,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4000
+594.SGP,CWX Global Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2857

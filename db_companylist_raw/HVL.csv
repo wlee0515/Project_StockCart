@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HVLM,Huron Valley Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HVLB.FRK,Pioneer Funds - European Potential,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HVLQ.BER,AMUNDI TOTAL RETURN AND,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+HVLQ.HAN,AMUNDI TOTAL RETURN AND,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+HVLQ.HAM,AMUNDI TOTAL RETURN AND,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+HVLQ.MUN,AMUNDI TOTAL RETURN AND,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+HVLQ.STG,Amundi Total Return Inhaber-Ant,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+KRM242AO9830.KOR,RG HVL Private Overseas Resources Development Special Asset 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.6000
+HVLQ.FRK,AMUNDI TOTAL RETURN AND,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+HVLB.DUS,AMUN.II-EUR.POT.I EO CAP.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.0938

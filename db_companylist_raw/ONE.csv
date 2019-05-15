@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ONE,OneSmart International Education Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OKE,ONEOK Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+COF,Capital One Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OHGI,One Horizon Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PTOTF,Patriot One Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+OSPN,OneSpan Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FWONA,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FWONK,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+OLP,One Liberty Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ONEQ,Fidelity NASDAQ Composite Tr Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

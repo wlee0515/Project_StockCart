@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PKCPY,PT AKR Corporindo Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PKCRX,Payden/Kravitz Cash Balance Plan Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKCIX,Payden/Kravitz Cash Balance Plan Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKCBX,Payden/Kravitz Cash Balance Plan Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKCOY,PARK24 Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

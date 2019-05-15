@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CQP,"Cheniere Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CQQQ,Invesco China Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+CQTRX,Columbia Thermostat Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+CQYRX,Columbia Select International Eq Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+CQRLF,Conquest Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CQURX,Columbia Disciplined Growth Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+CQQRX,Columbia Select International Eq Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

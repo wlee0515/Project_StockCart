@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WDFC,WD-40 Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WDFN,Woodlands Financial Services Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WDFCD,GLOBAL VANADIUM CO,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WDFCF,Global Vanadium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WDFI.FRK,AIS-AM.MSCI WLD FIN.EOC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WDFI.FRK,AIS-AM.MSCI WLD FIN.EOC,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+WDFI.MUN,AIS-AM.MSCI WLD FIN.EOC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WDFI.STG,AIS-Amundi MSCI Wld FinancialsN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+WDF22.BRU,WDPFRN2JUL22,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455
+WDF26.BRU,WDPFRN1APR26,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5455

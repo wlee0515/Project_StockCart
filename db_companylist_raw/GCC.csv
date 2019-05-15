@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCC,WisdomTree Continuous Commodity ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GCCTX,Goldman Sachs Commodity Strategy Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GCCIX,Goldman Sachs Commodity Strategy Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCO,Garden City Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCHX,GMO Climate Change III,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCEX,Gabelli Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCRX,Goldman Sachs Commodity Strategy R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCUX,Goldman Sachs Commodity Strategy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCCSX,Gabelli Small Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

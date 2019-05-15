@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDSCIENCEETT.TRT,TD Science & Technology - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+TDSCIENCESDE.TRT,TD Health Sciences - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+F000001G5G.TRT,Alto Monthly Inc & Global Gr Port TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2000
+F00000VAEE.TRT,IG Core Portfolio Class Inc Bal TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1905
+ALTOPORTREVM.TRT,Alto Monthly Inc & Global Growth Pt TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1818

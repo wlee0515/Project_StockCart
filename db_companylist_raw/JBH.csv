@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBHT,J.B. Hunt Transport Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JBH.AUS,JB Hi-Fi Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+JBHT.VIE,J.B. Hunt Transport Services Inc.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000

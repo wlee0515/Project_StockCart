@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CDO.AUS,Cadence Opportunities Fund Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8571
+CDOR,Condor Hospitality Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CDOYX,Columbia Dividend Opportunity Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDOWDX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDOWX,Columbia Dividend Opportunity T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDOWJX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CDOFX,Crawford Dividend Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CDOZX,Columbia Dividend Opportunity Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CDORX,Columbia Dividend Opportunity Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CDOWCX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

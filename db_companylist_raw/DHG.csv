@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHGCX,Dreyfus/Standish Global Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHGIX,Diamond Hill Global I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHGAX,Dreyfus/Standish Global Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHGYX,Diamond Hill Global Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHGBX,Diamond Hill Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHG.AUS,Domain Holdings Australia Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+DHG.STG,Dalata Hotel Group PLC Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DHG.FRK,Dalata Hotel Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DHG.BER,"DALATA HOTEL GROUP EO-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

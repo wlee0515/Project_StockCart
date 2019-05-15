@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OPP,RiverNorth/DoubleLine Strategic Opportunity Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CDO.AUS,Cadence Opportunities Fund Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+PTY,PIMCO Corporate & Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RIV,RiverNorth Opportunities Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GOF,Guggenheim Strategic Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ROIC,Retail Opportunity Investments Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+JPC,Nuveen Preferred Income Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GLO,Clough Global Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1579
+PKO,PIMCO Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1017

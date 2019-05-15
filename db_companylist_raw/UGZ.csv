@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UGZ.MUN,"GROBINA A/S  EO 1,4",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UGZ.STG,Joint stock company Grobina,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XAR,SPDR S&P Aerospace & Defense ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XAN,Exantas Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XTHCF,Xanthic Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XAUMF,Goldmoney Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XALL,Xalles Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XAN-PC,Exantas Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+XAPBX,Asia Pacific Fund Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

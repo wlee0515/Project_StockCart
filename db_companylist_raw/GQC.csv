@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GQC.TRV,Goldquest Mining Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GQC.DUS,F+C PTFS FD-JAP.EQU. A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GQC.HAM,F+C PTFS FD-JAP.EQU. A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GQC.MUN,F+C PTFS FD-JAP.EQU. A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GQC.STG,F&C Ptfs Fd-F&C Japanese Equ. A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GQCR.FRK,F&C Portfolios Fund - F&C European SmallCap,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GQCC.DUS,F+C PTFS FD-EUROP.EQU. A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GQCC.HAM,F+C PTFS FD-EUROP.EQU. A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+GQCC.MUN,BMO(L)I-EUROP.EQU. A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+GQCC.STG,BMO(LU)I-BMO European Equity Ac,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

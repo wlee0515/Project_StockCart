@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETP-PD,"Energy Transfer Partners, L.P. PFD UNIT SER D",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ETP-PC,"Energy Transfer Operating, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ETPFX,Capital Group Emerging Mkts Ttl Opps F-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ETPAX,Eaton Vance PA Municipal Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ETPHF,AgriMinco Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+3NGS.LON,Boost Natural Gas 3x Short Daily ETP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1622
+3OIL.MIL,Boost WTI Oil 3x Leverage Daily ETP,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1579
+3SIL.MIL,Boost Silver 3x Leverage Daily ETP,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1579
+3OIL.LON,Boost WTI Oil 3x Leverage Daily ETP,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1538
+QQQ3.MIL,Boost NASDAQ 100 3x Leverage Daily ETP,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1463

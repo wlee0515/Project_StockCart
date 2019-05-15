@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIUCX,Sterling Capital Interm US Govt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIU2.FRK,China Everbright Water Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BIU2.BER,CN EVERBRIGHT WATER HD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BIU2.HAM,CN EVERBRIGHT WATER HD 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+BIU2.MUN,CN EVERBRIGHT WATER HD 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+BIU2.STG,China Everbright Water Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

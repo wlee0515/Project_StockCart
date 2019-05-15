@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIED,Piedmont Mining Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PDM,Piedmont Office Realty Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PLL,Piedmont Lithium Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+PLLL,Piedmont Lithium Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+PSVFX,Piedmont Select Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PLL.AUS,Piedmont Lithium Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2857
+PL4.FRK,Piedmont Lithium Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+PL4.BER,PIEDMONT LITHIUM,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+PL4.STG,Piedmont Lithium Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+PL4A.FRK,PIEDMONT LITH. SP.ADR/100,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2286

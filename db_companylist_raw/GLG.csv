@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLG,China Commercial Credit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GLGI,Greystone Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GLGLF,GLG Life Tech Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGDF,GoGold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGAX,American Beacon GLG Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGUX,American Beacon GLG Total Return Ultra,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLRCX,American Beacon GLG Total Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGIX,American Beacon GLG Total Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGPX,American Beacon GLG Total Return Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GLGYX,American Beacon GLG Total Return Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

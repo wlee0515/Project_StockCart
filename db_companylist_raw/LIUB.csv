@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIUB.DUS,"LI + FUNG LTD  HD-,0125",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+LIUB.STG,Li & Fung Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LIUB.FRK,Li & Fung Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+LIUB.BER,"LI + FUNG LTD  HD-,0125",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+LIUB.MUN,"LI + FUNG LTD  HD-,0125",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

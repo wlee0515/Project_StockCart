@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBK,Triumph Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PPERF,PT Bank Mandiri (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PSGTY,PT Semen Indonesia (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PTAIY,PT Astra International Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PPERY,PT Bank Mandiri (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PTLKF,PT Lippo Karawaci Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PBCRY,PT Bank Central Asia Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PTABF,PT Astra Agro Lestari Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+PMDKF,PT. Mitra Adiperkasa Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

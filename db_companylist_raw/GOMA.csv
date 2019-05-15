@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOMA.FRK,BNP Paribas Easy - Barclays Euro Government Inflation Linked All Maturities,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+GOMA.FRK,BNP Paribas Easy - Barclays Euro Government Inflation Linked All Maturities,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+GOMA.PAR,BNPP E Barclays Eur Gvt InflLk AlMt ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273

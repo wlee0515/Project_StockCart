@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIY,Merrill Lynch Depositor Inc - PreferredPlus Trust Series CZN-1 CZN-1 TR CTF,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PYS,PPlus Trust Series RRD-1 RRD-1 CTF CL A,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GYC,Cabco Series 2004-102 Trust (sbc Communications Inc.) CTF FLT RATE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GYB,CABCO Series 2004-101 Trust (Goldman Sachs Capital I) CTF CALL 6.345,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GJV,STRATS Trust for News Corporation Securities Series 2006-4 CTF 7% CL A-1,Equity,United States,09:30,16:00,UTC-05,USD,0.1429
+GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4,Equity,United States,09:30,16:00,UTC-05,USD,0.1200
+GJR,Strats Trust For Procter & Gambel Security CTF 2006-1,Equity,United States,09:30,16:00,UTC-05,USD,0.1071
+CTFAX,Columbia Thermostat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0845
+CTFDX,Columbia Thermostat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0800
+CTFCX,American Funds College 2024 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0769

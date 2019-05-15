@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HANAX,Hanlon Managed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+HANA.BAK,Hana Microelectronics Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8000
+086790.KOR,Hana Financial Group Inc.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7273
+039130.KOR,Hanatour Service Inc.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6000
+009420.KOR,HanAll Biopharma Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.5455
+HANA.LON,Hansa Trust A Shares,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+6561.TOK,Hanatour Japan Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+HAA1.FRK,Hana Microelectronics Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+HAA1.MUN,HANA MICROEL. -FGN-  BA 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2667

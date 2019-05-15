@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HRSIX,Hood River Small-Cap Growth Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HRSRX,Hood River Small-Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+HRSMX,Hood River Small-Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

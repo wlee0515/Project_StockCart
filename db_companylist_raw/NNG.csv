@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNGRY,NN Group N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGAX,Nuveen Large-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGRX,Nuveen Large-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGPF,NN Group N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGCX,Nuveen Large-Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGFX,Nuveen Large-Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NNGD.FRK,National Grid plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NNGLF.AMS,NN Paraplufonds 1 N.V. - NN Global Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+NNGLO.AMS,ING Global Obligatie Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+XS1028950290.AMS,NNGROUP4.5%PL,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.3750

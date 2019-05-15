@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVDIX,Camelot Event Driven Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVDAX,Camelot Event Driven A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVDFEX,Eaton Vance Dividend Fortitude ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVDFFX,Eaton Vance Dividend Fortitude ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EVDFGX,Eaton Vance Dividend Fortitude ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EVD.FRK,CTS Eventim AG & Co. KGaA,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+EVD.FRK,CTS Eventim AG & Co. KGaA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EVD.STG,CTS Eventim AG & Co. KGaA Inhab,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EVD.BER,CTS EVENTIM KGAA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EVD.DUS,CTS EVENTIM KGAA,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CXE,MFS High Income Municipal Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CXEVOLUCI6FI.BCL,CX Evoluci? 6 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+CXH.FRK,Cxense ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+CXH.BER,CXENSE ASA  NK 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+CXEUROPA2022.BCL,CX Europa 2022 PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+CXEVOLUCIBOR.BCL,CX Evoluci? Borsa FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+CXEVOLUCIEUR.BCL,CX Evoluci? Europa FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+CXEVOLUCINDE.BCL,CX Evoluci? ?ndex Borsa FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

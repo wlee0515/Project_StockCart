@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LCVB.FRK,LCVB.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LCVB.FRK,LIF-L.EUROMTS C.BD.AG.EOA,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LCVB.MUN,LIF-L.EUROMTS C.BD.AG.EOA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+LCVB.STG,Lyx.IF-Lyx.EuroMTS C.Bd Ag.U.EA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

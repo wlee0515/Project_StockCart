@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGNLX,SGA International Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGNFX,Sparrow Growth No-Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGN.TRV,Scorpio Gold Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SGNV.FRK,Surgutneftegas Public Joint Stock Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+SGN.BER,SURGUTNEFTEGAS ADR/10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SGN.DUS,SURGUTNEFTEGAS ADR/10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SGNV.MUN,SURGUTNEFTEGAS VZ ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SGN.FRK,Surgutneftegas Public Joint Stock Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SGN.HAM,SURGUTNEFTEGAS ADR/10,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+SGN.MUN,SURGUTNEFTEGAS ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

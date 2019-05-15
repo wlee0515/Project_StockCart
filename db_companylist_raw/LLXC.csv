@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LLXC.DUS,SWISS RK DACH.-WACHSTUM A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+LLXC.HAM,SWISS RK DACH.-WACHSTUM A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+LLXC.STG,Swiss Rock Sicav,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

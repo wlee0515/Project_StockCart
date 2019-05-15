@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XHB,SPDR S&P Homebuilders ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XHE,SPDR S&P Health Care Equipment ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XHR,Xenia Hotels & Resorts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XHS,SPDR S&P Health Care Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XHYTX,BlackRock Corporate High Yield ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+XHPSX,John Hancock Preferred Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XHUA,Xinhua China Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XHPIX,John Hancock Preferred Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XHNWX,Pioneer Diversified High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

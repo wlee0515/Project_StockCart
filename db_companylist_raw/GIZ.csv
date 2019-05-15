@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIZAX,Invesco Global Infrastructure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIZCX,Invesco Global Infrastructure C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIZFX,Invesco Global Infrastructure R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIZSX,Invesco Global Infrastructure R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIZYX,Invesco Global Infrastructure Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIZRX,Invesco Global Infrastructure R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDJ,Telephone and Data Systems Inc. PFD,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TDJIX,AB Multi-Manager Select 2040 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJKX,AB Multi-Manager Select 2040 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJRX,AB Multi-Manager Select 2040 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJZX,AB Multi-Manager Select 2040 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJCX,AB Multi-Manager Select 2040 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJAX,AB Multi-Manager Select 2040 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJYX,AB Multi-Manager Select 2040 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDJ.FRK,Tanaka Co. Ltd..,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

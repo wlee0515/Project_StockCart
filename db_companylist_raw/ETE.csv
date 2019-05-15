@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETAH,Eternity Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ETEK,Eco-Tek Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ETER,Enterra Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ETEGX,Eaton Vance Small-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1725.HKG,Eternity Technology Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+BE0941244536.BRU,ETEX,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.5714
+ETEX.KLA,ENGTEX GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5000
+ETWA.JKT,PT Eterindo Wahanatama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+EE.BAK,Eternal Energy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1538

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFRO,Highland Floating Rate Opportun,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HFCHAS.SWI,UBS ETF HFRX Global HF SF CHF A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+HFR.TRT,Horizons Active FR Bond ETF Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HFGBAS.SWI,UBS ETF HFRX Global HF SF GBP A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+HFR.AUS,Highfield Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+UC19.LON,UBS ETF HFRX Global HF SF USD A acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333
+UIQC.FRK,UBS ETFs plc - HFRX Global Hedge Fund Index SF UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+HFRN.MIL,Amundi ETF Floating Rate USD Corp HEUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1579
+UIQC.FRK,UBS ETF HFRX Global HF SF EUR A acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1579

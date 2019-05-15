@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYGNX,Payden GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYGSX,Payden Global Low Duration,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYGFX,Payden Global Fixed Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYG.AUS,PayGroup Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

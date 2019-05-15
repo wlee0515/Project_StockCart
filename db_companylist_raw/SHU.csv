@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFLY,Shutterfly Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSTK,Shutterstock Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NWARF,Norwegian Air Shuttle ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHUNF,Shunfeng International Clean Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHTGF,Shun Tak Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SHUCX,AB Short Duration Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+SHUYX,AB Short Duration Income Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+SHUAX,AB Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+0242.HKG,Shun Tak Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2143

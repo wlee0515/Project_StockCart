@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIE,SPDR S&P Insurance ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KIE.LON,Kier Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+10I.FRK,Kier Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+10I.STG,KIER GROUP PLC Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3529
+KIEN.LON,KIER GROUP PLC NEW ORD 1P (NP -,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222

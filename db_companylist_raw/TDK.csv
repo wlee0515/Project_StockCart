@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTDKY,TDK Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDKTX,ClearTrack 2015 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TTDKF,TDK Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDK.STG,TDK CORP. Registered Shares o.N,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+6762.TOK,TDK Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+TDK.FRK,TDK Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TDK.BER,TDK CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TDK.DUS,TDK CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+TDK.MUN,TDK CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333

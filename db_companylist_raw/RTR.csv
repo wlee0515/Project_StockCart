@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RTRX,Retrophin Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RTRRX,Royce Total Return R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRIUX,Dimensional 2025 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRIWX,Dimensional 2030 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DRIBX,Dimensional 2010 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+DRIGX,Dimensional 2035 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DRIRX,Dimensional 2020 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RTRWX,Royce Total Return W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DRIHX,Dimensional 2040 Target Dt Rtr Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RTRIX,Royce Total Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

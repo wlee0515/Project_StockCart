@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMHLY,Jardine Matheson Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JARD.SGP,JMH USD,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+JMHIGHLIQUID.BSE,JM High Liquidity Dl Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+Y,Alleghany Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+YETI,YETI Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YMAB,Y-mAbs Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YI,111 Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+YY,YY Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AUY,Yamana Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+YINN,Direxion Daily FTSE China Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+YUM,YUM! Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+YELP,Yelp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+YRCW,YRC Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

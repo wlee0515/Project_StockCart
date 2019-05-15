@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WGBFX,Wells Fargo WealthBuilder Gr Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGBIX,Wells Fargo WealthBuilder Gr Bal Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGBAX,Wells Fargo WealthBuilder Gr Bal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WGB.LON,Walker Greenbank PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+1677.TOK,Listed Index Fund International Bond (Citigroup WGBI) Monthly Dividend Payment Type,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+WGB.FRK,Integer Holdings Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WGB.AUS,WAMGLOBAL FPO,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+WGB.STG,Integer Holdings Corp. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.0698

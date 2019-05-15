@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIG,Vanguard Dividend Appreciation ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+VIGAX,Vanguard Growth Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VIGRX,Vanguard Growth Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VIGIX,Vanguard Growth Index Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIGI,Vanguard Intl Dividend Apprec ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VIGLF,Vigil Health Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VIGC,Velt International Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VIGWX,Voya Investment Grade Credit W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VIGSVX,Investment Grade Income Trust 7,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

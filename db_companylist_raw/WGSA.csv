@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WGSA.BER,"SS+C TECHNOL.HLDGS DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+WGSA.FRK,SS&C Technologies Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+WGSA.STG,SS&C Technologies Holdings Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

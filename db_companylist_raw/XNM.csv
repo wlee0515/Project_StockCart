@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XNMIX,Nuveen Municipal Income Fd Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNMTX,Nuveen Massachusetts Quality Mu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNMYX,Nuveen Maryland Quality Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNMLX,Neuberger Berman MLP Income Fd ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNMZX,Nuveen Municipal High Income Op,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

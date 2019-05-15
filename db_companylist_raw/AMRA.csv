@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMRA,American Racing Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMRAX,American Growth One A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ACFSL.BSE,Amrapali Capital and Finance Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.8889
+AMRA.SGP,Amara,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5333
+526241.BSE,Amrapali Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+AMRAAGRI.BSE,Amraworld Agrico Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+AMRAPLIN.BSE,Amrapali Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+531681.BSE,AMRADEEP INDUSTRIES LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857
+531991.BSE,AMRAWORLD AGRICO LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2581
+AMARDEE.BSE,Amradeep Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1667

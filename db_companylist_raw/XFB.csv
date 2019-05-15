@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XFB.FRK,X-FAB SILICON FOUNDRIES,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+XFB.BER,X-FAB SILICON FOUNDRIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+XFB.DUS,X-FAB SILICON FOUNDRIES,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+XFB.STG,X-FAB Silicon Foundries SE Acti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+XFB.MUN,X-FAB SILICON FOUNDRIES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

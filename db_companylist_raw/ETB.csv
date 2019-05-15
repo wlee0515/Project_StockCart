@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ETBI,Eastgate Biotech Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ETBB.FRK,BNPPEFR-EU.S.50 UETF EOCD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+ETBB.FRK,BNPPEFR-EU.S.50 UETF EOCD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ETBB.PAR,BNPP Easy Euro Stoxx 50 ETF EUR C/D,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+ETBB.STG,BNP P.E.FR-EURO STOXX 50 U.ETFA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ETBF.BER,BNPPEFR-NEXT 11 UETF CEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000

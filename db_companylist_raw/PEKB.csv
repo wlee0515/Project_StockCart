@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PEKB.FRK,Peab AB,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+PEKB.BER,PEAB AB B  SK 5,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PEKB.STG,PEAB AB Namn-Aktier B SK 5,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

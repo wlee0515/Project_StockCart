@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RISAX,Manning & Napier Rainier Intl Discv K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+RISABX,ADT 1898 Cohen & Steers Real Es,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+RISAAX,ADT 1891 Cohen & Steers Real Es,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+RN.MIL,Risanamento SpA,Equity,Milan,09:00,17:30,UTC+01,EUR,0.8000
+RN5.FRK,Risanamento SpA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+0FTQ.LON,Risanamento SpA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+RISA.FRK,Pursuit Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+RN5.BER,RISANAMENTO,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211

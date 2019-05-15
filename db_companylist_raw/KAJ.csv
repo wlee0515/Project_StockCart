@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KAJMY,Kajima Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KAJARIACER.NSE,Kajaria Ceramics Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+1812.TOK,Kajima Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+KAJ.BER,KAJIMA CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KAJ.MUN,KAJIMA CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KAJ.FRK,Kajima Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+6391.TOK,Kaji Technology Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+KAJ.DUS,KAJIMA CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+KAJ.STG,KAJIMA CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+2607.KLA,Inch Kenneth Kajang Rubber Public Limited Company,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

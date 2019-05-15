@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWD.STG,Godewind Immobilien AG Namens-A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+GWD.FRK,Godewind Immobilien AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GWD.FRK,Godewind Immobilien AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+GWD.DUS,GODEWIND IMMO.AG  NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+GWD.BER,GODEWIND IMMO.AG  NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GWD.HAM,GODEWIND IMMO.AG  NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GWD.MUN,GODEWIND IMMO.AG  NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

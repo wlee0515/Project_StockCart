@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CAI,CAI International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CAIBX,American Funds Capital Income Bldr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CAIFX,American Funds Capital Income Bldr F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CAIB,"California International Bank, N.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAI-PA,CAI International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CAI-PB,CAI International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRNCY,Cairn Energy PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CAIPKX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CAIRX,Columbia Acorn International Inst2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CAIXY,"CaixaBank, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.3158

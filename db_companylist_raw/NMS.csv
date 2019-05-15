@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NMS,Nuveen Minnesota Quality Munici,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NMSAX,Columbia Small Cap Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMSCX,Columbia Small Cap Index Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NMSCA,Nutrition Management Services Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+2162.TOK,nms Holdings Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+NMS.AUS,Neptune Marine Services Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222
+IFMIMPX.BSE,NMS Resources Global Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1935

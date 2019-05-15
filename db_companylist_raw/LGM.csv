@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGMAX,Loomis Sayles Global Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LGMH,Light Media Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LGMCX,Loomis Sayles Global Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MIEMX,BMO LGM Emerging Markets Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLGFX,BMO LGM Frontier Markets Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LGMFF,Block X Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LGMNX,Loomis Sayles Global Allocation N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BAEMX,BMO LGM Emerging Markets Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+40940.AUS,BMO LGM Global Emerging Markets,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1765

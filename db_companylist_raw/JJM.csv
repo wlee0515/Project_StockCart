@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JJM,iPath B Bloomberg Indl Mtls Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+JJMB,iPath B Bloomberg Indl Mtls Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JJMTF,iPath Bloomberg Ind Metals SubTR ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

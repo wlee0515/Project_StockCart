@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOOG,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOOS,Canada Goose Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GOOGL,Alphabet Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RGSE,Real Goods Solar Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GT,The Goodyear Tire & Rubber Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DKS,Dick's Sporting Goods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+BGFV,Big 5 Sporting Goods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GOOD,Gladstone Commercial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SMPL,The Simply Good Foods Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2000
+GSHD,"Goosehead Insurance, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.1875

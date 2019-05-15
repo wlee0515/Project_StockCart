@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RX.PAR,Recylex S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.8571
+RX.TRV,BioSyent Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500

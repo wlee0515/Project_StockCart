@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RAD,Rite Aid Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RIG,Transocean Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RIO,Rio Tinto plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RBBN,Ribbon Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RIOT,Riot Blockchain Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RIGL,Rigel Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RNG,RingCentral Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RIV,RiverNorth Opportunities Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+RIBT,RiceBran Technologies,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+REI,Ring Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

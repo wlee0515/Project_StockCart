@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRDX,Surmodics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRDP,Star Resorts Development Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRDL.BSE,Sunstar Realty Development Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+SRD.DUS,SPDR S+P500 ETF TST RCPTS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+SRDAPRT.BSE,Sarda Proteins Ltd.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+159954.SHZ,China Southern H-shr Srd ETF,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1935

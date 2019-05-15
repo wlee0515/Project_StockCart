@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BJX1.STG,BioLife Solutions Inc. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BJX1.FRK,BioLife Solutions Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+BJX1.BER,"BIOLIFE SOLUTIONS DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

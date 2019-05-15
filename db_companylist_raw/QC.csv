@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QS8.MUN,"QC HOLDINGS INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+QCOM,QUALCOMM Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QCRH,QCR Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QCLN,First Trust NASDAQ Cln Edge GrnEngyETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+QCAAF,QUINSAM CAP CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+QCSTIX,CREF Stock Account - R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+QCGRIX,CREF Growth Account - R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+QCSTRX,CREF Stock Account - R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+QCGRRX,CREF Growth Account - R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+QCSTPX,CREF Stock Account - R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

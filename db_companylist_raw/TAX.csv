@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAB,Invesco Taxable Municipal Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+FPTA,First Priority Tax Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BBN,BlackRock Taxable Municipal Bond Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VTEB,Vanguard Tax-Exempt Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VWAHX,Vanguard High-Yield Tax-Exempt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1463

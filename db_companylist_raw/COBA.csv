@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTSSF,First Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BKTPF,Cruz Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+CBLLF,Cobalt 27 Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+BRVVF,Quantum Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+PCRCF,Pacific Rim Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+NDENF,Bankers Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+CCWOF,Canada Cobalt Works Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GLBCF,Global Cobalt Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CBBHF,Cobalt Blue Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CCOB,Century Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2759

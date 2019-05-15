@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBC,AT&T Inc. 5.625% Global Notes d,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TBCIX,T. Rowe Price Blue Chip Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBCUX,"Tweedy, Browne Global Value II Ccy Unhdg",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBCG.LON,TBC Bank Group PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+TBCN.FRK,Television Broadcasts Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TBCN.BER,TELEVISION BROAD. (BL100),Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TBCN.MUN,TELEVISION BROAD. (BL100),Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+3974.TOK,TBCSCAT Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+TBCN.STG,Television Broadcasts Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

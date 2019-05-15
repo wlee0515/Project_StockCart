@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1899.TOK,Fukuda Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+5185.TOK,Fukoku Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+6960.TOK,Fukuda Denshi Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+4FK.FRK,FUKUOKA FINL GROUP,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+FUK.FRK,Fujikon Industrial Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+FUY.FRK,Fukuyama Transporting Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+2291.TOK,Fukutome Meat Packers Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+4FK.BER,FUKUOKA FINL GROUP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069
+6420.TOK,Fukushima Industries Corp.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2000
+7871.TOK,Fukuvi Chemical Industry Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBDG,Small Business Development Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBDCF,SBD Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBDAX,SEI California Municipal Bond F (STET),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBDA.BER,UBS(L)MONEY MKT-AUD P-ACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SBDA.DUS,UBS(L)MONEY MKT-AUD P-ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

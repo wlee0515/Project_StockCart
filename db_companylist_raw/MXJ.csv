@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MXJUX,Great-West Moderately Cnsrv Pfl Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXJVX,Great-West International Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MXJP.LON,Invesco MSCI Japan ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+MXJ.PAR,HSBC MSCI Pacific ex Japan ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEXA,Nexa Resources S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NXPRF,Nexans S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NEX.PAR,Nexans S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+NEXA.TRT,Nexa Resources S.A.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5333
+NXS.BER,NEXANS INH.  EO 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5333
+NXS.DUS,NEXANS INH.  EO 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+NXS.FRK,Nexans S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+BG9.BER,"NEXANS HELL. NOM. EO 1,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+NXS.MUN,NEXANS INH.  EO 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2759

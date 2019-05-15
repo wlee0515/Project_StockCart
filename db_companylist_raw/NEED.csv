@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NEED,Direxion Daily Cnsmr Staples Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+NEEGX,Needham Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NESGX,Needham Small Cap Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NEEIX,Needham Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NESIX,Needham Small Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NEAIX,Needham Aggressive Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+NEAGX,Needham Aggressive Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444

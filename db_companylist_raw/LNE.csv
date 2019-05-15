@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LNE.FRK,Lincoln Electric Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+LNE-H.TRV,Loon Energy Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+LNE.STG,LINCOLN ELECTRIC HOLDINGS INC.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLD.BAK,KTAM Gold ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.6667
+ENY.BAK,KTAM SET Energy ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.2500
+KTA.AUS,Krakatoa Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2400
+EICT.BAK,KTAM Set ICT ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.2222
+CHINA.BAK,W.I.S.E. KTAM CSI 300 China Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.2222
+EBANK.BAK,KTAM SET Banking ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.1935
+ECOMM.BAK,KTAM SET Commerce ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.1875
+EFOOD.BAK,KTAM SET Food and Beverage ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.1818
+ESET50.BAK,KTAM SET50 ETF Tracker,ETF,Thailand,10:00,16:30,UTC+07,THB,0.1818

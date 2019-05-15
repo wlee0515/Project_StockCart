@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBH,Sally Beauty Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SBHGF,SBI Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SBHVX,Segall Bryant & Hamill Small Cap Val,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHO,Steuben Trust Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHAX,Segall Bryant & Hamill All Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHIX,Saratoga Health & Biotechnology I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHMY,Sino Biopharmaceutical Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHEX,Segall Bryant & Hamill Emerging Mkts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHSX,Segall Bryant & Hamill Intl Sm Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SBHPX,Segall Bryant & Hamill Short Trm Pls Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

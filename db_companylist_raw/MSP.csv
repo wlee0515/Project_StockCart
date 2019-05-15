@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MSPC,Metrospaces Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MSPIX,MainStay MacKay S&P 500 Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPCX,Morgan Stanley Inst Global Dscvry C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPLX,MassMutual Select Total Return Bond Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPZX,MassMutual Select Total Return Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPYX,BlackRock PA Municipal Bond Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPTX,Morgan Stanley Inst Global Advtg C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MSPRX,Morgan Stanley Inst Advantage C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

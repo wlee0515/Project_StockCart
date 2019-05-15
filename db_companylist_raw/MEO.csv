@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MEOH,Methanex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MEOBF,Mesoblast Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MEOAX,MainStay MacKay Emerging Markets Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEOVX,MainStay MacKay Emerging Markets Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEODX,MainStay MacKay Emerging Markets Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEOIX,MainStay MacKay Emerging Markets Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEOCX,MainStay MacKay Emerging Markets Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MEOAF,Melbana Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MEO.VIE,Metro AG,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+MEOD.STG,Ceconomy AG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

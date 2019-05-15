@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TACBY,Tabcorp Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+TABCF,Tabcorp Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TAH.AUS,Tabcorp Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+THL.DUS,TABCORP HLDGS LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3810
+THL.FRK,Tabcorp Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3810
+THL.MUN,TABCORP HLDGS LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+THL.STG,TABCORP HOLDINGS LTD. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

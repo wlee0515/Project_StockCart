@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IUSG,iShares Core S&P US Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IUSV,iShares Core S&P US Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IUSB,iShares Core Total USD Bond Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IUS,Invesco Strategic US ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IUTSF,iShares S&P/TSX 60 Index ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IUSS,Invesco Strategic US Small Com ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IUSDF,AS ONE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IUESX,JPMorgan International Uncons Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+IUENX,JPMorgan International Uncons Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+IUCEX,JPMorgan International Uncons Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RG.TRV,Romios Gold Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+N1O.BER,"NOVATEK GDR RG.S/10 RL-,1",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+N1O.MUN,"NOVATEK GDR RG.S/10 RL-,1",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+0O9.STG,Niu Technologies Rg.Sh.(ADRs)/2,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

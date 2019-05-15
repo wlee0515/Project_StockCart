@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GBTC,Bitcoin Investment Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GBR,New Concept Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GBT,Global Blood Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GBLX,GB Sciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GBCHF,Global Blockchain Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GBX,The Greenbrier Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GBDC,Golub Capital BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GBCI,Glacier Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GBL,GAMCO Investors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GBOOF,"Grupo Financiero Banorte, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.5714

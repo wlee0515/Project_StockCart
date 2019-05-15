@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISPA.FRK,iShares STOXX Global Sel Dividend 100 (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+GALLISPAT.NSE,Gallantt Ispat Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7273
+AANCHALISP.BSE,Aanchal Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+532734.BSE,Godawari Power & Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+ADITYA.BSE,Aditya Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+SHRDAIS.BSE,Sharda Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+HEERAISP.BSE,Heera Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3529
+SATHAISPAT.BSE,Sathavahana Ispat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+SATHAISPAT.NSE,Sathavahana Ispat Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+ISPA.FRK,iShares (DE) I - iShares STOXX Global Select Dividend 100 UCITS ETF (DE),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2353

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFTI,Befut Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BFTHX,Baron Fifth Avenue Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BFTUX,Baron Fifth Avenue Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFTIX,Baron Fifth Avenue Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BFTL,The Bank of Fincastle,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BFT.SGP,Fabchem China Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+F00000PCFO.PAR,BFT Sequin ISR ED,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+FR0011660992.PAR,BFT Euro Futur ESG PD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2727
+FR0010340620.PAR,BFT France Futur ED,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0011043009.PAR,BFT Capital Convictions EC,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2069

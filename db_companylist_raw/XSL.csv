@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSLV,Invesco S&P SmallCap Low Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+XSLCX,Invesco Senior Loan Fund Class ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XSLI.SWI,X SLI ETF 1D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

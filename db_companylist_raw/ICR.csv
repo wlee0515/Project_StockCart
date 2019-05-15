@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ICRNX,VY Clarion Global Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ICRPX,VY Clarion Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICRAX,ICON Consumer Staples A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICRD,International Card Establishment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICRPSX,Mid Cap Core Strategy 2018-3 (I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICRA.NSE,ICRA Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ICR.FRK,Cassini Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

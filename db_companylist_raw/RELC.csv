@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RELCX,Russell Inv LifePoints Equity Gr Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+RELCAPITAL.NSE,Reliance Capital Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714
+RELCAPITAL.BSE,Reliance Capital Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+RELCONS.NSE,Reliance ETF Consumption,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+RELCHEMQ.BSE,Reliance Chemotex Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+RELCNX100.BSE,Reliance ETF Nifty 100,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+RELCNX100.NSE,Reliance ETF Nifty 100,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+RELCONS-EQ.NSE,RELIANCE MUTUAL FD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+RELCNX100-EQ.NSE,RELIANCE MUTUAL FD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4211

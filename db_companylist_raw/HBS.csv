@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HBSGX,Hartford Small Cap Growth HLS IB,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HOML,UBS ETRACS M Rst 2xLvg ISE Excly Hbs ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HBSI,Highlands Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HBSL.NSE,HB STOCKHOLDINGS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+HBS.BER,"DELFINGEN IND.INH.EO 1,53",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4615
+HBSTOCK.BSE,HB Stockholdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRA,W. R. Grace & Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GRAFU,GRAF INDUSTRIAL CORP.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWW,W.W. Grainger Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+GTE,Gran Tierra Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LQD,iShares iBoxx $ Invmt Grade Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+CHKR,Chesapeake Granite Wash Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LOPE,Grand Canyon Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GGG,Graco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GTN,Gray Television Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+GPMT,Granite Point Mortgage Trust Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1429

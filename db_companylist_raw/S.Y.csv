@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F000010DSC.PAR,S.ytic P,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+F000010DSD.PAR,S.ytic I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+F000010DSE.PAR,S.ytic GI,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5000

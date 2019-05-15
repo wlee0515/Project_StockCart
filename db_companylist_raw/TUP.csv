@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TUP,Tupperware Brands Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TUPY3.SAO,Tupy S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7500
+TUP.STG,Tupperware Brands Corp. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TUP.MUN,"TUPPERW.BRAND.CORP.DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TUP.FRK,Tupperware Brands Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TUP.BER,"TUPPERW.BRAND.CORP.DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

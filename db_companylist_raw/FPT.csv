@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPTA,First Priority Tax Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FPTKX,Fidelity Freedom 2015 K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPTNGX,FT 6768: Capital Strength Buy-W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPTHX,Fidelity Advisor 529 Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPTGZX,FT 6910: Dividend Growth Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPTQVX,FT 7332: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GM,General Motors Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GMDA,Gamida Cell Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GME,GameStop Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GMLP,Golar LNG Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+GMED,Globus Medical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GMO,General Moly Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GMRE,Global Medical REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GMS,GMS Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GMXAY,Genmab A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+GMOM,Cambria Global Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

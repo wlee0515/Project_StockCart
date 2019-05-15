@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOHA.BER,"NORSK HYDRO NK ADR 1,098",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+NOHA.FRK,Norsk Hydro ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

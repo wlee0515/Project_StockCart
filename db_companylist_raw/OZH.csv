@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OZH1.FRK,Valartis Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OZH1.MUN,VALARTIS GROUP AG NA SF 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+OZH1.STG,Valartis Group AG Namens-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

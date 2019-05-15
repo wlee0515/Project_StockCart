@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IPDC.FRK,Independent News & Media PLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+IPDC.BER,"INDEP.NEWS+MEDIA  EO-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IPDC.STG,Independ. News and Media PLC Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

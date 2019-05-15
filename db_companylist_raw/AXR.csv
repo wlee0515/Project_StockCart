@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXR,AMREP Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AXRX,Amexdrug Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXREF,Amarc Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXRAW,AXAR ACQUISITION C,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXR.TRT,Alexco Resource Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

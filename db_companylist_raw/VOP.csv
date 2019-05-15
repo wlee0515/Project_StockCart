@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VOPKY,Koninklijke Vopak N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VOPKF,Koninklijke Vopak N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VPK.AMS,Koninklijke Vopak N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7500
+0O8V.ILN,KONINKLIJKE VOPAK NV VOPAK ORD ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+0O8V.LON,Koninklijke Vopak N.V.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+VOP.FRK,Investigator Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+VOP.BER,INVESTIGATOR RESOURC. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+VPK.VIE,Koninklijke Vopak N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4000
+VPK5.FRK,Koninklijke Vopak N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+VPK5.DUS,"KON. VOPAK NV  EO -,50",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOV,National Oilwell Varco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VRCV,Varca Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NO8.STG,National Oilwell Varco Inc. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+NO8.FRK,National Oilwell Varco Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759
+0K58.LON,National Oilwell Varco Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2759
+NO8.BER,"NATL OILWELL VARCO DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+NO8.DUS,"NATL OILWELL VARCO DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2500
+NO8.MUN,"NATL OILWELL VARCO DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

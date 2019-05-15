@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TXMD,TherapeuticsMD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TXMC,The Tirex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TXM1.FRK,Travelzoo,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TXM1.BER,"TRAVELZOO  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TXM1.MUN,"TRAVELZOO  DL -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TXM1.STG,Travelzoo Registered Shares DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

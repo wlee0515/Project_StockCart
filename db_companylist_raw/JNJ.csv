@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JNJ,Johnson & Johnson,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JNJ.FRK,Johnson & Johnson,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+JNJ.MUN,JOHNSON + JOHNSON  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+JNJB34.SAO,Johnson & Johnson,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+JNJ.DUS,JOHNSON + JOHNSON  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+JNJ.MEX,Johnson & Johnson,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+JNJ2.LON,Leverage Shares 2x Johnson & JohnsonETCA,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+JNJ.ARG,Johnson & Johnson,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+JNJ.BER,JOHNSON + JOHNSON  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000

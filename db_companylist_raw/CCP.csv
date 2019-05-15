@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCPR,CaseyCorp Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCPIX,Calvert Mid-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCP.LON,Celtic plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+CCP.AUS,Credit Corp Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CT1.AUS,CCP Technologies Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+CCPR3.SAO,Cyrela Commercial Properties S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+CCPE.LON,CVC Credit Partners European Opportunities Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+BJ2.BER,CCP TECHS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+CCP.STG,Celtic plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3750
+CCPG.LON,CVC Credit Partners European Opportunities Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222

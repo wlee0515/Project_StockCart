@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVQ.FRK,Novabase SGPS SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NVQ.MUN,"NOVABASE SGPS INH. EO-,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NVQ.STG,NVQ.SG,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

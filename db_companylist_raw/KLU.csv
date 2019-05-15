@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTKWY,Wolters Kluwer N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WOLTF,Wolters Kluwer N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+WKL.AMS,Wolters Kluwer N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.4444
+WOSB.DUS,WOLTERS KLUWER NAM. EO-12,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+WOSB.FRK,Wolters Kluwer N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+WOSB.HAM,WOLTERS KLUWER NAM. EO-12,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2727
+KLU1.FRK,Kaiser Aluminum Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+WKL.VIE,Wolters Kluwer N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2143
+0NMU.ILN,WOLTERS KLUWER NV WOLTERS KLUWE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+2453.KLA,KLUANG RUBBER CO (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

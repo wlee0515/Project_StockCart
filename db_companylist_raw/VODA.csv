@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VOD,Vodafone Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+VDMCY,Vodacom Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VODPF,Vodafone Group Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VODAF,Vodacom Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+VOD.LON,Vodafone Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+IDEA.NSE,Vodafone Idea Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+VODI.FRK,Vodafone Group Plc,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5455
+VODI.FRK,Vodafone Group Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+VODI.HAM,VODAFONE GROUP PLC,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+VOD.JOH,Vodacom Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636

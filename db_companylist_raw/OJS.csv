@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OJSCY,Public Joint Stock Company Rosneft Oil Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OJSY,OJsys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RKMD.ILN,OJSC ROSTELECOM ADR (EACH REPR ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+OJS1.FRK,ROSNEFT OIL GDRREGS RL-01,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+OJS1.FRK,Public Joint Stock Company Rosneft Oil Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OJS1.BER,ROSNEFT OIL GDRREGS RL-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+OJS1.DUS,ROSNEFT OIL GDRREGS RL-01,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+OJS1.MUN,ROSNEFT OIL GDRREGS RL-01,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+OJS1.STG,Rosneft Oil Company Reg.Shs(sp.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

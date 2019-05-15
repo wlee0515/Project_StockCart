@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FTTHX,Fidelity Advisor Freedom 2035 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTWX,Fidelity Advisor Freedom 2025 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTMX,Franklin MI Tax-Free Inc A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTAX,Franklin LifeSmart 2045 Retire Trgt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTRX,Templeton Global Total Return R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTEX,Fidelity Advisor Total Intl Equity M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTNX,Fidelity Advisor Asset Manager 30% M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTTCX,Franklin LifeSmart 2025 Retire Trgt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FTT.TRT,Finning International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FTT.AUS,Factor Therapeutics Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

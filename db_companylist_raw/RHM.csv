@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RHMYX,Victory High Income Municipal Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RHM.FRK,Rheinmetall AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+RHM.HAM,RHEINMETALL AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+RHM.DUS,RHEINMETALL AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+RHM.FRK,Rheinmetall AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RHM.BER,RHEINMETALL AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RHM.MUN,RHEINMETALL AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RHM.HAN,RHEINMETALL AG,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+RHM.STG,RHEINMETALL AG Inhaber-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RHM.SWI,Rheinmetall AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667

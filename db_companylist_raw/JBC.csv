@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBCT,JobLocationMap Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JBCHEPHARM.NSE,J. B. Chemicals & Pharmaceuticals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3750
+9889.TOK,JBCC Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+JBCHEPHARM.BSE,J. B. Chemicals & Pharmaceuticals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2857

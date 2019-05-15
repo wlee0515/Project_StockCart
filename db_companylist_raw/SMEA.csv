@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMVLX,Smead Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SMEAX,Invesco Small Cap Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+SVFFX,Smead Value I1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+SVFAX,Smead Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+SVFKX,Smead Value R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+SVFSX,Smead Value S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SVFMX,Smead Value I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SVFDX,Smead Value R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SVFYX,Smead Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SMEA.LON,iShares MSCI Europe ETF EUR Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444

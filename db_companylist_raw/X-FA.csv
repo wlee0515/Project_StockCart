@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XFAB.PAR,X-FAB Silicon Foundries SE,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+XFB.FRK,X-FAB SILICON FOUNDRIES,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+XFB.BER,X-FAB SILICON FOUNDRIES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+XFB.DUS,X-FAB SILICON FOUNDRIES,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+XFB.STG,X-FAB Silicon Foundries SE Acti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+0ROZ.ILN,X FAB SILICON FOUNDRIES EV X-FA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+0ROZ.LON,X-FAB Silicon Foundries SE,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+XFB.MUN,X-FAB SILICON FOUNDRIES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

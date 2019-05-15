@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QUCT,Queen City Investments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+QUCCF,Quanta Computer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QUC.FRK,Quaker Chemical Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

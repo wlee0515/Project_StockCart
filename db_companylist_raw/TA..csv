@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TA.TRT,TransAlta Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+TA.TWN,ABITL Global High Yield TA TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ACWI,iShares MSCI ACWI ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ACWX,iShares MSCI ACWI ex US ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ACWV,iShares Edge MSCI Min Vol Global ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CWI,SPDR MSCI ACWI ex-US ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ACWF,iShares Edge MSCI Multifactor Global ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ACIM,SPDR MSCI ACWI IMI ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+LOWC,SPDR MSCI ACWI Low Carbon Target ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+ACWRF,Acceleware Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ACWEX,Cavanal Hill World Energy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHSBX,Putnam Global Health Care B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PHSBEQ.MIL,PHARUS BEST GL MANAG FLEX EQUIT,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6154
+PHSBOQ.MIL,PHARUS BOND OPPORTUNITIES CLASS,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6154

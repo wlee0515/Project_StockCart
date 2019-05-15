@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CCA,MFS California Municipal Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CCAN,Canadian Cannabis Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CAW,CCA Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CCASX,Conestoga Small Cap Investors,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCAPX,Chiron Capital Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCALX,Conestoga Small Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CCAJ,Coastal Capital Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCAOF,Callidus Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CCAOX,Columbia Strat CA Muncpl Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RSKIX,CCA Aggressive Return Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

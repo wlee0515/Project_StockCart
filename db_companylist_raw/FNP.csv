@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNPFX,American Funds New Perspective F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPIX,ProFunds Financials UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPMQX,FT 6345: Strategic Income Plus ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPBRX,FT 6939: Corporate High Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPCX,FA 529 NEW INSIGHTS PORT-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPAX,FA 529 NEW INSIGHTS PORT-CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNPPX,FA 529 NEW INSIGHTS PORT-CL P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNPSX,ProFunds Financials UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNPLUX,FT 7606: Balanced Income Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNP.AUS,Freedom Foods Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

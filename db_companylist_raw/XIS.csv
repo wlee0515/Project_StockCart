@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XISDX,PGIM Short Duration High Yield ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XIS.STG,AXIS COMMUNICATIONS AB Namn-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+000983.SHZ,Shanxi Xishan Coal and Electricity Power Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+XISC.JKT,Premier ETF Indo State-Owned Companies,Mutual Fund,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+XISR.JKT,Premier ETF SRI-KEHATI,Mutual Fund,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+600291.SHH,Xishui Strong Year Co. Ltd. Inner Mongolia,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.6000
+XIS.BER,"AXIS CMNCTS  SK-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+XIS.MUN,"AXIS CMNCTS  SK-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+XISI.JKT,Premier ETF SMinfra18,Mutual Fund,Jakarta,09:00,16:00,UTC+07,IDR,0.1667
+XIS.FRK,Axis AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1667

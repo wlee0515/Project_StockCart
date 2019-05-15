@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGOFX,Pioneer Growth Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PGOL,Patriot Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOAX,PGIM Jennison Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOYX,Putnam Growth Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOCX,Principal Global Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOVX,PIMCO Long-Term US Government Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOEX,Putnam Growth Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGORX,Putnam Growth Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGOIX,Principal Global Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGODX,Putnam Growth Opportunities R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UKGBPA.SWI,UBS ETF MSCI United Kingdom GBP A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+UKGBPB.SWI,UBS ETF MSCI United Kingdom GBP A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

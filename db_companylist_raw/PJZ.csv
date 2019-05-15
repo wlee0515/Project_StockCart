@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJZ.DUS,APA GROUP STPLD. SECS.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+PJZ.STG,APA Group Stapled Securities o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+PJZ.FRK,APA Group Stapled Securities,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HCP,HCP Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HCPIX,ProFunds UltraSector Health Care Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCPSX,ProFunds UltraSector Health Care Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCPBX,HC Inflation Protected Secs HC Strat,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCPAX,HC Capital Trust - The Inflatio,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCPCX,Hartford Capital Appreciation HLS IC,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HC5.BER,HCP INC.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+HC5.HAM,HCP INC.  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4444
+HC5.STG,HCP Inc. Registered Shares DL 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+HC5.FRK,HCP Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444

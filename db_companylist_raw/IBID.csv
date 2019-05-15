@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBIDF,Ibiden Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+IBI.STG,IBIDEN CO. LTD. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+IBI.FRK,Ibiden Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+4062.TOK,Ibiden Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+IBI.BER,IBIDEN CO.LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+IBI.MUN,IBIDEN CO.LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5333
+IBIDASICAV.BCL,Ibida SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5333
+F000001Y9R.BCL,Ibida SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000

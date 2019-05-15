@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYLD,High Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+HYLD.LON,iShares Global HY Corp Bd ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+HYLD.MIL,iShares Global HY Corp Bd ETF USD Dist,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+HYLD.SWI,iShares Global HY Corp Bd ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

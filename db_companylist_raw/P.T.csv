@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGTG.JKT,P.T. Bank Ganesha Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+PNBN.JKT,P.T. Bank Pan Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+AMAG.JKT,P.T. Asuransi Multi Artha Guna Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+BNBA.JKT,P.T. Bank Bumi Arta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2308
+MTDL.JKT,P.T. Metrodata Electronics Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2000
+FASW.JKT,P.T. Fajar Surya Wisesa Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2000
+PTQ.FRK,P.T. Bank Pan Indonesia Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000

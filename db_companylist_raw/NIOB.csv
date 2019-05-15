@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NIOBF,NioCorp Developments Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+MDNNF,Niobay Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+NBY.TRV,Niobay Metals Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3636

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DAUD,Citigroup ETNs lnkd VS Dly 4X Lng USDAUD,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DAUGF,Desert Gold Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DAU.TRV,Desert Gold Ventures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DAU.STG,DASSAULT AVIATION S.A. Actions ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+FR0007479266.PAR,Dauphine,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.6667
+DAU.FRK,Dassault Aviation SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

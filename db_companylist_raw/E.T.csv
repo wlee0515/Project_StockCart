@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+E.TRT,Enterprise Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.8571
+0R4E.DUS,E.T.C.T.-HULL TACT.US ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+03EF.BER,IND.IQ E.T.-IQ US R.E.S.C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+03EF.DUS,IND.IQ E.T.-IQ US R.E.S.C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

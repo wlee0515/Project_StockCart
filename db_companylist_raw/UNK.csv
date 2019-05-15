@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UNK.FRK,United Bankshares Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+UNK.BER,"UTD BANKSHS INC.  DL 2,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UNKL.MOS,Southern Urals Nickel Plant PJSC,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.6000

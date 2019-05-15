@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIRP.PAR,Virbac SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6154
+V16.FRK,Virbac SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6154
+V16.STG,VIRBAC S.A. Actions au Porteur ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+0NM7.ILN,VIRBAC SA STE VIRBAC ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTYFF,MTY Food Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MTYRX,Manning & Napier Target 2050 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTYKX,Manning & Napier Target 2050 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTYZX,Manning & Napier Target 2050 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTYIX,Manning & Napier Target 2050 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MTY.TRT,MTY Food Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FMTY14.MEX,"Fibra Mty, S.A.P.I. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+F00000NGS7.BSE,DHFL Pramerica Sht Mty Qt Dv,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2727
+9MF.FRK,MTY Food Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1935

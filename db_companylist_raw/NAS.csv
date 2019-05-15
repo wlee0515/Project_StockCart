@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBB,iShares Nasdaq Biotechnology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+NDAQ,Nasdaq Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BIB,ProShares Ultra Nasdaq Biotechnology,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+NPSNY,Naspers Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+QYLD,Horizons NASDAQ 100 Covered Call ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+QQQC,Global X NASDAQ China Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+ONEQ,Fidelity NASDAQ Composite Tr Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1538
+UBIO,ProShares UltraPro Nasdaq Biotechnology,ETF,United States,09:30,16:00,UTC-05,USD,0.1429

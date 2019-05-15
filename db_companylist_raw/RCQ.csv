@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCQ.STG,Online Blockchain PLC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+RCQ.FRK,"ONLINE BLOCKCH.PLC LS-,05",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RCQ.BER,"ONLINE BLOCKCH.PLC LS-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RCQ.MUN,"ONLINE BLOCKCH.PLC LS-,05",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

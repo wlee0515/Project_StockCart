@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCRFY,Panasonic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PCRX,Pacira Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRIX,PIMCO Commodity Real Ret Strat Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRFF,Panasonic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRCF,Pacific Rim Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRAX,PIMCO Commodity Real Ret Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRTF,PureCircle Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRPX,PIMCO Commodity Real Return Strat I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRNX,PIMCO Commodity Real Ret Strat I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCRRX,PIMCO Commodity Real Ret Strat Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

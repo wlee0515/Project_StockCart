@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UPKX.STG,Gl Family Strategy I-Income Inh,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+XAYM.STG,AB SICAV I-India Growth Ptf. Ac,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+XAYP.STG,AB SICAV I-Int.Health Care PtfA,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+ABERDEENSPSI.SGP,Aberdeen SP Singapore Eq USD I-Inc,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1765
+SG9999010953.SGP,Aberdeen SP Singapore Eq USD I-Inc,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1765
+6BSE.BER,ETFIS I-INFRAC.REIT P.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1765
+6BSE.DUS,ETFIS I-INFRAC.REIT P.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1622
+F00000VLDM.SGP,Aberdeen SP Singapore Eq USD I-Inc,Mutual Fund,Singapore,09:00,17:00,UTC+08,SGD,0.1622

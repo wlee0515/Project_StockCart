@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOCA,Tocagen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+3433.TOK,TOCALO Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+37T.FRK,Tocagen Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+37T.MUN,"TOCAGEN INC.  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3200

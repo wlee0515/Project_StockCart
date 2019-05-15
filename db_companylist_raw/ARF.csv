@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ARFXF,ProMIS Neurosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFMX,American Century One Choice 2050 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFFX,Ariel Focus Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFWX,American Century One Choice 2050 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFVX,American Century One Choice 2050 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFSX,American Century One Choice 2050 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFDX,American Century One Choice 2050 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARFEX,American Century One Choice 2050 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ARF.AUS,Arena REIT Ordinary Stapled Units,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ARFIN.BSE,Arfin India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455

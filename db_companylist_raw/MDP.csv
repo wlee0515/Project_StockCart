@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDP,Meredith Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MDPCX,BlackRock Asian Dragon Investor A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPSX,ProFunds Mid Cap Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPYX,BlackRock PA Municipal Bond Inv A1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPIX,ProFunds Mid Cap Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPEB,Meredith Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPCF,Madison Pacific Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDPRECISIONB.TRT,MD Precision Balanced Growth Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+MDPR.TAV,Medipower (Overseas) Public Co. Limited,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.3333
+MDPRECISIONM.TRT,MD Precision Maximum Growth Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333

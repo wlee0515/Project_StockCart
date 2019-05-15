@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMM,Putnam Managed Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PMMAF,PUMA SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMMTF,Precious Metals and Mining Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMMCX,Putnam MA Tax Exempt Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMMEF,Premium Exploration Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMM.TRT,Purpose Multi-Strategy Market Netrl ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

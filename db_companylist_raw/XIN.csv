@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XIN,Xinyuan Real Estate Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+XINA,SPDR MSCI China A Shares IMI,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+XJNGF,Xinjiang Goldwind Science & Technology Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XNYH,Xinyinhai Technology Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XHUA,Xinhua China Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+XYIGY,Xinyi Glass Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+XNGIF,Xingda International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+XINFX,Brookfield Global Listed Infras,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3000

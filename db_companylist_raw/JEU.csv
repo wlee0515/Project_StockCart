@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEUTX,JHVIT Utilities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+9826.TOK,Jeugia Corp.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+F00000XS9O.PAR,Ellipsis Polarius Credit Fund JEUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1714
+F0000107RC.PAR,Ellipsis Euro Dividend Fund JEUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.1622

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HOJ.FRK,Horizon Oil Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HOJ.DUS,HORIZON OIL LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+111110.KOR,Hojeon Limited,Equity,Korea,09:00,15:30,UTC+09,KRW,0.6667
+HOJ.HAM,HORIZON OIL LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3529

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1631.HKG,REF Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.8571
+CVRR,"CVR Refining, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+REFR,Research Frontiers Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+REFG,Medical Cannabis Payment Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRAK,VanEck Vectors Oil Refiners ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+RSCF,Reflect Scientific Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+RFCS,Refocus Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+REFA,Oppenheimer International Revenue ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3158
+RKTE,Reflectkote Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+REFTX,American Funds 2035 Trgt Date Retire R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609

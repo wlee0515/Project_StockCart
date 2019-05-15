@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCDDY,Ocado Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OCDGF,Ocado Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OCDO.LON,Ocado Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+0OC.FRK,Ocado Group plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+0OC.BER,"OCADO GROUP PLC  LS -,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+0OC.MUN,"OCADO GROUP PLC  LS -,02",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+0OC.STG,Ocado Group PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+OCDON.MEX,OCADO GROUP PLC,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4000

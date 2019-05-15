@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CBCA,Crown Baus Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBCAC-EUR.SWI,ComStage CAC 40,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

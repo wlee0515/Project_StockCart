@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GVDNY,Givaudan SA,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+GVDBF,Givaudan SA,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+GIVN.VSX,Givaudan SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5333
+GIN.FRK,Givaudan SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5333
+GIN.MUN,GIVAUDAN SA NA  SF 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5333
+GIN.BER,GIVAUDAN SA NA  SF 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+GIN.DUS,GIVAUDAN SA NA  SF 10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+GIN.STG,Givaudan SA NAMENS-AKTIEN SF 10,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+0QPS.ILN,GIVAUDAN SA GIVAUDAN ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+GIVNN.MEX,Givaudan SA,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2500

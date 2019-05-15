@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YAHOY,Yahoo Japan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YAHOF,Yahoo Japan Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+4689.TOK,Yahoo Japan Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+YOJ.BER,YAHOO JAPAN CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3000
+YOJ.FRK,Yahoo Japan Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+1870.TOK,Yahagi Construction Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+YOJ.DUS,YAHOO JAPAN CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308
+YOJ.MUN,YAHOO JAPAN CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+YOJ.STG,YAHOO JAPAN CORP. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1935
+6201.TWN,YaHorng Electronic Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.1935

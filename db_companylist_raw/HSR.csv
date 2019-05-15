@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HSRUX,Carillon Eagle Small Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+HSRSX,Carillon Eagle Small Cap Growth R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSRT,Hartford Short Duration ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HSRYX,Carillon Eagle Small Cap Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSRRX,Carillon Eagle Small Cap Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSRVX,Harbor Small Cap Value Opps Retire,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HSRGX,Harbor Strategic Growth Administrative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

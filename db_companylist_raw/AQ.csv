@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AQ,Aquantia Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AQST,Aquestive Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+WTR,Aqua America Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AQMS,Aqua Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AQUA,Evoqua Water Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AQXP,Aquinox Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AQN,Algonquin Power & Utilities Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AQB,AquaBounty Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AQSZF,Aequus Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AUENX,AQR Large Cap Defensive Style N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000

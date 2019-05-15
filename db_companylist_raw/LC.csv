@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LC,LendingClub Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LCI,Lannett Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LCII,LCI Industries,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LCA,Landcadia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LCUT,Lifetime Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LCNB,LCNB Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LCAHU,Landcadia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LCEAX,Invesco Diversified Dividend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LCEIX,Invesco Diversified Dividend Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LCCCX,Columbia Contrarian Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

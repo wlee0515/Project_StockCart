@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNR,Denbury Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DNRG,Dominovas Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DNREX,Dunham Real Estate Stock N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DNRG.LON,iShares Global Clean Energy ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+40948.AUS,DNR Capital Australian Equities High Conviction Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DNRA.FRK,AIS-A.I.MSCI N.AM.UCETFDD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+DNRA.FRK,Amundi IS MSCI North America ETF DR EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DNRA.STG,AIS-AM.ID. MSCI North America A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1091
+41045.AUS,DNR Capital Advantage Australian Equities High Conviction Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.0923

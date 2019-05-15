@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMNGF,Vanstar Mining Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VMNVX,Vanguard Global Minimum Volatility Admr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMNFX,Vanguard Market Neutral Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMNT,Vemanti Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VMNIX,Vanguard Market Neutral I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

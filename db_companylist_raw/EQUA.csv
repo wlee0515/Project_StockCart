@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RSP,Invesco S&P 500 Equal Weight ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RYT,Invesco S&P 500 Equal Weight Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+RYH,Invesco S&P 500 Equal Wt Hlth Care ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+RYU,Invesco S&P 500 Equal Weight Utilts ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+INDEX,Index Funds S&P 500 Equal Weight NoLoad,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+QQQE,Direxion NASDAQ-100 Equal Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+EUSA,iShares MSCI USA Equal Weighted ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2105
+RTM,Invesco S&P 500 Equal Weight Matrls ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1951
+QQEW,First Trust NASDAQ-100 Equal Wtd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1905
+RGI,Invesco S&P 500 Equal Wt Indls ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1860

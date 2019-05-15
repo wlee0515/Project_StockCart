@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBCSY,KBC Group NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBCSF,KBC Group NV,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBC.BRU,KBC Group NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+KBCA.BRU,KBC Ancora SCA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6667
+KBC.VIE,KBC Group NV,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+FHAH.DUS,KBC BONDS-EUR.EX-EMU CAP,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3333
+WJE1.BER,KBC EQ.FD-LAT.AM. CAP.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+116556.BSE,Union KBC Dynamic Bond Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+UNIONKBCTAXS.BSE,Union KBC Tax Saver Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2069

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DVD,Dover Motorsports Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DVDCY,Davide Campari-Milano S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FTNKWX,FT 6890: Target Global Dvd. Lea,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCBJMX,FT 7630: Dow Target Dvd. 4Q '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+FUSLBX,FT 7629: Target Dvd. Blend 4Q ',Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+FNRTAX,FT 7300: Target Global Dvd. Lea,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+DVDCF,Davide Campari-Milano S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+FWLPNX,FT 7450: Dow Target Dvd. 3Q '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+FAVMCX,FT 7297: Target Dvd. Blend 2Q ',Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+FTYHMX,FT 7130: Target Global Dvd. Lea,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPSO.MIL,Banca Popolare di Sondrio S.C.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4000
+RNI.JOH,Reinet Investments S.C.A.,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636
+WPH.STG,Warehouses De Pauw S.C.A. Actio,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+X023.HAM,CS.-CS S+P S.C.600 UETF I,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+NEXTS.PAR,NextStage - S.C.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2222
+RNT.MUN,REINET INVESTMENTS S.C.A.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+MAM4.BER,FIDECUM-AVANT-GARDE S.C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+REINA.AMS,Reinet Investments S.C.A.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2143
+UEFD.FRK,UBS-ETF-MSCI EMU S.C.EOAD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+X023.BER,CS.-CS S+P S.C.600 UETF I,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143

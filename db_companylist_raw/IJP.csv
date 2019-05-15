@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IJPTX,VY JPMorgan Emerging Markets Equity S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IJPMX,VY JPMorgan Mid Cap Value S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IJPIX,VY JPMorgan Emerging Markets Equity S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IJPE.LON,iShares MSCI Japan EUR Hedged ETF Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IJPN.LON,iShares Public Limited Company - iShares MSCI Japan UCITS ETF USD (Dist),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IJPU.LON,iShares MSCI Japan ETF USD Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IJPE.AMS,MSCI JAP EH,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+IJPN.SWI,iShares MSCI Japan ETF USD Dist,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+IJP.AUS,iShares MSCI Japan ETF (AU),ETF,Australia,10:00,16:00,UTC+11,AUD,0.6000

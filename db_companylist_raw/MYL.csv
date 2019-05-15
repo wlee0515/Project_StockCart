@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MYL,Mylan N.V.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MYLI,Music of Your Life Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MYLVX,Madison Large Cap Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MYL.VIE,Mylan N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+6MY.FRK,Mylan N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+0R5P.LON,Mylan N.V.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4615
+6MY.BER,"MYLAN N.V.  EO -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+6MY.DUS,"MYLAN N.V.  EO -,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+6MY.MUN,"MYLAN N.V.  EO -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKLMX,Invesco Intermediate Term Muni Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKLMSX,Quality Municipals Income Tr 53,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKLTGX,Long-Term Corporate Investment ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VKLMFX,Quality Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLIX,Invesco Intermediate Term Muni Inc Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLCX,Invesco Intermediate Term Muni Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLTMX,Long-Term Corporate Investment ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLDSX,Quality Municipals Income Tr 54,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLTCX,Long-Term Corporate Investment ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VKLTIX,Long-Term Corporate Investment ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

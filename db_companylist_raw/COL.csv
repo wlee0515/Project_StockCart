@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COL,Rockwell Collins Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CL,Colgate-Palmolive Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLNY,Colony Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+COLM,Columbia Sportswear Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CLNC,Colony Credit Real Estate Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+COLL,Collegium Pharmaceutical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CLCT,Collectors Universe Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+COLB,Columbia Banking System Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CLBK,Columbia Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+COLD,Americold Realty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

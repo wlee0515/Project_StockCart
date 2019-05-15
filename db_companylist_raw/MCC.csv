@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCC,Medley Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MKC,"McCormick & Company, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MNI,The McClatchy Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MKCV,"McCormick & Company, Incorporat",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MHHC,McCusker Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCCX,McorpCX Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCCAX,MFS CA Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MCCBF,M2 Cobalt Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MCCVX,MainStay MacKay Convertible C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+MCCPX,BlackRock Balanced Capital Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333

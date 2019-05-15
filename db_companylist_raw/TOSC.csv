@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOSCF,Tosoh Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+TSCEF,Toscana Energy Income Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TYA.MIL,Toscana Aeroporti S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4000
+TEI.TRT,Toscana Energy Income Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2857
+F0GBR06MY4.BCL,Inversiones Toscana SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+ES0155731039.BCL,Inversiones Toscana SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

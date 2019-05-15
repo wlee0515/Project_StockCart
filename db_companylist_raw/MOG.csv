@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOGU,MOGU Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOG-A,Moog Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOGA,Moog Inc. Class A,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOGO,Mogo Finance Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOGB,Moog Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MOG-B,Moog Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MOGLC,Gabelli Media Mogul NextShares,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGUY,Mogul Energy International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MOGLQ,Mongolian Mining Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MOGAX,MassMutual RetireSMART Moderate Gr A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMMMF,Comstock Metals Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CMMYX,Columbia AMT-Free MA Interm MuniBd Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CMMC.TRT,Copper Mountain Mining Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+0471.HKG,CMMB Vision Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+CMM.AUS,Capricorn Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4615
+CMMHOSP.BSE,Chennai Meenakshi Multispeciality Hospital Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+CMMIPL-SM.NSE,CMM INFRAPROJECTS,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1935
+503673.BSE,CMM BROADCASTING NETWORK LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1875

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFIW.BER,AMUNDI ETF EMU HG.DIV.C/D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+AFIW.DUS,AMUNDI ETF EMU HG.DIV.C/D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

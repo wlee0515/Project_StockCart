@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMLGF,Kinder Morgan Canada Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KMLXF,Respiri Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KML.TRT,Kinder Morgan Canada Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+KML-PC.TRT,KINDER MORGAN CDA LTD PREF SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+8065.HKG,KML Technology Group Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6000
+KMLK.MUN,Kremlin AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+KML-PA.TRT,KINDER MORGAN CDA LTD PREF SER ,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+KMLK.BER,KREMLIN AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+KMLK.HAM,KREMLIN AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2000

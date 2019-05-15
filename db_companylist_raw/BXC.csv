@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXC,BlueLinx Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BXCPA.MEX,BX+CP A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6000
+BXCAPA.MEX,BX+CAP A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+BXCAPB1.MEX,BX+CAP B-1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCAPB2.MEX,BX+CAP B-2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCAPB3.MEX,BX+CAP B-3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCAPB5.MEX,BX+CAP B-5,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCPBE1.MEX,BX+CP B-E1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCPBE2.MEX,BX+CP B-E2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+BXCPBE3.MEX,BX+CP B-E3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615

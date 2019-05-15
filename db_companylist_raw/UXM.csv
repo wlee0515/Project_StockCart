@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UXM-B.TRT,First Asset Morningstar US Dividend Target 50 Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+UXM.TRT,First Asset MstarUSDivTgt50 ETF CADHComm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBN,ICICI Bank Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ICICIBANK.NSE,ICICI Bank Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+F0GBR06R24.BSE,ICICI Prudential Money Market Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+ICICIPRULI.NSE,ICICI Prudential Life Insurance Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+101143.BSE,ICICI Pru Dynamic Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706
+ICICIBANK.BSE,ICICI Bank Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+ICICIGI.NSE,ICICI Lombard General Insurance Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3478
+F00000PYJY.BSE,ICICI Prudential Savings Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+100365.BSE,ICICI Pru Income Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2424
+ICICINXT50.NSE,ICICI Prudential Nifty Next 50 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2105

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATGE,Adtalem Global Education Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATGFF,AltaGas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATGN,AltiGen Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGGX,American Century International Gr R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGDX,American Century International Gr R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGVF,Active Energy Group PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGCX,Aquila Three Peaks Opportunity Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGRX,American Century International Gr R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGYX,Aquila Three Peaks Opportunity Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ATGAX,Aquila Three Peaks Opportunity Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

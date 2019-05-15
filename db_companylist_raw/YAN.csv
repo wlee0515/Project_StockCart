@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YNDX,Yandex N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+YANG,Direxion Daily FTSE China Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+YRIV,Yangtze River Port and Logistics Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+YZCAY,Yanzhou Coal Mining Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+YOOIF,Yangaroo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3750
+YLDGY,Yanlord Land Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YSYB,Yanglin Soybean Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+YNAJF,Yantai North Andre Juice Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

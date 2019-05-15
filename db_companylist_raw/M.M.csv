@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+M.MEX,Macy's Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.8571
+CCME.STG,Commerzb.CCBI RQFII M.Mk.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

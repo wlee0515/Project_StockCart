@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IOFIX,AlphaCentric Income Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IOFAX,AlphaCentric Income Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOFB,Iowa First Bancshares Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IOFCX,AlphaCentric Income Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOFNF,Iofina plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IOF.LON,Iofina plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+IF7.FRK,Iofina plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+IOF0111AU.AUS,Henderson Cash Enhanced Institutional,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.5000
+IF7.STG,Iofina PLC Registered Shares LS,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+IOF.AUS,Investa Office Fund Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000

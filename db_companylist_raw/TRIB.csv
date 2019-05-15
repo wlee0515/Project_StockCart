@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TRIB,Trinity Biotech plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TRCO,Tribune Media Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TPCO,Tribune Publishing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+FOSCX,Tributary Small Company Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+FOBAX,Tributary Balanced Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+FOINX,Tributary Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+FONPX,Tributary Nebraska Tax-Free Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2424
+FOBPX,Tributary Balanced Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+FOGPX,Tributary Growth Opps Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1951
+FOSPX,Tributary Shrt/Interm Bond Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1905

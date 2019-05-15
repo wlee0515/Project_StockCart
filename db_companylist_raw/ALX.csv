@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALX,Alexander's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ALXN,Alexion Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALXDF,Alexandria Minerals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALXEF,ALX Uranium Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALXXF,Avante Logixx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ALXXD,Avante Logixx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AL.TRV,ALX Uranium Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+ALX.AUS,Atlas Arteria Limited Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ALX.DUS,ALEXANDERWERK AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ALX.FRK,Alexanderwerk AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTX,Garrett Motion Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GTXI,GTx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GTXO,GTX Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GTX.MUN,"GENTEX CORP.  DL-,06",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+GTU1.MUN,"GTX INC. (DEL.)  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GTX.FRK,Gentex Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GTU1.FRK,GTx Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GTX.MEX,Garrett Motion Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+GTX.STG,GENTEX CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+GTU1.STG,GTX Inc. (Del.) Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

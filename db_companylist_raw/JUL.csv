@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJUL,Innovator S&P 500 Power Buffer ETF July,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+UJUL,Innovator S&P 500 Ultra Buffer ETF July,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JBAXY,Julius Baer Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BJUL,Innovator S&P 500 Buffer ETF July,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JULBX,JHancock Multimanager Lifestyle Bal R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JBARF,Julius Baer Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JULCX,JHancock Multimanager Lifestyle Cnsrv R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JULAX,JHancock Multimanager Lifestyle Agrsv R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JULMX,JHancock Multimanager Lifestyle Mod R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

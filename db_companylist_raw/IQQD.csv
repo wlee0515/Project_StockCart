@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IQQD.FRK,iShares Public Limited Company - iShares UK Dividend UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+IQQD.BER,ISHS-UK DIVIDEND LS D,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IQQD.FRK,iShares UK Dividend ETF GBP Dist,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+IQQD.DUS,ISHS-UK DIVIDEND LS D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+IQQD.HAM,ISHS-UK DIVIDEND LS D,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+IQQD.MUN,ISHS-UK DIVIDEND LS D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+IQQD.STG,iShs-UK Dividend UCITS ETF Regi,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

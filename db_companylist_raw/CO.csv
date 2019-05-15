@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CO,Global Cord Blood Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTK,CooTek (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CNST,Constellation Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CCB,Coastal Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CL,Colgate-Palmolive Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KO,The Coca-Cola Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+CRMD,CorMedix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+COST,Costco Wholesale Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+COP,ConocoPhillips,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CNAT,Conatus Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

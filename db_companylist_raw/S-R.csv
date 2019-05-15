@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLR.SGP,LION-PHILLIP S-REIT,ETF,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+S-R.BAK,Singha Estate Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2727

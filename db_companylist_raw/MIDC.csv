@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDY,SPDR S&P MidCap 400 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+XMLV,Invesco S&P MidCap Low Volatility ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+DON,WisdomTree US MidCap Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+REGL,ProShares S&P MidCap 400 Dividend Arst,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+PCBIX,Principal MidCap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PXMG,Invesco Russell MidCap Pure Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+HFMCX,Hartford MidCap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MVV,ProShares Ultra MidCap400,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+SMDD,ProShares UltraPro Short MidCap400,ETF,United States,09:30,16:00,UTC-05,USD,0.2353
+UMDD,ProShares UltraPro MidCap400,ETF,United States,09:30,16:00,UTC-05,USD,0.1905

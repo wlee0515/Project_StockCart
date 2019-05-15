@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CWLPF,The Caldwell Partners International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWLDF,CROWN RESORTS LIM,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWLDY,Crown Resorts Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWL.TRT,The Caldwell Partners International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+CWL.AUS,Chant West Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

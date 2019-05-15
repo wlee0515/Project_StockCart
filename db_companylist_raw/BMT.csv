@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMTC,Bryn Mawr Bank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BMTM,Bright Mountain Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BMTMX,BMT Multi-Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMTAX,BMO Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMTR.JKT,PT. Global Mediacom Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+BMT.FRK,British American Tobacco p.l.c.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+GBT.TRT,BMTC Group Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+BMT.LON,T.F. & J.H. Braime (Holdings) P.L.C.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+BMT.AUS,Berkut Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444

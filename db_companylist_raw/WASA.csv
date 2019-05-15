@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAMCX,Wasatch Ultra Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+WGROX,Wasatch Core Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+WAAEX,Wasatch Small Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WMICX,Wasatch Micro Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WASAX,Ivy Asset Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WMCVX,Wasatch Small Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WAINX,Wasatch Emerging India Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+WAMVX,Wasatch Micro Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3810
+WHOSX,Wasatch-Hoisington US Treasury,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3478
+WAIGX,Wasatch International Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2963

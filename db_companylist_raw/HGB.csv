@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGBL,Heritage Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JPHG.LON,Amundi ETF Jpx-Nikkei 400 Daily HGBP A/I,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+HGBS11.SAO,CSHG Brasil Shopping FII,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.4444
+FR0011192327.PAR,H2O Allegro HGBP-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+FR0011981810.PAR,H2O Adagio HGBP-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+FR0012489730.PAR,H2O Adagio HGBP-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+F00000NZ3W.PAR,H2O Allegro HGBP-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+F00000V6C1.PAR,H2O Adagio HGBP-I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+F00000VDYM.PAR,H2O Adagio HGBP-R,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVUYGX,"FT 7072: Stifel Best Picks, Dec",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVUE.FRK,FRANK.L.Q EUR.EQ.ETF EOD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FVUE.FRK,Franklin LibertyQ European Equity ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+FVUI.FRK,Franklin Libertyshares Icav - Franklin Liberty Usd Investment Grade Corporate Ucits Etf,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FVUI.FRK,F.L.DL IGCBETF  DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+FVUI.STG,Franklin Liberty USD IG CB ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

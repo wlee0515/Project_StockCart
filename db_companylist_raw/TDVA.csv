@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDVALEURSSRE.TRT,TD US Blue Chip Equity - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+TDVALEURGRAN.TRT,Epoch US Large-Cap Value - A,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

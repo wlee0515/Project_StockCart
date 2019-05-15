@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIGD.ILN,RELIANCE INDUSTRIES LIMITED GDR,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+RIGD.LON,Reliance Industries Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273

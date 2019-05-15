@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISBA,Isabella Bank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ISBAX,VY Columbia Contrarian Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ISBAHX,Select 10 Industrial Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

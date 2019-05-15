@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EIA,Eaton Vance California Municipal Bond Fund II,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EIAMX,Eaton Vance Multi-Asset Credit I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIAZX,Eaton Vance AZ Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EIA.DUS,ELISA OYJ A O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+EIA.STG,Elisa Oyj Registered Shares Cla,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EIA.FRK,Elisa Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EIA.MUN,ELISA OYJ A O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

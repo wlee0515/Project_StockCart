@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BPET,BestnPet Inc.	,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BPEIX,BP Capital TwinLine Energy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPEAX,BP Capital TwinLine Energy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPESX,Baillie Gifford Positive Change Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPEMX,Boston Partners Emerging Markets Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPEQX,UBS US Sustainable Equity P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPEKX,Baillie Gifford Positive Change Eq K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BPE.MIL,BPER Banca S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+BPE.FRK,BP p.l.c.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BPE.STG,BP PLC Shares (Dt. Zert.)/1 DL ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

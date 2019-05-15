@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVDIAX,Nuveen NWQ Diversified Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NWQIX,Nuveen NWQ Flexible Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NQWFX,Nuveen NWQ Flexible Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NWQAX,Nuveen NWQ Flexible Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NSCRX,Nuveen NWQ Small-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NSCQX,Nuveen NWQ Small-Cap Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NQGAX,Nuveen NWQ Global Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NQGIX,Nuveen NWQ Global Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NQVAX,Nuveen NWQ Multi-Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+NVDIBX,Nuveen NWQ Diversified Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

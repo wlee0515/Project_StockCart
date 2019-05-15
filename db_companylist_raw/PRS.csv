@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRS,Prudential Financial Inc. 5.62,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PRSP,Perspecta Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRSCX,T. Rowe Price Science & Tech,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRSIX,T. Rowe Price Personal Strat Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRSC,The Providence Service Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRSS,CafePress Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRSVX,T. Rowe Price Small-Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRSGX,T. Rowe Price Spectrum Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRSNX,T. Rowe Price Global Multi-Sector Bd Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRSMX,T. Rowe Price Summit Municipal Intm Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

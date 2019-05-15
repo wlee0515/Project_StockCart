@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QIRRX,AQR International Relaxed Cnstrnt Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QIRNX,AQR International Relaxed Cnstrnt Eq N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QIRIX,AQR International Relaxed Cnstrnt Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

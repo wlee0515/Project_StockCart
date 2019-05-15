@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBSDEFENSIVE.AUS,UBS Defensive Investment Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211
+UBSDINEROPFI.BCL,UBS Valor FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+UBSDIVERSIFI.AUS,UBS Diversified Fixed Income Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4211

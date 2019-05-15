@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMEBF,Sime Darby Berhad,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+4197.KLA,Sime Darby Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3810
+KRM453607959.KOR,DarbyHana Private Emerging Infrastructure Fund,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.3810
+5285.KLA,SIME DARBY PLANTATION BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2667
+5288.KLA,SIME DARBY PROPERTY BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+SIME.KLA,Sime Darby Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000
+F00000QIHA.KOR,DarbyHana Injae Military BTL Private Special Asset Infra Business,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1600
+F00000UM47.KOR,DarbyHana Gangwon Wind Power Private Special Asset Infra Business,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1356
+F00000WEST.KOR,DarbyHana Japan Solar Power Private Special Asset Infra,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1176
+K55453B50938.KOR,DarbyHana BLT PF SA Infra Business 3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1159

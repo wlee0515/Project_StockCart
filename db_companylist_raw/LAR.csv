@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LGORF,Largo Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FXI,iShares China Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+LPI,Laredo Petroleum Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+SCHG,Schwab US Large-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+SCHV,Schwab US Large-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+SCHX,Schwab US Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2400
+VV,Vanguard Large-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2308
+TRLGX,T. Rowe Price Instl Large Cap Growth,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+GTLLX,Glenmede Quant US Large Cap Gr Eq,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+DFLVX,DFA US Large Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERNA.LON,iShares $ Ultrashort Bond ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+ERNAN.MEX,ISHARES IV PLC USD ULSTRSHORT B,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

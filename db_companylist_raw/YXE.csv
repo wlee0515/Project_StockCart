@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YXEP.FRK,Quebec Precious Metals Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YXEP.BER,QUEBEC PRECIOUS METALS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YXEP.STG,Quebec Precious Metals Corp. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

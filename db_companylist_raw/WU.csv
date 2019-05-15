@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WU,The Western Union Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WUBA,58.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WUHN,Wuhan General Group (China) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WXXWY,WuXi Biologics (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WUSTX,Wells Fargo Ultra Short-Term Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WUSAX,Wanger USA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WUSMX,Wells Fargo Ultra Shrt-Term Muni Inc Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+WXIBF,WuXi Biologics (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+WUYI,China WuYi Mountain Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+WUSDX,Wells Fargo Ultra Short-Term Income Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

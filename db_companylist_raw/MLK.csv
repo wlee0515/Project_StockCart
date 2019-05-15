@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLKKF,Mercator Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MLKNA,MedLink International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MLKRI.PAR,Bernard Krief Consultants SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.5455
+MLKFOOD.BSE,Milkfood Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JVCZY,JVC KENWOOD Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JVC.FRK,JVC KENWOOD Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+6632.TOK,JVC KENWOOD Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+JVC.BER,JVC KENWOOD CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+JVC.STG,JVC Kenwood Corp. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+JVCMACTIVOSS.BCL,JVCM Activos SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857
+F000001YI2.BCL,JVCM Activos SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308

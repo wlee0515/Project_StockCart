@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWONA,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+FWONK,Formula One Group,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FWRD,Forward Air Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FWP,Forward Pharma A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FWWFX,Fidelity Worldwide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FWDG,FutureWorld Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FWRLX,Fidelity Select Wireless,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FWEDF,Fireweed Zinc Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FWMIX,American Funds Washington Mutual F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FWGIX,American Funds Capital World Gr&Inc F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

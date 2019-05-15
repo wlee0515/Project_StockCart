@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KCE,SPDR S&P Capital Markets ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+KCE.BAK,KCE Electronics Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NVPA.FRK,KCE Electronics Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+KC1A.STG,KCell JSC Reg.Shs (Sp.GDRs Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+NVPA.BER,"KCE EL. PCL -NVDR- BA 0,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+KC1A.FRK,Kcell Joint Stock Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1463

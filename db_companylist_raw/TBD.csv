@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBDYF,Gordon Creek Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDCX,PGIM Jennison Diversified Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDTX,Transamerica High Quality Bond I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDBX,PGIM Jennison Diversified Growth B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDFX,Transamerica High Quality Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDZX,PGIM Jennison Diversified Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDRX,Transamerica High Quality Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDQX,PGIM Jennison Diversified Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBDAX,PGIM Jennison Diversified Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBD.FRK,Emerald Health Therapeutics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

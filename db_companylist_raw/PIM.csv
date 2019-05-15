@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIM,Putnam Master Intermediate Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PHK,PIMCO High Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PONAX,PIMCO Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PTY,PIMCO Corporate & Income Opportunity Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+PDI,PIMCO Dynamic Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PCN,PIMCO Corporate & Income Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PIMIX,PIMCO Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+PGP,PIMCO Global StocksPLUS & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BOND,PIMCO Active Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

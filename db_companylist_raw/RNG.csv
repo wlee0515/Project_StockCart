@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNG,RingCentral Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RNGR,Ranger Energy Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RNGGX,American Funds New Economy R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RNGCX,American Funds New Economy R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+RNGG,Reno Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNGFX,American Funds New Economy R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNGEX,American Funds New Economy R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNGC,Ranger Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNGHX,American Funds New Economy R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNGAX,American Funds New Economy R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

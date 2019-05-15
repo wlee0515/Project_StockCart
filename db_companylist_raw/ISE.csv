@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISENF,IsoEnergy Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ISEXF,ISHARES,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ISEIX,Voya Index Solution 2035 Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISEYF,Wi2Wi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HOML,UBS ETRACS M Rst 2xLvg ISE Excly Hbs ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1395

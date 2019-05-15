@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSD,BlackRock Strategic Municipal Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BSDE,Invesco BulletShares (R) 2024 EM Dbt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+BSDGY,Bosideng International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MLPC,C-Tracks ETN Bsd on Perf of M/H MLP Fdmt,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+BSDGF,Bosideng International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+BSDE.JKT,PT Bumi Serpong Damai Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1395

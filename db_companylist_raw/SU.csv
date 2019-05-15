@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SU,Suncor Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STRO,Sutro Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SPWR,SunPower Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SPRWF,The Supreme Cannabis Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SUN,Sunoco LP,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SPH,"Suburban Propane Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SMLP,"Summit Midstream Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SMCI,Super Micro Computer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RUN,Sunrun Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+STI,SunTrust Banks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMOM,JPMorgan US Momentum Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JMON,James Monroe Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JMOAX,Janus Henderson Global Allocation Mod A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMOCX,Janus Henderson Global Allocation Mod C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMOIX,Janus Henderson Global Allocation Mod I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMOSX,Janus Henderson Global Allocation Mod S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

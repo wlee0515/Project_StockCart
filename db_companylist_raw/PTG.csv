@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTGX,Protagonist Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTGCY,"Pharol, SGPS S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTGIF,PT Medco Energi Internasional Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTGROX,UBS Pathfinders Tr Treasury & G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTGEF,Portage Biotech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PTG.TRT,Pivot Technology Solutions Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+PTG.BAK,PTG Energy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+SBPP.JOH,Standard Bank Group Limited ZAR0.1 NON RED NON CUM NON PTG PRF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+PTG.BER,"CARPETRIGHT PLC  LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PTG.STG,CARPETRIGHT PLC Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RLESX,Russell Inv US Small Cap Equity S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLEDX,Lazard Emerging Markets Debt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLEMX,Lazard Emerging Markets Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLEFX,American Funds American Balanced R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLECX,Russell Inv US Small Cap Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLEOX,Lazard Emerging Markets Core Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLE.TRT,RBC Strategic Global Equity Leaders ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+RLE.AUS,Real Energy Corporation Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+RLE.LON,Real Estate Investors plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

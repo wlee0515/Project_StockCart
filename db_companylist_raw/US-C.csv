@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UCBB,US-China Biomedical Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+I001.BER,ISHS US-COMMOD.SEL.STR.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+I001.DUS,ISHS US-COMMOD.SEL.STR.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2963

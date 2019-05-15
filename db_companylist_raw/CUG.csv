@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CUGZX,Columbia Quality Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUGYX,Columbia Quality Income Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUGAX,Aberdeen Global Uncons Fxd Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUGUX,Columbia Quality Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUGPX,Columbia Quality Income Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CUG.BER,"CHUANG'S CH.  HD-,05",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+CUG.FRK,Chuang's China Investments Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CUG.STG,Chuang's China Investments LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+CUGIADA.MIL,Aviva CU Giada,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4615

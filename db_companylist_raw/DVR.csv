@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PDBC,Invesco Optm Yd Dvrs Cdty Stra No K1 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+KORP,American Century Dvrs Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+TCTL,Premise Capital Frntr Advtg Dvrs Tct ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DVRCX,MFS Global Alternative Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DVRLVX,ADT 1864 Dividend Ruler Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DVRJX,MFS Global Alternative Strategy R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DVRLUX,ADT 1848 Dividend Ruler Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+DVRLWX,ADT 1883 Dividend Ruler Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+QINT,American Century Quality Dvrs Intl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463
+DVRBX,MFS Global Alternative Strategy B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

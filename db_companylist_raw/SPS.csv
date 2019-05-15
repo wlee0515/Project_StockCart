@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPSC,SPS Commerce Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPSB,SPDR Portfolio Short Term Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPSM,SPDR Portfolio Small Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPSY,Space Propulsion Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPSTF,Singapore Post Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

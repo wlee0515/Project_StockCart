@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GGB,Gerdau S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+GGBR4.SAO,Gerdau S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5333
+GOAU4.SAO,Metalurgica Gerdau S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5333
+GDUA.BER,GERDAU S.A. PFD ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5333
+GGBR3.SAO,Gerdau S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5333
+GOAU3.SAO,Metalurgica Gerdau S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3636
+GDUA.FRK,Gerdau S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+GDUB.FRK,Gerdau S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963
+GDUA.MUN,GERDAU S.A. PFD ADR 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2963

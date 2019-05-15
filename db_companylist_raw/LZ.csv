@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LZB,La-Z-Boy Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LZEMX,Lazard Emerging Markets Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LZAGF,Lonza Group Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LZOEX,Lazard Emerging Markets Equity Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LZAGY,Lonza Group Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LZFOX,Lazard Equity Franchise Open Shares,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LZIEX,Lazard International Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LZRFY,Localiza Rent a Car S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LZUOX,Lazard US Equity Select Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+LZISX,Lazard International Small Cap Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DC-A.TRT,Dundee Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+DC-PE.TRT,DUNDEE CORP FIRST PREF SHARES S,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+DC-PB.TRT,DUNDEE CORP FIRST PREF SER 2,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+DC-PD.TRT,DUNDEE CORP PREF SERIES 3,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455

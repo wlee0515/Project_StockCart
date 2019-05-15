@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3639.HKG,Yida China Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2759
+YC2.BER,"YIDA CHINA HLDGS  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2581
+YC2.FRK,Yida China Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581
+YC2.STG,Yida China Holdings Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+300721.SHZ,Jiangsu Yida Chemical Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2286

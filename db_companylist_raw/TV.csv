@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TV,"Grupo Televisa, S.A.B.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TVIX,VelocityShares Daily 2x VIX ST ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+TVPT,Travelport Worldwide Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TVTY,Tivity Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TVC,Tennessee Valley Authority PARRS D 2028,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TVE,Tennessee Valley Authority PARRS A 2029,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TVRVX,Third Avenue Real Estate Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TVIFX,Thornburg Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

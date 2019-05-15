@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEEIX,JHancock Enduring Assets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEEDX,JHancock Enduring Assets R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEERX,JPMorgan Emerging Economies R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEEFX,JHancock Enduring Assets C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEEBX,JHancock Enduring Assets A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEECX,JPMorgan Emerging Economies C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEEEX,JPMorgan Emerging Economies R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEESX,JPMorgan Emerging Economies I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JEEAX,JPMorgan Emerging Economies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000H4RG.BSE,LIC of India - Jeevan Saathi Plus Balanced,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1333

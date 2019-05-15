@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CVNA,Carvana Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CVNA.FRK,Romande Energie Holding SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+CVNA.STG,Romande Energie Holding S.A. Na,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

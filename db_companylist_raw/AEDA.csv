@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AEDAX,Invesco European Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AEDA.MUN,GRUPO AEROPORTU. B ADR/10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.8000
+1QK.FRK,"Aedas Homes, S.A.U.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+AEDA.FRK,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+0RV8.ILN,AEDAS HOMES SL AEDAS HOMES ORD ,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3478
+AEDA.STG,Grupo Aerop.del Sureste SAB CVR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3478
+0RV8.LON,"Aedas Homes, S.A.U.",Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

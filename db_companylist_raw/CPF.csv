@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPF,Central Pacific Financial Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CPL,CPFL Energia S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPFH,Capital Financial Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPFRX,Columbia Disciplined Small Core Inst3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPFXF,Copper Fox Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPF.BAK,Charoen Pokphand Foods Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+CPFE3.SAO,CPFL Energia S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+CPF.FRK,CITIC Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CPF.BER,CITIC LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

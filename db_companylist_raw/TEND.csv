@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPTFX,Federated Project & Trade Finance Tender Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RIGS.JKT,PT Rig Tenders Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4706
+TEND3.SAO,Construtora Tenda S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2963
+F00000271J.PAR,Agipi Grandes Tendances,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2963
+AT0000761283.VIE,Tender Global,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2500
+FR0010492405.PAR,Agipi Grandes Tendances,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2222

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GUF.TRV,Gulf & Pacific Equities Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+509079.BSE,Gufic Biosciences Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+GUFICBIO.BSE,Gufic Biosciences Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+GUFICBIO.NSE,Gufic Biosciences Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2143

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TWX.BER,"CHINA UPTOWN GR.CO.HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+2330.HKG,China Uptown Group Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+UPKP3B.SAO,UPTICK PARTICIPACO,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.1622

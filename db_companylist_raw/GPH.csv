@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPHBF,Graphene 3D Lab Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPHOF,Graphite One Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GPHIX,Grant Park Absolute Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPHNX,Grant Park Absolute Return N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPHCX,Grant Park Absolute Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPHAX,Grant Park Absolute Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GPH.TRV,Graphite One Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+GPH.LON,Global Ports Holding Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+GPH1.MEX,"Grupo Palacio de Hierro, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+GPH.BER,"GALMED PHARMACEUT.IS -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFHL,Fuwei Films (Holdings) Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FUWAY,Furukawa Electric Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+F4B1.STG,Fuwei Films Holdings Co. Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+F4B1.FRK,Fuwei Films (Holdings) Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+F4B1.BER,"FUWEI FILMS HLDGS DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+F4B1.MUN,"FUWEI FILMS HLDGS DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000

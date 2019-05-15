@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HX,Hexindai Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HXL,Hexcel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HXGBY,Hexagon AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HXGCF,Hexagon Composites ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HXIAX,Harvest Asian Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

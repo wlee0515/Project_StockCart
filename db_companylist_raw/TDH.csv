@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PETZ,TDH Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHAX,AB Multi-Manager Select 2030 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHIX,Transamerica High Yield Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHOY,T&D Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHRX,AB Multi-Manager Select 2030 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHZX,AB Multi-Manager Select 2030 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHTX,ClearTrack 2030 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHCX,AB Multi-Manager Select 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TDHKX,AB Multi-Manager Select 2030 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

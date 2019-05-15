@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPA.LON,LPA Group Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LPA0X.ARG,LPA0X.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LPA0Z.ARG,LPA0Z.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LPA9X.ARG,LPA9X.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+LPA9Z.ARG,LPA9Z.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

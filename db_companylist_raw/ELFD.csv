@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ELFD.FRK,Deka Eurozone Rendite + 1-10 ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ELFD.FRK,Deka Eurozone Rendite + 1-10 ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ELFD.DUS,DEKA EUROZ.R.P.1-10 U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ELFD.MUN,DEKA EUROZ.R.P.1-10 U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ELFD.STG,Deka Euroz.Rendi.Pl.1-10 U.ETFI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

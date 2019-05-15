@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OEC,"Orion Engineered Carbons, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+OECCF,Oracle Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OEC.TRV,Oracle Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+LEMO.PAR,Lyxor MSCI Slct OECD Em Market GDP ETF Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667
+OEC.AUS,Orbital Corporation Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2000

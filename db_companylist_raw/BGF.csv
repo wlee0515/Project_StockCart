@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+027410.KOR,BGF Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.8571
+BGFV,Big 5 Sporting Goods Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BGFT,Bigfoot Project Investments Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGFDX,Blackstone / GSO Floating Rate ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGFIX,William Blair Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGFTX,Blackstone / GSO Floating Rate ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGFLX,Blackstone / GSO Floating Rate ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750
+ERDN.STG,BGF - World Energy Fund Act. No,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+ERDU.STG,BGF - World Healthscience Fd Ac,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+MI97.STG,BGF - World Mining Fund Act. No,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

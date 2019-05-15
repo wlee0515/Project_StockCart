@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PIMAX,Pioneer High Income Municipal A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PIMA.HAM,PICTET-EU.S.M.T.B. P,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.8000
+PIMA.BER,PICTET-EU.S.M.T.B. P,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PIMA.DUS,PICTET-EU.S.M.T.B. P,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+PIMA.HAN,PICTET-EU.S.M.T.B. P,ETF,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+PIMA.MUN,PICTET-EU.S.M.T.B. P,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+PIMA.STG,Pictet-EUR Short-Mid Term Bds N,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+PIMA.FRK,PICTET-EU.S.M.T.B. P,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

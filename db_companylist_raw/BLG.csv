@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BLGO,BioLargo Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLGI,Black Cactus Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLGVF,Belgravia Capital International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BLGRX,BMO Large-Cap Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLGX,Red Eye Guys Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLGFX,BMO LGM Frontier Markets Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLGIX,BlackRock LifePath Smart Beta 2035 Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BLG.AUS,BluGlass Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+BLG.FRK,Bligh Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

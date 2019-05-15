@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BK.TRT,Canadian Banc Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+BYRA.STG,PT Bk.Rakyat Ind.(Persero)Tbk R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+A0B.BER,"AMALGAMATED BK.A DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+GHFH.BER,CHINA MINSHENG BK. H YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+GHFH.MUN,CHINA MINSHENG BK. H YC 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143
+BK.MEX,The Bank of New York Mellon Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2143

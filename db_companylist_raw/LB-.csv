@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITNRF,Lb-shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+LBP.LON,Lb-shell plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+LB-PH.TRT,LAURENTIAN BANK OF CDA PR SER 1,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+LB-PJ.TRT,LAURENTIAN BANK OF CDA PR SER 1,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4000
+BLN.STG,Lb-shell plc,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000

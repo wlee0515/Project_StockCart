@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NYKA.FRK,Nippon Yusen Kabushiki Kaisha,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NYKA.BER,NIPPON YUSEN,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NYKA.DUS,NIPPON YUSEN,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

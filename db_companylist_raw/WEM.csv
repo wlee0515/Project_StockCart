@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEMDX,Western Asset Emerging Markets Dbt A2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEMAX,Wells Fargo Emerging Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEMIX,Wells Fargo Emerging Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEMMX,TETON Westwood Mighty Mites AAA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEMCX,Wells Fargo Emerging Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WEM1.FRK,The Westaim Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+WEMG.AUS,SPDR S&P Emerging Markets ETF,ETF,Australia,10:00,16:00,UTC+11,AUD,0.6000
+WEM1.BER,WESTAIM CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

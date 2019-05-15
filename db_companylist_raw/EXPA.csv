@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGV,iShares Expanded Tech-Software Sect ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+IGM,iShares Expanded Tech Sector ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4444
+OMEAX,JPMorgan Market Expansion Enh Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+PGMIX,JPMorgan Market Expansion Enh Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+OMYGX,JPMorgan Market Expansion Enh Index R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+JMEZX,JPMorgan Market Expansion Enh Index R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+OMECX,JPMorgan Market Expansion Enh Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1860

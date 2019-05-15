@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXJV,iShares Edge MSCI Min Vol Asia exJpn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+IFFF.SWI,iShares MSCI AC Far East exJpn ETF $ Dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+IDFF.LON,iShares MSCI AC Far East exJpn ETF $ Dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+EXJ.FRK,Enerxy AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EXJ.BER,READCREST CAPITAL AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EXJ.DUS,READCREST CAPITAL AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5714
+EXJ.HAM,READCREST CAPITAL AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.1765
+EXJ.STG,Readcrest Capital AG Inhaber-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1395
+IUS9.STG,iShsII-MSCI AC FE exJ.SC U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1395

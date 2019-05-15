@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGE,"Tallgrass Energy, LP",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TGEN,Tecogen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGEIX,TCW Emerging Markets Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGESX,Templeton Inst Global Equity Series Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGE1.FRK,mobilezone holding ag,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TGE1.MUN,"MOBILEZONE NAM.  SF-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TGET.AMS,Think Global Equity UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+TGE1.STG,Mobilezone Holding AG Namens-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

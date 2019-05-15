@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYG,Lloyds Banking Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LLDTF,Lloyds Banking Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LLTHF,Jardine Lloyd Thompson Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LLOY.LON,Lloyds Banking Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+JLT.LON,Jardine Lloyd Thompson Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+LLD.MUN,"LLOYDS BKG GRP  LS-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+LSIL.NSE,LLOYDS STEELS INDU,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+LLO.AUS,Lion One Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+REGIO2B1.MEX,Fondo Lloyd Plus SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3333
+PUNJLLOYD.BSE,Punj Lloyd Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1622

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HRMDX,Heartland Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HRMGX,Harbor Mid Cap Growth Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HRMVX,Harbor Mid Cap Value Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LYS5.FRK,Lyxor EuroMTS HRMcrWtGvBd3-5Y DR ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1818
+FR0011146315.PAR,Lyxor ETF EuroMTS HRMcrWtGvtBd1-3Y DR,ETF,Paris,09:00,17:30,UTC+01,EUR,0.1818
+LYS4.FRK,Lyxor EuroMTS HRMcrWtGvBd1-3Y DR ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1500
+LYS6.FRK,Lyxor EuroMTS HRMcrWtGvBd5-7Y DR ETF Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1395
+AAA13.MIL,Lyxor EuroMTS HRMcrWtGvBd1-3Y DR ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1395
+AAA35.MIL,Lyxor EuroMTS HRMcrWtGvBd3-5Y DR ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.1395

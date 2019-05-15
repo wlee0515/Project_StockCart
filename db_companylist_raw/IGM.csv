@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IGM,iShares North American Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IGMB,iGambit Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IGMIX,VY Oppenheimer Global I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGMAX,VY Oppenheimer Global A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGIFF,IGM Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IGMFX,Insignia Macro A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IGMGDX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGMTWX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGMCIX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IGMWX,Voya GNMA Income W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

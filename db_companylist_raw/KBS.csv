@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBSF,KBS Fashion Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KBSTF,Kobe Steel Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBSFW,KBS FASHION GROUP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+252410.KOR,KB Asset Management Co Ltd - KBStar 200 Futures Inverse ETF,ETF,Korea,09:00,15:30,UTC+09,KRW,0.6667
+253290.KOR,KBSTAR HealthCare Fixed Income ,ETF,Korea,09:00,15:30,UTC+09,KRW,0.6000
+272560.KOR,KBSTAR Short KTB Active,ETF,Korea,09:00,15:30,UTC+09,KRW,0.5000
+276650.KOR,KBSTAR Global 4IR IT(SYNTH H),ETF,Korea,09:00,15:30,UTC+09,KRW,0.3333
+KBP.FRK,KBS Fashion Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+KBS.BAK,Khonburi Sugar Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.3333
+KBSB.MOS,"Public Joint Stock Company ""TNS energo Kuban""",Equity,Moscow,10:00,18:45,UTC+03,RUB,0.3333

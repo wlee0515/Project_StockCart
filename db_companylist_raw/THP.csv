@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THPGX,Thompson LargeCap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THPMX,Thompson MidCap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THPBX,Dreyfus Balanced Opportunity J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+THPHF,Thinkpath Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THP.TRV,Totally Hip Technologies Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+THPF.MUN,THPF.MU,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

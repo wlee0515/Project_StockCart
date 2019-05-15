@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJWIX,Dreyfus Japan Womenomics I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DJWYX,Dreyfus Japan Womenomics Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DJWAX,Dreyfus Japan Womenomics A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DJWCX,Dreyfus Japan Womenomics C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DJW.AUS,Djerriwarrh Investments Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

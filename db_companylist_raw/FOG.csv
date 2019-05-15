@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCCG,Fog Cutter Capital Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGCF,FogChain Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGIX,Motley Fool Small-Mid Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGRX,Tributary Growth Opps Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGPX,Tributary Growth Opps Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGLX,Fidelity Advisor Freedom 2020 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FOGJHX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+MUU3.FRK,FogChain Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+FOG.LON,Falcon Oil & Gas Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750
+FOGBR05JK1.PAR,Dynaflexi,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3529

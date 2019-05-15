@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSTFF,Distinct Infrastructure Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DSTZF,Distell Group Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTL,Distillate US Fdmtl Stblty & Val ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTCX,Dreyfus Unconstrained Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTAX,Dreyfus Unconstrained Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTIX,Dreyfus Short Term Income D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTRX,Dreyfus Unconstrained Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTYX,Dreyfus Unconstrained Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSTSX,Test Mutual Fund - DSTS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNP,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TNP-PF,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNP-PE,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNP-PD,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNP-PC,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TNP-PB,Tsakos Energy Navigation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TNPH,Tian'an Pharmaceutical Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TNPRX,1290 Retirement 2050 Fund Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TNPAX,1290 Retirement 2050 Fund Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TNP.TRT,TransAtlantic Petroleum Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

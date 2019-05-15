@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AOTIX,AllianzGI Emerging Markets Opps Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOTVF,Ascot Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AOTOF,Anoto Group AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AOTAX,AllianzGI Emerging Markets Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOTCX,AllianzGI Emerging Markets Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AOTUF,Precinct Properties New Zealand Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AOT.BAK,Airports of Thailand Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+AOT.TRV,Ascot Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+002587.SHZ,Shenzhen AOTO Electronics Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.6667
+AOT.STG,BinckBank N.V. Aandelen aan too,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1579

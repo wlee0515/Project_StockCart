@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMRGF,Minaurum Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MMRAX,MainStay Moderate Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRF,MMRGlobal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRBX,MainStay Moderate Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRIX,MainStay Moderate Allocation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRTY,Massmart Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRDX,MainStay Moderate Allocation Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRCX,MainStay Moderate Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMRNX,MassMutual RetireSMART by JPM 2050 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1610.HKG,COFCO Meat Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2759
+000930.SHZ,COFCO Biochemical (Anhui) Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2667
+600737.SHH,Cofco Tunhe Sugar Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2581
+0M7.FRK,COFCO Meat Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2581
+0M7.BER,"COFCO MEAT HLD.DL-,000001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+000031.SHZ,COFCO Property (Group) Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2051

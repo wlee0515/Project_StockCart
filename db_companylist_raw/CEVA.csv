@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEVA,CEVA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CEVA.SWI,Ceva Logistics AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+9CV.FRK,Ceva Logistics AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+0XUG.LON,Ceva Logistics AG,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+9CV.BER,"CEVA LOGISTICS AG  SF-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+PVJA.FRK,CEVA Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+CEVA.VSX,Ceva Logistics AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4000
+PVJA.STG,Ceva Inc. Registered Shares DL-,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+0Q19.LON,CEVA Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3810
+9CV.DUS,"CEVA LOGISTICS AG  SF-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636

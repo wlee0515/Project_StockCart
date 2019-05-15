@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCJRNX,FT 6610: Tactical Income Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCJHGX,FT 7421: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCJTX,American Funds 2055 Trgt Date Retire F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

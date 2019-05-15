@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMADF,"Amadeus IT Group, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+AMADY,"Amadeus IT Group, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+AMADX,American Century Income and Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+6113.TOK,Amada Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+AI3A.BER,"AMADEUS IT GRP SA EO 0,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AAD.DUS,AMADEUS FIRE AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+AAD.FRK,Amadeus FiRe AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+AA2.FRK,AMADA HOLDINGS CO. LTD.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+AAD.FRK,Amadeus FiRe AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857

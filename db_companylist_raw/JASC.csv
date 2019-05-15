@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JASCX,James Small Cap,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+500220.BSE,Jasch Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+33J.BER,"JASCO ELECTRONICS  RC-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+JSC.JOH,Jasco Electronics Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2857
+JASCH.BSE,Jasch Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759

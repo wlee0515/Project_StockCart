@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJP,iPath Bloomberg Cmdty TR ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+DJIFF,Dajin Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+DJCO,Daily Journal Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+DJD,Invesco Dow Jones Industrial Avg Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+DJCI,UBS ETRACS Bloomberg Cmdty Tot Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+DJTFX,American Funds 2010 Trgt Date Retire F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+DJXXF,BLACKROCK AM (DE),Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGUAX,American Beacon Frontier Mkts Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+AGUAS-A.SAN,Aguas Andinas S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.7273
+AGUA.MEX,Grupo Rotoplas S.A.B. de C.V.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+F000001YDW.BCL,Inversiones Aguaviva I SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3810
+ES0152286037.BCL,Inversiones Aguanaz SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+ES0176955005.BCL,R4 Activa Agua FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+IAM.SAN,Inversiones Aguas Metropolitanas S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.2500
+F000001XOV.BCL,Aguazul de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+F000001YAE.BCL,Inversiones Aguanaz SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000

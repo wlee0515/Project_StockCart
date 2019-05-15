@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYXA.FRK,Schroders plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+PYXA.BER,SCHRODERS PLC  N-VTG LS 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+PYXA.DUS,SCHRODERS PLC  N-VTG LS 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

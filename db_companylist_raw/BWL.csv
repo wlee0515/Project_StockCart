@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+504643.BSE,BWL LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+BWLYX,American Beacon Bridgeway Lg Cp Val Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWL-A,Bowl America Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLIX,American Beacon Bridgeway Lg Cp Val Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLRX,American Beacon Bridgeway Lg Cp Val R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLCX,American Beacon Bridgeway Lg Cp Val C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLAX,American Beacon Bridgeway Lg Cp Val A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLVF,Bowleven plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BWLLY,BW LPG Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5455

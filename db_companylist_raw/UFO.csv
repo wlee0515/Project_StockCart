@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UFO.LON,Alien Metals Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+UFO-EQ.NSE,UFO MOVIEZ INDIA,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+UFO.NSE,UFO Moviez India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+UFO.BSE,UFO Moviez India Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000

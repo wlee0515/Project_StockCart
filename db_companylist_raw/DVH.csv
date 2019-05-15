@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DVHL,UBS ETRACS M Py 2xLvg Divers Hi Inc ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DVHIX,Delaware National Hi-Yld Muni Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DVHCX,Delaware National Hi-Yld Muni Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DVH.BER,"FRONTIER SERV. GP HD -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

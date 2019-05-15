@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JPHY,JPMorgan Disciplined High Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JPHF,JPMorgan Diversified Alternative ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JPHSX,JPMorgan Floating Rate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPHCX,JPMorgan Floating Rate Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPHAX,JPMorgan Floating Rate Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

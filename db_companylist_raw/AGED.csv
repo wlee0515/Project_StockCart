@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGED.LON,iShares Ageing Population ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+AGED.MIL,ISHARES AGEING POPULATION UCITS,ETF,Milan,09:00,17:30,UTC+01,EUR,0.7273
+AGED.SWI,iShares Ageing Population ETF USD Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273
+AGEDN.MEX,ISHARES IV PLC AGEING POPULATON,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

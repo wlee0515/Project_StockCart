@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UDOW,ProShares UltraPro Dow30,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+UDR,UDR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UDFI,United Development Funding IV,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UDN,Invesco DB US Dollar Bearish,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+UDBI,Legg Mason US Diversified Core ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+UDRGY,UDG Healthcare plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UDPIX,ProFunds Ultra Dow 30 Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+UDIRF,United Internet AG,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UDHCF,UDG Healthcare plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

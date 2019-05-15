@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNY,Market Vectors Chinese Renminbi/USD ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CNYA,iShares MSCI China A ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CNYEX,Columbia Strat New York Muncpl Inc Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CNYCF,Searchlight Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CNYCX,Columbia Strat New York Muncpl Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

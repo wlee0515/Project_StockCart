@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMWH.LON,WH Smith PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SMWN.DUS,SM WIRTSCHAFTSBER.NA.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+SMWN.FRK,SM Wirtschaftsberatungs AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SMWN.BER,SM WIRTSCHAFTSBER.NA.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SMWN.FRK,SM Wirtschaftsberatungs AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+SMWN.STG,SM Wirtschaftsberat.AG Namens-A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

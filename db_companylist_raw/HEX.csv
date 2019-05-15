@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYYDF,HEXO Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HXL,Hexcel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HX,Hexindai Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HXGBY,Hexagon AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HXGCF,Hexagon Composites ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EHGAX,Eaton Vance Hexavest Global Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EHIIX,Eaton Vance Hexavest International Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+HXGBF,Hexagon AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+EHIAX,Eaton Vance Hexavest International Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+EHGCX,Eaton Vance Hexavest Global Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4615

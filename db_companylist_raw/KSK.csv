@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+9687.TOK,KSK Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+KSKGF,Kingsgate Consolidated Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+3151.TOK,Vital KSK Holdings Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+KSK.NSE,KSK Energy Ventures Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+KSK.BSE,KSK Energy Ventures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+532997.BSE,KSK Energy Ventures Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

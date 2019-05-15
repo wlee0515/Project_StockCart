@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1447.HKG,SFK Construction Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+SFK.FRK,SergeFerrari Group SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SFK.STG,SergeFerrari Group S.A. Actions,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

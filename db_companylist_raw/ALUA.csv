@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALUA.ARG,Aluar Aluminio Argentino S.A.I.C.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.8000
+ALU.ARG,ALUAR ALUMINIO ARG,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7273

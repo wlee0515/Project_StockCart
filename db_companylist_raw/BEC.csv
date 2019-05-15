@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDX,"Becton, Dickinson and Company",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BECN,Beacon Roofing Supply Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BDXA,"Becton, Dickinson and Company",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BCCLF,"Becle, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BVEFX,Becker Value Equity Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BECIX,BlackRock Emerging Markets Lcl Ccy BdIns,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BMPEX,"Beck, Mack & Oliver Partners",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BVEIX,Becker Value Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+BECVY,BEC World Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CUERVO.MEX,"Becle, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2500

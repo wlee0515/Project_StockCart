@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLUP,Solucorp Industries Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLUS.FRK,ISHSIV-MSCI USA ESG S.DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+SLUS.FRK,SLUS.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

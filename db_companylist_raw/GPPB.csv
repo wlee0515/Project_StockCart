@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPPB.STG,"Service Point Solutions, S.A.",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+GPPB.FRK,"Service Point Solutions, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

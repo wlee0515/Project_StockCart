@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFID.ILN,AFI DEVELOPMENT PLC GDR (EACH R,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+AFID.LON,AFI Development Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+AFID.BER,AIS-AM.S+P G.L.DLC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIONX,Issachar N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+CI-R.BAK,Charn Issara Development Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+CI.BAK,Charn Issara Development Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818

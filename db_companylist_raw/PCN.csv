@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCN,PIMCO Corporate & Income Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PCNSX,Principal SAM Conservative Bal R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PCNNX,PIMCO Investment Grade Credit Bond I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCNT,Point of Care Nano-Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PCNBX,Putnam Convertible Securities B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCNTX,Putnam Convertible Securities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCNMX,Putnam Convertible Securities M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCNIX,Putnam Convertible Securities F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

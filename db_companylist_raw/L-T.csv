@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+K55101B38284.KOR,KIM Pension Savings L-T Val Fdr Eq C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1622
+K55363B09356.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1622
+K55363B53339.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1579
+K55363B53388.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal Cp2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1579
+F00000W2F4.KOR,KIM Pension Savings L-T Val Fdr Eq C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000WGP4.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal C,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000WH01.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal Cp2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000WP18.KOR,Truston L-T Hi Dividend 40 Fdr Bd Bal Ce,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1538
+F00000X1MV.KOR,KyoboAXA Tomorrow L-T Govt Bd Fdr Bd CW,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1429

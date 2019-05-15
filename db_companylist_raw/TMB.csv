@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TMBIX,Thrivent Municipal Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMBXF,Tombstone Exploration Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMBFX,Transamerica Intermediate Bond R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMBRX,Transamerica Intermediate Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMBTX,Transamerica Intermediate Bond I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TMB.BAK,TMB Bank Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TMLF.MUN,"TMB BANK PCL -FGN- BA-,95",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+NVPJ.FRK,TMB Bank Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+TMLF.FRK,TMB Bank Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

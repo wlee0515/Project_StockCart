@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEBB.STG,iShs VII-MSCI RU ADR/GDR U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.8000
+CEBBCO.BSE,Commercial Engineers & Body Builders Co Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273
+CEBB.FRK,iShares VII Public Limited Company - iShares MSCI Russia ADR/GDR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+CEBB.FRK,iShares MSCI Russia ADR/GDR ETF USD Acc,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+CEBB.DUS,ISHSVII-MSCI RU ADR/GDRDA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+CEBB.HAM,ISHSVII-MSCI RU ADR/GDRDA,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+CEBBCO.NSE,Commercial Engineers & Body Builders Co Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6154
+CEBB.MUN,ISHSVII-MSCI RU ADR/GDRDA,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6154

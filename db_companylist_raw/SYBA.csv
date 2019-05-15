@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYBA.FRK,SPDR BL.BA.EO AG.BD U.ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SYBA.FRK,SPDR Blmbrg Bcly EUR Aggt Bd ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+SYBA.DUS,SPDR BL.BA.EO AG.BD U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SYBA.STG,SPDR Bloomb.Bar.EO Ag.Bd U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

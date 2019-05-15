@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYTB.BER,STARHUB LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+RYTB.FRK,StarHub Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+RYTB.DUS,STARHUB LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+RYTB.STG,StarHub Ltd. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+RYTB.MUN,STARHUB LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

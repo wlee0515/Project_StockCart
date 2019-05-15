@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ETL.PAR,Eutelsat Communications S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ETL0113AU.AUS,PIMCO Emerging Markets Bond Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ETL0114AU.AUS,PIMCO Global Credit Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ETL6.STG,L&G-L&G LOIM Eur.Cor.Bd.F.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+ETL0201AU.AUS,Legg Mason Martin Currie Emerging Markets,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6000
+ETL2.FRK,GO UCITS ETF Solutions plc - ETFS Longer Dated All Commodities GO UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ETLE.FRK,ETFS Longer Dated All Commodities ex-Agriculture and Livestock GO UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ETL0.BER,L+G-LOIM EM L.G.B.F.U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+ETL0.STG,L&G-L&G LOIM EM L.G.Bd F.U.ETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+ETL1.BER,L+G-L.DATED A.COMM.U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000

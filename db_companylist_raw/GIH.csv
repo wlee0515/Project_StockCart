@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIH.FRK,Gold Resource Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GIH.BER,"GOLD RES CORP.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GIH.STG,Gold Resource Corp. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GHON.JKT,PT Gihon Telekomunikasi Indonesia Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000

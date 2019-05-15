@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LEJU,Leju Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+1LUA.BER,LEJU HOLDINGS LTD ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+1LUA.MUN,LEJU HOLDINGS LTD ADR 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333
+1LUA.FRK,Leju Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+1LUA.STG,Leju Holdings Ltd. Reg.Shares (,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308
+LEJONAINVERS.BCL,Lejona Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F000001YJT.BCL,Lejona Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000

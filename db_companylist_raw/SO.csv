@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SO,The Southern Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SONO,Sonos Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SWI,SolarWinds Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SWN,Southwestern Energy Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LUV,Southwest Airlines Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SOXL,Direxion Daily Semicondct Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+SRNE,Sorrento Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SNE,Sony Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SNOA,Sonoma Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1667

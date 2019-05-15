@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QUIK,QuickLogic Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+QSHI,Quick Start Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+QMDT,Quick-Med Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+PATY.ARG,Quickfood Sociedad Anonima,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5000
+QUICKHEAL.NSE,Quick Heal Technologies Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+QHL.AUS,Quickstep Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3077
+QKL.BER,"QUICKLOGIC CORP.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+QUI.ARG,QUICKFOOD SA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2667
+QKL.FRK,QuickLogic Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667
+4318.TOK,Quick Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500

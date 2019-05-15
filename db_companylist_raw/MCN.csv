@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCN,Madison Covered Call & Equity Strategy Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MKIN,MCNB Banks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNVX,MainStay MacKay Convertible I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNYX,MFS NY Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNCX,MFS NC Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNJX,BlackRock NJ Municipal Bond Inv C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNKX,BlackRock NY Municipal Opps Inv C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNBX,Madison Conservative Allocation B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNAX,Madison Conservative Allocation A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCNLX,BlackRock National Municipal Inv C1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

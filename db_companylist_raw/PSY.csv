@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMD,Psychemedics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSYPX,Palmer Square Income Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSYS,Paradigm System Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PSYGX,Putnam Small Cap Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSYTF,Pason Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PSY.TRT,Invesco Global Shareholder Yield ETF CAD,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+3P9.BER,"PSYCHEMEDICS CORP.DL-,005",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+PSY-U.TRT,INVESCO GLB SHAREHLDR YIELD USD,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+PSY.AUS,Panorama Synergy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2222

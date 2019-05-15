@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+H41J.FRK,HSBC M.FAC.WORLDW.EQU. DZ,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+H41G.DUS,HSBC M.FAC.WORLDW.EQU. DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2759
+H41J.FRK,HSBC M.FAC.WORLDW.EQU. DZ,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2759

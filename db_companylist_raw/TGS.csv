@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGS,Transportadora de Gas del Sur S.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TGSNF,TGS-NOPEC Geophysical Company ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGSMX,TCW Short Term Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGSI,TGS International Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGSAX,Templeton Global Smaller Comp Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TGSGY,TGS-NOPEC Geophysical Company ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TGSU2.ARG,Transportadora de Gas del Sur S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+0MSJ.LON,TGS-NOPEC Geophysical Company ASA,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000
+TGC.FRK,TGS-NOPEC Geophysical Company ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

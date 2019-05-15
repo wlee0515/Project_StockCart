@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CMC,Commercial Metals Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CMCSA,Comcast Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMCM,Cheetah Mobile Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMCO,Columbus McKinnon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMCL,Caledonia Mining Corporation Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMCT,CIM Commercial Trust Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMCLF,China Molybdenum Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CMCI,China Modern Agricultural Information Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UCI,UBS ETRACS CMCI Total Return ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+UBG,UBS ETRACS CMCI Gold Total Return ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.1500

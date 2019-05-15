@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LANC,Lancaster Colony Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LANZ,Lancer Orthodontics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LCSHF,Lancashire Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LANCORHOL.BSE,Lancor Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+LRE.LON,Lancashire Holdings Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+509048.BSE,Lancor Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+LC1.FRK,Lancaster Colony Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+LNH.FRK,Lancashire Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+LC1.BER,LANCASTER COLONY CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2963
+LC1.STG,LANCASTER COLONY CORP. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2581

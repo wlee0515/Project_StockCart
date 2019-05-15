@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IYK,iShares US Consumer Goods ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IYKOTHITE.BSE,Iykot Hitech Toolroom Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+IYK.MEX,iShares US Consumer Goods ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+522245.BSE,Iykot Hitech Toolroom Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1875

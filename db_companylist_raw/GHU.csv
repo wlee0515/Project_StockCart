@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GHUIX,Good Harbor Tactical Core US I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHUCX,Good Harbor Tactical Core US C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHUAX,Good Harbor Tactical Core US A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GHU.FRK,ADX Energy Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GHU.BER,ADX ENERGY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GHU.HAM,ADX ENERGY,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+GHU.MUN,ADX ENERGY,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GHU.STG,ADX Energy Ltd,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

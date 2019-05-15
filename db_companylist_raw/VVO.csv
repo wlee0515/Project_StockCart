@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VVOAX,Invesco Value Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVOCX,Invesco Value Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVORX,Invesco Value Opportunities R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVOIX,Invesco Value Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVONX,Invesco Value Opportunities R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVOSX,Invesco Value Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VVO.LON,Vivo Energy plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+VVO.JOH,Vivo Energy plc,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+VVO.TRT,Vanguard Global Minimum Volatility ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

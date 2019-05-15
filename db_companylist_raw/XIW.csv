@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1266.HKG,Xiwang Special Steel Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5000
+2XI.FRK,Xiwang Special Steel Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+XSA.FRK,Xiwang Property Holdings Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+2XI.STG,Xiwang Special Steel Co.Ltd Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+XSA.BER,"XIWANG PPTY HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+XSA.MUN,"XIWANG PPTY HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+XSA.STG,Xiwang Property Holding.Co.LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2069
+2088.HKG,Xiwang Property Holdings Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1538
+000639.SHZ,Xiwang Foodstuffs Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1395

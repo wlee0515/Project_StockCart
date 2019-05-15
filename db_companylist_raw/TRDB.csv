@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFTB.FRK,Invesco Trdbl Eurp Low Beta Factor ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+PFTE.FRK,Invesco Trdbl Eurp Earnings Momt Fac ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+PFTQ.FRK,Invesco Trdbl Eurp Quality Factor ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+PFTP.FRK,Invesco Trdbl Eurp Price Momt Fac ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+PFTV.FRK,Invesco Trdbl Eurp Value Factor ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636

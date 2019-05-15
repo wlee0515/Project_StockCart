@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAN,Invesco Solar ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TNDM,Tandem Diabetes Care Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PXS,Pyxis Tankers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NAT,Nordic American Tankers Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TNK,Teekay Tankers Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SKT,Tanger Factory Outlet Centers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+STNG,Scorpio Tankers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TRX,Tanzanian Royalty Exploration Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TLF,Tandy Leather Factory Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TANH,Tantech Holdings Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

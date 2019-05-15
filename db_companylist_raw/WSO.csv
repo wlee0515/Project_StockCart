@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSO,Watsco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WSGF,WSOG LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WSO-B,Watsco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WSOB,Watsco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WSON33.SAO,Wilson Sons Limited,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6000
+WSO1.FRK,wallstreet:online AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WSO1.FRK,wallstreet:online AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+WSO1.BER,WALLSTREET:ONLINE INH ON,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WSO1.DUS,WALLSTREET:ONLINE INH ON,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5714
+WSO1.HAM,WALLSTREET:ONLINE INH ON,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LSEIX,Persimmon Long/Short I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSE.LON,London Stock Exchange Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LSEK.LON,ETFS Long SEK Short USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+LSE.MUN,EQUUS MINING LTD,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LSE.FRK,Equus Mining Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+LSE.BER,EQUUS MINING LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LSE.HAM,EQUUS MINING LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+LSE.STG,Equus Mining Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+LSEN.MEX,London Stock Exchange Group plc,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6000

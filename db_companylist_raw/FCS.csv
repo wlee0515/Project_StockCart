@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INTL,INTL FCStone Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FCSC,Fibrocell Science Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSAX,Strategic Advisers Core,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSMF,Focus Graphite Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSZX,Franklin Convertible Securities Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSCX,Franklin Adjustable US Govt Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSSX,Fidelity Series Commodity Strategy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSDX,Fidelity Advisor Strategic Dividend & Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSGX,Franklin Small Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCSTX,Fidelity California Ltd Trm Tax-Free Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALPAX,American Century Large Company Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+ALPA4.SAO,Alpargatas S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7273
+ALPAR.PAR,Groupe Parot SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+ALPAT.PAR,Plant Advanced Technologies SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+ALPA.BSE,Alpa Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+ALPA.NSE,Alpa Laboratories Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ALPA-EQ.NSE,ALPA LABORATORIES,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+ALPA3.SAO,Alpargatas S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5714
+532878.BSE,Alpa Laboratories Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759

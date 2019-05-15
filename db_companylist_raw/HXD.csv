@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HXD.TRT,BetaPro S&P/TSX 60 -2x Daily Bear ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HXDM-U.TRT,HORIZONS INTL DEV MKTS EQTY IDX,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+HXDM.TRT,Horizons Intl Developed Markets Eq ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5000

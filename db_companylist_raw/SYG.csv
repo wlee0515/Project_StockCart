@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYG,SPDR MFS Systematic Growth Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SYGP.JOH,Sygnia Itrix Gbl Pro ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+SYG4IR.JOH,Sygnia Itrix 4Ind Rev Gb,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+SYG500.JOH,Sygnia Itrix S&P 500 ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+SYG.JOH,Sygnia Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000
+SYGT40.JOH,Sygnia Itrix Top 40 ETF,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.5000

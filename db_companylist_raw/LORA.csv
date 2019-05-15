@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LORL,Loral Space & Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LRNT,Lorain Telecom Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+1L8.FRK,Loral Space & Communications Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+LORADEINVERS.BCL,Lora De Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+F0000019UU.BCL,Lora De Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

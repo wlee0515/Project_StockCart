@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNRJF,OrganiMax Nutrient Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNRPF,Solon Eiendom ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BNR.FRK,Brenntag AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+BNR.AUS,Bulletin Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+BNR.BER,BRENNTAG AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BNR.DUS,BRENNTAG AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+BNR.HAM,BRENNTAG AG NA O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+BNR.STG,Brenntag AG Namens-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BNRN.MEX,Brenntag AG,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BNR.FRK,Brenntag AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

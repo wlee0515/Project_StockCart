@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OXA5.LON,DB ETC PLC PHYSICAL GOLD ETC 27,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+4EQ.BER,"OXATIS  EO-,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+4EQ.MUN,"OXATIS  EO-,5",Equity,Munich,08:00,20:00,UTC+01,EUR,0.3750
+ALOXA.PAR,Oxatis SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3750

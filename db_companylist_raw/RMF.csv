@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RMFGX,American Funds American Mutual R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFBX,American Funds American Mutual R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFCX,American Funds American Mutual R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFEX,American Funds American Mutual R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFFX,American Funds American Mutual R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFHX,American Funds American Mutual R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFAX,American Funds American Mutual R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RMFA.BER,"ROCKY MOUNT.CHOC. DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

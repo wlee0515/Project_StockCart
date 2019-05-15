@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HAIN,The Hain Celestial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HNHPD,Hon Hai Precision Industry Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HNHPF,Hon Hai Precision Industry Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HAIR,Restoration Robotics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HAINX,Harbor International Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLG,Hailiang Education Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HAIAX,Hartford Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+HRELF,Haier Electronics Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+HRELY,Haier Electronics Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+HAIGX,Harbor International Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

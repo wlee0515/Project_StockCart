@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRA,ProAssurance Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+PROAX,Probabilities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PMX.TRV,ProAm Explorations Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.5000
+PHD.LON,Proactis Holdings PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+PROAIMENT.BSE,Proaim Enterprises Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+FR0011376839.PAR,Gestion Proactive Patrimoniale D,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+PIU.BER,PROACT IT GROUP AB  SK 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2581
+FR0011159888.PAR,Oddo Proactif Europe CN-EUR,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2353
+PRK.FRK,ProAssurance Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRO,Marathon Oil Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MROUX,MassMutual RetireSMART Mod Gr I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MROSX,MassMutual RetireSMART Moderate R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MROYX,MassMutual RetireSMART Moderate Gr Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MROZX,MassMutual RetireSMART Mod Gr R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MROTX,MassMutual RetireSMART Mod Gr R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRO.LON,Melrose Industries PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+MRO.TRV,Millrock Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MROSN.MEX,Melrose Industries PLC,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+MRO.DUS,MOSENERGO ADR/50  RL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455

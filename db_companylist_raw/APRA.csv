@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APRAF,Goldstrike Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+APRAX,AAM/Phocas Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+WHX.MUN,APB Apranga,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5333
+WHX.STG,Apranga AB Registered Shares EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

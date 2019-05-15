@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BWMG,Brownie's Marine Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BWMCU,Boxwood Merger Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BWMXF,Osisko Metals Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BWM.SGP,China Jinjiang Environment Holding Company Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667

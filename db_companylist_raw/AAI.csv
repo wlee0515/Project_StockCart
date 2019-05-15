@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAIGF,AIA Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AAIEX,American Beacon International Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIIQ,"Alabama Aircraft Industries, Inc",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIFX,Crow Point Alternative Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAINX,Thrivent Opportunity Income Plus A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIPX,American Beacon International Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAISX,American Beacon International Eq Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIIX,Ancora Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIBX,Cavanal Hill Moderate Duration A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AAIR,Avantair Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

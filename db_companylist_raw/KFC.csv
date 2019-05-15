@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3420.TOK,KFC Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+9873.TOK,KFC Holdings Japan Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222

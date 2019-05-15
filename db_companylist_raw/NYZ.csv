@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NYZ.FRK,INTERPIPE SP ADR,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NYZ.STG,Novacyt S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

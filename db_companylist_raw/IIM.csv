@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IIM,Invesco Value Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IIMITX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIMTEX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IIMOX,Voya MidCap Opportunities Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IIMDX,Voya Strategic Allocation Mod Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IIMUIX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

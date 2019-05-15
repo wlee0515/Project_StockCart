@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SHNWX,AIG Flexible Credit W,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SHNL,Shentang International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHNJX,Western Asset New Jersey Municipals A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHNAX,AIG Flexible Credit A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHNWF,Schroders plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SHNCX,AIG Flexible Credit C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SHNP.TAV,E. Schnapp & Co. Works Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+SHN.BER,SHANGRI-LA ASIA  HD 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SHN.MUN,SHANGRI-LA ASIA  HD 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SHNG.SGP,Shangri-La HKD,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000

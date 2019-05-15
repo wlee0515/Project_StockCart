@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYQ.BER,BNP P.E.ST.EUR.600 TECHN.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SYQ.PAR,BNPP Easy Stoxx Europe 600 Techn ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SYQ.DUS,BNP P.E.ST.EUR.600 TECHN.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

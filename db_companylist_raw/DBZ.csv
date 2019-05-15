@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBZB.FRK,db x-trackers II - Global Sovereign UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DBZN.FRK,db x-trackers - db Commodity Booster Bloomberg UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DBZB.BER,XTR.II GBL GOV.BD 1CEOH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DBZB.FRK,X II Global Government Bond ETF 1C EUR H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DBZB.DUS,XTR.II GBL GOV.BD 1CEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+DBZB.HAM,XTR.II GBL GOV.BD 1CEOH,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+DBZB.STG,Xtrackers II Global Gov.Bond In,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+DBZN.BER,XTR.DB BL.CO.O.Y.SW.2CEOH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DBZN.FRK,X DB Bloomberg Cmdty Optm Y Swap ETF2C H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+DBZN.DUS,XTR.DB BL.CO.O.Y.SW.2CEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

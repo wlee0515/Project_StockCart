@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRDVX,BlackRock Equity Dividend R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MRDH,Meridian Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRDDF,Miranda Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MRDAX,MassMutual RetireSMART by JPM In Ret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRDPX,Morgan Stanley Inst EMkts FxdInc Opps IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRD.TRT,Melcor Developments Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MRDN.FRK,Medallion Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MRD.AUS,Mount Ridley Mines Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

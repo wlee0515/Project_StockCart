@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFMRA.MIL,Mediolanum Real Estate,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455
+QFMRB.MIL,Mediolanum Real Estate,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.5455

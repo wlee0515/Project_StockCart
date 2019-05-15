@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAGAX,Brown Advisory Growth Equity Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+2569.KLA,Sungei Bagan Rubber Co. Malaya Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5714
+SBRK.KLA,SUNGEI BAGAN RUBBER CO (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4211
+530197.BSE,BAGADIA COLOURCHEM LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3478
+BAGADIA.BSE,Fundviser Capital (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963
+F000001XVP.BCL,Bagal Cartera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353
+BAGALCARTERA.BCL,Bagal Cartera SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2105

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HXX.TRT,Horizons EURO STOXX 50 ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HXXB.FRK,Idera Pharmaceuticals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HXXB.BER,"IDERA PHARMAC.  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HXXB.STG,Idera Pharmaceuticals Inc. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

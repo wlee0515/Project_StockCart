@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAQ.FRK,TAS Tecnologia Avanzata dei Sistemi S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TAQ.STG,TAS TECNOL.AVAN.DEI SIS. S.P.AA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

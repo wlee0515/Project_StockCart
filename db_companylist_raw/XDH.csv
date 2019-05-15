@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDHYX,Credit Suisse High Yield Bond F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDHFX,Dreyfus High Yield Strategies F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XDH.STG,Xingda Intl Hldgs Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+XDH.FRK,Xingda International Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XDH.BER,"XINGDA INTL HLDGS HD -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+F00000VKXF.FRK,GEM Debt Hard Currency Inv-Grd XDHEUR,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2500

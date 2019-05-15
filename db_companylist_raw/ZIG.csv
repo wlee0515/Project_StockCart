@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZV.MIL,Zignago Vetro S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6000
+3679.TOK,ZIGExN Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+ZVB.BER,"ZIGNAGO VETRO  EO -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+ZIGA.BAK,Ziga Innovation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000
+ZGE.FRK,ZIGExN Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+ZVB.FRK,Zignago Vetro S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3158
+0NNC.LON,Zignago Vetro S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2609
+ZVB.STG,Zignago Vetro S.p.A. Azioni nom,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609
+1455.TWN,Zig Sheng Industrial Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2400
+ZIGA-R.BAK,Ziga Innovation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1818

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANJAX,AB Municipal Income II New Jersey A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+518091.BSE,Anjani Portland Cement Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+ANJANIFOODS.BSE,Anjani Foods Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+APCL.BSE,Anjani Portland Cement Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+APCL.NSE,Anjani Portland Cement Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3636
+531223.BSE,Anjani Synthetics Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3478
+ANJANI.BSE,Anjani Synthetics Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2759
+531878.BSE,ANJANI FINANCE LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353
+ANJANIFIN.BSE,Anjani Finance Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353

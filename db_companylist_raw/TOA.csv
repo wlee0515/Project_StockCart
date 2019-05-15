@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1885.TOK,TOA Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+TOAGF,Toagosei Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+4045.TOK,Toagosei Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+5008.TOK,TOA Oil Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+6466.TOK,Toa Valve Engineering Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+TOA.BER,TOSHIBA MACHINE CO.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+TOA.BAK,TOA Paint (Thailand) Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2857
+TIM.TRV,Toachi Mining Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2222

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F0GBR06MYP.BCL,azValor Value Selection SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+AZV.AUS,Azure Healthcare Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+F00000WI0D.BCL,azValor Internacional FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+AZVALORCAPIT.BCL,azValor Capital FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+AZVALORIBERI.BCL,azValor Iberia FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+AZVALORINTER.BCL,azValor Internacional FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+AZVERCADEINV.BCL,Azverca de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+DIVALSADEINV.BCL,azValor Value Selection SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1875

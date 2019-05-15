@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDIP.PAR,IDI,Equity,Paris,09:00,17:30,UTC+01,EUR,1.0000
+IDIV,Metaurus US Equity Cumulative Divs 2027,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IDICLX,Dividend Income Leaders Strateg,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IDIVLX,Dividend Income & Value Portfol,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IDITX,Transamerica Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDIVX,Integrity Dividend Harvest A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IDISCX,Closed-End Strategy: Discount O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

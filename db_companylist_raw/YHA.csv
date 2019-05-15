@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YHA.FRK,Yamaha Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YHA.BER,YAMAHA CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YHA.DUS,YAMAHA CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YHAA.BER,YAMAHA CORP.SP.ADR/1 O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YHA.STG,YAMAHA CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WXUA.BER,THREAD.S.I.-GL.E.I. RIEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+WXUA.MUN,THREAD.S.I.-GL.E.I. RIEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WXUA.FRK,THREAD.S.I.-GL.E.I. RIEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+WXUA.DUS,THREAD.S.I.-GL.E.I. RIEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

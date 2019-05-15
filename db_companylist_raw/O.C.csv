@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+C4C.DUS,BK O.COMMUNICATIONS H YC1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+C4C.MUN,BK O.COMMUNICATIONS H YC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3636
+C4C.BER,BK O.COMMUNICATIONS H YC1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+OCC.BAK,O.C.C. Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+PIR.STG,People's Ins.Co.(Gr.) o.Ch.LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+OCC-R.BAK,O.C.C. Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222

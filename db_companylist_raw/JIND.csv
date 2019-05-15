@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JINDALSTEL.NSE,Jindal Steel & Power Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+JRL.AUS,Jindalee Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4706
+JINDALPOLY.NSE,Jindal Poly Films Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+JSLHISAR.BSE,Jindal Stainless (Hisar) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+JINDWORLD.BSE,Jindal Worldwide Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000
+JPOLYINVST.NSE,Jindal Poly Investment and Finance Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3810
+507981.BSE,Jindal Hotels Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3529
+JINDALSAW-EQ.NSE,JINDAL SAW LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3200
+JPOLYINVST-EQ.NSE,JINDAL POLY INV &,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2667
+JF8.BER,JINDALEE RES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667

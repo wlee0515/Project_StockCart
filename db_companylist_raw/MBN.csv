@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSNDF,MBN CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNAB,Mercantil Bank Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNKF,Metro Bank PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNBX,MainStay Balanced B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNRX,MainStay Balanced R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNYX,MFS NY Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNCX,MFS NC Municipal Bond B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBNAX,MainStay Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MBN.BER,ITAFOS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MBN.FRK,Itafos,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMUS.FRK,VMUS.F,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VMUS.FRK,THINK MORN.NO.AM.EQ.U.ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HVJA.BER,DWS I.-GL.INFRASTR. LD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+HVJA.MUN,DWS I.-GL.INFRASTR. LD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+HVJA.FRK,Deutsche Invest I - Deutsche Invest I Global Infrastructure,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HVJA.DUS,DWS I.-GL.INFRASTR. LD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

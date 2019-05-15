@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FPFI,Fresh Promise Foods Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FPFPX,FA 529 PORT 2025-CL P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPFCX,FA 529 PORT 2028-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPFZX,Franklin PA Tax-Free Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPFAX,FA 529 PORT 2028-CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPFAEA.MEX,F-PFAE A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+FPFAEB1.MEX,F-PFAE B1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FPFAEB2.MEX,F-PFAE B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FPFAEB3.MEX,Fondo BBVA Bancomer Estrategia Selecta 2 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615

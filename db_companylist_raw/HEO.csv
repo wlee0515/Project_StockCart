@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HEOFF,H2O Innovation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOZX,Highland Long/Short Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOAX,Highland Long/Short Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOTX,Hartford Environmental Opportunities R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOCX,Highland Long/Short Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOVX,Hartford Environmental Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOYX,Hartford Environmental Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOMX,Hartford Environmental Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOFX,Hartford Environmental Opportunities F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HEOSX,Hartford Environmental Opportunities R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

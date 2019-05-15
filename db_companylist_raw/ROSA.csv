@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXSR,"Exchange Bank (Santa Rosa, CA)",Equity,United States,09:30,16:00,UTC-05,USD,0.4211
+STR-H.TRV,Santa Rosa Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3077
+0578.HKG,Rosan Resources Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2667
+ROSALBERCAPI.BCL,Rosalber Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581
+F000001XZV.BCL,Rosalber Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+F000001YVU.BCL,Rosaloles Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AY,Atlantica Yield plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AYX,Alteryx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AYTU,Aytu BioScience Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AYR,Aircastle Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+AYI,Acuity Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AYSI,Alloy Steel International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AYAAF,Ayala Land Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AYTUW,AYTU BIOSCIENCE IN,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AYYBF,Discovery Metals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+AYBLX,Pioneer Classic Balanced Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

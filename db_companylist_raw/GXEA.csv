@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GXEA.FRK,Galapagos NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+GXEA.BER,GALAPAGOS N.V. ADR 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+GXEA.STG,Galapagos N.V. Actions Nom. (Sp,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

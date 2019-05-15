@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BTPIX,Salient Tactical Plus F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BTPS.JKT,PT Bank Tabungan Pensiunan Nasional Syariah Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+BTPN.JKT,PT Bank Tabungan Pensiunan Nasional Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+BTP.SGP,Baker Technology Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6000
+BTPPSIMLCWSH.AUS,BT MLC Horizon 5 Growth Portfolio WFS,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.6000
+BTPS.PAR,Lyxor BTP Daily -2x Inverse ETF Acc A/I,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+BTPPSIABERDE.AUS,BT Aberdeen Actively Hedged International Equity WFS,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+BTPC.BER,ACTIVE BIOTECH  SK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333

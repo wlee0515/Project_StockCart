@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPDCX,BlackRock LifePath Dynamic 2060 Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+LPDC.BSE,Landmark Property Development Company Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273
+LPDC.NSE,Landmark Property Development Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7273
+LPDC-EQ.NSE,LANDMARK PROP DEV,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714

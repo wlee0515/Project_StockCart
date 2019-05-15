@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+B07.SGP,NGSC Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.8889
+BJCL.SGP,NGSC^,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.5000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHLD,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MAIN,Main Street Capital Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MMD,MainStay DefinedTerm Municipal Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MH-PC,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MPGFX,Mairs & Power Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+MH-PA,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+MHNC,Maiden Holdings North America Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MLAIX,MainStay Large Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MH-PD,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

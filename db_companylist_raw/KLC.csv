@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KLCIX,Federated Kaufmann Large Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLCAX,Federated Kaufmann Large Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLCCX,Federated Kaufmann Large Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLCSX,Federated Kaufmann Large Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KLCKX,Federated Kaufmann Large Cap R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+0820EA.KLA,FTSE Bursa Malaysia KLCI ETF,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4444
+5235SS.KLA,KLCC Real Estate Investment Trust,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3333
+1560.TOK,NEXT FUNDS FTSE Bursa Malaysia KLCI Exchange Traded Fund,ETF,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+KCO.STG,Klckner & Co SE Namens-Aktien o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1017

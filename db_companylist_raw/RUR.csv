@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+601860.SHH,"Jiangsu Zijin Rural Commercial Bank CO.,LTD.",Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.7500
+RFNDF,Rural Funds Group,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+RURPX,American Funds Retire Inc Port-Mod R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1277

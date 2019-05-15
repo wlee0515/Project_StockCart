@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PVR.NSE,PVR Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.8571
+PVRS,Providence Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PVR.LON,Providence Resources P.l.c.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PVR.BSE,PVR Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+PVR1.BER,"PATAGONIA GOLD PLC LS-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+532689.BSE,PVR Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+PVR1.FRK,"PATAGONIA GOLD PLC LS-,01",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+PVR1.STG,Patagonia Gold PLC Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286

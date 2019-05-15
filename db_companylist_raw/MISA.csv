@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MISAX,Victory Trivalent International Sm-Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+1722.TOK,Misawa Homes Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3810
+1728.TOK,Misawa Homes Chugoku Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+3169.TOK,Misawa & Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+MHO.MUN,Misawa Homes Co. Ltd.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2353

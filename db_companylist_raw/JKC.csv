@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JKCEMENT.BSE,J.K. Cement Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+JKCEMENT.NSE,J.K. Cement Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286

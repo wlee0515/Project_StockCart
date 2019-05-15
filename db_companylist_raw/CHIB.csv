@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHBAY,The Chiba Bank Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CHBAF,The Chiba Bank Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+8331.TOK,The Chiba Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+CBR.BER,CHIBA BK LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+CBG.TRV,Chibougamau Independent Mines Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+CBR.FRK,CHIBA BK LTD,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+8337.TOK,The Chiba Kogyo Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3077
+CLL1.STG,Chibougamau Independent Mines Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+CLL1.FRK,CHIBOUGAMAU INDEP. MNS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2105

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CTO,Consolidated-Tomoka Land Co.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTOAX,American Funds College 2021 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+CTOP,Ceetop Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CTORX,Columbia Thermostat Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTON,Second Street Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTOPAX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTOPDX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CTOEX,American Funds College 2021 529E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTOCX,American Funds College 2021 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+CTOPCX,"Guggenheim Defined Portfolios, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

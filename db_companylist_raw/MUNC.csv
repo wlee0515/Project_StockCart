@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMHIX,MainStay MacKay High Yield Muncpl Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MMHAX,MainStay MacKay High Yield Muncpl Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2667
+MYBF,Muncy Bank Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FSMB,First Trust Short Dur Mgd Muncpl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+MMHDX,MainStay MacKay High Yield Muncpl Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+MMIN,IQ MacKay Shields Muncpl Insrd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2353
+TAXF,Amern Century Divers Muncpl Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+MMIT,IQ MacKay Shields Muncpl Intern ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+FUMB,First Trust Ultra Short Dur Muncpl ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+CCAOX,Columbia Strat CA Muncpl Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2105

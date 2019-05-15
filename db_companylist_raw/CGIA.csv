@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CGIAX,American Funds Intl Gr and Inc529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CGIAAX,Guggenheim Def Srs 724 Guggenhe,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CGIACX,Guggenheim Def 726 Guggenheim I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CGIADX,Guggenheim Def 727 Guggenheim I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+CGIABX,Guggenheim Def 725 Guggenheim I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

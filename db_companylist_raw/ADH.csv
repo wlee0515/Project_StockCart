@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATRX,Adhera Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADHC,American Diversified Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADHLF,Applied Development Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ADHI.JKT,PT Adhi Karya (Persero) Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+ADR.AUS,Adherium Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444
+ADHUNIKIND.NSE,Adhunik Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+ADHBHUTIN.BSE,Adhbhut Infrastructure Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+ADH.JOH,ADvTECH Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.2857

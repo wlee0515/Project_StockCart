@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NRSZX,NexPoint Real Estate Strategies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSCF,Nomura Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSCX,NexPoint Real Estate Strategies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSAX,NexPoint Real Estate Strategies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSIX,Neuberger Berman Strategic Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSRX,Neuberger Berman Sustainable Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NRSKF,Narasaki Sangyo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NRST.MIL,Neurosoft Software Production S.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.7500
+NRS.FRK,NeuroSearch A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

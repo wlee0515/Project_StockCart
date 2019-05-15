@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+G.TRT,Goldcorp Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.8571
+2694.TOK,G.taste Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+G.TWN,Nomura Asia Pacific High Yield Bond Inc,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4444

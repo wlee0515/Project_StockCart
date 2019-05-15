@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIFI,Gulf Island Fabrication Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GIFX,GIFA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FRFS,GIFA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BGKEX,Baillie Gifford Emerging Markets K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIFAX,Guggenheim Floating Rate Strats A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIFPX,Guggenheim Floating Rate Strats P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIFIX,Guggenheim Floating Rate Strats Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4615
+GIFCX,Guggenheim Floating Rate Strats C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BGEGX,Baillie Gifford Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BPESX,Baillie Gifford Positive Change Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

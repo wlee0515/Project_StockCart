@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AWRE,Aware Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VCSOX,VALIC Company I Global Social Awareness,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AWARX,AB Wealth Appreciation Strategy R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+AWAYX,AB Wealth Appreciation Strategy Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TXRRX,JPMorgan Tax Aware Real Return R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+JPDEX,JPMorgan Tax Aware Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+JPEAX,JPMorgan Tax Aware Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1935
+JPELX,JPMorgan Tax Aware Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1714
+CUTAX,Six Circles Tax Aware Ult Shr Dur,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+TXRCX,JPMorgan Tax Aware Real Return C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1429

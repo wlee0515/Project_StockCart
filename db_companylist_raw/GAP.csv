@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GPS,The Gap Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GAPFF,Aimia Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPOX,GMO Alpha Only IV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPAX,Goldman Sachs Equity Growth Strat A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPSX,Goldman Sachs Equity Growth Strat Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPIX,Goldman Sachs Equity Growth Strat Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPJ,Golden Apple Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPRX,Goldman Sachs Equity Growth Strat R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPUX,Goldman Sachs Equity Growth Strat R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GAPTX,Goldman Sachs Equity Growth Strat Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

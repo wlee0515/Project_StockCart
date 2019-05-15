@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRXG,Pernix Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRXIX,T. Rowe Price Emerging Markets Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRXIQ,Premier Exhibitions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRXEX,T. Rowe Price New Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRXCX,T. Rowe Price California Tax-Free Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRXM,Proxim Wireless Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRXAX,T. Rowe Price GNMA I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRXXF,Paradox Interactive AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRX.AUS,Prodigy Gold NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

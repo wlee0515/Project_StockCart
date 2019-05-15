@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MJB.STG,Mirvac Group Stapled Securities,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+MJB.FRK,Mirvac Group Stapled Securities,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MJB.DUS,MIRVAC GROUP UTS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

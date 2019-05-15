@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IFEU,iShares Europe Developed Real Estate ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IFEMX,Invesco Emerging Markets Flexible Bd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IFETWX,EAFE Select 20 Portfolio 2018-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IFE.STG,iFresh Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

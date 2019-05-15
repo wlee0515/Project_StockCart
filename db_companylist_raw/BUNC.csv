@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WBAG.HAM,WILD BUNCH AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.4706
+WBAG.FRK,Wild Bunch AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+WBAG.MUN,WILD BUNCH AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4706
+WBAG.BER,WILD BUNCH AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3636
+WBAG.FRK,Wild Bunch AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.3636
+WBAG.DUS,WILD BUNCH AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3636
+WBAG.STG,Wild Bunch AG Inhaber-Aktien o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636
+WBAH.FRK,Wild Bunch AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+WBAH.BER,WILD BUNCH AG O.N. KONV.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+WBAH.FRK,WILD BUNCH AG O.N. KONV.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2286

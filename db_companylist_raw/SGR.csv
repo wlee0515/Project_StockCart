@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGRY,Surgery Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGRP,SPAR Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGRAX,Wells Fargo Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SGRNX,Wells Fargo Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRKX,Wells Fargo Growth Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRZ,Stonepath Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRWF,Gold Rush Cariboo Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRHX,Wells Fargo Growth R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRNF,Serengeti Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGRCF,San Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

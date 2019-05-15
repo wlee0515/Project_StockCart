@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IHI,iShares US Medical Devices ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IHIT,Invesco High Income 2023 Target Term Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IHIFX,Ivy High Income N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHIYX,Transamerica High Yield Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHIAX,Federated Emerging Market Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHICY,IHI Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IHIGCX,"High Yield Corporate Trust, 4-7",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IHICF,IHI Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

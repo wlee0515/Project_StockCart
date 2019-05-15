@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LONAX,Longboard Alternative Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+LONASIANGROW.TRT,LON Far East Eqty (CLI) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTAMRGCL.TRT,LON U.S. Equity (LC) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTCANG10.TRT,LON Cdn Equity (G) 100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTCANG75.TRT,LON Cdn Equity (G) 75/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTCANGCL.TRT,LON Cdn Equity (LC) 75/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTCROISS.TRT,LON Grth Eqty (A) 75/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTEUROS1.TRT,LON Euro Equity (S) 100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTEUROS7.TRT,LON Euro Equity (S) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+LONACTINTERN.TRT,LON Intl Stock (M) 100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

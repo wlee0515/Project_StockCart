@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VKSC,Viskase Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VKSCX,Virtus KAR Small-Mid Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889

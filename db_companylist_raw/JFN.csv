@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JFNIX,Janus Henderson Global Life Sciences I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFNAX,Janus Henderson Global Life Sciences A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFNNX,Janus Henderson Global Life Sciences N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFNCX,Janus Henderson Global Life Sciences C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFNSX,Janus Henderson Global Life Sciences S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JFN.SWI,Jungfraubahn Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MAN,ManpowerGroup Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NLY,Annaly Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MNKD,MannKind Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+WM,Waste Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+IXT.AUS,Global Merces Funds Management Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+AXL,American Axle & Manufacturing Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+APO,"Apollo Global Management, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PPERF,PT Bank Mandiri (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+MFC,Manulife Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1875

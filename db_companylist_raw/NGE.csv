@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGE,Global X MSCI Nigeria ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+NGQRF,NGEx Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NGEIX,Nuveen NWQ Global All-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGEAX,Nuveen NWQ Global All-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGECX,Nuveen NWQ Global All-Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGELF,NGE Capital Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

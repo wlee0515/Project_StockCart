@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USOI,Credit Suisse X-Lnks Crde OlShrsCvCllETN,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+OFAFX,Olstein All Cap Value Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+OFSAX,Olstein Strategic Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+OFALX,Olstein All Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+FOEAF,Fred. Olsen Energy ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+FOEAY,Fred. Olsen Energy ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+OFSFX,Olstein Strategic Opportunities Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+OFSCX,Olstein Strategic Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CUUHF,Stuart Olson Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+OFAVX,Olstein All Cap Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

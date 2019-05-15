@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WEA,Western Asset Premier Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WFT,Weatherford International plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WEAT,Teucrium Wheat ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+WMLLF,Wealth Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WGBFX,Wells Fargo WealthBuilder Gr Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2609
+DDIAX,Delaware Wealth Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BWBIX,Baron WealthBuilder Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+WGCFX,Wells Fargo WealthBuilder Gr Allc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+WMBFX,Wells Fargo WealthBuilder Mod Bal C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+WCAFX,Wells Fargo WealthBuilder Cnsrv Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFLB.BER,FIRST ENERGY METALS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+DFLB.FRK,First Energy Metals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+DFLB.MUN,FIRST ENERGY METALS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DFLB.STG,First Energy Metals Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

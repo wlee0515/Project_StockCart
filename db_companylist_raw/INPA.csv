@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INPAX,American Funds Cnsrv Gr & Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+INPAP,INTL PAPER CO,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+INPAYERINVER.BCL,Inpayer Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000001YAX.BCL,Inpayer Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

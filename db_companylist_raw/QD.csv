@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QD,Qudian Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+QDEL,Quidel Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QDEF,FlexShares Quality Dividend Defensv ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QDF,FlexShares Quality Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QDRSF,Quadrise Fuels International Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QDLC,Quadlogic Controls Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QDYN,FlexShares Quality Dividend Dynamic ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+QDIV,Global X S&P 500 Quality Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

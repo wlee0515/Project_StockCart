@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DOPIX,Dreyfus Opportunistic Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DOP.STG,Aminex PLC,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OPJC.FRK,FFPB MULTITREND DOPPELPL.,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+IT0004789142.MIL,Amundi Eureka Italia Doppia Opp 2019,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.4000
+OPJC.DUS,FFPB MULTITREND DOPPELPL.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1538
+F00000PS63.MIL,Amundi Eureka Italia Doppia Opp 2019,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.1538

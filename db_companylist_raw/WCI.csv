@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WCITX,Wells Fargo Colorado Tax-Free Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+WCIIX,Wells Fargo Conservative Income Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WCIG,Wee-Cig International Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

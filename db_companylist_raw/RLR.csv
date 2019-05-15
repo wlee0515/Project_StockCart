@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RLRPX,American Funds Retire Inc Port-Enh R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLROX,State Farm LifePath Retirement R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLRTX,State Farm LifePath Retirement R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLRHX,State Farm LifePath Retirement R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RLRN.BER,"AXA EQUIT. HLDGS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

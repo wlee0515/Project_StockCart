@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DJDA.FRK,D'Ieteren SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+DJDA.DUS,D'IETEREN P.S.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+DJDA.MUN,D'IETEREN P.S.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DJDA.STG,D'Ieteren S.A. Parts Sociales a,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

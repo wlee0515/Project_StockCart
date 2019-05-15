@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+M,Macy's Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MOGU,Meili Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+T,AT&T Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MU,Micron Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+MSFT,Microsoft Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MYFW,First Western Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MESA,Mesa Air Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MSC,Studio City International Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MNGA,MagneGas Applied Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MO,Altria Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.0000

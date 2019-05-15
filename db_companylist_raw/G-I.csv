@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIII,G-III Apparel Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GI4.BER,"G-III APPAREL GRP  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+GI4.FRK,G-III Apparel Group Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+GI4.STG,G-III APPAREL GROUP LTD. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

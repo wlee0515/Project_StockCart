@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QVM,Arrow QVM Equity Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PQVM.MIL,INVESCO S&P 500 QVM UCITS ETF,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6667
+PQVG.LON,PowerShares Global Funds Ireland Public Limited Company - PowerShares S&P 500 QVM UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+PQVM.LON,Invesco S&P 500 QVM ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+QVMP.FRK,PowerShares Global Funds Ireland Public Limited Company - PowerShares S&P 500 QVM UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+PQVM.PAR,Invesco S&P 500 QVM ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.4444

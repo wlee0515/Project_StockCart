@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YCP.FRK,ConocoPhillips,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YCP.BER,"CONOCOPHILLIPS  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YCP.FRK,ConocoPhillips,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+YCP.DUS,"CONOCOPHILLIPS  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YCP.MUN,"CONOCOPHILLIPS  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YCP.STG,ConocoPhillips Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+YCP.HAM,"CONOCOPHILLIPS  DL-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

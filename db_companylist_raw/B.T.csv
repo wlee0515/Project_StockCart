@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+B.TWN,Allianz Global Investors Target IncB TWD,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.8571
+IT0001029690.MIL,UBI Pramerica Euro B.T.,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3636
+BTSYN.BSE,B.T. Syndicate Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+F0GBR04W7N.MIL,UBI Pramerica Euro B.T.,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2308

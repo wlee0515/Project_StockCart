@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGP,"Ferrellgas Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FGPMX,Franklin Gold and Precious Metals R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGPINX,FT 6473: Covered Call Select Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGPCX,FA 529 Asset Manager 60% Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGPACX,FT 7120: Brookmont Equity Divid,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGPRUX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGPAX,FA 529 Asset Manager 60% Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGPOLX,FT 6526: New Jersey Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGPHF,First Graphene Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FGP.LON,Firstgroup plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

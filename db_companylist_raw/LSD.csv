@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LSDAX,Lord Abbett Short Duration Tax Free A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDIX,Loomis Sayles Interm Duration Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDAF,Lassonde Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDCX,Lord Abbett Short Duration Tax Free C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDFX,Lord Abbett Short Duration Tax Free F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDOX,Lord Abbett Short Duration Tax Free F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LSDRX,Loomis Sayles Interm Duration Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+2B7R.MUN,IS FTSE 250 U.ETF LSD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2500
+IUSZ.FRK,IS CO.FTSE 100 U.ETF LSD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+VGOV.FRK,VANG.U.K. GILT U.ETF LSD,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

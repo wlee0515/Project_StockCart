@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWLBALANCEDB.TRT,GWL Balanced (B) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4706
+GWLBONDPNL.TRT,GWL Core Bond (P) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+GWLBONDPDSC.TRT,GWL Core Bond (P) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBALANCEDI.TRT,GWL Balanced (IVZ) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBALANCEDP.TRT,GWL Balanced Port (PSG) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBALINCPOR.TRT,GWL Bal Inc Port (PSG) 100/100(PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBONDP1001.TRT,GWL Core Bond (P) 100/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBONDP7510.TRT,GWL Core Bond (P) 75/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLBONDP7575.TRT,GWL Core Bond (P) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KAR,KAR Auction Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KPTI,Karyopharm Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PSGAX,Virtus KAR Small-Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+PXSGX,Virtus KAR Small-Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+KARS,KraneShares Eltc Vhl and Ft Mbly Index ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+PSGCX,Virtus KAR Small-Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+VIISX,Virtus KAR International Small-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PHSKX,Virtus KAR Mid-Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+PSTAX,Virtus KAR Capital Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875
+PKSFX,Virtus KAR Small-Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538

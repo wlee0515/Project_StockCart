@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAOCX,Guggenheim Alpha Opportunity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAOAX,Guggenheim Alpha Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAOSX,Guggenheim Alpha Opportunity P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAOPX,Barrett Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAOIX,Guggenheim Alpha Opportunity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAO.MUN,SASOL LTD ADR/1 O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+SAOA.BER,SASOL LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+SAOA.STG,SASOL LTD. Registered Shares o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+SAO.FRK,Sasol Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+SAO.BER,SASOL LTD ADR/1 O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

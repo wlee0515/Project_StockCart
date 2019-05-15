@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YLEE.KLA,YEE LEE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+5584.KLA,Yee Lee Corporation Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2500
+YIH.FRK,Yeebo (International Holdings) Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308
+0259.HKG,Yeebo (International Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2222
+1662.HKG,Yee Hop Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1463

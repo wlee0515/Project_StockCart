@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHR,Danaher Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DHRIX,Diamond Hill Core Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHROX,Diamond Hill Research Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHRAX,Diamond Hill Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHRYX,Diamond Hill Core Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHR.TRV,Discovery Harbour Resources Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DHR.AUS,Dark Horse Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DHR.MEX,Danaher Corporation,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+DHR.STG,B & G Foods Inc.(New) Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DHRUVES.BSE,Dhruv Estates Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615

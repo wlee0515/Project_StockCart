@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GTAGX,Invesco Mid Cap Core Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GTAIX,Power Global Tactical Allc/JAForlines I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QGTA,IQ Leaders GTAA Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+GTAPX,Glenmede Quant US Long/Short Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTAAX,Power Global Tactical Allc/JAForlines A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTANX,Goldman Sachs Target Date 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTAJX,Goldman Sachs Target Date 2030 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTATX,Goldman Sachs Hi Quality Float Rt Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTAMX,Goldman Sachs Target Date 2040 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GTACX,Invesco Mid Cap Core Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

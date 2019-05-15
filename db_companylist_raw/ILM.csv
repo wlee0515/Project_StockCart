@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ILMN,Illumina Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ILMBX,Voya Limited Maturity Bond Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILMDX,Ivy Limited-Term Bond N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ILMN.MEX,Illumina Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+AT0000A115H3.VIE,Ilmari,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.6667
+ILM1.FRK,Medios AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ILM1.FRK,Medios AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+ILM1.DUS,Medios AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ILM1.HAM,Medios AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

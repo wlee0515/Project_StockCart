@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDRI,Diversified Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DDR2.FRK,SITE Centers Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DDR.AUS,Dicker Data Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DDR2.BER,SITE CENTERS NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DDR2.STG,SITE Centers Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

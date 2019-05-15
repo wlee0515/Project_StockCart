@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCC,ProShares UltraShort Consumer Services,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SCCO,Southern Copper Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCCYF,Scythian Biosciences Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCTX,Virtus Conservative Allc Strat I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCLX,Virtus Conservative Allc Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCUX,Invesco Low Volatility Equity Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCPX,Sterling Capital Corporate Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCYX,Carillon Reams Core Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCCAX,Transamerica Small Cap Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

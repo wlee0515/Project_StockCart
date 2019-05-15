@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCRDX,Oppenheimer Rising Dividends C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TKSO.KLA,OCR GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3158
+7071PA.KLA,OCR GROUP BERHAD - IRREDEEMABLE,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2857
+F00000YPK5.BCL,IMDI Funds Ocre FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1765

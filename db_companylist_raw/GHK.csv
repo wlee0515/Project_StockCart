@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GHK.FRK,Great Eagle Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GHK.BER,"GREAT EAGLE HLDGS  HD-,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GHK.MUN,"GREAT EAGLE HLDGS  HD-,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GHK.STG,GREAT EAGLE HOLDINGS LTD. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

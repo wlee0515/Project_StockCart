@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHGDF,Founder Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGLX,Fidelity Advisor Freedom 2035 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGEOX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGEX,Fidelity Freedom Blnd 2005 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGLMX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGCX,Fidelity Advisor Freedom Blnd 2055 Z6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHGFX,Fidelity Advisor Freedom Blnd 2045 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHGDX,Fidelity Advisor Freedom Blnd 2035 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHG-F.TRT,FIRST TRUST AD US INDUSTRIALS E,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

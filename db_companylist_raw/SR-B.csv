@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBRKF,SpareBank 1 SR-Bank ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+AM20.ARG,Argentina SR-BONAR FL BD20,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2963
+B4M1.FRK,SpareBank 1 SR-Bank ASA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2963
+B4M1.BER,SPBK 1 SR-BK ASA  NK 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667
+B4M1.STG,Sparebank 1 SR-Bank ASA Grunnfo,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

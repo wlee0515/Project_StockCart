@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZB.FRK,Enzo Biochem Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+EZB.BER,"ENZO BIOCHEM. INC. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EZB.MUN,"ENZO BIOCHEM. INC. DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EZB.STG,ENZO BIOCHEM INC. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EZBG.BRU,Eckert & Ziegler BEBIG S.A.,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.6000

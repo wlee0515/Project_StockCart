@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTC,The Toro Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TTCM,Tautachrome Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTCNF,Telit Communications PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTCS,Humanatare Distribution Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TTC1D.ARG,TTC1D.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+TTC1O.ARG,TTC1O.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6667
+TTC.DUS,TRANSTEC AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+TTC.STG,transtec AG Namens-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5455
+TTCL.BAK,TTCL Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

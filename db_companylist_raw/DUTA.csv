@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DPNS.JKT,PT Duta Pertiwi Nusantara Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+APEX.JKT,PT Apexindo Pratama Duta Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+DART.JKT,PT Duta Anggada Realty Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4444
+DUTI.JKT,PT Duta Pertiwi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4211
+SMDM.JKT,PT Suryamas Dutamakmur Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+DUI.FRK,PT Duta Pertiwi Tbk,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+3948.KLA,DutaLand Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2667
+DAYA.JKT,PT Duta Intidaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2500
+MYMS.KLA,DUTALAND BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2424

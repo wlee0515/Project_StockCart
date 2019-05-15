@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INR,Market Vectors Indian Rupee/USD ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+RUPRF,Rupert Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RUP.TRV,Rupert Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000
+RUPA.NSE,Rupa & Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+R05.FRK,Rupert Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

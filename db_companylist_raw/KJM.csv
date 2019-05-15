@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KJMCFIN.BSE,KJMC Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+KJMCCORP.BSE,KJMC Corporate Advisors (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4286
+530235.BSE,KJMC FINANCIAL SERVICES LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1935

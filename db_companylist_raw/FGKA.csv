@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGKA.MUN,MAGNA UMB.FD-M.NEW FR.REO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+FGKA.BER,MAGNA UMB.FD-M.NEW FR.REO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+FGKA.DUS,MAGNA UMB.FD-M.NEW FR.REO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

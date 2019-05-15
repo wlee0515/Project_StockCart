@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JRWOX,JHancock Multi-Index 2020 Presv 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRWSX,JHancock Multi-Index 2020 Presv R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRWRX,JHancock Multi-Index 2020 Presv R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRWQX,JHancock Multi-Index 2020 Presv R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRWPX,JHancock Multi-Index 2020 Presv R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

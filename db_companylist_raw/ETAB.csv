@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRELF,Etablissements Maurel & Prom S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ETABX,Eventide Limited-Term Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+MAU.PAR,Etablissements Maurel & Prom S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000
+0F6L.LON,Etablissements Maurel & Prom S.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286
+ETX.STG,Etablissements Maurel & Prom S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+ETX.FRK,Etablissements Maurel & Prom S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+0N4Y.ILN,ETABLISSEMENTEN FRANZ COLRUYT N,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2162
+0OFM.ILN,COMPAGNIE GENERALE DES ETABLISS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2162

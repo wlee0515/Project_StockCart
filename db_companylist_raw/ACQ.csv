@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CFFAU,CF Finance Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CHACU,CHARDAN HEALTHCARE ACQUISITION CORP.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DDMXU,DD3 Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ARYAU,ARYA Sciences Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TZACU,Tenzing Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GLACU,Greenland Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+ALACU,Alberton Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FTACU,FinTech Acquisition Corp. III Units,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+LOACU,Longevity Acquisition Corporation Units,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+AMCIU,AMCI Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.2000

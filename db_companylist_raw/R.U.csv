@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LM57.BER,LM GL-LM R.USSC O.ADDL(A),ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+LM57.DUS,LM GL-LM R.USSC O.ADDL(A),ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+LM57.HAM,LM GL-LM R.USSC O.ADDL(A),ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+LM57.MUN,LM GL-LM R.USSC O.ADDL(A),ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

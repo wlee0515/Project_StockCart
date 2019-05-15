@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FLG,Focus Morningstar Large Cap Ind,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FLGT,Fulgent Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLGEX,Fidelity Large Cap Growth Enhanced Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FLGE,Credit Suisse FI Large Cap Gr Enh ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FLGB,Franklin FTSE United Kingdom ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+INBKL,First Internet Bancorp SB NT FXD FLG MA,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

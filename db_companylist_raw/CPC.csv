@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPCAY,Cathay Pacific Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCRX,Comstock Capital Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCAF,Cathay Pacific Airways Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCEX,Counterpoint Tactical Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCFX,Invesco Core Plus Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCZX,Columbia Capital Allocation Mod Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCTX,Counterpoint Tactical Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCLX,Calamos Phineus Long/Short C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCYX,Columbia Capital Allocation Cnsrv Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CPCCX,Comstock Capital Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

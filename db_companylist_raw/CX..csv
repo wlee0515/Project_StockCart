@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CX.TRV,Clarmin Explorations Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+CX.ARG,CEMEX SAB DE CV,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500

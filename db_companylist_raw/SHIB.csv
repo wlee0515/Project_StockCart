@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6340.TOK,Shibuya Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3478
+6590.TOK,Shibaura Mechatronics Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+6957.TOK,Shibaura Electronics Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2424
+9304.TOK,The Shibusawa Warehouse Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2286
+1057.HKG,Zhejiang Shibao Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2286
+W4K1.BER,ZHEJIANG SHIBAO H  YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+002703.SHZ,Zhejiang Shibao Company Limited,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.2222
+600604.SHH,Shanghai Shibei Hi-Tech Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2162
+900902.SHH,Shanghai Shibei Hi-Tech Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2162

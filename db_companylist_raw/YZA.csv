@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YZA.FRK,ARYZTA AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YZA.HAM,"ARYZTA AG NAM.  SF-,02",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+YZA.STG,"Aryzta AG Namens-Aktien SF -,02",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+YZA.BER,"ARYZTA AG NAM.  SF-,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YZA.DUS,"ARYZTA AG NAM.  SF-,02",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+YZA.MUN,"ARYZTA AG NAM.  SF-,02",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YZAB.BER,ARYZTA AG  -ANR.-,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YZAB.MUN,ARYZTA AG  -ANR.-,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+YZAB.STG,Aryzta AG Anrechte,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

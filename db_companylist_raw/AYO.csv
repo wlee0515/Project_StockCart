@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AYO.MUN,"ABENGOA INH. A EO 0,02",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AYO.STG,ABENGOA S.A. Acciones Port. A E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+8AY.FRK,ayondo Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+1I5.SGP,ayondo Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+8AY.BER,AYONDO LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AYO.BER,"ABENGOA INH. A EO 0,02",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+AYO.DUS,"ABENGOA INH. A EO 0,02",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4615
+AYO.JOH,AYO Technology Solutions Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.4286

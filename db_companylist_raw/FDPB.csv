@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FDPBALANCEDP.TRT,FDP Balanced Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+FDPBALANCEDG.TRT,FDP Balanced Growth Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+FDPBALANCEDI.TRT,FDP Balanced Income Portfolio,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

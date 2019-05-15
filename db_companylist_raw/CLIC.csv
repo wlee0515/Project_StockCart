@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CLCGY,Clicks Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLCI,CLIC Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+XCLK,Cross Click Media Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CLIS,ClickStream Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AQFD,Click To Raffle.Com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+CCKRF,CLICKS GROUP LTD,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+CLS.JOH,Clicks Group Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3810
+F00000WDXU.MIL,Aviva CU Vita Europe Click,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2857
+FR0000438087.PAR,HSBC Clic Euro 85,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2759
+N1C.BER,"CLICKS GROUP LTD  RC-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2667

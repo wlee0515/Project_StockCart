@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANBAX,American Funds Strategic Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SYUP,ANBC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANBIX,AB Bond Inflation Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANBCX,American Funds Strategic Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANBFX,American Funds Strategic Bond F-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANBEX,American Funds Strategic Bond F-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANBGX,American Funds Strategic Bond F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ANB.MEX,Anheuser-Busch InBev SA/NV,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+ANB.DUS,A.N.Z. BKG GRP,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+ANB1.FRK,Australia and New Zealand Banking Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4615

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQGP,"EQGP Holdings, LP",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EQGPF,Equitable Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EQG.TRV,eQube Gaming Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+EQGB.LON,Invesco EQQQ NASDAQ-100 ETF (GBP Hdg),ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+SMRU.PAR,Amundi IS EqGlb MltSmrtAllScBt ETF-C USD,ETF,Paris,09:00,17:30,UTC+01,EUR,0.6000
+1EQ.FRK,"EQGP Holdings, LP",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+EQGB.SWI,Invesco EQQQ UCITS ETF GBP Hdg,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.1395
+SMRT.PAR,Amundi IS EqGlb MltSmrtAllScBt ETF-C EUR,ETF,Paris,09:00,17:30,UTC+01,EUR,0.1395

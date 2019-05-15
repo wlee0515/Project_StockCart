@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRRX,DURECT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EDV,Vanguard Extended Duration Trs ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+LDP,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GSY,Invesco Ultra Short Duration ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+EVV,Eaton Vance Limited Duration Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1714
+LDLFX,Lord Abbett Short Duration Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+FTF,Franklin Limited Duration Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+LALDX,Lord Abbett Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1250
+BGH,Barings Global Short Duration High Yield Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVID,Avid Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CDMO,Avid Bioservices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CDMOP,Avid Bioservices Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+AVBH,Avidbank Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ASNHF,Avidus Management Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AVG.TRV,Avidian Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4444
+AVD.STG,AVID TECHNOLOGY INC. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3077
+AVD.FRK,Avid Technology Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3077
+AVD.MUN,"AVID TECH. INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2500

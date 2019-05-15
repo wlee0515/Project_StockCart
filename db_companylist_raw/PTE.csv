@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTE,PolarityTE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PTEN,Patterson-UTI Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTEU,Pacer Trendpilot European ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PTEIX,Putnam NY Tax Exempt Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PTEBX,Dreyfus Municipal Bond Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTEFX,Principal LifeTime 2050 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTEL,Pegasus Tel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTEZX,PGIM QMA Large-Cap Core Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTEST-Z,PTEST-Z,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTECX,Putnam Tax Exempt Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000

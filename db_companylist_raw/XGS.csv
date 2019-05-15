@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGSD.LON,db x-trackers - Stoxx Global Select Dividend 100 UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XGSG.LON,X II Global Government Bond ETF 2D GBP H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XGSI.LON,X II Global Government Bond ETF 3C USD H,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XGSD.MIL,X Stoxx Global Select Dividend 100 Swp ETF 1D,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XGSH.MIL,X II Global Government Bond ETF 1C EUR H,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XGSI.DUS,XTR.II GBL GOV.BD 3CDLH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XGSD.SWI,X Stoxx Global Select Dividend 100 Swp ETF 1D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

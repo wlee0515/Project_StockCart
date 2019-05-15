@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FALC,FalconStor Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FOLGF,Falcon Oil & Gas Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FLMN,Falcon Minerals Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FLCN,Falcon Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+FPRGF,Falco Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SFMI,Silver Falcon Mining Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+FROT,Falconridge Oil Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FO.TRV,Falcon Oil & Gas Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3200
+FOG.LON,Falcon Oil & Gas Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+FPC.TRV,Falco Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2500

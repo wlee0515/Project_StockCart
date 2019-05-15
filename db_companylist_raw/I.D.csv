@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDSY,I.D. Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+P44C.DUS,I.DB.G.F. DLD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+P44F.BER,I.DB.E.F. DLD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+5D4.BER,"DOUGLAS DYNAMICS I.DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+0BYG.BER,IS.TR.-IS.MSCI I.D.M.F.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.3750
+0BYG.DUS,IS.TR.-IS.MSCI I.D.M.F.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308
+4IUK.BER,I.S+P I.D.Q.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222

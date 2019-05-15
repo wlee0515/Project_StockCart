@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ROO.FRK,RoodMicrotec N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ROO.BER,"ROODMICTROTEC NV  EO -,11",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ROOD.AMS,RoodMicrotec N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+WROD2.AMS,ROODMICROTECWAR2,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.5000

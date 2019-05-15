@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCO,Ducommun Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DCOM,Dime Community Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DCOHF,Dickson Concepts (International) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DCOIX,Delaware Tax-Free CO Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCOP.TRV,District Copper Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DCO.BER,DEERE CO.  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DCO.DUS,DEERE CO.  DL 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DCO.HAM,DEERE CO.  DL 1,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+DCO.MUN,DEERE CO.  DL 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+DCO.FRK,Deere & Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

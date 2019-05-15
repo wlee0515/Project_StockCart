@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DMSQ,Damariscotta Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7273
+SLMZF,Damara Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+BSDE.JKT,PT Bumi Serpong Damai Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5000
+3484.KLA,Damansara Realty Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4211
+ALDAR.PAR,Damartex,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4000
+SUGALDAM.BSE,Sugal & Damani Share Brokers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3810
+BSJ.STG,PT Bumi Serpong Damai TbK Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333
+DAMA.KLA,DAMANSARA REALTY BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2759
+DAMAZINVESTS.BCL,Damaz Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2286

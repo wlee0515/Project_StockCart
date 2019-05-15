@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBIO,Translate Bio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TBT,ProShares UltraShort 20+ Year Treasury,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+TBPMF,Tetra Bio-Pharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TBPH,Theravance Biopharma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TBBK,The Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TBCIX,T. Rowe Price Blue Chip Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TBB,AT&T Inc. 5.35% GLB NTS 66,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TBGVX,"Tweedy, Browne Global Value",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TBI,TrueBlue Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+TBF,ProShares Short 20+ Year Treasury,ETF,United States,09:30,16:00,UTC-05,USD,0.5714

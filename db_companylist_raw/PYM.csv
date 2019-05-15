@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PYMAX,PIMCO High Yield Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYMCX,PIMCO High Yield Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYMOF,Indago Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PYMPX,PIMCO High Yield Municipal Bond I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PYMESA.MEX,"Fondo SAM Deuda Corto Plazo 3, S.A. de C.V. F.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+PYMESB1.MEX,PYMES B1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+PYMESB2.MEX,PYMES B2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+PYMESB3.MEX,PYMES B3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+PYMESF1.MEX,PYMES F1,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+PYMESF2.MEX,PYMES F2,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000

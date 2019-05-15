@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XAR.LON,Xaar plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XAR.STG,XAAR PLC Registered Shares LS -,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XAAG.FRK,Source Markets plc - Source Bloomberg Commodity Ex-Agriculture UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XAR.FRK,"XAAR PLC  LS-,10",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XAR.BER,"XAAR PLC  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455
+XAAG.FRK,Invesco Bloomberg Commodity ex-Agltr ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5000
+XAAG.DUS,IM-I.BLOOM.COMM.X-AGRI.DZ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+XAAH.BER,IMII-I.PREFERRED SHS A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4444

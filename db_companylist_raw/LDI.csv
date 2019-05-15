@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDIFX,QS Global Dividend IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDIGX,QS Global Dividend FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDITX,Lord Abbett Short Duration Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LDI.TRV,Lithoquest Diamonds Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+19330.AUS,LDI Connect 3 Portfolio,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2308

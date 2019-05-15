@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EXHC.FRK,I.EB.R.GO.G.2.5-5.5 U.ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+EXHC.BER,I.EB.R.GO.G.2.5-5.5 U.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+EXHC.FRK,iShares eb.rexx GovtGer 2.5-5.5yr (DE),ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+EXHC.DUS,I.EB.R.GO.G.2.5-5.5 U.ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+EXHC.HAM,I.EB.R.GO.G.2.5-5.5 U.ETF,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+EXHC.MUN,I.EB.R.GO.G.2.5-5.5 U.ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+EXHC.STG,iS.eb.r.Go.G.2.5-5.5y U.ETF DEI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

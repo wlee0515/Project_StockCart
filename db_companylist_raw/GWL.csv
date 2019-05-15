@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWLIF,Great-West Lifeco Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLLY,Great Wall Motor Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLLF,Great Wall Motor Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLOF,Great-West Lifeco Inc. PFD 1ST F 5.9%,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLRX,Aberdeen Global Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLIX,Aberdeen Global Equity Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GWLMODERATEI.TRT,GWL Mod Inc Port (PSG) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+F0CAN05PEP.TRT,GWL Emerging Mkts (M) NL,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+F000005GC2.TRT,GWL Gbl Balanced (M) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.2069
+F00000OA8F.TRT,GWL Mortgage (P) 75/75 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1935

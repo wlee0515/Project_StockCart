@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KLAC,KLA-Tencor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KLBAY,Klabin S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+A0M028.FRK,PB VP Klassik 70 PI 1,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+KLBN11.SAO,KLABIN SA,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+KLBN4.SAO,Klabin S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5455
+KLA.AUS,Kirkland Lake Gold Ltd.,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+KLA.FRK,KLA-Tencor Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+XIC.FRK,AB Klaipedos nafta,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+0JPO.LON,KLA-Tencor Corporation,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2400

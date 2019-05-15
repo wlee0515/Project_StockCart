@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HA,Hawaiian Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BOH,Bank of Hawaii Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HE,Hawaiian Electric Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHB,First Hawaiian Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HWKN,Hawkins Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HWBK,Hawthorn Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HAWEN,Hawaiian Electric Company Inc. PFD C 4.25%,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HAWLM,Hawaiian Electric Company Inc. PFD H 5.250%,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+RHWI,River Hawk Aviation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+HAWLI,Hawaiian Electric Company Inc. PFD J 4.75%,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

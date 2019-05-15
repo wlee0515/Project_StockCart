@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IYR,iShares US Real Estate ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYT,iShares Transportation Average ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYW,iShares US Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYF,iShares US Financials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYE,iShares US Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYH,iShares US Healthcare ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYZ,iShares US Telecommunications ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYC,iShares US Consumer Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYG,iShares US Financial Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IYLD,iShares Morningstar Multi-Asset Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

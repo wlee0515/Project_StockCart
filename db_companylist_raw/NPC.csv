@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+59N.FRK,NPC Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NPCUF,Allon Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5455
+5047.KLA,NPC RESOURCES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3750
+59N.BER,NPC INCORPORATED,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3750
+6255.TOK,NPC Incorporated,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+004250.KOR,NPC Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3158
+004255.KOR,NPC Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3158
+NPCONSTNCIAF.SAO,CONST?NCIA FUNDAMENTO FUNDO DE INVESTIMENTO DE A??ES,Mutual Fund,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.3158
+NPCAA.PAR,REGHDF3.42%01OCT24,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3000

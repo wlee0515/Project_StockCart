@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GLH.FRK,Goldlion Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GLH.BER,GOLDLION HLDGS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GLH.AUS,Global Health Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+GLH.STG,GOLDLION HOLDINGS LTD. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSLGX,JHancock Multimanager Lifestyle Gr R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLNX,Janus Henderson Global Select N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLMX,JHancock Multimanager Lifestyle Mod R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLCX,JHancock Multimanager Lifestyle Cnsrv R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLBX,JHancock Multimanager Lifestyle Bal R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLAX,JHancock Multimanager Lifestyle Agrsv R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSLG3.SAO,JSL S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+JSL.BSE,Jindal Stainless Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+JSLHISAR.NSE,Jindal Stainless (Hisar) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5455
+JSL.STG,Jardine Strategic Holdings Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PKLIX,PPM Long Short Credit Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PPMH,Point to Point Methodics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PPMRX,Putnam PanAgora Market Neutral R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PPMC,PortfolioPlus S&P Mid Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PPMYX,Putnam PanAgora Market Neutral Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKDIX,PPM Credit Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PPMTX,Putnam AMT-Free Municipal M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PKPIX,PPM Core Plus Fixed Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PPMT,Profit Planners Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+PPMLX,Putnam PanAgora Market Neutral R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

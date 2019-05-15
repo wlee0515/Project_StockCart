@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHLD,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MHK,Mohawk Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MHO,M/I Homes Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MHTX,Manhattan Scientifics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MH-PC,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MH-PA,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MHH,Mastech Digital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MHGVY,Marine Harvest ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MHNC,Maiden Holdings North America Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MH-PD,Maiden Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ITE,SPDR Blmbg Barclays Interm Term Trs ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+ITI,Iteris Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ITRM,Iterum Therapeutics plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ITEQ,BlueStar Israel Technology ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+ITEX,ITEX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INLBD,Item 9 Labs Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+INLB,Item 9 Labs Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ITKH,iTeknik Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ITEPF,ITE Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+ITEGY,ITE Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3000

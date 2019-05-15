@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HZNP,Horizon Pharma Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HZN,Horizon Global Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+HZO,MarineMax Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HZEMF,HORIZONS EMG MARIJ,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HZOZF,BetaPro Crude Oil 2x Daily Bull ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HZNM,Horizon Minerals Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HZNSF,BetaPro Cdn Gold Miners 2x DlyBull ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HZTVF,Horizons Active US Floating Rate Bond (USD) ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HZRZF,BetaPro Canadian Gold Miners -2x Daily Bear ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+HZHI,"Horizons Holdings International, Corp.",Equity,United States,09:30,16:00,UTC-05,USD,0.5714

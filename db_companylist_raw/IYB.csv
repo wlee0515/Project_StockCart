@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IYBIX,Ivy Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IYBFX,Ivy Balanced R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IYBDX,Ivy Securian Core Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

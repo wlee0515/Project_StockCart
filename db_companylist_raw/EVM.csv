@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EVM,Eaton Vance California Municipal Bond Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EVMYX,Eaton Vance MD Municipal Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVMTGX,Eaton Vance Megatrends Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVMBX,Eaton Vance AMT-Free Municipal Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVMLX,EValuator Moderate RMS Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVMOX,Eaton Vance MO Municipal Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EVMNX,Eaton Vance MN Municipal Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EVMTFX,Eaton Vance Megatrends Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EVMAGX,Eaton Vance Merger & Acquisitio,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+EVMTEX,Eaton Vance Megatrends Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

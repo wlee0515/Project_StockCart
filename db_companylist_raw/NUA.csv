@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUAN,Nuance Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NCVLX,Nuance Concentrated Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NUAG,NuShares Enhanced Yield US Aggt Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+NMVLX,Nuance Mid Cap Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+NCLSX,Nuance Concentrated Value L-S Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NMVZX,Nuance Mid Cap Value Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NMAVX,Nuance Mid Cap Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NCLIX,Nuance Concentrated Value L-S Invt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NCAVX,Nuance Concentrated Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

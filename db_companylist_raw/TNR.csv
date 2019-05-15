@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TNRG,Thunder Energies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNRSF,Tenaris S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TNRI,Titan Resources International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRRXF,TNR Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNRK,TNR Technical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNRAX,1290 Retirement 2060 Fund Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNRCX,1290 Retirement 2060 Fund Class,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TNREF,Taranis Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TNR.TRV,TNR Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+TNR.BAK,Thai Nippon Rubber Industry Public Co. Ltd.,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

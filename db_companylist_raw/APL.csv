@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APLE,Apple Hospitality REIT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APLS,Apellis Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APLO,Apollo Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APLD,Applied Science Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APLVF,AP Alternative Assets LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APLN,AE Holding I Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APLN.JKT,PT Agung Podomoro Land Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+APLI.JKT,PT Asiaplast Industries Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+APLLTD.NSE,Alembic Pharmaceuticals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+APLP.TAV,Apollo Power Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5000

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WATAX,Western Asset Intermediate Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+7522.TOK,Watami Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+CWT-R.BAK,Chai Watana Tannery Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.4000
+WW8.FRK,Watabe Wedding Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+1807.TOK,Watanabe Sato Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3333
+3199.TOK,Watahan & Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+4696.TOK,Watabe Wedding Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+C9W.STG,Chai Watana Tannery Group Public Company Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2667
+CWT.BAK,Chai Watana Tannery Group Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2000

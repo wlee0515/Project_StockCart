@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHEYX,Diamond Hill Short Duration Total Ret Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHEIX,Diamond Hill Short Duration Total Ret I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHEAX,Diamond Hill Short Duration Total Ret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DHER.FRK,Delivery Hero SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+DHER.FRK,Delivery Hero SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+FHQN.DUS,R.(L)F.III-R.Q.LSDD. DHEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LYP2.BER,MUL-LYX.S+P500U.ETF DHEOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FHQE.FRK,ROBECO ALL STRAT.EO DHEO,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+DHER.BER,DELIVERY HERO SE NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+DHER.DUS,DELIVERY HERO SE NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143

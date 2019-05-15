@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HMSB.FRK,H & M Hennes & Mauritz AB (publ),Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+HMSB.DUS,HENNES + MAURITZ B SK-125,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+HMSB.HAN,HENNES + MAURITZ B SK-125,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.7273
+HMSB.MUN,HENNES + MAURITZ B SK-125,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+HMSB.FRK,H & M Hennes & Mauritz AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+HMSB.BER,HENNES + MAURITZ B SK-125,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+HMSB.HAM,HENNES + MAURITZ B SK-125,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+HMSB.STG,H & M HENNES & MAURITZ AB Namn-,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

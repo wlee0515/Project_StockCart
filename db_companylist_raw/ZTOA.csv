@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZTOA.FRK,ZTO Express (Cayman) Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ZTOA.BER,"ZTO EXPR.(KY)ADR A0,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ZTOA.STG,ZTO Express (Cayman) Inc. Reg.S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

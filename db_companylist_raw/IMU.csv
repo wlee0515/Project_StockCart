@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMUC,ImmunoCellular Therapeutics Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMUN,Immune Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IMUCW,ImmunoCellular Therapeutics Ltd. WT EXP 081221,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IMUNCX,Closed-End Strategy: Master Mun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMUCX,Transamerica Multi-Manager Alt Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMUTX,Transamerica Multi-Manager Alt Strat T1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IMURX,Ivy Apollo Multi-Asset Income N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IMUTRX,"Investment Grade Income Trust, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IMUINX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

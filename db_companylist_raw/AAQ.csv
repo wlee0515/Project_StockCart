@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AAQ.FRK,aap Implantate AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+AAQ.FRK,aap Implantate AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AAQ.BER,AAP IMPLANTATE AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AAQ.DUS,AAP IMPLANTATE AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+AAQ.HAM,AAP IMPLANTATE AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+AAQ.MUN,AAP IMPLANTATE AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AAQ.STG,AAP IMPLANTATE AG Inhaber-Aktie,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

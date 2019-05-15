@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBKO,Xtrackers MSCI South Korea Hdg Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DBK.FRK,Deutsche Bank Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+DBK.FRK,Deutsche Bank Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DBK.BER,DEUTSCHE BANK AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DBK.DUS,DEUTSCHE BANK AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DBK.HAN,DEUTSCHE BANK AG NA O.N.,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667

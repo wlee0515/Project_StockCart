@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTDP.FRK,WISDOMT.EO AG.BD E.Y.E.DZ,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+WTDQ.FRK,WISDOMTR.EO A.BD E.Y.EADZ,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

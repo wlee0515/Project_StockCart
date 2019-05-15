@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DXU.TRT,Dynamic iShares Active U.S. Dividend,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+DXU2.FRK,Candriam Equities B - Global Finance,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DXU2.DUS,BELFIUS EQU.-GBL FIN. C,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

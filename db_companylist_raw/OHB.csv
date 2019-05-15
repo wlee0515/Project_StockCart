@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OHBTF,OHB SE,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OHBK,Old Harbor Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OHB.FRK,OHB SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OHB.FRK,OHB SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+9765.TOK,Ohba Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+OHB.BER,OHB SE  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OHB.DUS,OHB SE  O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+OHB.HAM,OHB SE  O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+OHB.MUN,OHB SE  O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+OHB.STG,OHB SE Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3529

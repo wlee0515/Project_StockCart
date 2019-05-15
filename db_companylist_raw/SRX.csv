@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRXXF,SPARX Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRX.TRT,Storm Resources Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+SRX1.FRK,Sandspring Resources Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SRX1.BER,SANDSPRING RESOURCES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+SRX1.MUN,SANDSPRING RESOURCES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+SRX1.STG,Sandspring Resources Ltd. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

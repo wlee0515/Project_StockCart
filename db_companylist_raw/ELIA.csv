@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SELSF,St. Elias Mines Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ELI.BRU,Elia System Operator SA,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.4444
+E4S.DUS,ELIA SYSTEM OPERA. SA/NV,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+E4S.MUN,ELIA SYSTEM OPERA. SA/NV,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3810
+E4S.STG,Elia System Operator S.A./N.V.A,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2963
+E4S.FRK,Elia System Operator SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+E4S.BER,ELIA SYSTEM OPERA. SA/NV,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+0NTU.ILN,ELIA SYSTEM OPERATOR NV ELIA SY,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+BE0002239086.BRU,ELIA1.375%27MAY24,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.2286
+BE0002596741.BRU,ELIA1.5%5SEP28,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.2286

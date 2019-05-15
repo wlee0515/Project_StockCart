@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTT,ProShares UltraPro Short 20+ Year Trs,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TTTN,TigerShares China-U.S. Internet Ttn ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTTM,T3M Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTTGF,Titanium Transportation Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TTTNW,TETRA TECHNOLOGIES,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

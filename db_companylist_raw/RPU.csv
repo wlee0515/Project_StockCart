@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RPUT,WisdomTree CBOE Rssll 2000 PtWrt StrtETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+RPU.FRK,Republic Services Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RPU.BER,"REPUBLIC SERVIC. DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RPU.DUS,"REPUBLIC SERVIC. DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+RPU.STG,REPUBLIC SERVICES INC. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

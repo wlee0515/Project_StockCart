@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAQ.FRK,Nasdaq Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+NAQ.BER,"NASDAQ INC.  DL -,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NAQ.DUS,"NASDAQ INC.  DL -,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+NAQ.MUN,"NASDAQ INC.  DL -,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NAQ.STG,Nasdaq Inc. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+NAQ-P.TRV,Navigator Acquisition Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6000

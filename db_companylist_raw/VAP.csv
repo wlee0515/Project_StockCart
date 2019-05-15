@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VAPO,Vapotherm Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VPOR,Vapor Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VAPE,Vape Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VAPR,VaporBrands International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VPPNY,Vapiano SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICNVQ,Icon Vapor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VAPCX,Virtus Rampart Equity Trend C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VHUB,Vapor Hub International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VAPAX,Virtus Rampart Equity Trend A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3158
+VAPIX,Virtus Rampart Equity Trend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

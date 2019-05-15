@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PBNK,Pinnacle Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PBND,Invesco PureBeta US Aggregate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PBNCX,PACE Strategic Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PBNAX,PACE Strategic Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PBNNF,PT Bank Negara Indonesia (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PBN.FRK,Prana Biotechnology Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500

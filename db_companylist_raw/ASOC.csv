@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F000002EB8.BCL,Tartec Asociados de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F00000UOCT.BCL,Enginyers Tresor PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F00000UOCV.BCL,Enginyers Borsa PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3158
+ENGINYERSASS.BCL,Enginyers Associatiu PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3158
+ENGINYERSBOR.BCL,Enginyers Borsa PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2667
+ENGINYERSMIX.BCL,Enginyers Mixt PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581
+ENGINYERSTRE.BCL,Enginyers Tresor PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+PSNASOCIADOP.BCL,PSN PP Asociado,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+TARTECASOCIA.BCL,Tartec Asociados de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1951

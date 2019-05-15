@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BA-C.ARG,BK OF AMERICA CORP,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+JASN.MUN,"JASMINE INTL FGN  BA-,50",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+TMLF.MUN,"TMB BANK PCL -FGN- BA-,95",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+BA-R.BAK,Bangkok Airways Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+JASN.BER,"JASMINE INTL FGN  BA-,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+TMLF.BER,"TMB BANK PCL -FGN- BA-,95",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+UG3A.BER,"GUNKUL ENGEN.-FGN- BA-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143

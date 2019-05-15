@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISVC.BER,ISHS-MSCI S.KOREA ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ISVC.DUS,ISHS-MSCI S.KOREA ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ISVC.MUN,ISHS-MSCI S.KOREA ETF,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273

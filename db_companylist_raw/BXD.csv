@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BXDAX,Barings Active Short Duration Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXDYX,Barings Active Short Duration Bond Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXDIX,Barings Active Short Duration Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXDCX,Barings Active Short Duration Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BXD.BER,BLIS TECHNOLOGIES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

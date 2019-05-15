@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XDSL,mPhase Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MPHQX,BlackRock Total Return K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHMF,Callitas Health Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHZX,MassMutual Premier High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHAX,MassMutual Premier High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHRX,MassMutual Premier High Yield R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHX,Metro Phoenix Bank Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHNX,MassMutual Premier High Yield R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHLX,MassMutual Premier High Yield Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MPHSX,MassMutual Premier High Yield R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143

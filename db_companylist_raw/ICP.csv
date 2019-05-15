@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GD1M.FRK,ICP Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8571
+ICPT,Intercept Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPAX,Williston Basin/Mid-North America Stk A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPBF,INSCAPE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPUX,Williston Basin/Mid-North America Stk C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPOX,Ivy Apollo Strategic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPHX,Templeton Global Currency A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPTRX,"Investment Grade Income Trust, ",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICPVF,Incitec Pivot Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ICPVX,Voya Global Perspectives C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5455

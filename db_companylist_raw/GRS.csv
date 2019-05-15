@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GRSO,Grow Solutions Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRSH,Gores Holdings III Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRSHU,Gores Holdings III Inc. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRSU,Greenhouse Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GRST,Ethema Health Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GRSPX,Greenspring,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRSRX,Cohen & Steers Global Realty R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GRSSF,Greencross Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GB0033749739.LON,Threadneedle UK Corp Bd Rtl Grs Inc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+GB0033884577.LON,Threadneedle Strategic Bond Ins Grs Acc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

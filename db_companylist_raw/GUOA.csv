@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GL8.BER,"GUOAN INTL LTD  HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714
+000839.SHZ,CITIC Guoan Information Industry Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.3077
+G11.SGP,Guoan International Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2857
+GL8.STG,Guoan International Ltd. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2581
+0143.HKG,Guoan International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2581
+GTHL.SGP,Guoan Intl,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2286
+600084.SHH,"Citic Guoan Wine CO.,LTD",Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1739

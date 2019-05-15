@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIAWX,Brown Advisory Sustainable Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+BIAGX,Brown Advisory Growth Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIAD,Bio-AMD Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BIAFX,Brown Advisory Flexible Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIAMX,Brown Advisory Maryland Bond Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIASX,Brown Advisory Small-Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIACX,BlackRock Impact Bond Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIAEX,Brown Advisory Tax Exempt Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIAPX,BlackRock 80/20 Target Allocation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIATX,Brown Advisory Total Return Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

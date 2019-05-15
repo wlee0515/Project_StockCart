@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EV,Eaton Vance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3810
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1860
+EOS,Eaton Vance Enhanced Equity Income Fund II,Equity,United States,09:30,16:00,UTC-05,USD,0.1739
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1379
+EOI,Eaton Vance Enhanced Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1379
+EVV,Eaton Vance Limited Duration Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1270
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1231

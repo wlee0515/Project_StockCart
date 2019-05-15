@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSSPX,State Street S&P 500 Index V.I.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+SSUSX,State Street U.S. Equity V.I.S.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+UGEPX,Invesco V.I . Global Core Equit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SSTIX,State Street Total Return V.I.S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BSIVX,BlackRock Small Cap Index V.I. ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SSIMX,State Street Income V.I.S. Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+SSTTX,State Street Total Return V.I.S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+9VNA.DUS,VANG.S+P MC400 V.IDX ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765
+0V1D.DUS,VANG.S+P SC.600 V.IDX ETF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1765

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HNSYX,Hartford International Small Company Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSGX,Harbor Small Cap Growth Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSOX,Harbor Small Cap Growth Opps Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSBF,Hansa Medical AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSTX,Hartford International Small Company R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSVX,Heartland Select Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSAX,Hartford International Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSCX,Hartford International Small Company C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSFX,Hartford International Small Company F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HNSJX,Hartford International Small Company I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

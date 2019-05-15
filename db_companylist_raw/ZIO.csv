@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZIOP,ZIOPHARM Oncology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZN,Zion Oil & Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ZION,"Zions Bancorporation, National Association",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ZIONZ,Zions Bancorporation WT EXP 111418,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ZBK,Zions Bancorporation SUB NT FX/FLT 28,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ZB-PA,"Zions Bancorporation, National Association",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ZB-PG,"Zions Bancorporation, National Association",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ZB-PH,"Zions Bancorporation, National Association",Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ZIOC.LON,Zanaga Iron Ore Company Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2500
+ZB1.FRK,"Zions Bancorporation, National Association",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GCV,Gabelli Convertible and Income ,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GCVRZ,Sanofi CONTGNT VAL RT,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCVRX,Goldman Sachs Large Cp Val Insghts R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCVAX,Goldman Sachs Large Cp Val Insghts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCV-PB,The Gabelli Convertible and Income Securities Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GCVIX,Goldman Sachs Large Cp Val Insghts Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCVBJX,ADT 1739 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GCVCX,Goldman Sachs Large Cp Val Insghts C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GCVUX,Goldman Sachs Large Cp Val Insghts R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GCVBNX,ADT 1832 Cohen & Steers Global ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSP,The E.W. Scripps Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+SQ6B.FRK,The E.W. Scripps Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+XDEW.MUN,X(IE)-S+P 500 E.WGHT 1CDL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222

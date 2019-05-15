@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMMY,Imprimis Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PI,Impinj Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PIR,Pier 1 Imports Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CM,Canadian Imperial Bank of Commerce,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+IMBBY,Imperial Brands PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IMPV,Imperva Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+IMH,Impac Mortgage Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+IMO,Imperial Oil Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+IMPUY,Impala Platinum Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DSEFX,Domini Impact Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1875

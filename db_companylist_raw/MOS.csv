@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOS,The Mosaic Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MOSY,MoSys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOSC,Mosaic Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOST,MobileSmith Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MOSAX,MassMutual Select Overseas A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSLX,MassMutual Select Overseas Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSC-UN,Mosaic Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSSX,MassMutual Select Overseas R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSYX,MassMutual Select Overseas Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MOSNX,MassMutual Select Overseas R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMHLY,Jardine Matheson Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JDSHF,Jardine Strategic Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+JSHLY,Jardine Strategic Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+JARLF,Jardine Matheson Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+JCYCF,Jardine Cycle & Carriage Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+LLTHF,Jardine Lloyd Thompson Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+J36.SGP,Jardine Matheson Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+JLT.LON,Jardine Lloyd Thompson Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+J37.SGP,Jardine Strategic Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2162
+C07.SGP,Jardine Cycle & Carriage Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2105

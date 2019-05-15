@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RL,Ralph Lauren Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RLBD,Real Brands Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RLGY,Realogy Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RLGT,Radiant Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+RLI,RLI Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RLBS,Reliance Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RLJ,RLJ Lodging Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RLH,Red Lion Hotels Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RLBGX,American Funds American Balanced R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+RLJE,RLJ Entertainment Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KWK3.FRK,Energiedienst Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KWK3.BER,"ENERG.DIEN.HLD.NAM.SF-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+KWK3.STG,Energiedienst Holding AG Namens,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

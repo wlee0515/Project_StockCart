@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEFC,Commercial National Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+1520.HKG,CEFC Hong Kong Financial Investment Company Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1739
+002018.SHZ,Cefc Anhui International Holding Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1455

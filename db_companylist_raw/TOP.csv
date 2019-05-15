@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOPS,Top Ships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TISA,Top Image Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BLD,TopBuild Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PXLG,Invesco Russell Top 200 Pure Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3529
+IWY,iShares Russell Top 200 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+XLG,Invesco S&P 500 Top 50 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+IWX,iShares Russell Top 200 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2069
+TOPPX,Tocqueville Opportunity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+IWL,iShares Russell Top 200 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1667
+TOPCF,Topcon Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

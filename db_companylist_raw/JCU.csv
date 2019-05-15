@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4975.TOK,JCU Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.7500
+JCUIX,JHancock Absolute Return Currency I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCUAX,JHancock Absolute Return Currency A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCURX,JHancock Absolute Return Currency R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JCUCX,JHancock Absolute Return Currency C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+JCS.AUS,JCurve Solutions Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.3333
+S8L.BER,JCURVE SOLUTIONS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3158

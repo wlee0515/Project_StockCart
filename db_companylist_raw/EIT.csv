@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENDTF,Canoe EIT Income,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EITEX,Parametric Tax-Managed Emerg Market Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITMX,Eaton Vance Tx-Mgd Growth 1.1 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITVX,Eaton Vance Tx-Mgd Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITGX,Eaton Vance Tx-Mgd Growth 1.2 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITTX,Eaton Vance TABS 10to20 Yr Ldrd Mn Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITCX,Eaton Vance TABS Interm-Term Muni Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITIX,Parametric Tax-Managed Intl Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EITAX,Eaton Vance TABS Interm-Term Muni Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

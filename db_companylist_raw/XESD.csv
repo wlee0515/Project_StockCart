@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XESD.FRK,X Spain ETF 1D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+XESD.FRK,X Spain ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+XESD.DUS,XTR.SPAIN 1DEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+XESD.MUN,XTR.SPAIN 1DEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+XESD.STG,Xtrackers Spain Inhaber-Anteile,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

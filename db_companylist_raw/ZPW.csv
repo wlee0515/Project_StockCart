@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZPW.TRT,BMO US Put Write ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+ZPW-U.TRT,BMO US Put Write ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5455

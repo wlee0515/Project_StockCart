@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YNAJF,Yantai North Andre Juice Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UIM5.BER,UBS-ETF-MSCI JAPAN YNAD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+UIM5.DUS,UBS-ETF-MSCI JAPAN YNAD,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+UIM5.HAM,UBS-ETF-MSCI JAPAN YNAD,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2308
+UIM5.MUN,UBS-ETF-MSCI JAPAN YNAD,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2308
+YNA1.BER,YANTAI N.ANDRE JU.H YC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+YNA1.STG,Yantai North Andre Juice Co. Su,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2308

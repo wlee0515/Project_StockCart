@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KANANIIND.NSE,Kanani Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+9678.TOK,Kanamoto Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+3939.TOK,"Kanamic Network Co.,LTD",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3810
+HZBB.FRK,KANAM GRUNDINVEST FDS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.3478
+KANANIIND.BSE,Kanani Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+6566.TOK,Kaname Kogyo Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3200
+8081.TOK,Kanaden Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+9081.TOK,Kanagawa Chuo Kotsu Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+HZBA.DUS,KANAM US-GRUNDINVEST FDS,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857
+HZBA.HAM,KANAM US-GRUNDINVEST FDS,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2424

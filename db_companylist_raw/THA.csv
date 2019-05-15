@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTS,Ladenburg Thalmann Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+THD,iShares MSCI Thailand Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+LTS-PA,Ladenburg Thalmann Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+THLEF,Thales S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+LTSF,Ladenburg Thalmann Financial Services Inc. 7.00% SN NT 28,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FTHNX,Fuller & Thaler Behav Sm-Cp Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+THNUY,Thanachart Capital Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TOIPF,Thai Oil Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+AIPUY,Airports of Thailand Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+FTHSX,Fuller & Thaler Behav Sm-Cp Eq Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RKUNY,Rakuten Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RKUNF,Rakuten Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RAKR,Rainmaker Worldwide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BKRKY,PT Bank Rakyat Indonesia (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BKRKF,PT Bank Rakyat Indonesia (Persero) Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RAKTX,American Funds 2040 Trgt Date Retire R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+BBRI.JKT,PT Bank Rakyat Indonesia (Persero) Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+4755.TOK,Rakuten Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+AGRO.JKT,PT Bank Rakyat Indonesia Agroniaga Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3750

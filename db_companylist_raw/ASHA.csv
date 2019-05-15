@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AU,AngloGold Ashanti Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+ASHAX,AllianzGI Short Duration High Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4706
+GULSF,Ashanti Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+AULGF,AngloGold Ashanti Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ANG.JOH,AngloGold Ashanti Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.3636
+AGZ.TRV,Ashanti Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3636
+ASHAPURMIN.NSE,Ashapura Minechem Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+AU.SWI,AngloGold Ashanti Limited,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2759
+AOD.STG,Anglogold Ashanti Ltd. Reg. Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2759
+AODC.FRK,AngloGold Ashanti Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2759

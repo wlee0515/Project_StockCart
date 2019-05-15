@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMU,Western Asset Managed Municipals Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MMUFX,MFS Utilities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUIX,MFS Utilities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUJX,MFS Utilities R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUCX,MFS Utilities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUBX,MFS Utilities B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUKX,MFS Utilities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUGX,MFS Utilities R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUTX,MassMutual Select TRP U.S. Treas L/T I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMUHX,MFS Utilities R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTRX,Lantronix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LTRPA,Liberty TripAdvisor Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LTRE,Learning Tree International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRYX,Lord Abbett Total Return I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRFX,Lord Abbett Total Return F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRPB,Liberty TripAdvisor Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRDX,Principal LifeTime 2045 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRAX,Lord Abbett Total Return A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTRVX,Principal LifeTime 2045 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTROX,Lord Abbett Total Return F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

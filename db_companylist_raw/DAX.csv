@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DAX,Horizons DAX Germany ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DXR,Daxor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+^VDXX,Vanguard DAX UCITS ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+^IVDXXGBP,Vanguard DAX UCITS ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333

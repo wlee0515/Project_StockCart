@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KTU.STG,KapStone Paper&Packaging Corp.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+KTU.FRK,KapStone Paper and Packaging Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KTU.BER,"KAPST. PAP.+PACK.DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

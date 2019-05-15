@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CP.TRT,Canadian Pacific Railway Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+A41.BER,"ADDUS HOMECARE CP.DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+26IB.DUS,ISHSTR-MSCI IRELAND CP.ET,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+26IB.BER,ISHSTR-MSCI IRELAND CP.ET,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143

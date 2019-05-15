@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+524212.BSE,Wanbury Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+WANBURY.BSE,Wanbury Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+002082.SHZ,Wanbangde New Building Materials Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.4211
+WANBURY.NSE,Wanbury Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.1778

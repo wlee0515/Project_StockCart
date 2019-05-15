@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ES.TRV,Eight Solutions Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+ES.PAR,Esso S.A.F.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+LESE.FRK,MUL-LYX.MSCI EMU ES.T.EOA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EXI5.STG,iSh.ST.Eu.600 Real Es.U.ETF DEI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+AYEM.FRK,ISHSIV-MSCI EM IMI ES.DLA,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+OM3Y.FRK,ISHSIV-MSCI EM IMI ES.DLD,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HVT,Haverty Furniture Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HVTA,Haverty Furniture Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HVT-A,Haverty Furniture Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HVT.TRV,Harvest One Cannabis Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+HVT.LON,The Heavitree Brewery PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+HVTA.LON,The Heavitree Brewery PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+HVT2.FRK,SI ANL.-GLB.RES.AB.RET. R,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+HVT5.DUS,HVB OPTI SEL.BALANCE R,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+HVT5.HAM,HVB OPTI SEL.BALANCE R,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+HVT5.MUN,HVB OPTI SEL.BALANCE R,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

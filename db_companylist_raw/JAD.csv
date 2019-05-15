@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGJI,Dragon Jade International Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JADSF,Jadestone Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+JADFX,Janus Henderson Flexible Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JADA,Jade Art Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCKRF,Jade Leader Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JADGX,Janus Henderson Growth And Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+JADG,Jade Global Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+JSE.LON,Jadestone Energy Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2857
+JSE.TRV,Jadestone Energy Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2500
+JDR.AUS,Jadar Lithium Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2500

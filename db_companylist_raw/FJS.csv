@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJSCX,Fidelity Japan Smaller Companies,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJSYX,Nuveen High Income Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJSIX,Nuveen High Income Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJSAQX,FT 6384: Deep Value Dividend Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJSAYX,FT 6732: Deep Value Dividend Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJSIPX,FT 7542: Corporate Investment G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJSVEX,FT 7708: High-Yield Income Clos,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FJSUCX,FT 7726: SMid Biotechnology Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

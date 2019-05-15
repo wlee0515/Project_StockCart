@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GNMX,Aevi Genomic Medicine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VFIIX,Vanguard GNMA Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GNMK,GenMark Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+VFIJX,Vanguard GNMA Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGMNX,Fidelity GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GNMA,iShares GNMA Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+PRGMX,T. Rowe Price GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+GGGGX,DWS GNMA A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4615
+PYGNX,Payden GNMA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3000
+GNMSF,Genmab A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.3000

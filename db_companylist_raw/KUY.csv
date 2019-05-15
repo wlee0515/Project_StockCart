@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KUY.BER,KURARAY CO. LTD  YN 50,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+KUY.FRK,Kuraray Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KUY.DUS,KURARAY CO. LTD  YN 50,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KUY.STG,KURARAY CO. LTD. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

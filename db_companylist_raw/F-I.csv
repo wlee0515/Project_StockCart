@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F-INDICA.MEX,"F-Indic - Fondo de Renta Variable Finamex, S.A. de C.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+F-INDICBF.MEX,OPERADORA FINAMEX SA DE CV FDO ,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+301410.KOR,ARIRANG KOSDAQ150 F-Inverse,ETF,Korea,09:00,15:30,UTC+09,KRW,0.2000

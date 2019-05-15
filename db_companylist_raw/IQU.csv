@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IQUALX,Invesco Unit Tr Quality Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUATX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUICX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUAIX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUMNX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUMIX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUCTX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUINX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUMTX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+IQUMCX,"Quality Municipal Income Trust,",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GSB,GlobalSCAPE Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GSBD,Goldman Sachs BDC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSBC,Great Southern Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GSBFX,Goldman Sachs Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+GSBX,Golden State Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GSBCX,Goldman Sachs Income Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSBIX,Goldman Sachs Income Builder Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSBUX,Goldman Sachs Income Builder R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GSBPX,Goldman Sachs US Mortgages P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

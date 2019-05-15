@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKONX,Wells Fargo Omega Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKOAX,Wells Fargo Omega Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKOCX,Wells Fargo Omega Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKORX,Wells Fargo Omega Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EKNL,EKO International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+8877.KLA,Ekovest Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4444
+0EK2.FRK,Ekotechnika AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+0EK2.BER,EKOTECHNIKA AG A O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+0EK2.DUS,Ekotechnika AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3529

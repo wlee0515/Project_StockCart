@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHKAX,Fidelity Advisor China Region A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FHKA.DUS,SWISS.(L)BD-VISION EUR AA,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+FHKA.FRK,SWISS.(L)BD-VISION EUR AA,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

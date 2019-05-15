@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QDIV,Global X S&P 500 Quality Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+QDI.FRK,Quest Diagnostics Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+QDI.DUS,"QUEST DIAGNOSTICS  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+QDI.MUN,"QUEST DIAGNOSTICS  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+QDI.STG,QUEST DIAGNOSTICS INC. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+QDIV.LON,iShares MSCI USA Quality Dividend ETF USD Dis,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

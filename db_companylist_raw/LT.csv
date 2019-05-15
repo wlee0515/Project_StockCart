@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LTHM,Livent Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LTBR,Lightbridge Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LTC,LTC Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LTS,Ladenburg Thalmann Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LTRX,Lantronix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LTM,LATAM Airlines Group S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LTXB,LegacyTexas Financial Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LTRPA,Liberty TripAdvisor Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LTTGF,LottoGopher Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LTS-PA,Ladenburg Thalmann Financial Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

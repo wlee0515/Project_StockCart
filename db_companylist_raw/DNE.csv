@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNEMX,Dunham Emerging Markets Stock N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DNET.JKT,PT Indoritel Makmur Internasional Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+DNE.LON,Dunedin Enterprise Investment Trust,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+DNE.FRK,Downer EDI Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DNE.DUS,DOWNER EDI,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+DNE.HAM,DOWNER EDI,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+DNE.STG,DOWNER EDI LTD. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DNE.MUN,DOWNER EDI,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

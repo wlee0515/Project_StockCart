@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BZB.STG,CONTACT ENERGY LTD. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+BZB.BER,CONTACT ENERGY LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BZB.FRK,Contact Energy Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

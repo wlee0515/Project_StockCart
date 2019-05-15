@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FQMCPX,FT 6366: Covered Call Select Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FQMDX,Franklin MD Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQMRLX,FT 7080: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FQMWLX,FT 7146: Income Dividend Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JIUCX,JPMorgan International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+6190.HKG,Bank of Jiujiang Co. Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2609
+C8R.SGP,Jiutian Chemical Group Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2222
+600053.SHH,Kunwu Jiuding Investment Holdings Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2069
+000989.SHZ,Jiuzhitang Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1765
+002201.SHZ,Jiangsu Jiuding New Material Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1500
+002318.SHZ,Zhejiang Jiuli Hi-Tech Metals Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1463
+168108.SHZ,Jiutai Asset Management Co Ltd - JT Ruifeng Private Offering Mixed Fund,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1429
+300631.SHZ,JiangSu JiuWu Hi-Tech Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1304
+300705.SHZ,Hunan Jiudian Pharmaceutical Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.0811

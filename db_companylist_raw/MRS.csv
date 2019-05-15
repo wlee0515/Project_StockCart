@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MRSN,Mersana Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MRSIX,MFS Research International I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSKX,MFS Research International R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSRX,MFS Research International R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSAX,MFS Research International A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSJX,MFS Research International R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSSX,MassMutual RetireSMART Moderate Gr R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSNX,BMO Small-Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSPX,BlackRock Advantage US Total Market R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MRSLX,MassMutual RetireSMART Moderate Gr Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

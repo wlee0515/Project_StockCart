@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CKPT,Checkpoint Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CKP.BAK,CK Power Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+CKP-R.BAK,CK Power Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+CKPLEISURE-SM.NSE,CKP LEISURE LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+CKPPRODUCT-SM.NSE,CKP PRODUCTS LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3158

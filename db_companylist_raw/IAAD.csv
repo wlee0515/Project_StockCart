@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IAADJX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADLX,Insured Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADIX,Investors Quality Tax-Exempt Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADZX,Quality Municipals Income Trust,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADKX,Investment Grade Income Trust 7,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADMX,Investment Grade Municipal Trus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+IAADHX,Investment Grade Income Trust 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

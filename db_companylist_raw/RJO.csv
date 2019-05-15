@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RJO.FRK,Solitario Zinc Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RJO.STG,Solitario Zinc Corp. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

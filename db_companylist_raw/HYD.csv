@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYD,VanEck Vectors High-Yield Municipal ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+HYGS,Hydrogenics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NHYDY,Norsk Hydro ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYYWF,The Hydropothecary Corporation WT EXP 013020,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYEG,Hydrogen Engine Center Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HYDB,iShares Edge High Yield Defensive Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+HYDD,Direxion Daily High Yield Bear 2X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+HYDI,Hydromer Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+NHYKF,Norsk Hydro ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RSHYY,Public Joint-Stock Company Federal Hydro-Generating Company - RusHydro,Equity,United States,09:30,16:00,UTC-05,USD,0.5000

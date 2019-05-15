@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGCG,New Generation Consumer Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NGCCX,Columbia Greater China C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGCAX,Columbia Greater China A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGCRF,NagaCorp Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NGCRX,American Funds Retire Inc Port-Cnsrv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGCFX,Nuveen Gresham Managed Futures Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NGC.TRV,Northern Graphite Corporation,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+NGCT-EQ.NSE,NORTHGATE COM TECH INR10,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615

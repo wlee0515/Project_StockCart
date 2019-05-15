@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDC,Rowan Companies plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RDCM,Radcom Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RDCEX,Columbia Disciplined Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RDCCX,Columbia Disciplined Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RDCTX,American Funds 2020 Trgt Date Retire R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RDCLX,Columbia Limited Duration Credit C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RDC.AUS,Redcape Hotel Group Ordinary Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YGO.FRK,Pioneer Energy Services Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YGO.BER,"PIONEER ENRGY SVCS DL-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+YGO.STG,Pioneer Energy Services Corp. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

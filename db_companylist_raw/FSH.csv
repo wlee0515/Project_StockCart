@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSHCX,Fidelity Select Health Care Svcs Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHBX,Fidelity Short-Term Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHOX,Fidelity Select Construction & Hsg Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHNX,Fidelity Series High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHYX,Nuveen Short Term Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHWOX,FT 6382: Richard Bernstein Advi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSHOWX,FT 7346: Financials Select Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSHNEX,FT 7551: Cyclical Strength Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSHLAX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FSHSX,Federated Shrt-Interm Dur Muni Trust Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

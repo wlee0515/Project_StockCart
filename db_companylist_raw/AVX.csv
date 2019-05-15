@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AVX,AVX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AVXL,Anavex Life Sciences Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVXT,AVAX Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AVXAF,Novita Healthcare Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AVX.STG,ADVANCED ENERGY INDS INC. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+AX6.BER,"AVX CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+AVX.FRK,Advanced Energy Industries Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AVX.TRV,Altair Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+AX6.FRK,AVX Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+AVX.SGP,HL Global Enterprises Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444

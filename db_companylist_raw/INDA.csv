@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INDA,iShares MSCI India ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+INDAX,ALPS/Kotak India Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+PYMOF,Indago Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+INKP.JKT,PT Indah Kiat Pulp & Paper Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3478
+MYOR.JKT,PT Mayora Indah Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3200
+BIPP.JKT,PT Bhuwanatala Indah Permai Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2286

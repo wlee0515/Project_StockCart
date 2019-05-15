@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIVSY,Grupo de Inversiones Suramericana S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SURASIABF.MEX,SURA ASIA SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+SURCETEBDE.MEX,SURA 2 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4706
+SURANAT&P.BSE,Surana Telecom and Power Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4615
+SURCETEBF1.MEX,"Sura 2, S.A. De C.V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3529
+CFIRESURA1.SAN,ADM GEN FD SURA,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3529
+F00000X3M9.MEX,SURA Udizado SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.3529
+SURVEURBF3.MEX,SURA INVEST MGMT MEXICO SA DE C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2353
+SSF.BAK,Surapon Foods Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+SUR1BF.MEX,SURA 1 SA de CV S.I.I.D.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.2000

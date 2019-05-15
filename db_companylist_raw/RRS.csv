@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RRSRX,Russell Inv Global Real Estate Secs R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRSSF,Neometals Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RRSVX,RBC Small Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRSCX,Russell Inv Global Real Estate Secs C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RRSXF,Magnetite Mines Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RRS.LON,Randgold Resources Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+RRS.AUS,Range Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+RRS.TRV,Rogue Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+CHOURER.TRT,Chou Rrsp Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4286
+CHOURRSP.TRT,Chou Rrsp Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3529

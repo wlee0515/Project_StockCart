@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ES0136467059.BCL,Mediolanum Mercados Emergentes E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+ES0137389054.BCL,Mediolanum Crecimiento E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500
+ES0161997053.BCL,Mediolanum Real Estate Global E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308
+ES0165126055.BCL,Mediolanum Renta E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2308
+ES0165127053.BCL,Mediolanum Activo E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000VWUF.BCL,Mediolanum Real Estate Global E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000W0E3.BCL,Mediolanum Crecimiento E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000W0E8.BCL,Mediolanum Mercados Emergentes E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000W4LD.BCL,Mediolanum Renta E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222
+F00000W4LF.BCL,Mediolanum Activo E-B FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1538

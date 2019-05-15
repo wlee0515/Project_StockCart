@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STM,STMicroelectronics N.V.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STMP,Stamps.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STML,Stemline Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STMEF,STMicroelectronics N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+STMH,Stem Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STMGF,Stamper Oil & Gas Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STMZF,Scottish Mortgage Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+STMAX,Steinberg Select Fund Investor ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STMCX,JPMorgan Short-Interm Muncpl Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+STMDF,StartMonday Technology Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

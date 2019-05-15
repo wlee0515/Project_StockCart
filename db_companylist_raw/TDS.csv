@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TDS,Telephone and Data Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TDSGF,3D Signatures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TDSA.LIS,"Teixeira Duarte, S.A.",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6000
+TDSL.BSE,Tasty Dairy Specialities Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+F000001G5G.TRT,Alto Monthly Inc & Global Gr Port TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+F00000VAEE.TRT,IG Core Portfolio Class Inc Bal TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+ALTOPORTREVM.TRT,Alto Monthly Inc & Global Gr Port TDSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1538
+TDSCIENCEETT.TRT,TD Science & Technology - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463
+TDSCIENCESDE.TRT,TD Health Sciences - I,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.1463

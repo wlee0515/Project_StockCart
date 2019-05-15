@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESHIX,Eaton Vance Short Duration High Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESHDF,Esprit Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ESHAX,Eaton Vance Short Duration High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESH.AUS,eSports Mogul Asia Pacific Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+ESHA.FRK,Esprit Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ESHB.BER,"ESPRIT HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ESHB.DUS,"ESPRIT HLDGS  HD-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+ESHB.MUN,"ESPRIT HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+ESHB.FRK,Esprit Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

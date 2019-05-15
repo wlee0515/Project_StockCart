@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMPIX,ProFunds Basic Materials UltraSector Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMPAX,BlackRock US Mortgage Portfolio A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMPEX,"Beck, Mack & Oliver Partners",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMPCX,BlackRock US Mortgage Portfolio C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMPSX,ProFunds Basic Materials UltraSector Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BMPS.MIL,Banca Monte dei Paschi di Siena S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+BMP.BER,B.M.P. PHARMA TRAD. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BMP.STG,B.M.P. PHARMA TRADING AG Inhabe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BMPG.LON,BMO Managed Portfolio Growth Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

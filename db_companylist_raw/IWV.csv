@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWV,iShares Russell 3000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+IWVG.LON,ISHARES IV PLC ISH WORLD VALUE ,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IWVU.LON,iShares Edge MSCI Wld Val Fctr ETF $Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+IWV8.MUN,ERSTE RESP.BD EURR01AEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+IWVL.SWI,iShares Edge MSCI Wld Val Fctr ETF $Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+IWVL.LON,iShares Edge MSCI Wld Val Fctr ETF $Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000

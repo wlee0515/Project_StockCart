@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDNXF,London Stock Exchange Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLN.BER,"CITY OF LDN INV.TR.LS-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+PS9A.BER,PT.PP LDN SUMAT.ID RP 100,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+PS9A.MUN,PT.PP LDN SUMAT.ID RP 100,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4444
+CLN.FRK,"CITY OF LDN INV.TR.LS-,25",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2143
+CLN.MUN,"CITY OF LDN INV.TR.LS-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2143

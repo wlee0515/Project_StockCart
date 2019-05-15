@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PSK,SPDR Wells Fargo Preferred Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PSKNX,PIMCO StocksPLUS Intl (Unhedged) I-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSKIX,PIMCO StocksPLUS Intl (Unhedged) Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSKPX,PIMCO StocksPLUS I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSKCX,Virtus KAR Mid-Cap Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PSKRF,Protector Forsikring ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

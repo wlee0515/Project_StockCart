@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LIESX,QS International Equity IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LLBN.SWI,Liechtensteinische Landesbank Aktiengesellschaft,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2222
+1229.TWN,Lien Hwa Industrial Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2143
+1436.TWN,Hua Yu Lien Development Co. Ltd.,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2000
+LHCK.KLA,LIEN HOE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.1765
+UP1A.DUS,LIENHARDT+PA.CORE STR.ASF,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1714
+002392.SHZ,Beijing Lier High-temperature Materials Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1176

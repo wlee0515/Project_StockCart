@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ENVA,Enova International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+500246.BSE,Envair Electrodyne Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5333
+EDELPA.SAN,Envases del Pacifico S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.3077
+ENVAIREL.BSE,Envair Electrodyne Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2667

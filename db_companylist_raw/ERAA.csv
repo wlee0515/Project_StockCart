@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ERAA.JKT,PT Erajaya Swasembada Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273
+FR0013029147.PAR,ERAAM Premia,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.7273
+F00000WUFA.PAR,ERAAM Premia,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5000
+FR0013029154.PAR,ERAAM Premia I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5000
+ERAA.PAR,ERAMET4.5%NOV2020,Equity,Paris,09:00,17:30,UTC+01,EUR,0.4444
+F00000WUFB.PAR,ERAAM Premia I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4444
+F00000YE5L.PAR,ERAAM Premia Low Vol A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.4444
+F00000YE5M.PAR,ERAAM Premia Low Vol I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3529
+F00000YGYT.PAR,ERAAM Premia K,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077
+F0000118RA.PAR,ERAAM Long Short Equity A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077

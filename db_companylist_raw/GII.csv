@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GII,SPDR S&P Global Infrastructure ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+GIII,G-III Apparel Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+GIIAX,Nationwide International Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIICX,Nationwide International Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIIYX,GuideStone Funds Intl Eq Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIIGX,GAMCO International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIIRX,Nationwide International Index R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

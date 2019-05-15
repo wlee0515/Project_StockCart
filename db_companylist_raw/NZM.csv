@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NZMEF,NZME Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NZM.AUS,NZME Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NZM2.MUN,NOVOZYMES A/S NAM. B DK 2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+NZM2.STG,Novozymes A/S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+NZM2.FRK,Novozymes A/S,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+NZM2.BER,NOVOZYMES A/S NAM. B DK 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NZM2.DUS,NOVOZYMES A/S NAM. B DK 2,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000

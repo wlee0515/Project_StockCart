@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BHC,Bausch Health Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CBCA,Crown Baus Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BAUSX,BMO Ultra Short Tax-Free A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAUUX,Brown Advisory Small-Cap Fdmtl Val Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+BAUAX,Brown Advisory Sm-Cp Fundamental Val Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+KOEBF,KOENIG & BAUER AG,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+BXRDF,Bauxite Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+BHC.TRT,Bausch Health Companies Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2222

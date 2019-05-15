@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCR,MFS Charter Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCRB,Seres Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCRN,Milacron Holdings Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCRI,Monarch Casino & Resort Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MCRO,IQ Hedge Macro Tracker ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+MCRAA,McRae Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCRFX,BlackRock Mid Cap Dividend Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCREF,Metals Creek Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCRPF,MicroPort Scientific Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MCRGX,AMG Managers Montag & Caldwell Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

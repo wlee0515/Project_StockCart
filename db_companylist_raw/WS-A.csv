@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3477.AUS,OnePath WS-Australian Share Trust,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3158
+4729.AUS,Optimix WS-Australian Fixed Int,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3158
+6710.AUS,Optimix WS-Australian Share No.2,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2424
+11080.AUS,Optimix WS-Australian Fixed Interest A,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2424
+11082.AUS,Optimix WS-Australian Share A,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2286
+LEF0043AU.AUS,Optimix WS-Australian Share A,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2286
+LEF0102AU.AUS,Optimix WS-Australian Share No.2,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222
+LEF0104AU.AUS,Optimix WS-Australian Fixed Int,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2222
+ONEPATHWSAUS.AUS,OnePath WS-Australian Share Trust,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2162
+OPTIMIXWSAUS.AUS,Optimix WS-Australian Fixed Interest A,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1905

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HVX.FRK,Helvetia Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+HVX.DUS,"HELVETIA HOLDING NA SF0,1",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+HVX.STG,Helvetia Holding AG Namens-Akti,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

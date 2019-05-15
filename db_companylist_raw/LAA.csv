@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LAATX,Western Asset Macro Opportunities A2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAACZ,LAACO Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LAAFX,Lord Abbett Affiliated F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAAAX,Western Asset Macro Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAACX,Western Asset Macro Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LAA.AUS,LatAm Autos Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+LAABADIAINVE.BCL,La Abadia Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+LAALAMEDADEL.BCL,La Alameda del Sol XXI SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

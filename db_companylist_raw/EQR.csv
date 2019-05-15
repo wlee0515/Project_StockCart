@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EQR,Equity Residential,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EQRR,ProShares Equities for Rising Rates ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+EQR.DUS,"EQUITY RESI. SBI  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+EQR.FRK,Equity Residential,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EQR.MUN,"EQUITY RESI. SBI  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+EQR.STG,Equity Residential Reg.Shs of B,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

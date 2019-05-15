@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CN,Xtrackers MSCI All China Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+CNTX,Centrexion Therapeutics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CNST,Constellation Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CNF,CNFinance Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CNAT,Conatus Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+CNTTF,CannTrust Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CNC,Centene Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CNDT,Conduent Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CNP,CenterPoint Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CNX,CNX Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

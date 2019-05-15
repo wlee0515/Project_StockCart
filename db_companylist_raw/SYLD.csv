@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYLD,Cambria Shareholder Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+SYLD.TRT,Purpose Strategic Yield ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7273

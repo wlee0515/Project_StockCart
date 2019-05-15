@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TBNK,Territorial Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TBNTX,Tortoise Select Income Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBNIX,Tortoise Select Income Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TBNGY,PT Bukit Asam Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TBN1.STG,Capstone Turbine Corp. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TBN1.FRK,Capstone Turbine Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TBN1.BER,"CAPSTONE TURBINE  DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+TBN1.DUS,"CAPSTONE TURBINE  DL-,001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+TBN1.MUN,"CAPSTONE TURBINE  DL-,001",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

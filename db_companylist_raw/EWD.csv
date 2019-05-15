@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EWD,iShares MSCI Sweden Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+EWD.MEX,iShares MSCI Sweden Capped ETF,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

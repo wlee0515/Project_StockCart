@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHEE.KLA,CWG HOLDINGS BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.8571
+CWGIX,American Funds Capital World Gr&Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CWGFX,American Funds Capital World Gr&Inc F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CWGL,Crimson Wine Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWGCX,American Funds Capital World Gr&Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CWGRP,Cowen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWGYF,Carnegie Clean Energy Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CWG.FRK,Chesapeake Granite Wash Trust,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBQAX,Nuveen International Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBQFX,Nuveen International Growth Fd R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBQIX,Nuveen International Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBQCX,Nuveen International Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBQBX,Nuveen International Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

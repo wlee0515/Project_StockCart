@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLB,Schlumberger Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCHW,The Charles Schwab Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCHD,Schwab US Dividend Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SCHB,Schwab US Broad Market ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HSIC,Henry Schein Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SWPPX,Schwab S&P 500 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SCHN,Schnitzer Steel Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SCHG,Schwab US Large-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+SCHF,Schwab International Equity ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+SCHV,Schwab US Large-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2609

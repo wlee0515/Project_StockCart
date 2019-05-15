@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DCI,Donaldson Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DCIX,Diana Containerships Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DCIBX,DFA CA Intermediate-Term Muni Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCIOX,Dunham International Opportunity Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCINX,Dunham International Stock C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DCIK.FRK,DCI Database for Commerce and Industry AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DCI-M.TAV,Direct Capital Investments Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6667
+DCI.LON,Dolphin Capital Investors Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+DCIK.BER,DCI O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DCIK.MUN,DCI O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455

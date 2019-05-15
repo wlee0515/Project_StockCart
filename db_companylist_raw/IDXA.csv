@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IDXAX,Voya Index Solution 2020 Port ADV,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IDXAF,Idex ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+KR5206522181.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 A1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1905
+KR5206522777.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 CW,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5206604070.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 Ae,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5206960944.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 C2,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5206960951.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 C3,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5206960977.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 C5,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860
+KR5206AQ7397.KOR,Kiwoom Frontier New IdxAlp Eq-Drv F1 S,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1860

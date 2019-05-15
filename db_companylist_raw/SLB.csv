@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLB,Schlumberger Limited,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SLBBX,State Farm Equity & Bond B Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SLBBW,SilverBow Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLBT,Russell 2000 Low Beta ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SLBAX,State Farm Equity & Bond Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLB.PAR,Schlumberger Limited,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+SLB.SWI,Schlumberger Limited,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+SLBEN.LIS,"Sport Lisboa e Benfica - Futebol, SAD",Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.6000
+SLBN.MEX,Schlumberger Limited,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.5455
+1J0.SGP,SLB Development Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2609

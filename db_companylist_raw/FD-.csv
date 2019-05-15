@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MICIX,Victory Trivalent Intl Fd-Core Eq I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2400
+MAICX,Victory Trivalent Intl Fd-Core Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+MICCX,Victory Trivalent Intl Fd-Core Eq C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+MAIRX,Victory Trivalent Intl Fd-Core Eq R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2143
+MICYX,Victory Trivalent Intl Fd-Core Eq Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+CFPN.BER,DNB FD-DNB RENEW.ENER.A A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1579
+C8HA.MUN,BALOISE FD-BFI EQU. EO. R,ETF,Munich,08:00,20:00,UTC+01,EUR,0.1579
+CFPM.STG,DNB Fd-DNB Technology Act. Nomi,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1579
+FHJA.BER,UBS (LUX) BOND FD-EUR P A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1579
+GSWP.BER,GS FD-US FOC.G.E.P.USD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.1538

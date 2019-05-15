@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AIIQ,Equbot AI Powered International Eq ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+AIIEX,Invesco International Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIIYX,Invesco International Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIISX,AllianzGI International Small-Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AIIPX,American Indep US Inflation-Protected P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AII.TRT,Almonty Industries Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

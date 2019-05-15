@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+STLD,Steel Dynamics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+STLDX,BlackRock LifePath Dyn 2030 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+STLD.MEX,Steel Dynamics Inc.,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7273

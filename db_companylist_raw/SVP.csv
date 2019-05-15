@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVPIX,ProFunds Small Cap Value Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPNX,VP Defensive Strategy Fd Cl II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPTX,VP Conservative Strategy Fd Cl ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPSX,ProFunds Small Cap Value Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPMX,SEI VP Moderate Strategy Fund C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPUX,VP Balanced Strategy Fd Cl II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPAX,SEI VP Market Plus Strategy Fun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPPX,VP MKT Plus Strategy Fd Cl II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPGX,SEI VP Market Growth Strategy F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVPRX,VP MKT Growth Strategy Fd Cl II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

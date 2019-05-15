@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IQQC.FRK,iShares China Large Cap ETF USD Dist,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.8000
+IQQC.FRK,iShares Public Limited Company - iShares China Large Cap UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+IQQC.BER,iShares China Large Cap ETF USD Dist,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+IQQC.DUS,iShares China Large Cap ETF USD Dist,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+IQQC.HAM,ISHS-CHINA LARGE CAP DL D,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+IQQC.MUN,iShares China Large Cap ETF USD Dist,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+IQQC.STG,iShares China Large Cap ETF USD Dist,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

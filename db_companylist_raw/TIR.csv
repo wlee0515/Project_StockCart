@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GT,The Goodyear Tire & Rubber Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CTB,Cooper Tire & Rubber Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TIREX,TIAA-CREF Real Estate Sec Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIRTX,TIAA-CREF Large-Cap Growth Retail,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TIRRX,T. Rowe Price Real Estate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+CDNAF,"Canadian Tire Corporation, Limited",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TIRTZ,"Tidelands Royalty Trust ""B""",Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+TXMC,The Tirex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SDTC,Sentaida Tire Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CDNTF,CANADIAN TIRE LTD,Equity,United States,09:30,16:00,UTC-05,USD,0.1622

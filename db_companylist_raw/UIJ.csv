@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UIJ.MUN,AS VEF,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+UIJ.STG,VEF A/S Registered Shares LL 1,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+F00000O18A.KOR,MiraeAssetMAPS Uijeongbu Light Rail Private Money Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1017
+KR5225A88359.KOR,MiraeAssetMAPS Uijeongbu Light Rail Private Money Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1017

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPRX,Catalyst Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CATS,Catasys Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CATB,Catabasis Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+CBIO,Catalyst Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+CTLT,Catalent Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+MBXIX,Catalyst/Millburn Hedge Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+HFXIX,Catalyst Hedged Futures Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+MBXAX,Catalyst/Millburn Hedge Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+CFRIX,Catalyst Floating Rate Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2105
+HFXAX,Catalyst Hedged Futures Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2105

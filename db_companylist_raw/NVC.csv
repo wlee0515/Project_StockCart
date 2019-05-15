@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVCN,Neovasc Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVCR,NovoCure Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NVCCX,Nuveen Short Duration Hi Yield Muni Bd C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+NVCP,NVCN Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NVCN.TRT,Neovasc Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+2222.HKG,NVC Lighting Holding Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+NVC.STG,NEW VENTURETEC AG Inhaber-Aktie,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+NVC.BER,"NEW VENTURE.INH. SF 6,00",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1935

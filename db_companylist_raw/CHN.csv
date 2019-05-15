@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHN,The China Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CWEB,Direxion Dly CSI CHN Itnet Bull 2X Shrs,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CHAU,Direxion Dly CSI 300 CHN A Shr Bl 2X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+CHAD,Direxion Dly CSI 300 Chn A Shr Br 1X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ASHS,Xtrackers Harvest CSI 500 CHN A SmCp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+CHNR,China Natural Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CHNA,Loncar China BioPharma ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+CHNGQ,China Natural Gas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CHNC,China Infrastructure Construction Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+CHNTX,Chestnut Street Exchange Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

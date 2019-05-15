@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DXD,ProShares UltraShort Dow30,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DXD.TRV,3D Signatures Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+DXD.MEX,ProShares UltraShort Dow30,ETF,Mexico,08:30,15:00,UTC-06,MXP,0.6667

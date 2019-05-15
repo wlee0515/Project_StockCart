@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JTEVX,Jamestown Tax-Exempt VA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JTEKY,JTEKT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JTEKF,JTEKT Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+6JK.FRK,JTEKT Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+6473.TOK,JTEKT Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3750
+6JK.BER,JTEKT CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3750
+JTEKTINDIA.BSE,JTEKT India Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3158
+2479.TOK,JTEC Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+3446.TOK,JTEC Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3000
+JTEKTINDIA.NSE,JTEKT India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3000

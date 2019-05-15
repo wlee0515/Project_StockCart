@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QSR,Restaurant Brands International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QSEP,QS Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+QSPIX,AQR Style Premia Alternative I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QSIM,QuantumSphere Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+QSPNX,AQR Style Premia Alternative N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QSERX,AQR Small Cap Multi-Style R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SCGRX,QS Moderate Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+QSHI,Quick Start Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LMBMX,QS US Small Capitalization Equity IS,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+QSY,WisdomTree US Quality Sharehld Yield ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1053

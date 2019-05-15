@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INDB,Independent Bank Corp.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+INDBSX,Insider Buy Strategy 2017-3 (In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+INDBNK.BSE,Ind Bank Housing Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7273
+INDBANK.BSE,Indbank Merchant Banking Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+INDB.MIL,Indel B S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.5714
+INDBANK.NSE,Indbank Merchant Banking Services Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714

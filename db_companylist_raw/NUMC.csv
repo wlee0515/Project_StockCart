@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUMCA.MEX,NUMC A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.8000
+NUMCB0B.MEX,Citiacciones Flexible SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+NUMCB0-B.MEX,"Citiacciones Flexible, S.A. de C.V., S.I.R.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333

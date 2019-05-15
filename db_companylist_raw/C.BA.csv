@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+C.ARG,Citigroup Inc.,Equity,Argentina,11:00,17:00,UTC-03,ARS,1.0000
+1028.HKG,C.BANNER INTERNATIONAL Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1860

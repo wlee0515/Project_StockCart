@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOJ.FRK,Transocean Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TOJ.MUN,"TRANSOCEAN LTD.  SF 0,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TOJ.BER,"TRANSOCEAN LTD.  SF 0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TOJ.DUS,"TRANSOCEAN LTD.  SF 0,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+TOJ.STG,Transocean Ltd. Nam.-Aktien SF ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TOJABIINVERS.BCL,Tojabi Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+F000001Z0L.BCL,Tojabi Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2222

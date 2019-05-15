@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FCD,Focus Morningstar Consumer Defe,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FCDAX,Fidelity Advisor Stock Selector Sm Cp A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDSX,Fidelity Series International Credit,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDCX,Fidelity Advisor Stock Selector Sm Cp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDIX,Fidelity Advisor Stock Selector Sm Cp I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDDX,Nuveen Strategic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDLX,FA 529 COLLEGE PORT-CL D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDIGX,"FT 7065: Mega-Cap Portfolio, Se",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FCDTX,Fidelity Advisor Stock Selector Sm Cp M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FCDUSX,FT 6809: Tax-Advantaged Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

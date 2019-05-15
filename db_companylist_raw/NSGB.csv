@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NSGB.FRK,Net Insight AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NSGB.BER,"NET INSIGHT AB B  SK-,04",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NSGB.STG,NET INSIGHT AB Namn-Aktier B SK,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

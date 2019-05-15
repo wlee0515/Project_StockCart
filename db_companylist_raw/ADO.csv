@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ADBE,Adobe Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ADOM,ADOMANI Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ADOAX,ACM Dynamic Opportunity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADOIX,ACM Dynamic Opportunity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADOZX,Alger Dynamic Opportunities Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADOCX,Alger Dynamic Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ADOOY,PT Adaro Energy Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

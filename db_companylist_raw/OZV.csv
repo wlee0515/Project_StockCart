@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OZVA.STG,PPC Ltd. Reg.Shs(Spons.ADRs)/2 ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OZV2.BER,PPC LTD.  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+OZV2.FRK,PPC Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OZV2.STG,PPC Ltd. Registered Shares o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

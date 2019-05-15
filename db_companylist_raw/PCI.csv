@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PCIFX,PACE Intermediate Fixed Income P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIEX,PACE International Equity P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIYX,Putnam CA Tax Exempt Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCICX,PGIM California Muni Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIIX,PIMCO Global Bond Opps (USD-Hdg)C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIMX,PIMCO CA Intermediate Muni Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIPX,PIMCO CA Intermediate Muni Bd I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIQX,PGIM California Muni Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PCIZX,PGIM California Muni Income Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

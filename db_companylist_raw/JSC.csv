@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSCVX,Janus Henderson Small Cap Value T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCOX,Janus Henderson Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCGX,Jacob Small Cap Growth Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCPY,JSR Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCCX,JHancock Small Cap Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCBX,JHancock Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCSX,JPMorgan US Small Company I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCHX,JPMorgan Small Cap Blend R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCRX,PGIM Jennison Small Company R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSCZX,JPMorgan US Small Company R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

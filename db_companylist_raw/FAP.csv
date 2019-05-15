@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAPPF,FIRST ASSET ACTIVE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FAPSTX,FT 7571: Automated Quantitative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAPCX,Fidelity Intl Cptl Apprec K6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAPRTX,FT 7029: Corporate Tax Reform P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAPTX,American Funds 2025 Trgt Date Retire F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAPYRX,FT 6471: Inflation Hedge Opport,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAPAX,Fidelity Advisor Municipal Inc 2019 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAPYZX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FAP.TRT,Aberdeen Asia-Pacific Income Investment Company Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667

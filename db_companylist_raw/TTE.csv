@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TTEK,Tetra Tech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTEC,TTEC Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTEN,"Titan Energy, LLC",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TTEEX,T. Rowe Price Emerging Europe I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TH1.FRK,TTEC Holdings Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TH1.STG,TTEC Holdings Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TTEB.FRK,Tieto Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+1232.TWN,TTET Union Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2727
+TTEB.BER,TIETO OYJ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+TTEB.MUN,TIETO OYJ,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222

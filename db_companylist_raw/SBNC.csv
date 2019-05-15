@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBNC,Southern BancShares (N.C.) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SBNCM,Southern BancShares (N.C.) Inc. PFD CV B,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SBNCN,Southern BancShares (N.C.) Inc. PFD CL C,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SBNC.FRK,Sberbank of Russia,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SBNC.DUS,SBERBANK ADR REGS/4 RL3,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+SBNC.MUN,SBERBANK ADR REGS/4 RL3,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+SBNC.BER,SBERBANK ADR REGS/4 RL3,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SBNC.STG,Sberbank of Russia PJSC Reg.Shs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

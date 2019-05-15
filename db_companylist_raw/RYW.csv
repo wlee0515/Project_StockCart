@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYWBX,Rydex Weakening Dollar 2x Strategy H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWAX,Rydex S&P SmallCap 600 Pure Growth H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWUX,Rydex Emerging Markets 2X Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWCX,Rydex S&P SmallCap 600 Pure Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWDX,Rydex Weakening Dollar 2x Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWZX,Rydex Inverse Emerging Mkts 2X Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWJX,Rydex Weakening Dollar 2x Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWYX,Rydex Inverse Emerging Mkts 2X Strat H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWVX,Rydex Emerging Markets 2X Strategy H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYWTX,Rydex Emerging Markets 2X Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

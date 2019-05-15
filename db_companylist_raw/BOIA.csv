@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BOIAXACORPOR.BSE,BOI AXA Corporate Credit Spectrum Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXAEQUITY.BSE,BOI AXA Equity Eco Bns,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXAFOCUSE.BSE,BOI AXA Manufacturing and Infrastructure fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXALIQUID.BSE,BOI AXA Liquid Reg Dl Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXAMANUFA.BSE,BOI AXA Manufacturing and Infrastructure fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXAREGULA.BSE,BOI AXA Conservative Hybrid Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXASTINCO.BSE,BOI AXA S/T Income Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXATAXADV.BSE,BOI AXA Tax Advantage Eco Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+BOIAXATREASU.BSE,BOI AXA Treasury Advantage Ret Dl Div,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

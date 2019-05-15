@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BBW,Build-A-Bear Workshop Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BBW.STG,Benchmark Botanics Inc. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+BBW.FRK,Benchmark Botanics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BBW.SGP,Azeus Systems Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667

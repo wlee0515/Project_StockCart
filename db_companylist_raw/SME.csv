@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SMED,Sharps Compliance Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SMVLX,Smead Value Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SMEAX,Invesco Small Cap Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SMECF,SMC Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMEYF,Smart Employee Benefits Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SMEV,Simulated Environment Concepts Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVFFX,Smead Value I1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+SMECX,Invesco Small Cap Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+SMEZ,SPDR EURO STOXX Small Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1429

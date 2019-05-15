@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FREAX,Nuveen Real Estate Securities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+FREADX,FT 7667: Tactical Income Opport,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+6094.TOK,"FreakOut Holdings, inc.",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8000
+FREA.FRK,Fresenius SE & Co. KGaA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+FREA.STG,Fresenius SE & Co. KGaA Inh.-Ak,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+FREAA.PAR,FREY4.375%7AUG19,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2963

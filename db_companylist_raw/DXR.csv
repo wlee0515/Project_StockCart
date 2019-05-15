@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DXR,Daxor Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DXRSX,Direxion Mthly Small Cap Bear 2X,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DXRLX,Direxion Mthly Small Cap Bull 2X,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DXRA.FRK,CANDR.Q.EQ.USA.C.CAP.DL,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DXRA.BER,CANDR.Q.EQ.USA.C.CAP.DL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+DXRA.DUS,CANDR.Q.EQ.USA.C.CAP.DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+DXRA.HAM,CANDR.Q.EQ.USA.C.CAP.DL,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+DXRA.MUN,CANDR.Q.EQ.USA.C.CAP.DL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

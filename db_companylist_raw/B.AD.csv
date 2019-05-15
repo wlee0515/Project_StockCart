@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LM50.MUN,LM GL-LMWA EM TR B.ADDDL,ETF,Munich,08:00,20:00,UTC+01,EUR,0.3636
+LM50.BER,LM GL-LMWA EM TR B.ADDDL,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+LM50.DUS,LM GL-LMWA EM TR B.ADDDL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857

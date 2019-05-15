@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WIA,Western Asset/Claymore Inflation-Linked Securities & Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WIAEX,Wasatch Small Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WLAN,Wialan Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+WIAU.LON,iShares Fallen Angels HY CorpBd ETF $Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+011210.KOR,HYUNDAI WIA Corporation,Equity,Korea,09:00,15:30,UTC+09,KRW,0.2308

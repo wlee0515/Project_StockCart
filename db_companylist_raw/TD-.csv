@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TD-PFK.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+TD-PZ.TRT,TD BANK PREF SERIES Z,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+TD-PFG.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFI.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFC.TRT,The Toronto-Dominion Bank PFD SER 5,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFH.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PY.TRT,TD BANK SER Y PR,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFA.TRT,The Toronto-Dominion Bank 5 YR RST PFD 1,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFB.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+TD-PFD.TRT,The Toronto-Dominion Bank,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000

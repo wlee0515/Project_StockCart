@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWU.BER,"DAIRY CREST GRP  LS-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+GWU.STG,DAIRY CREST GROUP PLC Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GWU.FRK,"DAIRY CREST GRP  LS-,25",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

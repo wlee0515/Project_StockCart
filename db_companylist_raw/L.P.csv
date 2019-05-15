@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BX,The Blackstone Group L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+EPD,Enterprise Products Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+APU,"AmeriGas Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+FGP,"Ferrellgas Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SXE,"Southcross Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BPL,"Buckeye Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CQP,"Cheniere Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+NMM,Navios Maritime Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.2143
+BEP,Brookfield Renewable Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.1875
+FUN,"Cedar Fair, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.1714

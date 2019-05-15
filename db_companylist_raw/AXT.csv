@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AXTI,AXT Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXTA,Axalta Coating Systems Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AXTLF,"Axtel, S.A.B. de C.V. CPOs",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AXTELCPO.MEX,"Axtel, S.A.B. de C.V. CPOs",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+AXT.AUS,Argo Exploration Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+4GK.BER,AXTEL S.A.B. DE C.V.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+4GK.MUN,AXTEL S.A.B. DE C.V.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2609
+523850.BSE,Axtel Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2609
+4GK.FRK,"Axtel, S.A.B. de C.V. CPOs",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+AHV.FRK,AXT Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2069

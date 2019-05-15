@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BNLI.JKT,PT Bank Permata Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6667
+IT0001468047.MIL,BNL Azioni Europa Dividendo,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6667
+BNL.AUS,Big Star Energy Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+F0GBR04WE9.MIL,BNL Azioni America,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2857
+IT0004240500.MIL,BNL Assetto Comfort,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2727
+BNL.BSE,Beekay Niryat Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

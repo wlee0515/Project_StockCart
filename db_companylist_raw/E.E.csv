@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CE8G.FRK,AIS-AM.MSCI WLD E.E.EOC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+CE8G.FRK,AIS-AM.MSCI WLD E.E.EOC,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4444
+6866.TOK,Hioki E.E. Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+WDNR.FRK,AIS-AM.MSCI WLD E.EOC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2400
+ZMC2.FRK,SEB 2-SEB E.EUR.SM+M.C. C,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

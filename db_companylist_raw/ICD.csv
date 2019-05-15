@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ICD,Independence Contract Drilling Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ICDAX,Ivy Pzena International Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDBX,Ivy Pzena International Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDSOX,Closed-End Strategy: Discount O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDCX,Ivy Pzena International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDYX,Ivy Pzena International Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ICDIPX,Closed-End Strategy: Discount O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ICDEX,Voya Diversified Emerging Markets Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ICDCLX,Closed-End Strategy: Covered Ca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+ICDOPX,Closed-End Strategy: Discount O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

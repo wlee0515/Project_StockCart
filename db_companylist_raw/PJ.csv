@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PJET,Priority Aviation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+LUKOY,PJSC LUKOIL,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PJT,PJT Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PJC,Piper Jaffray Companies,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+PJP,Invesco Dynamic Pharmaceuticals ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+PJFZX,PGIM Jennison Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+GZPFY,PJSC Gazprom Neft,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PJH,Prudential Financial Inc. JR SUB NT 52,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PJFAX,PGIM Jennison Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3077
+PJUL,Innovator S&P 500 Power Buffer ETF July,ETF,United States,09:30,16:00,UTC-05,USD,0.2857

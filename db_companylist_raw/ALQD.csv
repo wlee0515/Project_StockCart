@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ALQD.LON,X II USD Asia ex Japan CorpBd ETF 1D,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+ALQD.FRK,X II USD Asia ex Japan CorpBd ETF 1D,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+ALQD.FRK,Xtrackers II - USD Asia ex Japan Corporate Bond UCITS ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+ALQD.DUS,XTR.II DL AS.XJA.CO.BD 1D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ALQD.MUN,XTR.II DL AS.XJA.CO.BD 1D,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ALQD.STG,Xtr.II USD Asia x Jap.Corp.Bd I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

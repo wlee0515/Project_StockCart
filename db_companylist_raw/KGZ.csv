@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KGZ.FRK,Kingboard Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KGZ.STG,Kingboard Holdings Ltd. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KGZ.BER,"KINGBOARD HOLDINGS HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

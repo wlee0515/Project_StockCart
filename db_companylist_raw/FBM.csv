@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FBM,Foundation Building Materials Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FBMS,The First Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FBMPX,Fidelity Select Communication Services,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBMCX,Franklin Balanced C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBMVJX,FT 6942: High Dividend Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FBMKLX,FT 6944: Senior Loan Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBMDUX,FT 7106: 40/60 Strategic Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBMLJX,FT 7057: Dorsey Wright Relative,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FBMCF,Buffalo Coal Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FBMRJX,FT 7619: MLP Closed-End Fund an,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MCX,Medley Capital Corporation 6.50 NT 013021,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MCXAX,Catalyst Macro Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCXCX,Catalyst Macro Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCXIX,Catalyst Macro Strategy I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MCX.NSE,Multi Commodity Exchange of India Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667

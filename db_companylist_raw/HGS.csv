@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HGSH,China HGS Real Estate Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HGSD,WisdomTree Global Hedged SmallCp Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HGSIX,Rational Risk Managed Emerging Mkts Intl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGSCX,Rational Risk Managed Emerging Mkts C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGSAX,Rational Risk Managed Emerging Mkts A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HGS.BSE,Hinduja Global Solutions Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667

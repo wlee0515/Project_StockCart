@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBNT,Ubiquiti Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UBNK,United Financial Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UBNC,Union Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UBN.AUS,Urbanise.com Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

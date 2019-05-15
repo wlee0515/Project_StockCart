@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AANR,ANR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ANRRF,Ardent Leisure Group Limited Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANDD,ANR Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANREX,American Century NT Global Real Estt Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANRHX,American Century NT Global Real Estt G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ANRPX,AllianzGI NFJ Mid-Cap Value P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+6754.TOK,Anritsu Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6000
+ARYN1.SWI,ARYZTA ANR,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5714
+ANRE.KLA,ANALABS RESOURCES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.4615
+ANRJ.LON,Amundi ETF MSCI Europe Energy A/I,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2727

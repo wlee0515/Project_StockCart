@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TA,TravelCenters of America LLC,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TLC,Taiwan Liposome Company Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TGT,Target Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TAHO,Tahoe Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TNDM,Tandem Diabetes Care Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TTWO,Take-Two Interactive Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TAP,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TTM,Tata Motors Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DATA,Tableau Software Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

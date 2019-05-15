@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBCN,db-X trackers MSCI Canada Hedge,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+XETC.STG,db-X ETC - db Brent Crude Oil Booster Euro Hedged ETC,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143
+XMVE.MUN,DB-XTR.MSCI EMU MN V.1DEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143
+XMVE.DUS,DB-XTR.MSCI EMU MN V.1DEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1071

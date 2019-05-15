@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NERAX,Neuberger Berman Emerging Mkts Dbt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+N01.SGP,Nera Telecommunications Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7273
+NERA.SGP,NeraTel,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2581

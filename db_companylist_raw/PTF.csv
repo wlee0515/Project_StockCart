@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTF,Invesco DWA Technology Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PTFRY,PT Tower Bersama Infrastructure Tbk,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTFAX,PIMCO RAE Fundamental Advantage PLUS A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+^CSA,VICTORY PTF II,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PTFYX,Putnam Tax-Free High Yield Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ALVOX,Alger Capital Appreciation Ptfl I-2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+PTFSX,Pacific Capital Tx-Fr Shrt Interm Secs Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+^VSMV,VICTORY PTF II,ETF,United States,09:30,16:00,UTC-05,USD,0.3529
+CIGCAX,Claymore Sec Def Ptf Srs 126 In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1765
+^CFA,VICTORY PTF II,ETF,United States,09:30,16:00,UTC-05,USD,0.1579

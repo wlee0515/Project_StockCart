@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OIX.FRK,ORIX Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+OIX.BER,ORIX CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+OIX.STG,ORIX CORP. Registered Shares o.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+OIXA.FRK,ORIX Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

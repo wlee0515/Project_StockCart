@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWLDIVAMPORT.TRT,GWL US Dividend (GWLIM) 75/100,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLDIVERSIFI.TRT,GWL Diversified (G) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLDIVIDENDE.TRT,GWL Dividend (G)100/100 (PS1),Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLDIVIDENDG.TRT,GWL Dividend (G) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLDIVIDENDL.TRT,GWL Dividend (LK) 75/75,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+GWLDIVIDENDM.TRT,GWL Dividend (M) DSC,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

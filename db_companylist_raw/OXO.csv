@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OXOA.FRK,Oxford BioMedica plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+OXOA.STG,Oxford Biomedica PLC Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+OXOA.BER,"OXFORD BIOMEDICA  LS-,50",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+500208.BSE,INDU NISSAN OXO-CHEMICAL INDUS,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1818

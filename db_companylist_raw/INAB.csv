@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+3421.TOK,Inaba Seisakusho Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3636
+8098.TOK,Inabata & Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+9934.TOK,Inaba Denki Sangyo Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2581

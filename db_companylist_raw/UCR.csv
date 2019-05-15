@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UCRLF,UC Resources Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+0005.KLA,UCREST BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+PLTE.KLA,UCREST BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+UCRP.PAR,Amundi IS US Corp SRI ETF DR Acc,ETF,Paris,09:00,17:30,UTC+01,EUR,0.3750
+UCRP.MIL,AMUNDI US CORP SRI UCITS ETF DR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.3750

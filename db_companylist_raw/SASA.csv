@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SASAX,AIG Small-Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+F00000PZUJ.BCL,Sasac Investments SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+6303.TOK,Sasakura Engineering Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2963
+SASACINVESTM.BCL,Sasac Investments SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857
+F000001YX2.BCL,Sasabe Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2353

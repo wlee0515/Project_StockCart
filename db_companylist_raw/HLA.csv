@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLAN,Heartland BancCorp,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HLAB,Hash Labs Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HLATX,Hartford Global All-Asset R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLASX,Hartford Global All-Asset R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLAIX,Hartford Global All-Asset I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLAFX,Hartford Global All-Asset F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLARX,Hartford Global All-Asset R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLAYX,Hartford Global All-Asset Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLAAX,Hartford Global All-Asset A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLACX,Hartford Global All-Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

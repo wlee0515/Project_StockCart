@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NGCRF,NagaCorp Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+NAGA.JKT,PT Bank Mitraniaga Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7273
+3918.HKG,NagaCorp Ltd.,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.5333
+N9J.STG,NagaCorp. Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+N4G.FRK,The NAGA Group AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4706
+NAG.AUS,Nagambie Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4706
+NAGARFERT.BSE,Nagarjuna Fertilizers and Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+9733.TOK,Nagase Brothers Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4000
+N4G.FRK,The NAGA Group AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000
+NAGAFERT.NSE,Nagarjuna Fertilizers and Chemicals Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333

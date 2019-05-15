@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGB,Southwest Georgia Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SGBX,SG Blocks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGBAF,SES S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGBI,Sangui Biotech International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGBVX,Hartford Schroders Global Strat Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGBLY,Standard Bank Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGBNX,Hartford Schroders Global Strat Bd I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGBJX,Hartford Schroders Global Strat Bd SDR,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGBG,Signature Bank of Georgia,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SGB3.LON,ETFS 3x Short GBP Long USD,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

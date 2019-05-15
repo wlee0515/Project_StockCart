@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SBICX,ClearBridge International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SBICONTRAGR.BSE,SBI Contra Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+SBICONTRADIR.BSE,SBI Contra Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+SBICONTRADIV.BSE,SBI Contra Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+SBICONTRAREG.BSE,SBI Contra Fund,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+SBICORPORATE.BSE,SBI Corporate Bond Fund Dir Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OEIAX,JPMorgan International Rsrch Enh Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OEICX,JPMorgan Equity Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OEIIX,Oppenheimer Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000SSUR.LON,Orbis OEIC Global Equity Standard,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BH6XLH54.LON,Orbis OEIC Global Equity Standard,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1667
+GB00BH6XLK83.LON,Orbis OEIC Global Balanced Standard,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579
+F00000SSUT.LON,Orbis OEIC Global Balanced Standard,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1579

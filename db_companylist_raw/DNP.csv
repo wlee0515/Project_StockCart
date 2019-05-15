@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DNP,DNP Select Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+XDNPX,DNP Select Income Fund Inc.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DNPUF,Sumitomo Dainippon Pharma Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DNPLY,Dai Nippon Printing Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FR0011558741.PAR,DNP Convictions,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.7500
+DNP.BER,DAI NIPPON PRINTG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DNP.FRK,Dai Nippon Printing Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DNP.DUS,DAI NIPPON PRINTG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3333
+F00000RTME.PAR,DNP Convictions,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333

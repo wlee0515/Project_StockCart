@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+INLBD,Item 9 Labs Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+INLB,Item 9 Labs Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+INLX,Intellinetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+INL.FRK,Intel Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+INLZ.LON,Inland ZDP plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

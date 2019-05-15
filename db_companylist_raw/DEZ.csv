@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DEZRX,Delaware Extended Duration Bond R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DEZU,iShares Adaptive Ccy Hdg MSCI Eurozn ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+DEZ.FRK,DEUTZ Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+DEZ.BER,DEUTZ AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DEZ.FRK,DEUTZ Aktiengesellschaft,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+000813.SHZ,Dezhan Healthcare Company Limited,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1667

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VIIIX,Vanguard Institutional Index Instl Pl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VIIX,VelocityShares VIX ST ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+VIISX,Virtus KAR International Small-Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISMCF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ISVPF,iShares VII Public Limited Company - iShares MSCI EMU USD Hedged UCITS ETF (Acc),Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+XMTIF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+VIITX,Vanguard Instl Intrm-Trm Bd Instl Plus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+ISMJF,ISHARES VII PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+^FIXD,FIRST TR ETF VIII,ETF,United States,09:30,16:00,UTC-05,USD,0.2500

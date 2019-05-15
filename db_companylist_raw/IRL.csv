@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IRL,The New Ireland Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IRLD,Ireland Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+IRLSX,Voya Russell Large Cap Growth Index Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLUX,Voya Russell Large Cap Index Port S2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLIX,Voya Russell Large Cap Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLNX,Voya Russell Large Cap Growth Index Port I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLCF,Israel Corporation Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLCX,Voya Russell Large Cap Index Port S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLAX,Voya Russell Large Cap Growth Index Port A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IRLTY,Intralot S.A. Integrated Lottery Systems and Services,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

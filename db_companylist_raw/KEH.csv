@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+002022.SHZ,Shanghai Kehua Bio-engineering Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.7500
+KEH.BER,"CHINESE.PEOP.HLDGS HD-,07",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KEH.STG,Chinese People Hldgs Co. Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KEH.FRK,Chinese People Holdings Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KEH.MUN,"CHINESE.PEOP.HLDGS HD-,07",Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+KEHDF.AMS,Kempen European High Dividend Fund N.V.,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.2222
+002335.SHZ,Xiamen Kehua Hengsheng Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1714
+603161.SHH,Kehua Holdings Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1429

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YCA.LON,Yellow Cake plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+YCA6O.ARG,YCA6O.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YCA6P.ARG,YCA6P.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+YCAEO.ARG,YPF SA FRN 03/2021 ARS1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

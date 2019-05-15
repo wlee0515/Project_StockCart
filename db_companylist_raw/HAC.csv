@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HACK,ETFMG Prime Cyber Security ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+HACAX,Harbor Capital Appreciation Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HCKT,The Hackett Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HACBY,The Hachijuni Bank Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HACSX,Harbor Convertible Securities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HACBX,Harbor Core Bond Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HACCX,Harbor Target Retirement 2045 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

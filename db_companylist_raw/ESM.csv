@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ESMC,Escalon Medical Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ESML,iShares MSCI USA Sml-Cp ESG Optmzd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+ESMAX,Invesco European Small Company A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESMYX,Invesco European Small Company Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESMSX,Invesco European Small Company R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ESMCX,Invesco European Small Company C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

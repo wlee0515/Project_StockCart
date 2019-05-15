@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AKN.AUS,Auking Mining Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+AKN.FRK,Aisin Seiki Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+AKN.BER,AISIN SEIKI CO. LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

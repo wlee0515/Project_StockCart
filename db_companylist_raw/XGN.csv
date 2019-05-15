@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XGNTX,"GAMCO Natural Resources, Gold &",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XGN5.FRK,db x-trackers II - iBoxx Germany 3-5 UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XGN5.FRK,X II Germany Govt Bd 3-5 Swap ETF 1D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+XGN5.DUS,XTR.II GE.GO.BD3-5SW.1DEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XGN5.STG,Xtr.II Germany Gov.Bd 3-5 SwapI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XGN5.MUN,XTR.II GE.GO.BD3-5SW.1DEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

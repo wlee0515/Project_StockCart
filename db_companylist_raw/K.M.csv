@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+532673.BSE,K.M. Sugar Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3077
+KMSUGAR.BSE,K.M. Sugar Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3077
+KMSUGAR.NSE,K.M. Sugar Mills Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2222

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DIOD,Diodes Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DDQ.MUN,"DIODES INC.  DL -,666",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+DDQ.FRK,Diodes Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+DDQ.BER,"DIODES INC.  DL -,666",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+DDQ.STG,DIODES INC. Registered Shares D,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+DIOD.MOS,DIOD Maker of Eco-Friendly Equipment and Nutrition Public Joint Stock Company,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.4000

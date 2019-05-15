@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+532710.BSE,Sadbhav Engineering Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+SADBHAV.BSE,Sadbhav Engineering Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+SADBHAV.NSE,Sadbhav Engineering Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5714
+SADBHIN.BSE,Sadbhav Infrastructure Project Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5714
+SADBHIN.NSE,Sadbhav Infrastructure Project Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4706
+SADBHIN-EQ.NSE,SADBHAV INFRA PROJ,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2581

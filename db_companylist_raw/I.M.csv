@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IMA.MIL,I.M.A. Industria Macchine Automatiche S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+0LD1.LON,I.M.A. Industria Macchine Automatiche S.p.A.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+SC0D.STG,I.M.-I.EURO STOXX 50 UETF Regis,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+12M.FRK,I.M.A. Industria Macchine Automatiche S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+6PSC.STG,I.M.III-I.FTSE RAFI Europ.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+6PSH.STG,I.M.III-I.Dynamic US Mkts UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+HDLV.STG,I.M.III-I.S&P 500 H.D.L.V.UETFR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+PCBD.BER,I.MSCI EMECW,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+D500.FRK,I.M.-I.S+P 500 UETF D,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.2000
+D500.DUS,I.M.-I.S+P 500 UETF D,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000

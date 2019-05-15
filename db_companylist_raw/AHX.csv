@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHX.AUS,Apiam Animal Health Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+XTSG.BER,MSI-GLOBAL BRANDS AHX EO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+XTSG.MUN,MSI-GLOBAL BRANDS AHX EO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2222

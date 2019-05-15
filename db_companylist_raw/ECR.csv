@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECR,Eclipse Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ECRFF,Cartier Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ECRAX,Eaton Vance Rich Bern All Asst Strat C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ECRD,Ecard Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECRRX,Eaton Vance Short Dur Infl-Prot Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECRO,ECC Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECRBX,MFS Total Return Bond 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECDD,Ecrid Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECRTF,Colombia Crest Gold Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECRIX,MFS Research International 529C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

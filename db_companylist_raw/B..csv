@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BOSC,B.O.S Better Online Solutions Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RILY,B. Riley Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RILYZ,B. Riley Financial Inc. SR NT 27,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RILYG,B. Riley Financial Inc. SR NT 7.25% 27,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RILYI,B. Riley Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+RILYH,B. Riley Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+RILYL,B. Riley Financial Inc. SR NT 7.5% 21,Equity,United States,09:30,16:00,UTC-05,USD,0.1538
+BRDAX,B. Riley Diversified Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1143
+BRDZX,B. Riley Diversified Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1000
+BRDCX,B. Riley Diversified Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.0976

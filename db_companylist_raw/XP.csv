@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPO,XPO Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XSPA,XpresSpa Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XPER,Xperi Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XPLT,XPEL Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XPL,Solitario Zinc Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XPH,SPDR S&P Pharmaceuticals ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XPP,ProShares Ultra FTSE China 50,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XPRTX,Invesco Senior Loan Fund Class ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XPCIX,PIMCO Dynamic Credit Income Fun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XPFNX,PIMCO Income Strategy Fund II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AFNAX,AAM/Bahl & Gaynor Income Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AFNL,AmFin Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+AFNIX,AAM/Bahl & Gaynor Income Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AFN.TRT,Ag Growth International Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+AFN.FRK,Healthways Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AFN.LON,ADVFN plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+AFN.STG,Tivity Health Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

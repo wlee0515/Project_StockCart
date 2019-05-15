@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DE,Deere & Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DDOC,"DERMAdoctor, LLC.",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DVMT,Dell Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DNR,Denbury Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DAL,Delta Air Lines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DVN,Devon Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DB,Deutsche Bank Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DF,Dean Foods Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DLPH,Delphi Technologies PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DXCM,DexCom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333

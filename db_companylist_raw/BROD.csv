@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CQ5.STG,"HARTMANN AS, BRODRENE Navne-Akt",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6154
+GB0030607559.LON,CF Broden Fund,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+F0GBR06OG5.LON,LF Broden,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

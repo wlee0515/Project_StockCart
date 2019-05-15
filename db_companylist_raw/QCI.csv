@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QCILIX,CREF Inflation-Linked Bond Acco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCILRX,CREF Inflation-Linked Bond Account - R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+QCIBX,QCI Balanced Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QCILPX,CREF Inflation-Linked Bond Acco,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QCI.FRK,QUALCOMM Incorporated,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+QCI.FRK,QUALCOMM Incorporated,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+QCI.BER,"QUALCOMM INC.  DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+QCI.DUS,"QUALCOMM INC.  DL-,0001",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+QCI.HAN,"QUALCOMM INC.  DL-,0001",Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6667
+QCI.HAM,"QUALCOMM INC.  DL-,0001",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

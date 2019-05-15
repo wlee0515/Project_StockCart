@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JSM,Navient Corporation SR NT 6% 121543,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JSMGX,Janus Henderson Triton I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JSMVX,Jackson Square SMID-Cap Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+JSML,Janus Henderson Small Cap Gr Alpha ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMD,Janus Henderson Small/Md Cp Gr Alpha ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMTX,Jackson Square SMID-Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMSX,JPMorgan SmartRetirement 2030 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMIX,JPMorgan SmartRetirement 2030 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMAX,JPMorgan SmartRetirement 2030 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JSMCX,JPMorgan SmartRetirement 2030 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

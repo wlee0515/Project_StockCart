@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAF,BlackRock Municipal Income Investment Quality Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BAFWX,Brown Advisory Sustainable Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFSX,Brown Advisory Small-Cap Growth Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFBF,Balfour Beatty plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFQX,Brown Advisory Somerset Emgerg Mkts Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFHX,Brown Advisory WMC Strat Eurp Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFMX,Brown Advisory Mid-Cap Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFZX,Brown Advisory Mortgage Securities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFYY,Balfour Beatty plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BAFGX,Brown Advisory Growth Equity Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

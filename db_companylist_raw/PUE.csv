@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CEPU,Central Puerto S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+CPROF,Cortelco Systems Puerto Rico Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+LIVEPOLC-1.MEX,"El Puerto de Liverpool, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.4000
+CEPU.ARG,Central Puerto S.A.,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3529
+LIVEPOL1.MEX,"El Puerto de Liverpool, S.A.B. de C.V.",Equity,Mexico,08:30,15:00,UTC-06,MXP,0.2609
+PLV1.BER,EL PUERTO LIVER.N.-VTG.C1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+VENTANAS.SAN,Puerto Ventanas S.A.,Equity,Chile/Santiago,09:30,16:00,UTC-03,CLP,0.1463
+9264.TOK,"Puequ CO.,LTD.",Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1463

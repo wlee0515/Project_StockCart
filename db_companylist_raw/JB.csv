@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBLU,JetBlue Airways Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JBGS,JBG Smith Properties,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JBL,Jabil Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+JBSAY,JBS S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBHT,J.B. Hunt Transport Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBT,John Bean Technologies Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBSS,John B. Sanfilippo & Son Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+JBALX,Janus Henderson Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JBZY,JB&ZJMY Holding Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JBR,Corporate Backed Call Trust Certificates JCP 06-1CTF A1,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

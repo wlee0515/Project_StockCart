@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDVX,MedoveX Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MDVNX,MassMutual Select Diversified Value R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MDVSX,MassMutual Select Diversified Value R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDVT,Middlebury National Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDVXW,Medovex Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDVYX,MassMutual Select Diversified Value Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDVVX,FDP BlackRock Equity Dividend Investor A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDVAX,MassMutual Premier Diversified Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDV.TRV,Megastar Development Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MDVI.TAV,Medivie Therapeutic Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.6000

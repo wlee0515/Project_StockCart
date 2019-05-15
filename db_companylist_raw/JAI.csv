@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JAIMX,James Alpha Mlt Strat Alt Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JAIGX,Janus Henderson VIT Overseas Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JPASSOCIAT.NSE,Jaiprakash Associates Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+JISLJALEQS.NSE,Jain Irrigation Systems Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4286
+JAIMATAG.BSE,Jai Mata Glass Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+JISLDVREQS.BSE,Jain Irrigation Systems Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3750
+521038.BSE,Tamilnadu Jai Bharath Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3333
+JISLJALEQS-EQ.NSE,JAIN IRRIGATION,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+JAIPAN.BSE,Jaipan Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+JAICORPLTD.BSE,Jai Corp Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1579

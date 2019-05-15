@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WXL5.HAM,CS Investment Funds 13 - Credit Suisse (Lux) Sustaniable Bond Fund,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+WXL5.BER,CSIF13-CS(L)GR.BD FD BHEO,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+WXL5.DUS,CSIF13-CS(L)GR.BD FD BHEO,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+WXL5.MUN,CSIF13-CS(L)GR.BD FD BHEO,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

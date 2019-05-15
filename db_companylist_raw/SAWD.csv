@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAWD.LON,iShares MSCI World ESG Scrn ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SAWD.SWI,iSh MSCI Wrld ESG Acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.7273

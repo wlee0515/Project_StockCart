@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OZM,Och-Ziff Capital Management Group LLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OCHIX,Oberweis China Opportunities Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+35OA.FRK,Och-Ziff Capital Management Group LLC,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2308
+3166.TOK,Ochi Holdings Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+35OA.BER,OCH-ZIFF CAPITAL MAN.CL A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+35OA.STG,Och-Ziff Capital Manag.Gr.LLC R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000
+PAMB-M1.MEX,"Compass Investments Ocho, S.A. DE C.V., S.I.I.D.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1395
+BNMFIBRB0E.MEX,Horizonte Banamex Ocho SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.1176

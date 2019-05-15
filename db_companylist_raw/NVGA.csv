@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVGAA.PAR,INVIVO2.8%3FEV22,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+NVGAB.PAR,INVIVO3.0%3FEV23,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

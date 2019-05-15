@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HHMAX,Hartford Municipal Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHMCX,Hartford Municipal Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHMTX,Hancock Horizon MS Tax-Free Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHMYX,Hartford Municipal Opportunities Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHMIX,Hartford Municipal Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHMFX,Hartford Municipal Opportunities F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HHM.AUS,Hampton Hill Mining NL,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

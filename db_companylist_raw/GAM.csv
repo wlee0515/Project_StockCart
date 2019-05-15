@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GAM,General American Investors Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GMDA,Gamida Cell Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PG,The Procter & Gamble Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+GME,GameStop Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+PENN,Penn National Gaming Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+IGT,International Game Technology PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BYD,Boyd Gaming Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SGMS,Scientific Games Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+GLPI,Gaming and Leisure Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2069

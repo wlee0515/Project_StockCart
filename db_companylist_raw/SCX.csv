@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SCX,The L.S. Starrett Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SCXIX,SEI Core Fixed Income I (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCXJX,Age-Based Option: Age 13-15 Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCXLX,Age-Based Option: Age 13-15 Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCXKX,Age-Based Option: Age 13-15 Cla,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SCXLB,The L.S. Starrett Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

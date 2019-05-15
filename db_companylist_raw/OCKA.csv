@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OCKA.FRK,Hudbay Minerals Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+OCKA.STG,Hudbay Minerals Inc. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+OCKA.MUN,HUDBAY MINERALS INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

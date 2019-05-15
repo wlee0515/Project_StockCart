@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FSRPX,Fidelity Select Retailing,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRBX,Fidelity Select Banking,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRFX,Fidelity Select Transportation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRNX,Fidelity Real Estate Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRIX,Fidelity Advisor Strategic Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRVX,Fidelity Real Estate Index Premium,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSREX,Fidelity Series Real Estate Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRRX,Fidelity Strategic Real Return,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRCX,Fidelity Advisor Strategic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FSRAX,Fidelity Advisor Strategic Real Ret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGOC,SGOCO Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SG51.FRK,SGOCO Group Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+SG51.STG,SGOCO Group Ltd. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3636

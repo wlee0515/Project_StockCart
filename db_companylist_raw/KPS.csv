@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KSC.MUN,KPS AG NA O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+KPSHF,Kapsch TrafficCom AG,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KPSCX,KP Small Cap Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+KSC.FRK,KPS AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+9121.KLA,KPS Consortium Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+KPSC.KLA,KPS CONSORTIUM BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+KSC.FRK,KPS AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+KPSN.FRK,KINEPOLIS GRP SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+KSC.BER,KPS AG NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+KSC.DUS,KPS AG NA O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857

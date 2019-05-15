@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYRSX,Rydex Russell 2000 2x Strategy H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRRX,Rydex Russell 2000 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRTX,Rydex Retailing A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYROX,Rydex Russell 2000 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRAX,Rydex Retailing H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRIX,Rydex Retailing Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYREX,Rydex Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRHX,Rydex Russell 2000 H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRCX,Rydex Retailing C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYRLX,Rydex Russell 2000 2x Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

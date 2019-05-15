@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOAA.FRK,FONAR Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+FOAA.BER,"FONAR CORP. NEW  DL-,0001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

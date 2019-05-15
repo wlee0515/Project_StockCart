@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DVLN,DVL Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DVLP,Golden Developing Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DVLY,Deer Valley Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DWGAX,American Funds Dvlpg Wld Gr&Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DWGHX,American Funds Dvlpg Wld Gr&Inc F2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DVLRX,Delaware Small Cap Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+ISDS,Invesco Strategic Dvlpd ex-US Sm Com ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DVLU,First Trust Dorsey Wright Momt & Val ETF,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RDWAX,American Funds Dvlpg Wld Gr&Inc R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+CDWAX,American Funds Dvlpg Wld Gr&Inc 529A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

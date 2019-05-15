@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEKA.BER,GENOMMA LAB INT. FIN. B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+1GT.FRK,"GEK TERNA Holdings, Real Estate, Construction S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+1GT.STG,GEK TERNA S.A. Namens-Aktien EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2500
+GEKA.FRK,"Genomma Lab Internacional, S.A.B. de C.V.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

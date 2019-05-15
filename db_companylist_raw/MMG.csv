@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+1208.HKG,MMG Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.7500
+MMGAX,MFS GA Municipal Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMGEX,MassMutual Select Small Cap Gr Eq A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMGPX,MSVIF Mid Cap Growth Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMGTX,MSVIF Mid Cap Growth Portfolio ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMGFX,MassMutual Select Growth Opps R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMG.TRV,Metallic Minerals Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+MMG.JOH,MICROmega Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667
+MMG.DUS,MITSUI MNG SMELTG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4286

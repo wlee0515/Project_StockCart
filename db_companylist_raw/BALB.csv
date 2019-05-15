@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BALB,iPath B Bloomberg Cotton Ttl Ret ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+BALBQX,ADT 1895 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBPX,ADT 1878 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBOX,ADT 1860 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBLX,ADT 1802 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBNX,ADT 1843 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBKX,ADT 1783 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBJX,ADT 1758 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+BALBMX,ADT 1822 Balanced Portfolio Ser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000

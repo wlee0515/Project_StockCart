@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DTLA-P,Brookfield DTLA Fund Office Trust Investor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DTLGX,Wilshire Large Company Growth Invmt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DTLVX,Wilshire Large Company Value Invmt,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+DTL.AUS,Data#3 Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+DTLA.LON,iShares $ Treasury Bd 20+y ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+1ATD.FRK,COBA AKTIENTREND DTLD R,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DTLE.LON,iShares $ Treasury Bd 20+y ETF EUR HDist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.2308
+O2D.BER,TELEFONICA DTLD HLDG NA,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VDE,Vanguard Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+VDIGX,Vanguard Dividend Growth Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8000
+VDC,Vanguard Consumer Staples ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+VDADX,Vanguard Dividend Appreciation Index Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VDAIX,Vanguard Dividend Appreciation Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VDRM,ViaDerma Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+VDIPX,Vanguard Developed Markets Index Ins Pls,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VDEQX,Vanguard Diversified Equity Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VDVIX,Vanguard Developed Markets Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+VDMCY,Vodacom Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

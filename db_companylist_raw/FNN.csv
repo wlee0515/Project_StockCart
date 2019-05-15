@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNNZF,FinCanna Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNNGF,Fanlogic Interactive Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNNCF,Financial 15 Split Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FNNNF,Finnair Oyj,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

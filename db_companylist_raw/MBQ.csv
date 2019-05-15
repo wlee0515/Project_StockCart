@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MBQ.FRK,Mobotix AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+MBQ.FRK,Mobotix AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MBQ.BER,MOBOTIX AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MBQ.DUS,MOBOTIX AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+MBQ.MUN,MOBOTIX AG O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MBQ.STG,MOBOTIX AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MBQ.HAM,MOBOTIX AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

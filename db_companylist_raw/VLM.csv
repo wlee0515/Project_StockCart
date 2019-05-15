@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VLMGF,Viscount Mining Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VLMIX,Value Line Mid Cap Focused Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VLMZF,Volcanic Gold Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VLM.BER,METSO CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+VLM.STG,METSO CORP. Registered Shares o,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+VLM.FRK,Metso Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VLM.DUS,METSO CORP.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+VLM.MUN,METSO CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+VLM1.BER,METSO CORP. ADR 1/4,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+VLMXP17A.MEX,VLMXP17 A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000

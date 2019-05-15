@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YTEN,Yield10 Bioscience Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+YTESTQFTACHYON,TACHYON HEARBEAT,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SCDNX,YTE Option: 10-12 Years Class O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3529
+YTE.STG,Tessi SA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765

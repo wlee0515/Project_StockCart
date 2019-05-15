@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNBCQ,First NBC Bank Holding Company,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NBCRX,American Funds Retire Inc Port-Mod C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBCFX,Neiman Balanced Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NBCC.NSE,NBCC (India) Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+NBC.BAK,Nation Broadcasting Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NBC-R.BAK,Nation Broadcasting Corporation Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+NBC.MUN,NATL BK OF CDA,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+NBCC.BSE,NBCC (India) Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000
+NBC.FRK,National Bank of Canada,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

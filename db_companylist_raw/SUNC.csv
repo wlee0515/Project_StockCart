@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUNC,Suncast Solar Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SU,Suncor Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+SXCP,"SunCoke Energy Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SXC,SunCoke Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SBKK,Suncrest Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+SUNCX,AIG Commodity Strategy C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SNMCY,Suncorp Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SNMYF,Suncorp Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.4706
+SU.TRT,Suncor Energy Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.4444
+SUN.AUS,Suncorp Group Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4444

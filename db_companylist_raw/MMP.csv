@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MMP,"Magellan Midstream Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MMPLX,Morgan Stanley Inst Multi-Asst L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMPPX,Morgan Stanley Inst Multi-Asst A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMPIX,Morgan Stanley Inst Multi-Asst I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMPCX,MainStay MAP Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MMP-UN.TRT,Precious Metals and Mining Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+MMP-SM.NSE,MMP INDUSTRIES LTD,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6000
+MMPI.FRK,Champion Iron Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+MMPI.STG,Champion Iron Ltd. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+4QX.FRK,MMP Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500

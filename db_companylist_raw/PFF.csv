@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFF,iShares US Preferred Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PFFD,Global X US Preferred ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PFFR,InfraCap REIT Preferred ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PFFA,Virtus InfraCap US Preferred Stock ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+PFFL,ETRACS 2xMonthly Pay Lvrgd Pref Stk ETN,Equity,United States,09:30,16:00,UTC-05,USD,0.8571

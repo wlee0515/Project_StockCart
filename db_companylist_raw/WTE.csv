@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WTER,The Alkaline Water Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WTECQ,Westech Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WTEIX,Segall Bryant & Hamill Lrg Cp Dividend Ret,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WTER.TRV,The Alkaline Water Company Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+WTE.TRT,Westshore Terminals Investment Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+WTEL.LON,SPDR MSCI World Comm Svcs ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+WTEC.LON,SPDR MSCI World Technology ETF USD Acc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+WTEI.FRK,WisdomTree Emerging Mkts Eq Inc ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+WTEZ.MUN,WISDOMT.GERM.EQ.U.EOA DZ,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000

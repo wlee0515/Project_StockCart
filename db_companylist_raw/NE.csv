@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NE,Noble Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NFLX,Netflix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NBEV,New Age Beverages Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+NTGN,Neon Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+STIM,Neuronetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NTAP,NetApp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NKTR,Nektar Therapeutics,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NLST,Netlist Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NVCN,Neovasc Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+NTES,NetEase Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2105

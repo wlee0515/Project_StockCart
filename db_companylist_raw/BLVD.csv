@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CVHIF,BLVD Centers Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+BLVDF,Helix Applications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+VML1.FRK,BLVD Centers Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+VML1.BER,BLVD CENTERS CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857

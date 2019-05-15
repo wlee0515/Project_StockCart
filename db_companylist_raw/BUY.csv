@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUY,USCF SummerHaven SHPEI ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+BBY,Best Buy Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+PBP,Invesco S&P 500 BuyWrite ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+PKW,Invesco BuyBack Achievers ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1875
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+SPYB,SPDR S&P 500 Buyback ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1091
+IPKW,Invesco Intl BuyBack Achiev ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.0968

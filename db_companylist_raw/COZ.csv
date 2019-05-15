@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CZR.AUS,Coziron Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+COZ.FRK,Cognizant Technology Solutions Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+COZ.BER,COGNIZANT TECH. SOL.A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+COZ.DUS,COGNIZANT TECH. SOL.A,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+COZ.HAM,COGNIZANT TECH. SOL.A,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+COZ.MUN,COGNIZANT TECH. SOL.A,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+COZ.STG,COGNIZANT TECHNOLOGY SOL.CORP.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+L6Z.BER,COZIRON RESOURCES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

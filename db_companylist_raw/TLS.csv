@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TLSA,Tiziana Life Sciences PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLSNF,Telia Company AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TLSYY,Telstra Corporation Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSRP,Telos Corporation PFD EXCH 12%,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSNY,Telia Company AB (publ),Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSS,Transportation and Logistics Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSRX,TIAA-CREF Lifestyle Income Retirement,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSTX,TIAA-CREF Life Stock Index Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSPX,TIAA-CREF Lifestyle Conservative Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TLSHX,TIAA-CREF Lifestyle Conservative Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

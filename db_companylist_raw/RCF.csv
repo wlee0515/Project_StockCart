@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCFTX,American Funds 2035 Trgt Date Retire R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCFIX,Rockefeller Core Taxable Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RCF.BER,"TELEPERFORMANCE INH.EO2,5",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+RCF.FRK,Teleperformance SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RCF.MUN,"TELEPERFORMANCE INH.EO2,5",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RCF.NSE,Rashtriya Chemicals and Fertilizers Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+RCF.STG,Tlperformance SE Actions Port. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RCF.BSE,Rashtriya Chemicals and Fertilizers Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+RCF.DUS,"TELEPERFORMANCE INH.EO2,5",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+KR5225828551.KOR,MiraeAssetMAPS Premium RCF Private Equity Balanced-Derivatives 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1111

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CPWR,Ocean Thermal Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPWIF,China Power International Development Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CPWHF,Ceres Power Holdings plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPWY,Clean Energy Pathways Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CPW.FRK,Check Point Software Technologies Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+CPW.BER,CHECK POINT SOFTW. TECHS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+CPW.DUS,CHECK POINT SOFTW. TECHS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+CPW.HAM,CHECK POINT SOFTW. TECHS,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+CPW.MUN,CHECK POINT SOFTW. TECHS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+CPW.STG,CHECK POINT SOFTWARE TECHS LTDR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

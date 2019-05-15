@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KPLUY,K+S Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KPLUF,K+S Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KPLCX,KP Large Cap Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KPL.AUS,Kina Petroleum Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+KPL.FRK,Keppel Telecommunications & Transportation Ltd,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+KPL.BER,"KEPPEL TELE.+TR.  SD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KPL.BSE,Kwality Pharmaceuticals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6667
+KPL.STG,KEPPEL TELECOMM. & TRANSP.LTD.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+KPL.HAM,"KEPPEL TELE.+TR.  SD-,10",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

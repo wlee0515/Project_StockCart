@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FIOGF,Fiore Gold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FIONX,Fidelity SAI International Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOIX,Fidelity Advisor Managed Retiremt 2005 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOBX,First Investors Intl Opps Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOAX,Fidelity Advisor Managed Retiremt 2005 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOHX,First Investors Tax Exempt OH A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOOX,Fidelity Series Large Cap Value Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOEX,First Investors Intl Opps Bd Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOTX,Fidelity Advisor Managed Retiremt 2005 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FIOCX,Fidelity Advisor Managed Retiremt 2005 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

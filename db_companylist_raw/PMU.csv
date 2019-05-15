@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PMULF,Pure Multi-Family REIT LP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUAX,PACE Municipal Fixed Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUBX,Penn Mutual AM Unconstrained Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUCX,PACE Municipal Fixed Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUYX,PACE Municipal Fixed Income Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUPX,PIMCO Municipal Bond I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PMUIX,PNC Multi Factor Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

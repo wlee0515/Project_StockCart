@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JEO.LON,Jupiter European Opportunities Trust PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+6951.TOK,JEOL Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+008500.KOR,IL Jeong Industrial Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.5000
+JEL.FRK,JEOL Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+JEL.BER,JEOL -JAPAN EL.OPT.-,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

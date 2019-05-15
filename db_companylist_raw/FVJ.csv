@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVJZWX,FT 7208: Private Client Equity ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVJNRX,FT 6785: Cyclical Strength Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVJRBX,FT 6581: SMid High Dividend Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVJDPX,FT 6976: New York Municipal Inc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVJWCX,FT 7450: Target Dbl. Play 3Q '1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVJ.STG,Fortescue Metals Group Ltd. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+FVJ.FRK,Fortescue Metals Group Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FVJ.BER,FORTESCUE METALS GRP LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+FVJ.DUS,FORTESCUE METALS GRP LTD.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+FVJ.HAM,FORTESCUE METALS GRP LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

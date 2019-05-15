@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BGPAX,BlackRock GNMA Inv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPCX,BlackRock GNMA Inv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPKX,Baillie Gifford EAFE Pure K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPFX,The EAFE Pure Fund - Share Clas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPTX,Baillie Gifford EAFE Pure 2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPSX,BlackRock GNMA Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGPA.BER,"KONINK.BAM GP TOON.EO-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BGPA.DUS,"KONINK.BAM GP TOON.EO-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+BGPA.MUN,"KONINK.BAM GP TOON.EO-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+BGPA.STG,Koninklijke BAM Groep N.V. Aand,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XSX6.LON,X Stoxx Europe 600 ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+XSXE.FRK,XTR.STOXX EUR.600 2C EO H,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XSX6.MIL,X Stoxx Europe 600 ETF 1C,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+XSXE.STG,Xtrackers Stoxx Europe 600 Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XSXE.FRK,XTR.STOXX EUR.600 2C EO H,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

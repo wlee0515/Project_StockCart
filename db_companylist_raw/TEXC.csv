@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TEXC,TexCom Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TEXC.KLA,TEXCHEM RESOURCES BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+8702.KLA,Texchem Resources Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3200

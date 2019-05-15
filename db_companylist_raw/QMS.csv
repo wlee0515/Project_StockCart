@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QMS.AUS,QMS Media Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+46M.FRK,QMS Media Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3750
+46M.BER,QMS MEDIA LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3750
+46M.HAM,QMS MEDIA LTD,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3000

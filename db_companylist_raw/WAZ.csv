@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WAZ.FRK,Waters Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+WAZ.BER,"WATERS CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WAZ.MUN,"WATERS CORP.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+WAZ.STG,WATERS CORP. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+603186.SHH,Zhejiang Wazam New Material Co. Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.6667
+WAZ.DUS,"WATERS CORP.  DL-,01",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.1500

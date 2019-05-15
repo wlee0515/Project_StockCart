@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7168.KLA,PRG Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.8571
+PRGO,Perrigo Company plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRGTX,T. Rowe Price Global Technology,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRGFX,T. Rowe Price Growth Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGS,Progress Software Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGX,PRGX Global Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGSX,T. Rowe Price Global Stock,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGIX,T. Rowe Price Growth & Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGNF,Paragon Shipping Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRGWX,Principal Large Cap Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2727

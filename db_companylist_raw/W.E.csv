@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBCH.STG,iShsV-MSCI W.EUR Hgd U.ETF AccR,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+X9I9.BER,AM.II-P.STR.I.NA.A W.EO C,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+0I83.BER,ISHS MSCI USA EQUAL W.ETF,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2000

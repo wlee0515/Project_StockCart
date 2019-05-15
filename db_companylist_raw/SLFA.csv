@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLFA.BER,SHORT DURATION US GOVT,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+SLFA.DUS,SHORT DURATION US GOVT,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

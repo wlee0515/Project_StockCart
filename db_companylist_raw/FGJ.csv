@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FGJDOX,FT 6530: Dividend Strength Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGJOMX,FT 6353: Balanced Income Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGJQAX,FT 7388: Cloud Computing Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGJHUX,FT 7445: Dow Target 10 July '18,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGJMX,Fidelity Advisor Communication Svcs I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

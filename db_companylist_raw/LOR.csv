@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LOR,Lazard World Dividend & Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+LORL,Loral Space & Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LDLFX,Lord Abbett Short Duration Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LFRAX,Lord Abbett Floating Rate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LALDX,Lord Abbett Short Duration Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LUBAX,Lord Abbett Ultra Short Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LBNDX,Lord Abbett Bond-Debenture A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LHYAX,Lord Abbett High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LFRFX,Lord Abbett Floating Rate F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LLDYX,Lord Abbett Short Duration Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

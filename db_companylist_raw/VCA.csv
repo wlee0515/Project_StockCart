@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VCADX,Vanguard CA Interm-Term Tax-Exempt Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCAIX,Vanguard CA Interm-Term Tax-Exempt Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCAPX,Vertical Capital Income Fund Cl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCANPX,Van Kampen 1279 Conservative In,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VCAAX,VALIC Company I Asset Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VCAQFX,California Investors Quality Ta,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VCAIQX,California Investors Quality Ta,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+VCMP,VCAMPUS CORP,Equity,United States,09:30,16:00,UTC-05,USD,0.5714

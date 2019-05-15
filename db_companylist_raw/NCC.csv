@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NCC.BSE,NCC Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+NCCIX,Nuveen Symphony Mid-Cap Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCCCX,Nuveen Symphony Mid-Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCCAX,Nuveen Symphony Mid-Cap Core A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NCCGF,NCC Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NCC.LON,NCC Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+NCC.NSE,NCC Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+NCC-B.TRT,Newfoundland Capital Corporation Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+0OFP.LON,NCC AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3750

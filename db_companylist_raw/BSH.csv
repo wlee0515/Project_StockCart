@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BSHVF,Bushveld Minerals Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BSHI,Boss Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BSHPF,Bahamas Petroleum Company plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSHIX,Bishop Street HI Muni Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSHGX,Bishop Street High Grade Inc Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSHF,Bioshaft Water Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BSH1.BER,BAUBA PLATINUM LTD  RC 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+BSHSL-SM.NSE,BOMBAY SUPER HYBRI,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+BSHARE.TWN,Allianz Glbl Inv All Seasons Hvst FOBF B,Mutual Fund,Taiwan,09:00,13:30,UTC+08,TWD,0.4286

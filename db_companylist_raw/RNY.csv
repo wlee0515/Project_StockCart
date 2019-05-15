@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNY.AUS,RNY Property Trust,Equity,Australia,10:00,16:00,UTC+11,AUD,0.7500
+RNY.MUN,YAMANA GOLD INC.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RNY.STG,Yamana Gold Inc. Registered Sha,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+RNY.FRK,Yamana Gold Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RNY.BER,YAMANA GOLD INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RNY.FRK,Yamana Gold Inc.,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+RNY.DUS,YAMANA GOLD INC.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+RNY.HAM,YAMANA GOLD INC.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

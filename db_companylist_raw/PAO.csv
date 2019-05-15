@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MTL,Mechel PAO,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MTL-P,Mechel PAO,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PAOG,PAO Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PAOIX,Preserver Alternative Opportunits Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PAOTF,Parrot S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NOVKY,PAO NOVATEK,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TMKXY,PAO TMK,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+PAOC,Pan Ocean Container Supplies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+PAORX,Preserver Alternative Opportunits Retl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4615
+PAOFX,T. Rowe Price Target 2050 Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4286

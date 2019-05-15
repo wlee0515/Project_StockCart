@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHODF,Koninklijke Ahold Delhaize N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+AHOD.FRK,Koninklijke Ahold Delhaize N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+AHOD.BER,"AHOLD DELHAI.ADR16 EO-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AHOD.MUN,"AHOLD DELHAI.ADR16 EO-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+AHOD.STG,"Ahold Delhaize N.V., Konkinkl.A",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

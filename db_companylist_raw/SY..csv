@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SY.TRV,Symbility Solutions Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+01X.STG,CellCube Energy Storage Sy.IncR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+R7Y1.FRK,"CARDIOVASCULAR SY.DL-,001",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+R7Y1.BER,"CARDIOVASCULAR SY.DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

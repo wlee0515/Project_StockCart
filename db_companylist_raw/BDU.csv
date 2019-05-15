@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BDUUY,Bangkok Dusit Medical Services Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BDULF,Bangkok Dusit Medical Services Public Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BDU.SGP,Federal International (2000) Ltd,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.7500
+BDU.FRK,Bonduelle SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+BDU.STG,BONDUELLE S.A. Actions Port. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

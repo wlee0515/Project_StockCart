@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+N100.NSE,Motilal Oswal NASDAQ 100 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+MOTILALOFS.BSE,Motilal Oswal Financial Services Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3200
+OSWALAGRO.BSE,Oswal Agro Mills Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963
+N100.BSE,MOTILAL OSWAL MOST SHARES NASD,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2500
+BINDALAGRO.NSE,Oswal Greentech Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2500
+M50.NSE,Motilal Oswal M50 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2353
+M100.NSE,Motilal Oswal Midcap 100 ETF,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2353
+129048.BSE,Motilal Oswal MOSt Foc Mltcap 35 Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000
+F00000TE7F.BSE,Motilal Oswal MOSt Foc Mltcap 35 Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1860
+122387.BSE,Motilal Oswal MOSt Focused 25 Reg Gr,Mutual Fund,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1860

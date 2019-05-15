@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NHK.TRT,Nighthawk Gold Corp.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+5991.TOK,NHK Spring Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+NHK.FRK,NHK Spring Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NHK.STG,NHK SPRING CO. LTD. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MN,Manning & Napier Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MNGA,MagneGas Applied Technology Solutions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MNKD,MannKind Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MNK,Mallinckrodt Public Limited Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNST,Monster Beverage Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNTA,Momenta Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNRO,Monro Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNR,Monmouth Real Estate Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNOV,MediciNova Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MNLO,Menlo Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667

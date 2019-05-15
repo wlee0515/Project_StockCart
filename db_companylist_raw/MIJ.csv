@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIJFX,Matthews Japan Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1715.HKG,Miji International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+F0GBR06LP7.BCL,Mijalu SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+MIJALUSICAV.BCL,Mijalu SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1579

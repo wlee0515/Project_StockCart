@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PUQ3.FRK,Westbridge Energy Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PUQ3.STG,Westbridge Energy Corp. Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

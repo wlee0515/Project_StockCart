@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NAK,Northern Dynasty Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+NAKD,Naked Brand Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NAKFX,Nuveen CA Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NAKODA.NSE,Nakoda Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.7500
+TNH-R.BAK,Thai Nakarin Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+7716.TOK,Nakanishi Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+NAK.HAM,NAK Stoffe AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3636
+NGIL.BSE,NAKODA GROUP OF INDUSTRIES LIM,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3529
+NAK.LON,Nakama Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2000

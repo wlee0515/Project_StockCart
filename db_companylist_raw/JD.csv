@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JD,JD.com Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JDST,Direxion Daily Jr Gld Mnrs Bear 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+JDMNX,Janus Henderson Enterprise N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+JDD,Nuveen Diversified Dividend and Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+JDMAX,Janus Henderson Enterprise A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JDVWX,JHancock Disciplined Value R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JDSCX,JPMorgan Small Cap Blend I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JDBAX,Janus Henderson Balanced A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JDNAX,Janus Henderson Growth And Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+JDCAX,Janus Henderson Forty A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

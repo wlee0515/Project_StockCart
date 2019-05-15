@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6701.TOK,NEC Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+NECA,New America Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NECB,Northeast Community Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NECZX,Loomis Sayles Strategic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NECOX,Natixis Oakmark C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NECCX,Natixis US Equity Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NECRX,Loomis Sayles Core Plus Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NECLX,Loomis Sayles Ltd Term Govt and Agency C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+NEC.AUS,Nine Entertainment Co. Holdings Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4615
+NECCLTD.NSE,North Eastern Carrying Corporation Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333

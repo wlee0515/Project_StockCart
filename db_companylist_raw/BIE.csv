@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BIEL,BioElectronics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BIEI,Premier Biomedical Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BIEAX,Brandes International Equity A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIECX,Brandes International Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIEVX,iShares Edge MSCI Min Vol EAFE Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIEMX,William Blair Emerging Mkts Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIEGX,Blackrock Lifepath Smart Beta 2060 Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIERX,Brandes International Equity R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BIEEX,BlackRock GA Enhanced Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BSS.MIL,Biesse S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444

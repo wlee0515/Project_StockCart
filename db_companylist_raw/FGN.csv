@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QUSIX,Pear Tree Polaris Fgn Val Sm Cap Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+QUSOX,Pear Tree Polaris Fgn Val Sm Cap Ord,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FGNSX,Strategic Advisers Tx-Snstv Shrt Dur,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGNVPX,FT 7407: Preferred Income Portf,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QUSRX,Pear Tree Polaris Fgn Val Sm Cap R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGNAPX,FT 7492: Multi-Sector Income Po,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FGNV,Forge Innovation Development Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FGNLMX,FT 6954: First Trust ETF Alloca,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579
+FGNILX,The First Trust Combined Srs 40,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1538
+FGNRIX,First Trust GNMA Reinvestment I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

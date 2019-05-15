@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWM,iShares Russell 2000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWF,iShares Russell 1000 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWD,iShares Russell 1000 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWSY,ImageWare Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+IWO,iShares Russell 2000 Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWN,iShares Russell 2000 Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWR,iShares Russell Mid-Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWV,iShares Russell 3000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWB,iShares Russell 1000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IWS,iShares Russell Mid-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667

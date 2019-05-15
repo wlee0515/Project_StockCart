@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPL,Texas Pacific Land Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LCI,Lannett Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+OXLC,Oxford Lane Capital Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LCA,Landcadia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+JLL,Jones Lang LaSalle Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LMRK,Landmark Infrastructure Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LAND,Gladstone Land Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LE,Lands' End Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+LTRX,Lantronix Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LNTH,Lantheus Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

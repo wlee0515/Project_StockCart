@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RNKLF,RNC Minerals,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RNCCX,American Funds Cnsrv Gr & Inc R-3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GDIIX,RNC Genter Dividend Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNCIX,RiverNorth Core Opportunity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RNCOX,RiverNorth Core Opportunity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+RNCAX,American Funds Cnsrv Gr & Inc R-1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+RNX.TRT,RNC Minerals,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+5RN.FRK,RNC Minerals,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+RNCN.BER,STELLAR CAP. PART.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+TQIR.BER,TELECOM ITALIA RNC,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2069

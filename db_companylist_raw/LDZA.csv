@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDZA.FRK,Aspen Pharmacare Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LDZA.BER,ASPEN PHARMACARE H. NEW,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+LDZA.STG,Aspen Pharmacare Hldgs PLC Reg.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+LDZA.MUN,ASPEN PHARMACARE H. NEW,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

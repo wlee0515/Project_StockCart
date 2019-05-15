@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRT,StarTek Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SRTS,Sensus Healthcare Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SRTY,ProShares UltraPro Short Russell2000,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SRTSF,Gr. Sarantis S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRTGX,SMA Relationship Trust Srs G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRTTX,SMA Relationship Trust Series T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRTSX,SMA Relationship Trust Srs S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRTMX,SMA Relationship Trust Series M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

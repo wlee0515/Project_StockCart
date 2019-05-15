@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RCUS,Arcus Biosciences Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RCU0.VIE,RCB OE Index-Z./ATX five,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000
+RCUN.VIE,RCB OE IndexZ./CECExt,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.6000

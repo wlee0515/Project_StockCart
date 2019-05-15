@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GWB,Great Western Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GWBU,Great Wall Builders Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+G7B.STG,GWB Immobilien AG Inhaber-Aktie,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+G7B.FRK,GWB Immobilien AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+G7B.BER,GWB IMMOBILIEN INH.  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+G7B.DUS,GWB IMMOBILIEN INH.  O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+G8W.STG,GWB Immobilien AG Inhaber-Genus,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+G8W.DUS,GWB IMMO. AG INH. GEN. 19,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444

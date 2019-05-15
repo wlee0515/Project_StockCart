@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAA,Guggenheim Airline ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FAAR,First Trust Alt Abs Ret Strat ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+FAAFX,Fairholme Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAASX,Fidelity Advisor Asset Manager 70% A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAAAX,Franklin K2 Alternative Strategies A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAARX,Nuveen All-American Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAAIX,Fidelity Advisor Asset Manager 70% I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAAPX,FA 529 PORT 2019-OLD CL A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FAAGX,Nuveen Strategy Aggressive Gr Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

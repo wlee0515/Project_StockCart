@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRU,Prudential Financial Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BPT,BP Prudhoe Bay Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PUK,Prudential plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRUAX,PGIM Jennison Utility A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+PRS,Prudential Financial Inc. 5.62,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+PRUFX,T. Rowe Price Growth Stock I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+BEARX,Federated Prudent Bear A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PRH,Prudential Financial Inc. JR SUB NT 53,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PUKPF,Prudential plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PJH,Prudential Financial Inc. JR SUB NT 52,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EZQ.STG,China Mengniu Dairy Co. Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+EZQ.FRK,China Mengniu Dairy Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EZQ.BER,"CHINA MENG.D.REG S HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+EZQ.DUS,"CHINA MENG.D.REG S HD-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+EZQ.MUN,"CHINA MENG.D.REG S HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

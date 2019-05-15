@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BMY,Bristol-Myers Squibb Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BMYMP,Bristol-Myers Squibb Company PFD CONV 2,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BMY.LON,Bloomsbury Publishing plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+BMY.MEX,Bristol-Myers Squibb Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+BMYB34.SAO,Bristol-Myers Squibb Company,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+BMY.SWI,Bristol-Myers Squibb Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+BMYRA.LIS,MYSTIC FRN05AUG24,Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.5455
+BMYRC.LIS,MYSTIC 3FRN05AUG24,Equity,Lisbon,08:00,16:30,UTC+00,EUR,0.5000

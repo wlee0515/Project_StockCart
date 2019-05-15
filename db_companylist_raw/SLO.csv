@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLOFF,Solstad Offshore ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLOIF,Soitec S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLV.BER,"SLOVNAFT INH.  EO 33,2",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+SLO.FRK,Stella Chemifa Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+NEP.BER,SLOMAN NEPTUN SCHIFF.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+NEP.HAM,SLOMAN NEPTUN Schiffahrts-Aktiengesellschaft,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+SK9A.FRK,EXPAT SLOVAK.SAX UCITS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2069
+FC42.VIE,EB OE TL.Z./TELEKOM SLOVEN,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.1277

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PRF,Invesco FTSE RAFI US 1000 ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PRFT,Perficient Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PRFDX,T. Rowe Price Equity Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+PRFHX,T. Rowe Price Tax-Free High Yield,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFRX,T. Rowe Price Floating Rate,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFMF,Profound Medical Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFSX,T. Rowe Price Tax-Free Shrt-Interm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFBX,Putnam Research B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRFIX,Parnassus Fixed-Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYLIX,Rydex Leisure Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLPX,Royce Low Priced Stock Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLPF,Koninklijke Philips N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLDX,Rydex Dow 2x Strategy A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLSX,Rydex Leisure A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLAX,Rydex Leisure H,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLGX,Rydex S&P 500 Pure Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLVX,Rydex S&P 500 Pure Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLCX,Rydex Leisure C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

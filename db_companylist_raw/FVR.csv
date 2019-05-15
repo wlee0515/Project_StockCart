@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FVRG,ForeverGreen Worldwide Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FVRD,Favored Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FVRTBX,FT 6819: Dow Jones Global Titan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVRGNX,"FT 7602: Mega-Cap Portfolio, Se",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FVRYBX,FT 7312: Energy Opportunity Por,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVRLX,Forester Value R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVRMX,Franklin MicroCap Value Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVRHBX,FT 6546: California Municipal I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVRCUX,FT 7231: Biotechnology Portfoli,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FVRCPX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

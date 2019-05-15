@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EE.BAK,Eternal Energy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500
+F0GBR04K3Q.BCL,Bankinter EE.UU. Nasdaq 100 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+BANKINTEREEU.BCL,Bankinter EE.UU. Nasdaq 100 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1818

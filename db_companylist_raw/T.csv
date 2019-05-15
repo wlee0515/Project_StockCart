@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+T,AT&T Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TSLA,Tesla Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TME,Tencent Music Entertainment Group,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+TLC,Taiwan Liposome Company Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+THOR,Synthorx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TLRY,Tilray Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TWTR,Twitter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TWST,Twist Bioscience Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TENB,Tenable Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+TBIO,Translate Bio Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000

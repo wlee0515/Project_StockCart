@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIVABX,ADT 1882 Todd International Int,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4000
+TIVADX,ADT 1920 Todd International Int,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TIVACX,ADT 1898 Todd International Int,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+TIVAAX,ADT 1885 Todd International Int,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2286
+TRT.AUS,Todd River Resources Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.2286

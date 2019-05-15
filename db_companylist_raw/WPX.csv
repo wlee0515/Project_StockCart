@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WPX,WPX Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+WPE.FRK,WPX Energy Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+WPE.STG,WPX Energy Inc. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

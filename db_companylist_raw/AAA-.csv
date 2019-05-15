@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TAT.AMS,Think iBoxx AAA-AA Government Bond UCITS ETF,ETF,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+IAAA.LON,iShares Global AAA-AA Govt Bd ETF $ Dist,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+GAAA.LON,ISHARES VI PLC ISH GLB AAA-AA G,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+IS0Z.FRK,iShares Global AAA-AA Govt Bd ETF $ Dist,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1818

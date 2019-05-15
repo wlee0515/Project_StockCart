@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUU.FRK,DevEx Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+BUU.BER,DEVEX RES LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+BUU.HAM,DevEx Resources Limited,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

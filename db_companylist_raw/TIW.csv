@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TIW.BAK,Thailand Iron Works Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TIW-R.BAK,Thailand Iron Works Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455
+AT0000622097.VIE,TIWAG-Vorsorge-Fonds II,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2609
+AT0000789839.VIE,TIWAG-Vorsorge-Fonds,Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2308

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NXKU.LON,Nomura Nikkei 225 USD-Hedged ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+NXKU.SWI,Nomura Nikkei 225 USD-Hedged ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+NXKE.LON,Nomura Nikkei 225 EUR-Hedged ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+NXKE.SWI,Nomura Nikkei 225 EUR-Hedged ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.6000

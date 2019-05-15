@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SLS,SELLAS Life Sciences Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SLSDF,Select Sands Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SLSSX,Selected International S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SLSR,Silver Surprize Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLSDX,Selected International D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLSFX,SEI Long/Short Alternative Y (SIMT),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SLSX,Seamless Technology Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SLS.LON,Standard Life UK Smaller Co. Ord,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

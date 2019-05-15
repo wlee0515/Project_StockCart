@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECQ.HAM,PHARMAUST LTD.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7500
+ECQ.FRK,PharmAust Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ECQ.BER,PHARMAUST LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+ECQ.STG,Pharmaust Ltd. Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

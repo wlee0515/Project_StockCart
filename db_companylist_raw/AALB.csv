@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AALB.AMS,Aalberts Industries N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7273
+AACA.BER,"AALBERTS IND. NV  EO-,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+AACA.DUS,"AALBERTS IND. NV  EO-,25",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.5455
+AACA.STG,Aalberts Industries N.V. Aandel,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+AACA.FRK,Aalberts Industries N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3636
+0NX1.ILN,AALBERTS INDUSTRIES NV AALBERTS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3636
+AALB.VIE,Aalberts Industries N.V.,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.3636
+AACA.MUN,"AALBERTS IND. NV  EO-,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2286

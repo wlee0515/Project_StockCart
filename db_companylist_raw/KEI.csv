@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RYKKY,Ryohin Keikaku Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+RYKKF,Ryohin Keikaku Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KHEXF,Keikyu Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4615
+7453.TOK,Ryohin Keikaku Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.3158
+K22.FRK,Keio Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+7500.TOK,Nishikawa Keisoku Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+8818.TOK,Keihanshin Building Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2222
+K22.BER,KEIO CORP.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000
+KEI.DUS,KEISEI EL. RWY,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2000
+1690.HKG,Lap Kei Engineering (Holdings) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1875

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JENSX,Jensen Quality Growth J,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PRUAX,PGIM Jennison Utility A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+PGNAX,PGIM Jennison Natural Resources A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PJFZX,PGIM Jennison Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SPFZX,PGIM Jennison Focused Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PEQZX,PGIM Jennison Blend Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PHSZX,PGIM Jennison Health Sciences Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+PJFAX,PGIM Jennison Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2308
+PEGZX,PGIM Jennison Mid-Cap Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1818
+JSYN,Jensyn Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

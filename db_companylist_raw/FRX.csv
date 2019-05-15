@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FRXIX,Fidelity Real Estate Index Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+FRXX,Forecross Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRX.TRT,Fennec Pharmaceuticals Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+FRX.AUS,Flexiroam Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+FRXD.LON,Franklin Libertyshares Icav - Franklin LibertyQ European Dividend Ucits Etf,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

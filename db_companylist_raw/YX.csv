@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YXI,ProShares Short FTSE China 50,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+YXM.TRT,First Asset Mstar US Mom ETF CADH Comm,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5714
+YXM-B.TRT,First Asset Morningstar US Momentum Index ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+YXP.BER,"YORKEY OPT.INTL C. HD-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+YXS.FRK,Sany Heavy Equipment International Holdings Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5000
+YXEP.FRK,Quebec Precious Metals Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000

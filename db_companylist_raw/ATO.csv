@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ATO,Atmos Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMS.AUS,Atomos Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8571
+ATOS,Atossa Genetics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ATOM,Atomera Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+AEXAY,Atos SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ANLBF,Aton Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATONF,Anton Oilfield Services Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ATOR,Astor Explorations Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6000
+ATOXF,Durango Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+ATOWW,Atossa Genetics Inc. WT EXP 052421,Equity,United States,09:30,16:00,UTC-05,USD,0.2727

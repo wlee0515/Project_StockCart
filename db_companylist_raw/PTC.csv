@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PTC,PTC Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PTCT,PTC Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTCO,PetroGas Company,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTCI,Point Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PTCHF,PureTech Health plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PTCLX,PGIM QMA Global Tactical Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTCIX,PIMCO Long-Term Credit Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTCFX,Pinnacle Sherman Tactical Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTCSX,Principal LifeTime 2030 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PTCMX,Principal LifeTime 2030 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

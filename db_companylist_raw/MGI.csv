@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGI,MoneyGram International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+MTG,MGIC Investment Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MGIC,Magic Software Enterprises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MGIAX,MFS International Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGICX,MFS International Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGIDX,AMG Managers Amundi Intermediate Gov N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGIBX,MFS International Value B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGILX,Morgan Stanley Inst Corporate Bond L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGINX,DWS Global Macro Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

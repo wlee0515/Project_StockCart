@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RHBTX,American Funds 2015 Trgt Date Retire R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+1066.KLA,RHB Capital Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+RHBC.KLA,RHB BANK BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+RHB.FRK,Craft Brew Alliance Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+RHB.BER,CRAFT BREW ALL.INC.DL-005,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RHB.JOH,RH Bophelo Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+RHB.STG,Craft Brew Alliance Inc. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VXZB,iPath B S&P 500 VIX Md-Trm Futures ETN,ETF,United States,09:30,16:00,UTC-05,USD,0.2500
+FTVSX,Fuller & Thaler Behav Md-Cp Val Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2000
+FTVZX,Fuller & Thaler Behav Md-Cp Val R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622
+FTVNX,Fuller & Thaler Behav Md-Cp Val Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1579
+AADGX,Aasgard Dividend Growth Sm & Md-Cp N/L,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1500
+FFIU,Fieldstone UVA Uncons Md-Trm Fxd Inc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1395
+HFMU.TRT,Hamilton Capital US Md-Cp Fincls ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.1395

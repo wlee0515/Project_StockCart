@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ISF,ING Groep N.V. PERP HYB6.375%,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ISFAX,Lord Abbett Multi-Asset Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFFF,ISS A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFCX,Lord Abbett Multi-Asset Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFYX,Lord Abbett Multi-Asset Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFETX,Stocks for 2018 Portfolio (Inve,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFBX,Lord Abbett Multi-Asset Income B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFTX,Lord Abbett Multi-Asset Income T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFOX,Lord Abbett Multi-Asset Income F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ISFIX,VY Columbia Contrarian Core I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

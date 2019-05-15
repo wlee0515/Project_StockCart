@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PHCHX,Virtus Newfleet High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHCIX,Virtus Newfleet High Yield I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PHCUF,PhotoCure ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PHC.LON,Plant Health Care plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+PHCAP.BSE,P.H. Capital Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5455
+FR0011101088.PAR,PHCG European Macro Picks,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+FR0011109081.PAR,PHCG European Macro Picks I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.5455
+PHCEC.ARG,PHCEC.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455
+PHCED.ARG,PHCED.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2143
+PHCEV.ARG,PHCEV.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2000

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APH,Amphenol Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+APHQF,Aphria Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+APHB,AmpliPhi Biosciences Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+APHMX,Artisan Mid Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHIX,Artisan International Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHKX,Artisan International Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHQX,Artisan Mid Cap Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHGX,Artisan Global Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHYX,Artisan Developing World Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APHSX,Artisan Small Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

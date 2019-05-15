@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ET,Energy Transfer LP,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ETON,Eton Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+ETTX,Entasis Therapeutics Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MJ,ETFMG Alternative Harvest ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+ETE,"Energy Transfer Equity, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETSY,Etsy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETN,Eaton Corporation plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETFC,E*TRADE Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETRN,Equitrans Midstream Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+ETP,"Energy Transfer Partners, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.1290

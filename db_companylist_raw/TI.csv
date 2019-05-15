@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TI,Telecom Italia S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+TLRY,Tilray Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TLSA,Tiziana Life Sciences PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TTNP,Titan Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+TIS,Orchids Paper Products Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+1790.HKG,TIL Enviro Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+TIF,Tiffany & Co.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TIVO,TiVo Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TKR,The Timken Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TIP,iShares TIPS Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPMD,SPDR Portfolio Mid Cap ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPMO,Invesco S&P 500 Momentum ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPMTF,Spearmint Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPMV,Invesco S&P 500 Minimum Variance ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+SPMAX,Saratoga Mid Capitalization A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SPMI,Speedemissions Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SPMIX,Shelton S&P Midcap Index Direct,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

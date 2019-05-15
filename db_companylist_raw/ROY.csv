@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDS-A,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RDS-B,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+BPT,BP Prudhoe Bay Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RBS,The Royal Bank of Scotland Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+RCL,Royal Caribbean Cruises Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+SJT,San Juan Basin Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RY,Royal Bank of Canada,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RGLD,Royal Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2000
+ROYT,Pacific Coast Oil Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1935
+PBT,Permian Basin Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1935

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DGII,Digi International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DGICA,Donegal Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DGICB,Donegal Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+DGIFX,Disciplined Growth Investors,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DGIVX,DGHM V2000 SmallCap Value Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGIV,Digitcom Corp,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGIF,Digital Info Security Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGIEX,Dreyfus Global Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DGIX,Dyna Group International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DGIGX,Dreyfus Appreciation I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

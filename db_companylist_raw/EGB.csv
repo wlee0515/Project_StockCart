@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGBN,Eagle Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGBB,Earth Gen-Biofuel Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGB.BER,"ENSIGN GROUP INC. DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+EGB.FRK,The Ensign Group Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EGB.STG,Ensign Group Inc. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EGB3.MIL,ETFS 3x Long GBP Short EUR,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+EGB5.MIL,ETFS 5x Long GBP Short EUR ETC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.6000
+AT000B119813.VIE,EGB BstGar.sterr 13-19/5,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2222
+OG45.VIE,EGB Bonus.Z./BAWAG GROUP 18-19,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000
+OG46.VIE,EGB Bonus.Z./BAWAG GROUP 18-19,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.2000

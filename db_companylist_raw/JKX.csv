@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JKX.LON,JKX Oil & Gas plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+JKX.BER,"JKX OIL + GAS PLC  LS-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+JKX.FRK,JKX Oil & Gas plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+JKX.STG,JKX OIL & GAS PLC Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

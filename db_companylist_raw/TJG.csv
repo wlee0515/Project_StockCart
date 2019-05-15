@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TJG.FRK,Innofactor Plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+TJG.BER,INNOFACTOR OYJ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+TJG.STG,Innofactor Oyj Registered Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

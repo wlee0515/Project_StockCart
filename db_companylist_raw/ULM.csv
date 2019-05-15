@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPJA.FRK,First Private Europa Aktien ULM,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765
+FPJA.STG,First Private Europa Akt. ULM I,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.1765
+979583.FRK,First Private Europa Aktien ULM A,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1667
+F0GBR04N7I.FRK,First Private Europa Aktien ULM A,Mutual Fund,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.1667

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FWJQLX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWJCPX,FT 7530: Technology Dividend Op,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWJYLX,FT 7727: Limited Duration Fixed,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FWJ.BER,"COGNITION HLDGS  RC -,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

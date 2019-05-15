@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEP,"Spectra Energy Partners, LP",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SMARX,Brandes Separately Managed Acct Rsrv Tr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEPKX,Wells Fargo Enterprise Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBMH,iShares iBonds Sep 2019 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SEPGY,Superdry Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IBMI,iShares iBonds Sep 2020 Term Muni Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+SEPIX,Saratoga Energy & Basic Materials I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+SPIDY,Septeni Holdings Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+TESTAX,TEST - Separately Managed Accou,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395
+SEPAX,SEI Pennsylvania Municipal Bond F (STET),Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1395

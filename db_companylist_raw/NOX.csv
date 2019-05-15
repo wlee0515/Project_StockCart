@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NOXL,Noxel Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ALNOX.PAR,NOXXON Pharma N.V.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+NOX.FRK,Net One Systems Co. Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NOX.AUS,Noxopharm Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+NOX.BER,NET ONE SYSTEMS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+NOX.MUN,NET ONE SYSTEMS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.5455
+0N6.FRK,NOXXON Pharma N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+0N6.STG,NOXXON Pharma N.V.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TGODF,The Green Organic Dutchman Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3636
+RDS-A,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+RDS-B,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+RYDAF,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+TGOWF,The Green Organic Dutchman Holdings Ltd. WT EXP 022821,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+DGRI,Dutch Gold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3200
+KLMR,KLM Royal Dutch Airlines,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+RYDBF,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2667
+TGOD.TRT,The Green Organic Dutchman Holdings Ltd.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.2222
+RDSA.AMS,Royal Dutch Shell plc,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.2222

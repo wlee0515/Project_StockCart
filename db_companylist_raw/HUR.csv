@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HURN,Huron Consulting Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HURC,Hurco Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HVLM,Huron Valley Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HRCXF,Hurricane Energy plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HUR.LON,Hurricane Energy plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3529
+E3B.SGP,Wee Hur Holdings Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.2857
+HC2.BER,HURCO COS INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500

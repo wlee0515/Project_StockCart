@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBPD.STG,Xtr.ShortDAX x2 Daily Swap Inha,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XCS6.STG,Xtrackers MSCI China Inhaber-An,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+NQ65.STG,Amundi Discount Balanced Inhabe,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+XDUK.STG,Xtrackers FTSE 100 Inhaber-Ante,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+MAN.STG,MAN SE Inhaber-Stammaktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+WXO2.STG,koWorld Water for Life Inhaber-,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+D5BH.STG,Xtrackers MSCI Canada Inhaber-A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+DXET.STG,Xtrackers Euro Stoxx 50 Inhaber,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+2IMB.STG,PI Global Value Fund Inhaber-An,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286
+HVJD.STG,ARERO - Der Weltfonds Inhaber-A,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.2286

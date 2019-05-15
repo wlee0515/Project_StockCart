@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AMG,Affiliated Managers Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+AMGN,Amgen Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+YACKX,AMG Yacktman I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+AMGP,Antero Midstream GP LP,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YAFFX,AMG Yacktman Focused N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+AMGGF,Alamos Gold Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3529
+ABMIX,AMG Managers Fairpointe Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TSCIX,AMG TimesSquare Small Cap Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TMDIX,AMG TimesSquare Mid Cap Growth Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667
+CHTTX,AMG Managers Fairpointe Mid Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1622

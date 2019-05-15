@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSXB3.SAO,OSX Brasil S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.7273
+OSXB.MUN,Ossiam Lux - Ossiam Risk Weighted Enhanced Commodity Ex. Grains TR,ETF,Munich,08:00,20:00,UTC+01,EUR,0.7273
+OSXB.DUS,OSS.R.W.E.C. UC.ETF 1C DL,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FOX,Twenty-First Century Fox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FOXA,Twenty-First Century Fox Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FOXF,Fox Factory Holding Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FXBY,Foxby Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FXRVF,Fox River Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+RFXRF,Running Fox Resource Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AWAW,White Fox Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FXTGY,Foxtons Group plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+XFXBX,Foxby Corp.,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CPFXF,Copper Fox Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

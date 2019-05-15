@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AHSAX,Alger Health Sciences A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHSZX,Alger Health Sciences Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHSCX,Alger Health Sciences C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+AHS.TRV,Alta Natural Herbs & Supplements Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+AHS.FRK,Admiralty Resources NL,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AHSF.AMS,Allianz Holland Paraplufonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6667
+AHS.BER,ADMIRALTY RES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AHS.HAM,ADMIRALTY RES,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+AHS.MUN,ADMIRALTY RES,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

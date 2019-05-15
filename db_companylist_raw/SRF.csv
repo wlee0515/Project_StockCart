@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SRF,The Cushing Energy Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SRFAX,MFS Equity Opportunities A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFCX,MFS Equity Opportunities C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFIX,MFS Equity Opportunities I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFBX,MFS Equity Opportunities B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFHX,MFS Equity Opportunities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFDF,Starfield Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFFX,MFS Equity Opportunities R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFGX,MFS Equity Opportunities R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SRFMX,Sarofim Equity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PPBI,Pacific Premier Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PPBV,Purple Beverage Company Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PPBN,Pinnacle Bankshares Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PPB.LON,Paddy Power Betfair plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+4065.KLA,PPB Group Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7500
+PPB.FRK,Paddy Power Betfair plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PPB.BER,"PADDY PWR BETF.PLC EO-,09",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+PPB.STG,Paddy Power Betfair PLC Registe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4000
+PEPT.KLA,PPB GROUP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.3158

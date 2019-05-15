@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TPTW,TPT Global Tech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TPT.LON,Topps Tiles Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+TPT.BER,TECK RESOURCES LTD. A,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+TPT.STG,Teck Resources Ltd. Registered ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TPT.FRK,Teck Resources Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TPT0002AU.AUS,Tasmanian Perpetual Long Term,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+TPT0003AU.AUS,Tasmanian Perpetual Select Mortgage,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+TPT0007AU.AUS,Tasmanian Perpetual Mortgage Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000

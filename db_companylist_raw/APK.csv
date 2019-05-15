@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+APKPX,AllianzGI PerformanceFee Struct US FI P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APKRX,AllianzGI PerformanceFee Struct US FI R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APKIX,AllianzGI PerformanceFee Struct US FI I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+APK.FRK,"AmeriGas Partners, L.P.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+APK.BER,AMERIGAS PARTNERS L.P.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+APK.STG,AMERIGAS PARTNERS L.P. Reg. Uni,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+AT0000796610.VIE,APK Renten EUR I01 (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2400
+AT0000A1ZAB3.VIE,APK Renten EUR I02 (T),Mutual Fund,Vienna,08:55,17:35,UTC+01,EUR,0.2400

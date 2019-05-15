@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CHU,China Unicom (Hong Kong) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+UNAM,Unico American Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UNCFF,UniCredit S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UNICY,Unicharm Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UNCRY,UniCredit S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+GUHI,Global Unicorn Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BZZUY,Buzzi Unicem SpA,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BZZUF,Buzzi Unicem SpA,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+UNCHF,Unicharm Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+BZZFF,Buzzi Unicem SpA,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

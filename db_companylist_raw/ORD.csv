@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+USBOX,Pear Tree Quality Ordinary,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+QUSOX,Pear Tree Polaris Fgn Val Sm Cap Ord,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+CRDUF,Canadian Resources Income Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.2609
+MICFF,Mint Income Fund Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+STMZF,Scottish Mortgage Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+QFVOX,Pear Tree Polaris Foreign Value Ord,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TGOPF,3i Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+USBNX,Pear Tree Polaris Small Cap Ord,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RITPF,RIT Capital Partners Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.2000
+BLUBF,Blue Ribbon Income Fund Ord,Equity,United States,09:30,16:00,UTC-05,USD,0.1765

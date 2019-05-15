@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNHFY,Mayr-Melnhof Karton AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MNHYX,Manning & Napier High Yield Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHCX,Manning & Napier Pro-Blend Max Term R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHVF,Marine Harvest ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHRX,Manning & Napier Pro-Blend Max Term R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHAX,Manning & Napier High Yield Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHD,Mongolia Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHIX,Manning & Napier Pro-Blend Max Term I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MNHO.KLA,MINHO (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+KLMH.FRK,Lyxor Green Bond (DR) ETF C EUR Mnh Hdg,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4000

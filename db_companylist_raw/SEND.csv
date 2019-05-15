@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEND,SendGrid Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+2S9.FRK,SendGrid Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SD1.FRK,SendR SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+2S9.BER,SENDGRID INC.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4706
+2S9.STG,SendGrid Inc.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+SD1.BER,SENDR SE NA O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+SD1.FRK,SendR SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.4211
+F000001YXG.BCL,Senda de Vite SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4000
+SENDADEVITES.BCL,Senda de Vite SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3478

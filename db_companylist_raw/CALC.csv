@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CALCX,Calvert Conservative Allocation C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+CLCL,Calcol Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CLKTF,CalciTech Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CALCOM.BSE,Calcom Vision Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6154
+CLC.LON,Calculus VCT Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+4102.TOK,Maruo Calcium Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+CLCD.LON,Calculus VCT Plc,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+517236.BSE,Calcom Vision Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2963

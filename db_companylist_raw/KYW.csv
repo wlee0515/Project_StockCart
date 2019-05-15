@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KYW.FRK,Skyworth Digital Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+KYW.BER,SKYWORTH DIGI.HLDGS HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KYW.MUN,SKYWORTH DIGI.HLDGS HD-10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+KYW.STG,SKYWORTH DIGITAL HLDGS CO.LTD R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AYJ.FRK,Valneva SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+AYJ.BER,"VALNEVA SE  EO -,15",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+AYJ.FRK,Valneva SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+AYJ.MUN,"VALNEVA SE  EO -,15",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+AYJ.STG,Valneva SE Actions au Porteur E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

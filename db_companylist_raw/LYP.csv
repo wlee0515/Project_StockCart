@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LYP6.MUN,LY.I.-L.CO.ST.EO 600(DR)A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6667
+LYP2.BER,MUL-LYX.S+P500U.ETF DHEOD,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+LYPG.FRK,Lyxor MSCI World Info Tech TR ETF C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+LYPH.FRK,Lyxor MSCI World Materials TR ETF C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LYPJ.DUS,LYX.E.C.BD X FI.U.ETF A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+LYPF.FRK,Multi Units Luxembourg - Lyxor MSCI World Industrials TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYPG.FRK,Multi Units Luxembourg - Lyxor MSCI World Information Technology TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYPI.FRK,Multi Units Luxembourg - Lyxor MSCI World Telecommunication Services TR UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+LYPU.FRK,Lyxor Australia (S&P/ASX 200) ETF D EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+LYPSAGEMS-EQ.NSE,LYPSA GEMS & JEWEL,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333

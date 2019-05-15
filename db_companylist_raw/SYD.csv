@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SYDDF,Sydney Airport Limited Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SYANY,Sydbank A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SYD.AUS,Sydney Airport Limited Stapled Securities,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+0MGE.LON,Sydbank A/S,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4286
+MJS.BER,SYDNEY AIRPORT STAPLED,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+MJS.HAM,SYDNEY AIRPORT STAPLED,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2400
+TM2.BER,SYDBANK  NAM.  DK 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KNOP,KNOT Offshore Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KN,Knowles Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KNL,Knoll Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KNWN,Know Labs Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+KNOS,Kronos Advanced Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KNOW,Direxion All Cap Insider Sentiment ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+TRKWF,Tree of Knowledge International Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KLDW,Knowledge Leaders Developed World ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+KNOLF,Knol Resources Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500

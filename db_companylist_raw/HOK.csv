@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HOKCY,The Hong Kong and China Gas Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HOKCF,The Hong Kong and China Gas Company Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HOKUQ,Hoku Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HOKI.JKT,PT Buyung Poetra Sembada Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000
+5902.TOK,Hokkan Holdings Limited,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5000
+9505.TOK,Hokuriku Electric Power Company,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2308
+7465.TOK,MAXVALU HOKKAIDO Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2069
+6HO.FRK,Hokuriku Electric Power Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

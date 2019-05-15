@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SPA,Sparton Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ONCE,Spark Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SPKE,Spark Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EXR,Extra Space Storage Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SPAR,Spartan Motors Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SPTN,SpartanNash Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+LORL,Loral Space & Communications Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3000
+SGRP,SPAR Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+SPAB,SPDR Portfolio Aggregate Bond ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+LOV,Spark Networks SE,Equity,United States,09:30,16:00,UTC-05,USD,0.1667

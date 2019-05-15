@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OPRA,Opera Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPRX,OptimizeRx Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPRIX,Oppenheimer Preferred Secs and Inc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPRYX,Oppenheimer Preferred Secs and Inc Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPRAX,Oppenheimer Preferred Secs and Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

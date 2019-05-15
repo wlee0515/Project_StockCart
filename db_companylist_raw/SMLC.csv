@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMLCX,DWS Managed Municipal Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+SMLC.FRK,Source CSOP Markets Public Limited Company - CSOP Source FTSE China A50 UCITS ETF,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+SMLC.FRK,CSOP Source FTSE China A50 ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273
+SMLC.STG,Source CSOP M.-FTSE Ch.A50 UC.B,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+SMLC.DUS,S.CSOP M.-FTS.C.A50 U.ADZ,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273

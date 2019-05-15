@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6112.TOK,Kojima Iron Works Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+7513.TOK,Kojima Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4615
+V4OC.FRK,Kojamo Oyj,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+V4OC.BER,KOJAMO OYJ,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2000

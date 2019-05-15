@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NBFB.FRK,Nolato AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+NBFB.STG,Nolato AB (publ),Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+NBFB.BER,NOLATO AB B  SK 25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273

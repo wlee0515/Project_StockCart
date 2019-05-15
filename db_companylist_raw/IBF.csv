@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IBFCX,American Funds Interm Bd Fd of Amer C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+IBFFX,American Funds Interm Bd Fd of Amer F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IBFL,Independent BancShares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+IBFN.JKT,PT Intan Baruprana Finance Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

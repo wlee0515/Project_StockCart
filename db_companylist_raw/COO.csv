@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COO,The Cooper Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CTK,CooTek (Cayman) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TAP,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+AWSM,Cool Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+COOP,Mr. Cooper Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CTB,Cooper Tire & Rubber Company,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CPS,Cooper-Standard Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+WARM,Cool Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2308
+COBYX,The Cook & Bynum,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1935
+TAP-A,Molson Coors Brewing Company,Equity,United States,09:30,16:00,UTC-05,USD,0.1935

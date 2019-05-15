@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSMT,Osmotica Pharmaceuticals plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OSMAX,Oppenheimer International Small-Mid Co A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OSMYX,Oppenheimer International Small-Mid Co Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OSMNX,Oppenheimer International Small-Mid Co R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OSMCX,Oppenheimer International Small-Mid Co C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+7243.KLA,Bio Osmo Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5455
+ALOSM.PAR,Osmozis SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.3333

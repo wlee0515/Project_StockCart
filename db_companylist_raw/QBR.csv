@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QBR-B.TRT,Quebecor Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+QBR-A.TRT,Quebecor Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6000
+QBRA.TRT,QUEBECOR INC CLASS A MV,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455
+QBRB.TRT,QUEBECOR INC CLASS B SV,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5455

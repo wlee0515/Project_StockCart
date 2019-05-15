@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XPO,XPO Logistics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+XPO.PAR,XPO Logistics Europe SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+98N.FRK,XPO Logistics Europe SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455
+0M1O.LON,XPO Logistics Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5455
+98N.BER,XPO LOGIS.EUR.SA INH.EO 2,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5000
+UX2A.FRK,XPO Logistics Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2727
+UX2A.STG,XPO Logistics Inc. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2727
+XPOM11.SAO,Fundo Invest part Infra XP Omega I - Cotas Fund,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.2308
+XPOAA.PAR,XPOLOGISTIC20DEC20,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2143
+XPOAB.PAR,XPOLOGISTIC20DEC19,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2000

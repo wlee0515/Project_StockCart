@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JU13.LON,JPM BetaBuilders US TrsBd1-3 yrETFUSDAcc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395
+JG15.LON,JPM BetaBuilders UK Gilt 1-5 yrETFGBPInc,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.1395

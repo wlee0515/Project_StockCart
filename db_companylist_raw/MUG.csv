@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MUG.FRK,Mitsubishi Gas Chemical Company Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+3299.TOK,Mugen Estate Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.6667
+MUG.BER,MITSUBISHI GAS CHEMICAL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+MUGSP.MOS,Public Joint Stock Company Murmanskaya Combined Heat and Power Plant,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.5455
+MUGARDOSINVE.BCL,Mugardos Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+MUGURINVESTS.BCL,Mugur Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333
+MUGS.MOS,Public Joint Stock Company Murmanskaya Combined Heat and Power Plant,Equity,Moscow,10:00,18:45,UTC+03,RUB,0.2857
+F000001YOX.BCL,Mugur Invest SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2400
+F000001ZB3.BCL,Mugardos Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2069

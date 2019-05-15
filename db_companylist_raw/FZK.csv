@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FZKB.FRK,The9 Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+FZKB.BER,"THE9 LTD.ADR/3 DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+FZKB.MUN,"THE9 LTD.ADR/3 DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+FZKB.STG,The9 Ltd. Reg. Shares (ADRs)/3 ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

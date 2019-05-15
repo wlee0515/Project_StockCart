@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PNF,PIMCO New York Municipal Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PNFP,Pinnacle Financial Partners Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PNFTF,PetroNeft Resources plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+PNF.STG,PININFARINA S.P.A. Azioni nom. ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+PNF.FRK,Pininfarina S.p.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

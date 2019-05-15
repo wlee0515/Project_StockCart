@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKGI,Monaker Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MKGAF,MERCK Kommanditgesellschaft auf Aktien,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MKGCX,BlackRock Advantage Global K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MKGP,Maverick Energy Group Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MKG.AUS,Mako Gold Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XEFLX,Eaton Vance Floating-Rate 2022 ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEFTX,Eaton Vance Floating-Rate Incom,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEFFX,Eaton Vance Floating-Rate Incom,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEFRX,Eaton Vance Senior Floating Rat,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XEF.TRT,iShares Core MSCI EAFE IMI ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667

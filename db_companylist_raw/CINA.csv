@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CINAX,COLUMBIA INCOME OPPORTUNITIES P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+IT0001221693.MIL,Gestielle Obiettivo Cina,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.7273
+CINA.MIL,Lyxor China Enterprise (HSCEI) ETF Acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.4211
+F00000MQJK.MIL,Aviva E Azionario Cina,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3636
+F00000WRKR.MIL,Cnp E Azionario Cina,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3333
+F0GBR054HV.MIL,Gestielle Obiettivo Cina,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3077
+CINAMONINVES.BCL,Cinamon Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857
+CAC-P.TRV,Cinaport Acquisition Corp. III,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857
+F000001XY9.BCL,Cinamon Investment SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2857

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HREEF,Stans Energy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HRELF,Haier Electronics Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HRELY,Haier Electronics Group Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HREMX,Harbor Emerging Markets Equity Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HRES.TRT,Harvest Global Resource Leaders ETF Cl A,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+HRE.TRV,Stans Energy Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+HREN.SWI,Romande Energie Holding SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6000
+HRE.BER,HEATHERDALE RES,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+HREIT.BAK,Hemaraj Leasehold Real Estate Investment Trust,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BANC,Banc of California Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CBNK,Capital Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NYCB,New York Community Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+USB,U.S. Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HBAN,Huntington Bancshares Incorporated,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+SAN,"Banco Santander, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FITB,Fifth Third Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BMA,Banco Macro S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.3478
+PACW,PacWest Bancorp,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+ZION,"Zions Bancorporation, National Association",Equity,United States,09:30,16:00,UTC-05,USD,0.2500

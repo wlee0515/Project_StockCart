@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SKX,Skechers U.S.A. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKREF,Skeena Resources Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SKE.TRV,Skeena Resources Limited,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+0L73.LON,Skechers U.S.A. Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667
+RZK.BER,SKELLERUP HOLDINGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+SKE.BAK,Sakol Energy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+RXFB.STG,Skeena Resources Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2000

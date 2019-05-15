@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RDS-A,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TGODF,The Green Organic Dutchman Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RDS-B,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+TGOWF,The Green Organic Dutchman Holdings Ltd. WT EXP 022821,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+RYDAF,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DUTV,Digital Utilities Ventures Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DGRI,Dutch Gold Resources Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+DUTMX,Dupree Taxable Municipal Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+RYDBF,Royal Dutch Shell plc,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+KLMR,KLM Royal Dutch Airlines,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

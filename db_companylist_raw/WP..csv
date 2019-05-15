@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WP.TRV,Western Pacific Trust Company,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.8571
+WP.BAK,WP Energy Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7500

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BWA,BorgWarner Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BWAGF,BAWAG Group AG,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+BWAFX,AMG Managers Brandywine Advisors MC Gr N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BWAV,Betawave Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+12296.AUS,BWA Cash Management Trust,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.4000
+16945.AUS,BWA Cash Management Trust IDPS,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3333
+BWA0002AU.AUS,BWA Cash Management Trust IDPS,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2143
+BWACASHMANAG.AUS,BWA Cash Management Trust,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.1818

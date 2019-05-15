@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MQSP.FRK,Prize Mining Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MQSP.STG,Prize Mining Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

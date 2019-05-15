@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+U7MA.FRK,CNNC International Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667
+2302.HKG,CNNC International Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.2667
+002145.SHZ,CNNC Hua Yuan Titanium Dioxide Co. Ltd.,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1860

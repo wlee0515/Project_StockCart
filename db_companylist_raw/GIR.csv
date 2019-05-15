@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GIREX,Griffin Institutional Access Re,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRMX,Goldman Sachs Emerging Markets Eq Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRLX,Goldman Sachs Intl Sm Cp Insghts Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRPX,Goldman Sachs Em Mkts Eq Insghts Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRUX,Goldman Sachs Intl Real Estate Sec R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRTX,Goldman Sachs Intl Real Estate Sec Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRCX,Goldman Sachs Intl Real Estate Sec C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRGX,Goldman Sachs Blue Chip Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRNX,Goldman Sachs International Eq ESG Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+GIRDX,Goldman Sachs Total Emerg Mkts Inc Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

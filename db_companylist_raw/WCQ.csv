@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WCQ1.BER,"SINOFERT HLDGS  HD-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+WCQ1.MUN,"SINOFERT HLDGS  HD-,10",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+WCQ1.FRK,Sinofert Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+WCQ1.STG,Sinofert Holdings Ltd. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

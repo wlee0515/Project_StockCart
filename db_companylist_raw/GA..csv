@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+D5VL.BER,C-QUADRAT A.T.R. GA. VT A,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2143
+D5VL.DUS,C-QUADRAT A.T.R. GA. VT A,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2143
+D5VL.HAM,C-QUADRAT A.T.R. GA. VT A,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2143
+D5VL.MUN,C-QUADRAT A.T.R. GA. VT A,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2143

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MNOD.ILN,PJSC MMC NORILSK NICKEL ADR (10,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+MNOD.LON,Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7273
+MNOD.VIE,Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.7273

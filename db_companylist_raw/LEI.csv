@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDOS,Leidos Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+GLPI,Gaming and Leisure Properties Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RYLIX,Rydex Leisure Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FDLSX,Fidelity Select Leisure,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+PEJ,Invesco Dynamic Leisure and Entmnt ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+LEIFX,Federated Equity Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+AMLH,American Leisure Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+LACQ,Leisure Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+ANRRF,Ardent Leisure Group Limited Stapled Securities,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+LEIOX,Lazard Emerging Markets Income Open,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1200

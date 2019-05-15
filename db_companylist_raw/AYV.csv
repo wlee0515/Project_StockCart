@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AYV1.DUS,ASPEN GROUP UTS,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667
+AYV.SGP,Acma Ltd.,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.6667
+AYV1.FRK,Aspen Group Stapled Securities,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AYV1.BER,ASPEN GROUP UTS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+AYV1.HAM,ASPEN GROUP UTS,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000

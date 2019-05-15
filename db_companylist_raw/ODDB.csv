@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ODDB.BER,ATRIUM EUROPE.R.E.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+ODDB.DUS,ATRIUM EUROPE.R.E.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ODDB.STG,Atrium European Real Estat.LtdR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273
+ODDB.FRK,Atrium European Real Estate Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TSPG,TGI Solar Power Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TSPRX,Transamerica Small Cap Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSPYX,Touchstone International Growth Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSPTX,Transamerica Small Cap Growth I3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSPAAX,ADT 1887 Transformers Strategy ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TSPFX,Transamerica Small Cap Growth R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TSPACX,ADT 1898 Transformers Strategy ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TSPABX,ADT 1882 Transformers Strategy ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+TSPC.JKT,PT Tempo Scan Pacific Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.6000

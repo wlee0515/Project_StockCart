@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UKXA.FRK,Totally plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+UKXA.BER,"TOTALLY PLC  LS -,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+UKXA.STG,Totally PLC Registered Shares L,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

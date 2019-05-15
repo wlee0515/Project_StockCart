@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WOSB.DUS,WOLTERS KLUWER NAM. EO-12,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.8000
+WOSB.HAM,WOLTERS KLUWER NAM. EO-12,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.7273
+WOSB.FRK,Wolters Kluwer N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+WOSB.BER,WOLTERS KLUWER NAM. EO-12,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+WOSB.MUN,WOLTERS KLUWER NAM. EO-12,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+WOSB.STG,Wolters Kluwer N.V. Aandelen op,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

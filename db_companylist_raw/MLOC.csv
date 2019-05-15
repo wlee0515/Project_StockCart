@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MLOCX,Cohen & Steers MLP & Energy Opp C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+MLOCT.PAR,Octopus Robots SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667

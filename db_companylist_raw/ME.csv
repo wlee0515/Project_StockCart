@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MOGU,Meili Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+MESA,Mesa Air Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MRK,Merck & Co. Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+MMNFF,MedMen Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MDT,Medtronic plc,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+MJNA,Medical Marijuana Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MET,MetLife Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MEET,The Meet Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MLNX,Mellanox Technologies Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MTOR,Meritor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XHS,SPDR S&P Health Care Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+XHSB.FRK,HomeServe plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+XHSB.DUS,"HOMESERVE  LS-,0269230769",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+XHSB.STG,"Homeserve PLC Reg. Sh. LS -,026",Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+XHSB.BER,"HOMESERVE  LS-,0269230769",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

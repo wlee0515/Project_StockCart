@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KIRAX,Salient Global Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+KMTR.JKT,PT Kirana Megatara Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.3636
+FR0012020741.PAR,Kirao Multicaps AC,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3636
+FR0012020774.PAR,Kirao Multicaps Alpha,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3200
+7173.TOK,Tokyo Kiraboshi Financial Group Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2500
+KKCL.BSE,Kewal Kiran Clothing Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1951

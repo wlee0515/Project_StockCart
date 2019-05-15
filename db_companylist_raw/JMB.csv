@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JMBS,Janus Henderson Mortgage-Backed Sec ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+JMBUX,JPMorgan Mortgage-Backed Securities R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMBAX,JHancock Short Duration Credit Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMBRX,JPMorgan SmartRetirement Blend 2045 R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMBIX,JHancock Short Duration Credit Opps I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JMBCX,JHancock Short Duration Credit Opps C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

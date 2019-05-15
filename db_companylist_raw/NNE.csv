@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NNED.AMS,NN EUR DEELN F -P,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+NNEN.AMS,NN Paraplufonds 1 N.V. - NN Energy Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.6000
+NNEEF.AMS,NN Paraplufonds 1 N.V. - NN Emerging Europe Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+NNEOF.AMS,ING Euro Obligatie Fonds,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+NNESC.AMS,NN Paraplufonds 1 N.V. - NN Europe Small Caps Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+NNEUF.AMS,NN Paraplufonds 1 N.V. - NN Europe Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455
+NNESA.AMS,NN EISE Fund A P,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWYNX,Schwab Target 2060 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYDF,Stornoway Diamond Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYEX,Schwab Target 2030 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYMX,Schwab Target 2050 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYGX,Schwab Target 2040 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYHX,Schwab Target 2045 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYFX,Schwab Target 2035 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYLX,Schwab Target 2020 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYDX,Schwab Target 2025 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SWYBX,Schwab Target 2015 Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

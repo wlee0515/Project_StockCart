@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SSTI,ShotSpotter Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSTK,Shutterstock Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSTT,SStartrade Tech Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SSTVX,Wells Fargo Short-Term Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SSTFX,Virtus KAR Capital Growth C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SSTGX,DWS High Conviction Global Bond S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSTU,Sandy Steele Unlimited Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSTY,Sure Trace Security Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SSTTX,State Street Total Return V.I.S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SSTRF,Silverstar Holdings Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500

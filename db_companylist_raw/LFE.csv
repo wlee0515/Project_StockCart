@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7170.KLA,LFE Corp. Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.8571
+LFER,Life On Earth Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LFEQ,VanEck Vectors NDR CMG Lg/FlatAllc ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+LFEIX,Federated Equity Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFECX,MFS Lifetime 2035 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFEAX,MFS Lifetime 2035 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LFEUX,MFS Lifetime 2035 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3750

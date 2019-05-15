@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SEWIX,Guggenheim World Equity Income I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SEW.TRV,Seaway Energy Services Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+603337.SHH,Jack Sewing Machine Co. Ltd..,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.7500
+SEW.MUN,SEMPERIT AG HLDG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+SEW.STG,SEMPERIT AG HOLDING Inhaber-Akt,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+EYP.FRK,Athens Water Supply and Sewerage Company S.A.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2500
+SEW.FRK,Semperit Aktiengesellschaft Holding,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1935
+6262.TOK,Pegasus Sewing Machine Mfg. Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1500

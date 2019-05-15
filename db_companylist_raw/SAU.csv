@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFS,Saul Centers Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FLSA,Franklin FTSE Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SAUC,Diversified Restaurant Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KSA,iShares MSCI Saudi Arabia ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+SENY,Sauer Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SAUPX,Principal SAM Flexible Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SAUAX,State Farm LifePath 2040 Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+SAUIX,State Farm LifePath 2040 Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+SAUNF,AusNet Services Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SAUMX,SA US Small Company Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

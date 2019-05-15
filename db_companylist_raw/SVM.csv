@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SVM,Silvercorp Metals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SVMK,SVMK Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SVMMF,Silver Mountain Mines Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVMCX,Columbia Select Small Cap Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SVMRF,Magnora ASA,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SVM.TRT,Silvercorp Metals Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7500
+SVM.LON,SVM UK Emerging Fund Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SVM.AUS,Sovereign Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SVM.FRK,SOVEREIGN METALS LTD,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SVM.BER,SOVEREIGN METALS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GOOD.JKT,PT Garudafood Putra Putri Jaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+DUCK.JKT,PT Jaya Bersama Indo Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.5455
+SHID.JKT,PT Hotel Sahid Jaya International Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2857
+JKON.JKT,PT Jaya Konstruksi Manggala Pratama Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2667
+JRPT.JKT,"PT Jaya Real Property, Tbk.",Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2581
+ANJT.JKT,PT Austindo Nusantara Jaya Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2581
+4383.KLA,Jaya Tiasa Holdings Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2353
+BIKA.JKT,PT Binakarya Jaya Abadi Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.2105
+JAWA.JKT,PT Jaya Agra Wattie Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1951
+PJAA.JKT,PT Pembangunan Jaya Ancol Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.1860

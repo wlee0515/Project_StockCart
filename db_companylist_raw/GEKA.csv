@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GEKA.BER,GENOMMA LAB INT. FIN. B,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.8000
+GEKA.FRK,"Genomma Lab Internacional, S.A.B. de C.V.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273

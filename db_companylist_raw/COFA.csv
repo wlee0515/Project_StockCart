@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+COFA.PAR,COFACE SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7273
+65C.FRK,COFACE SA,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6154
+65C.MUN,COFACE S.A. INH. EO 2,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6154
+65C.STG,Coface SA,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+0QVK.ILN,COFACE SA COFACE ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3200
+CFCF9.PAR,COFACE        JAN9,Equity,Paris,09:00,17:30,UTC+01,EUR,0.2857

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGJIX,MassMutual Select BlackRock Glbl Allc I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGJAX,MassMutual Select BlackRock Glbl Allc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGJFX,MassMutual Select BlackRock Glbl Allc R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGJRX,MassMutual Select BlackRock Glbl Allc R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MGJ.BER,MORGAN ADVANCED MAT.LS-25,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MGJ.MUN,MORGAN ADVANCED MAT.LS-25,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MGJUBILACINO.BCL,MG Lierde Plan de Pensiones Bolsa PP,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.3333

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVLIX,Touchstone Value Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+TVLAX,Touchstone Value A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVLYX,Touchstone Value Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVLCX,Touchstone Value C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVLF,Tennessee Valley Financial Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TVL.STG,Travelsky Technology Ltd. Regis,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7500
+TVL.TRV,Traverse Energy Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+TVL.FRK,TravelSky Technology Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+TVL.MUN,TRAVELSKY TECHNOLOGY HYC1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+TVLY.PAR,Tivoly S.A.,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6000

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F000001YDJ.BCL,Inversiones Jomanel SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+ES0155495031.BCL,Inversiones Jomanel SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759
+JOMARJANAINV.BCL,Jomarjana Inversiones 2006 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2759

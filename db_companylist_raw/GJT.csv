@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+GJTL.JKT,PT. Gajah Tunggal Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+GJT.BER,GLANCE TECHNOLOGIES O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+GJT.MUN,GLANCE TECHNOLOGIES O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+GJT.FRK,Glance Technologies Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+GJT.STG,Glance Technologies Inc. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+512520.SHH,Huatai-PB MSCI China A GJT ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.2222
+512280.SHH,IGW MSCI China A GJT ETF,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1818

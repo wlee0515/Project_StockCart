@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SNDX,Syndax Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LSYN,Liberated Syndication Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SYNDIBANK.NSE,Syndicate Bank,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+BC8.AUS,Black Cat Syndicate Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+SMD.AUS,Syndicated Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4000
+11771.AUS,Bentham Syndicated Loan,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.3077
+CSA0046AU.AUS,Bentham Syndicated Loan Fund,Mutual Fund,Australia,10:00,16:00,UTC+11,AUD,0.2963
+SNP.BAK,S&P Syndicate Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2581
+SPORT.BAK,Siam Sport Syndicate Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2500
+514378.BSE,Yarn Syndicate Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1702

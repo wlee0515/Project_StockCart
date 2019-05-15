@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FONBILBAOGLO.BCL,Fonbilbao Global 50 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6667
+FONBUSAFONDO.BCL,Fonbusa Fondos FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5714
+FONBNMM0A.MEX,FONBNM M0-A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FONBNMM3A.MEX,FONBNM M3-A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FONBNMA.MEX,FONBNM A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FONBNMB0E.MEX,Fondo de Inversiones Banamex SA de CV S.I.R.V.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FONBNMB3A.MEX,FONBNM B3-A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FONBNMC0A.MEX,FONBNM C0-A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FONBNMC0C.MEX,FONBNM C0-C,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4211
+FONBUSAFI.BCL,Fonbusa FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211

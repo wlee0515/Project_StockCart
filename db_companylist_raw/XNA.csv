@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XNADX,Nuveen Quality Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNANX,Nuveen New York Quality Municip,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNAZX,Nuveen Arizona Quality Municipa,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNAFX,CC Real Estate Income Fund Clas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNACX,Nuveen California Quality Munic,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+F00000MPEL.LON,Threadneedle Amer Sm Cos XNA USD,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.2143
+F00000WLN6.LON,Threadneedle Pan European Focus XNA GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1714
+F00000WZI5.LON,Threadneedle UK Absolute Alpha XNA GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1463
+GB00B0ZWYR59.LON,Threadneedle Amer XNA GBP,Mutual Fund,United Kingdom,08:00,16:30,UTC+00,GBP,0.1429

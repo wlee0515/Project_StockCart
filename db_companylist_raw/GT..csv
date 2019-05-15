@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GT.MEX,The Goodyear Tire & Rubber Company,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.7500
+GT.SWI,The Goodyear Tire & Rubber Company,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500

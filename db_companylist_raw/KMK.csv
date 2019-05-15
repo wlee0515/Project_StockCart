@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMKAX,Kinetics Market Opportunities Adv A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KMKNX,Kinetics Market Opportunities No Load,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KMKYX,Kinetics Market Opportunities Inst,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KMKCX,Kinetics Market Opportunities Adv C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KMK.LON,Kromek Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+KMK.BER,KINGMAKER FOOT.HLDG.HD-10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+KMK.STG,KINGMAKER FOOTWEAR HLDGS LTD. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

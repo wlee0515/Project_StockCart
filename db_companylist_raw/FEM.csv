@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FEM,First Trust Emerging Mrkts AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FEMKX,Fidelity Emerging Markets,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FEMS,First Trust Emerg Mkts SC AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+FEMEX,Fidelity EMEA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEMGX,Templeton Emerging Markets Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+COCSF,"Coca-Cola FEMSA, S.A.B. de C.V.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FEMDX,Franklin Emerging Market Debt Opps,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FEMB,First Trust Emerging Mkts Lcl Ccy Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.3333
+FEMSX,Fidelity Series Emerging Markets Opps,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

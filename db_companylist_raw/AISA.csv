@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7283.TOK,Aisan Industry Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2857
+4667.TOK,Aisan Technology Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2667
+F00000THH4.KOR,MiraeAsset Aisa Pecific Consumer Equity_N230,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.2105
+KRL34000BI66.KOR,MiraeAsset Aisa Pecific Consumer Equity_N230,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1667

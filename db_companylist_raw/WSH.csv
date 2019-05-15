@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WSHE,GreenLink International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WSHFX,American Funds Washington Mutual F1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSHCX,American Funds Washington Mutual C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSHNX,Weitz Short Duration Income Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+WSHYX,Wasmer Schroeder High Yield Muni Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

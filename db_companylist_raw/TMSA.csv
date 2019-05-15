@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TMSA.FRK,Transatlantic Mining Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+TMSA.MUN,TRANSATLANTIC MINING CORP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273

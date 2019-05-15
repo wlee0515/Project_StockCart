@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7152.KLA,Jaycorp Berhad,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6667
+YAIK.KLA,JAYCORP BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5333
+JAYCH.BSE,Jayshree Chemicals Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+JAYCARINVERS.BCL,Jaycar Inversiones Financieras SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F00000TUC5.BCL,Jaycar Inversiones Financieras SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2000

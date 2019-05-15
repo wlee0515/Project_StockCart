@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VAO.FRK,Vapiano SE,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7500
+VAO.HAM,VAPIANO SE  INH. O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+VAO.FRK,Vapiano SE,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+VAO.BER,VAPIANO SE  INH. O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+VAO.MUN,VAPIANO SE  INH. O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+VAO.STG,Vapiano SE Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+VAO.SWI,Vapiano SE,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.6667
+VAO.DUS,VAPIANO SE  INH. O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6667

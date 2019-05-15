@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YECO,Yulong Eco-Materials Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+YECOF,Yulong Eco-Materials Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+YEC.FRK,YASKAWA Electric Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+YEC.MUN,YASKAWA EL. CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+YEC.STG,YASKAWA ELECTRIC CORP. Register,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+601388.SHH,Yechiu Metal Recycling (China) Ltd.,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.1579
+KR5233A98402.KOR,Consus Yecheon Sewer Pipe Private Special Asset Loan Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.1250
+F00000O1MY.KOR,Consus Yecheon Sewer Pipe Private Special Asset Loan Bond 1,Mutual Fund,Korea,09:00,15:30,UTC+09,KRW,0.0968

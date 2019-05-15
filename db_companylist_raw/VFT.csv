@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VFTSX,Vanguard FTSE Social Index Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFTNX,Vanguard FTSE Social Index I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VFTRX,Voya Target Retirement 2020 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EKLD.PAR,BNPP Easy MSCI KLD 400 US SRI ETF,ETF,Paris,09:00,17:30,UTC+01,EUR,0.7273
+EKLD.FRK,BNPP Easy MSCI KLD 400 US SRI ETF,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.7273

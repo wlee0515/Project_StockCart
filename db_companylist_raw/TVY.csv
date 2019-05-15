@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVY.STG,Tivoly S.A.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+TVY0.ARG,TVY0.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.6000
+TVY0D.ARG,TVY0D.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

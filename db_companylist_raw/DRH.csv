@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DRH,DiamondRock Hospitality Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DRH.FRK,DroneShield Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+GAHU.PAR,Amundi IS Barclays Glb AGG 500M ETF DRH$,ETF,Paris,09:00,17:30,UTC+01,EUR,0.4286
+DRHABEEB.BSE,Dr Habeebullah Life Sciences Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2000

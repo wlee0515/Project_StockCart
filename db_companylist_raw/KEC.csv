@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+006200.KOR,KEC Holdings Co. Ltd.,Equity,Korea,09:00,15:30,UTC+09,KRW,0.7500
+KCKSF,Keck Seng Investments (Hong Kong) Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+0184.HKG,Keck Seng Investments (Hong Kong) Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.6667
+KEC.NSE,KEC International Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+KEC.FRK,Keck Seng Investments (Hong Kong) Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+KECL.NSE,Kirloskar Electric Company Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.5000
+KEC.BSE,KEC International Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3000
+KSMS.KLA,KECK SENG (M) BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2400
+KEC.STG,KECK SENG INVEST. (HK) LTD. Reg,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2400
+3476.KLA,Keck Seng Malaysia Bhd,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.2000

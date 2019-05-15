@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGZ,Principal Real Estate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+PGZ.TRV,Pan Global Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+PGZ.DUS,HEALIUS LTD,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+PGZ.FRK,Healius Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+PGZ.STG,Healius Ltd. Registered Shares ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667

@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PKW,Invesco BuyBack Achievers ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+PKWY,Parkway Bank,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PKW.FRK,Polyplex (Thailand) Public Company Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+PKW.MUN,POLYPLEX (TH) -FGN-  BA1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+PKW.STG,Polyplex (Thailand) PCL Reg. Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+PKW.BER,POLYPLEX (TH) -FGN-  BA1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

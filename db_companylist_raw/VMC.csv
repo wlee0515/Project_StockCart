@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMC,Vulcan Materials Company,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+VMCIX,Vanguard Mid Cap Index Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+VMCPX,Vanguard Mid Cap Index InstitutionalPlus,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMCS,VisualMED Clinical Solutions Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+VMCTX,Vanguard Mega Cap Index Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMCCX,Virtus KAR Mid-Cap Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMCVX,VALIC Company II Mid Cap Value,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMCRX,Voya MidCap Opportunities Port R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+VMC.BER,VULCAN MATERIALS CO  DL 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

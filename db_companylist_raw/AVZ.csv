@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AZZVF,AVZ MINERALS LTD,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AVZ.AUS,AVZ Minerals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.5000
+3A2.FRK,AVZ Minerals Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3000
+3A2.BER,AVZ MINERALS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2609
+3A2.HAM,AVZ Minerals Limited,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2609
+3A2.STG,AVZ Minerals Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

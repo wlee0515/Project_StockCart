@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAVBMX1A.MEX,SIEFORE Banamex de Aportaciones Voluntarias SA de CV S.I.E.F.R.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+SAVBMX1B.MEX,SAVBMX1 B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+SAVBMX2A.MEX,SIEFORE Banamex de Aportaciones Voluntarias Plus SA de CV S.I.E.F.R.,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+SAVBMX2B.MEX,SAVBMX2 B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+F00000JZKU.MEX,SAVBMX1 B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+F00000JZKW.MEX,SAVBMX2 B,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333

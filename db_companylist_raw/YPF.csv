@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YPF,YPF Sociedad Anonima,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+YPFD.ARG,YPF Sociedad Anonima,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.7500
+YPFN.MEX,YPF Sociedad Anonima,Equity,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+YPF.FRK,YPF Sociedad Anonima,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+YPF.BER,YPF D AP 10 SP.ADR/1 AP10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+YPF.STG,YPF S.A. Reg. Shs D (Spons.ADRs,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+YPCUO.ARG,YPF Sociedad Anonima 8.75% SNR NTS 04/04/2024 USD1000 'REGS',Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3636
+YCAEO.ARG,YPF SA FRN 03/2021 ARS1,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3636
+YPCRO.ARG,YPF SA 8.875% SNR MTN 19/12/18 ,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.3636
+YPCVO.ARG,YPF SA FRN SNR 03/2020 ARS1 'XX,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.2308

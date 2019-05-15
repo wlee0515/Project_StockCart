@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OPMZ,1PM Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPMSX,Oppenheimer Main Street Mid Cap A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+OPMG,Options Media Group Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+OPMYX,Oppenheimer Main Street Mid Cap Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPMC,Optimum Care Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+OPMCX,Oppenheimer Main Street Mid Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPMNX,Oppenheimer Main Street Mid Cap R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPMIX,Oppenheimer Main Street Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+OPM.LON,1pm PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

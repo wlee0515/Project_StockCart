@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XNCR,Xencor Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+XNCVX,AllianzGI Convertible & Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNCFX,CC Real Estate Income Fund Clas,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNCZX,AllianzGI Convertible & Income ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNCMX,Nuveen California AMT-Free Qual,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNCAX,Nuveen California Municipal Val,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNCBX,Nuveen California Municipal Val,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XNC4O.ARG,XNC4O.BA,Equity,Argentina,11:00,17:00,UTC-03,ARS,0.5455

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IX,ORIX Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+IXT.AUS,IXT Ltd,Equity,Australia,10:00,16:00,UTC+11,AUD,0.8000
+IXUS,iShares Core MSCI Total Intl Stk ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IXC,iShares Global Energy ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IXN,iShares Global Tech ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IXJ,iShares Global Healthcare ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+IXP,iShares Global Comm Services ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+IXG,iShares Global Financials ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000

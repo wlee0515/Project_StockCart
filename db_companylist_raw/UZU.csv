@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UZU.DUS,UZIN UTZ AG O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+UZU.FRK,Uzin Utz AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UZU.BER,UZIN UTZ AG O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UZU.FRK,Uzin Utz AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+UZU.STG,UZIN UTZ AG Inhaber-Aktien o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+UZU.HAM,UZIN UTZ AG O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667

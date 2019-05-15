@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FPL,First Trust New Opportunities MLP & Energy Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+FPLSF,5N Plus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FPLPY,Provident Financial plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FPLCX,FA 529 PORT 2019-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPLGKX,FT 5985: Balanced Income Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FPLDAX,FT 7316: Strategic Income Advan,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPLLX,FA 529 PORT 2034-CL C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPLNRX,FT 6691: U.S. Equity Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPLYBX,FT 7678: Content Leaders Portfo,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FPLBUX,FT 7290: Emerging Markets Stren,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

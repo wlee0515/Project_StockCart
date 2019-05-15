@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BZLFY,Bunzl plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BZLYF,Beazley plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BZLFF,Bunzl plc,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+BZLA.STG,Banco do Brasil S.A. Reg. Share,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+BZLA.FRK,BANCO DO BRASIL ADR 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+BZLI11.SAO,BRAZIL REALTY FDO,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.5000

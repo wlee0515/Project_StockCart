@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+0QRA.LON,Bufab AB (publ),Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4444
+29B.STG,Bufab AB Namn-Aktier o.N.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444
+29B.FRK,Bufab AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4211
+29B.BER,BUFAB AB  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759

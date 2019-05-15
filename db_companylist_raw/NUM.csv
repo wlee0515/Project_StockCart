@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NUM,Nuveen Michigan Quality Municip,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SNBR,Sleep Number Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUMD,Nu-Med Plus Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MSSV,Meso Numismatics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+NUMV,NuShares ESG Mid-Cap Value ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+NUMG,NuShares ESG Mid-Cap Growth ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2857
+QNCCF,Quantum Numbers Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+NIAPX,American Beacon Numrc IntgrtdAlpha Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NIAIX,American Beacon Numrc IntgrtdAlpha Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

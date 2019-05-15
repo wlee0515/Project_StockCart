@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KMT,Kennametal Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+KMTUY,Komatsu Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KMTUF,Komatsu Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KMTR.JKT,PT Kirana Megatara Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.7500
+KMC-H.TRV,KMT-Hansa Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+KMT.AUS,Kopore Metals Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6000
+KMT.TRV,Komet Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.4000

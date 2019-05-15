@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KBKCP,KBK Capital Trust I PFD TR 9.50%,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KBK.MUN,KUBOTEK CORP.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7500
+KBK.FRK,KUBOTEK Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667

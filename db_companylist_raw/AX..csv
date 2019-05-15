@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRUF.BER,AX.W.F.E.M.SH.D.B.ACAPEOH,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+XRUF.DUS,AX.W.F.E.M.SH.D.B.ACAPEOH,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000
+XRUF.MUN,AX.W.F.E.M.SH.D.B.ACAPEOH,ETF,Munich,08:00,20:00,UTC+01,EUR,0.4000

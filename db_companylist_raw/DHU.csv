@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DHUNINV.BSE,Dhunseri Investments Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.7500
+DHUNINV.NSE,Dhunseri Investments Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+DTIL-EQ.NSE,DHUNSERI TEA & IND,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+DPL.NSE,Dhunseri Petrochem Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+DTIL.NSE,DHUNSERI TEA & IND,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4615
+DHU.FRK,Assured Guaranty Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+DHU.MUN,"ASSURED GUARANTY  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2857
+DHU.STG,Assured Guaranty Ltd. Registere,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+DPL.BSE,Dhunseri Petrochem Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2222
+NDGL.NSE,Naga Dhunseri Group Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2000

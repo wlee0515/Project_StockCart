@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LPHRX,BlackRock LifePath Dyn 2045 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+LPHKX,BlackRock LifePath Dyn 2045 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPHM,Lee Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LPHIX,BlackRock LifePath Dyn 2045 Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPHAX,BlackRock LifePath Dyn 2045 Investor A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPHCX,BlackRock LifePath Dyn 2045 Investor C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LPH-R.BAK,Ladprao General Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+LPHL-L.TAV,Lapidoth-Heletz Limited Partnership,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.5455
+LPH.BAK,Ladprao General Hospital Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.5000

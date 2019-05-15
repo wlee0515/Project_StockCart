@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DB,Deutsche Bank Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+DKT,Deutsche Bank Contingent Capital Trust V TR PFD SEC 8.05%,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+DTEGY,Deutsche Telekom AG,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+KMM,Deutsche  Multi-Market Income T,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DXB,Deutsche Bank Contingent Capital Trust II TR PFD SEC 6.55%,Equity,United States,09:30,16:00,UTC-05,USD,0.3158
+DLAKY,Deutsche Lufthansa AG,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+KSM,Deutsche Strategic Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+KTF,Deutsche Municipal Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+KST,Deutsche Strategic Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1765
+DPSGY,Deutsche Post AG,Equity,United States,09:30,16:00,UTC-05,USD,0.1364

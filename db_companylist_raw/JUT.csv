@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JUTPX,JPMorgan SmartRetirement Blend 2030 R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JUTUX,JPMorgan SmartRetirement Blend 2030 R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+3157.TOK,JUTEC Holdings Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.5455
+I8O.BER,JUTAL OFF.OIL SRVCS HD-01,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4615
+3303.HKG,Jutal Offshore Oil Services Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.4000
+JUTHA.BAK,Jutha Maritime Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.2222
+526179.BSE,Ludlow Jute & Specialities Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2143
+JUTHA-R.BAK,Jutha Maritime Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.1622
+LUDLOWJUT.BSE,Ludlow Jute & Specialities Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.1579

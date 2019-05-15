@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NZW2.FRK,Molecular Templates Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+NZW2.BER,"MOLECULAR TEMPLAT.DL-,001",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+NZW2.STG,Molecular Templates Inc. Regist,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000

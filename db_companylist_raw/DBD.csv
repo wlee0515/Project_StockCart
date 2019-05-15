@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DBD,"Diebold Nixdorf, Incorporated",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DBDIF,Debut Diamonds Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DBD.FRK,"Diebold Nixdorf, Incorporated",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+DBD.BER,"DIEBOLD NIXDORF DL 1,25",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DBD.FRK,"Diebold Nixdorf, Incorporated",Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+DBD.STG,Diebold Nixdorf Inc. Registered,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+DBD-H.TRV,Darien Business Development Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+DBD.MUN,"DIEBOLD NIXDORF DL 1,25",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

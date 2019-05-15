@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EAD,Wells Fargo Advantage Funds - Wells Fargo Income Opportunities Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EADSY,Airbus SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EADSF,Airbus SE,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EADIX,Eaton Vance Tax-Managed Global Dividend Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EADOX,Eaton Vance Emerging Markets Dbt Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EADDX,Eaton Vance Multi-Strat Absolute Ret A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BGX.LON,Expat Asset Management Ead,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+EAD.FRK,Erlebnis Akademie AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+EAD.HAM,ERLEBNIS AKADEMIE AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2069

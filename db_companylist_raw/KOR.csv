@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KORS,Michael Kors Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KRNT,Kornit Digital Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EWY,iShares MSCI South Korea Capped ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+KOVR,Korver Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KFY,Korn/Ferry International,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+KEP,Korea Electric Power Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+KORU,Direxion Daily South Korea Bull 3X ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.4000
+KF,The Korea Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+MAKOX,Matthews Korea Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+KORP,American Century Dvrs Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1579

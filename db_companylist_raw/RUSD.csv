@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+F00000TWVH.PAR,H2O Multistrategies RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3478
+F00000V3RA.PAR,H2O Multibonds RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3478
+FR0011978204.PAR,H2O Multiequities RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077
+FR0011978238.PAR,H2O Multistrategies RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3077
+FR0011981836.PAR,H2O Multibonds RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+F00000V3QZ.PAR,H2O Multiequities RUSD,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UHS,Universal Health Services Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UHAL,AMERCO,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+UHT,Universal Health Realty Income Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+UHPIX,ProFunds UltraShort China Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+RGLG,UHF Logistics Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+UHYOX,USAA High Income Adviser,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+UHPSX,ProFunds UltraShort China Service,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+UHR.VSX,The Swatch Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.4444
+UHRN.SWI,The Swatch Group AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.3636
+U1D.FRK,Uhr.de AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1481

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+5XR.FRK,Xior Student Housing NV,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+XIOR.BRU,Xior Student Housing NV,Equity,Brussels,09:00,17:00,UTC+01,EUR,0.2500
+0RD8.LON,Xior Student Housing NV,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2308
+5XR.STG,Xior Student Housing N.V. Actio,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+300599.SHZ,"Guangdong Xiongsu Technology Group.,Ltd",Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1429

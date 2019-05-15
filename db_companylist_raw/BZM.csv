@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BZM,BlackRock Maryland Municipal Bond Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BZM.LON,Bellzone Mining plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TOO,Teekay Offshore Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+ITW,Illinois Tool Works Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TR,Tootsie Roll Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+TOO-PA,Teekay Offshore Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TOO-PB,Teekay Offshore Partners L.P. PFD UNIT SER B,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TOO-PE,Teekay Offshore Partners L.P.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+TOOD,Thermwood Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.4000
+ATSAF,ATS Automation Tooling Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+TOORX,T. Rowe Price Target 2050 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

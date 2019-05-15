@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NYVBX,Davis NY Venture B,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8889
+NYVB.BER,BANGKOK LAND -NVDR- BA 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+NYVB.MUN,BANGKOK LAND -NVDR- BA 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+NYVB.STG,Bangkok Land PCL Reg. Shs (NVDR,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

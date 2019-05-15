@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MDOMF,Mandom Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDOCX,Columbia Aggressive Track Ages ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+MDOUF,Maisons du Monde S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MDO.BER,"MCDONALDS CORP.  DL-,01",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+MDO.FRK,McDonald's Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+MDO.FRK,McDonald's Corporation,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+MDO.TRV,Manado Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+MDO.HAM,"MCDONALDS CORP.  DL-,01",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+MDO.MUN,"MCDONALDS CORP.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667

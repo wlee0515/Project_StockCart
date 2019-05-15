@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLW.BER,"HIGHLDS PACIFIC  KI-,40",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2400
+HLW.MUN,"HIGHLDS PACIFIC  KI-,40",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2400
+3465.TOK,Ki-Star Real Estate Co. Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2400
+OIS.BER,"OIL SEARCH LTD  KI-,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+OIS.DUS,"OIL SEARCH LTD  KI-,10",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308
+OIS.HAM,"OIL SEARCH LTD  KI-,10",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2308
+HLW.HAM,"HIGHLDS PACIFIC  KI-,40",Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2000

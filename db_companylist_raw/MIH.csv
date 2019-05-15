@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MIHI,Medical Innovation Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+MIHRX,MFS High Income R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+MIHL,Montague International Holding Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MIHDF,MISC Berhad,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+MIH.DUS,MITSUBISHI HEAVY,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7500
+MIH.MUN,MITSUBISHI HEAVY,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+MIH.STG,MITSUBISHI HEAVY IND. LTD. Regi,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+MIH.FRK,Mitsubishi Heavy Industries Ltd.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MIH.BER,MITSUBISHI HEAVY,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667

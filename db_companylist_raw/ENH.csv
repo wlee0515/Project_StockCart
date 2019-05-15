@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MINT,PIMCO Enhanced Short Maturity Active ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5000
+EOS,Eaton Vance Enhanced Equity Income Fund II,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+BDJ,BlackRock Enhanced Equity Dividend Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+CII,BlackRock Enhanced Capital and Income Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+GPM,Guggenheim Enhanced Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DSENX,DoubleLine Shiller Enhanced CAPE N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DSEEX,DoubleLine Shiller Enhanced CAPE I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FLVEX,Fidelity Large Cap Value Enhanced Index,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463
+EOI,Eaton Vance Enhanced Equity Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,0.1395
+BOE,BlackRock Enhanced Global Dividend Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.1176

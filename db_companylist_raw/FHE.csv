@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHEAX,Fidelity Advisor Real Estate A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHEIX,Fidelity Advisor Real Estate I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHECX,Fidelity Advisor Real Estate C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHESX,Federated Hermes SDG Engagement Eq Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHEEX,Fidelity Freedom Blnd 2015 K,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHEJVX,FT 6506: Strategic Dividend Plu,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHERIX,FT 7462: Brookmont Equity Divid,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHELPX,The First Trust Combined Series,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHETX,Fidelity Advisor Real Estate M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHEJX,First Investors Hedged US Eq Opps A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

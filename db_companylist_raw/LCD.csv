@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LCDX,Caliber Imaging & Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LCDRX,Lord Abbett Emerging Markets Corp Dbt R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDAX,Lord Abbett Emerging Markets Corp Dbt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDIX,Lord Abbett Emerging Markets Corp Dbt I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDSX,Lord Abbett Emerging Markets Corp Dbt R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDFX,Lord Abbett Emerging Markets Corp Dbt F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDTX,Lord Abbett Emerging Markets Corp Dbt R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDQX,Lord Abbett Emerging Markets Corp Dbt R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDOX,Lord Abbett Emerging Markets Corp Dbt F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LCDVX,Lord Abbett Emerging Markets Corp Dbt R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

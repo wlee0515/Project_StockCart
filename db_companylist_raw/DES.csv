@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DES,WisdomTree US SmallCap Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+TTD,The Trade Desk Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CDNS,Cadence Design Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WYND,Wyndham Destinations Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IMDZ,Immune Design Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+DXLG,Destination XL Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+DEST,Destination Maternity Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SIGM,Sigma Designs Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DESP,"Despegar.com, Corp.",Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+DSGX,The Descartes Systems Group Inc,Equity,United States,09:30,16:00,UTC-05,USD,0.2857

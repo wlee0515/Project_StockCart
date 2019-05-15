@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+GXP1.STG,GxP German Properties AG Inhabe,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+GXP1.FRK,GxP German Properties AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+GXP1.BER,GXP GERM.PROP.AG INH.O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+GXP1.FRK,GxP German Properties AG,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+GXP1.DUS,GXP GERM.PROP.AG INH.O.N.,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+GXP1.HAM,GXP GERM.PROP.AG INH.O.N.,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.6000
+GXP1.MUN,GXP GERM.PROP.AG INH.O.N.,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000

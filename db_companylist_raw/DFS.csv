@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFS,Discover Financial Services,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+DFSVX,DFA US Small Cap Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSTX,DFA US Small Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSIX,DFA US Sustainability Core 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSCX,DFA US Micro Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSMX,DFA Short Term Municipal Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSPX,DFA Intl Sustainability Core 1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSHX,DFA Selectively Hedged Global F/I I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSRX,Delaware Select Growth R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFSGX,DF Dent Small Cap Growth Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

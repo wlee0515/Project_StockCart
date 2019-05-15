@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FQAL,Fidelity Quality Factor ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+FQVLF,First Quantum Minerals Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FQVTF,Fevertree Drinks Plc,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+FQUAX,AMG FQ Long-Short Equity N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FQIFX,Fidelity Freedom Index 2025 Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FQFC,Fuquan Financial Company,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FQCC,Fuquan Capital Management Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+FQPSRX,FT 6303: Senior Loan and Divide,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+FQABX,Strategic Advisers Emg Mkts Fd of Fds N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+FQZPNX,FT 7341: Senior Loan Closed-End,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

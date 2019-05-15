@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EGRX,Eagle Pharmaceuticals Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EGRIX,Eaton Vance Glbl Macro Abs Ret Advtg I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRAF,Energy Resources of Australia Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRGF,Eagle Energy Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRKH,Entergy Arkansas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRKN,Entergy Arkansas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRKM,Entergy Arkansas Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRNF,China Evergrande Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRNY,China Evergrande Group,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+EGRCX,Eaton Vance Glbl Macro Abs Ret Advtg C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

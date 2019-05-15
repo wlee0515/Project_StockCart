@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DSM,Dreyfus Strategic Municipal Bond Fund Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+RDSMY,Koninklijke DSM N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSMGX,Touchstone International Growth Opps Ins,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSMLX,Touchstone Large Company Growth Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+KDSKF,Koninklijke DSM N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DSMFX,Destinations Small-Mid Cap Equity I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSMZX,Destinations Small-Mid Cap Equity Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DSM.AMS,Koninklijke DSM N.V.,Equity,Amsterdam,09:00,17:40,UTC+01,EUR,0.7500
+DSM.TRV,Deep-South Resources Inc.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.6667
+DSM.LON,Downing Strategic Micro-Cap Investment Trust PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.5000

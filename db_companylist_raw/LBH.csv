@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LBHIX,Thrivent High Yield S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHRF,NxGold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHYX,Thrivent High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHFX,BrandywineGLOBAL Global High Yield FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHAX,BrandywineGLOBAL Global High Yield A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHCX,BrandywineGLOBAL Global High Yield C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBHRX,BrandywineGLOBAL - Global High ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LBH.JOH,Liberty Holdings Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6667

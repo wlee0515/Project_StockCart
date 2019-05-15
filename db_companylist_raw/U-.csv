@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SWRL,U-Swirl Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.3077
+UBLXF,u-blox Holding AG,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+UBXN.SWI,u-blox Holding AG,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.2667
+3050.TWN,U-Tech Media Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2500
+3BG.FRK,u-blox Holding AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222
+2606.TWN,U-Ming Marine Transport Corporation,Equity,Taiwan,09:00,13:30,UTC+08,TWD,0.2105
+3BG.BER,"U-BLOX HOLDING NAM.SF-,90",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.1538
+3BG.STG,u-blox Holding AG Namens-Aktien,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.1481
+3BG.MUN,"U-BLOX HOLDING NAM.SF-,90",Equity,Munich,08:00,20:00,UTC+01,EUR,0.1212
+6985.TOK,U-Shin Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.1081

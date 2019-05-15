@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ZNAE,Zane Interactive Publishing Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+ZNNC,Zann Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+MSSZF,Massimo Zanetti Beverage Group S.p.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+MZB.MIL,Massimo Zanetti Beverage Group S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4444
+ZIOC.LON,Zanaga Iron Ore Company Limited,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4000
+ZNKL.TAV,Zanlakol Ltd,Equity,Tel Aviv,09:45,17:25,UTC+02,ILS,0.2500
+GIUV.HAM,ZANTKE EO CO.BDS AMI P(A),ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+6ZA.BER,ZANAGA IRON ORE CO.LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+6ZA.STG,Zanaga Iron Ore Company Ltd. Re,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2143

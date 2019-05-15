@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SGC,Superior Group of Companies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SGCP,Sierra Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SGCFX,Shelton Greater China,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGCAX,Wells Fargo California Tax-Free Admin,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SGC.LON,Stagecoach Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+SGC.TRV,Solstice Gold Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+SGC.AUS,Sacgasco Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+SGC.MIL,SG Company S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6667
+SGCC.FRK,DIFFERENCE CAP. FINL,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+SGCC.BER,DIFFERENCE CAP. FINL,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6000

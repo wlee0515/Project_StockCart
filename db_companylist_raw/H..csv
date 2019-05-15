@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUL,H.B. Fuller Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+HLUYY,H. Lundbeck A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HERC,H.E.R.C. Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HLUKF,H. Lundbeck A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+H.TRT,Hydro One Limited,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.3333
+HGINFRA.NSE,H.G. Infra Engineering Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.3333
+HB1.FRK,H.B. Fuller Company,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2857
+HB1.STG,H.B. FULLER CO. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+HCG.MUN,H.K. CHINA GAS,Equity,Munich,08:00,20:00,UTC+01,EUR,0.1905

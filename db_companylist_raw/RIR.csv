@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RIRGX,American Funds Capital Income Bldr R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRFX,American Funds Capital Income Bldr R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRBX,American Funds Capital Income Bldr R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRCX,American Funds Capital Income Bldr R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRAX,American Funds Capital Income Bldr R1,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIREX,American Funds Capital Income Bldr R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRHX,American Funds Capital Income Bldr R5E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RIRPX,American Funds Retire Inc Port-Enh R2E,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+511600.SHH,Huaan Ririxin Money Market Fund,Equity,Shanghai,09:30,15:00,UTC+08,CNY,0.7500
+RIR.FRK,Ricardo plc,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.1765

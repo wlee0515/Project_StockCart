@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SAN,"Banco Santander, S.A.",Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SGMO,Sangamo Therapeutics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+LVS,Las Vegas Sands Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SN,Sanchez Energy Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SAND,Sandstorm Gold Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SND,Smart Sand Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+SNY,Sanofi,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+SJT,San Juan Basin Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+PER,SandRidge Permian Trust,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+SNMP,Sanchez Midstream Partners LP,Equity,United States,09:30,16:00,UTC-05,USD,0.2308

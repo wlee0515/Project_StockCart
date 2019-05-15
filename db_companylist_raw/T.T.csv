@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+T.TRT,TELUS Corporation,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.8571
+TTL.BSE,T.T. Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4444
+TTL.NSE,T.T. Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4444
+514142.BSE,T.T. Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4000

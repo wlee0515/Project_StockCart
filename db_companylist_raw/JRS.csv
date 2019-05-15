@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JRS,Nuveen Real Estate Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+JRSH,Jerash Holdings (US) Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CMSA,CMS Energy Corporation 5.6% JRSUB NT 78,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSDX,Janus Henderson US Managed Volatility D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSTX,Janus Henderson US Managed Volatility T,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSAX,Janus Henderson US Managed Volatility A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSCX,Janus Henderson US Managed Volatility C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSIX,Janus Henderson US Managed Volatility I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSNX,Janus Henderson US Managed Volatility N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+JRSVX,James Alpha Relative Value Portfolio S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

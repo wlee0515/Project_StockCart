@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+P7T.STG,B.Pembangun.Daerah Jawa Timur R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+2PE.BER,B.PEMBA.DAE.J.B.D.B.RP250,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+BPM.LON,B.P. Marsh & Partners PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+B5V.BER,B.P. Marsh & Partners Plc,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222
+2PE.STG,B.Pembang.Daerah Jawa B.d.Ban.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

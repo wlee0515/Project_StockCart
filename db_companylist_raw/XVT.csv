@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XVTAX,Invesco Dynamic Credit Opportun,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XVTNX,Invesco Trust for Investment Gr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+XVTD.LON,X FTSE Vietnam Swap ETF 1C,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6667

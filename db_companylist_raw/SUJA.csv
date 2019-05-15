@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SUJA.LON,iShares IV Public Limited Company - iShares MSCI Japan SRI UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.8000
+SUJANAUNI.NSE,Sujana Universal Industries Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6154
+SUJANAUNI.BSE,Sujana Universal Industries Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+F0GBR06NFB.BCL,Suja 12 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.5000
+SUJA12SICAV.BCL,Suja 12 SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4706
+SUJALA.BSE,Sujala Trading & Holdings Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4706

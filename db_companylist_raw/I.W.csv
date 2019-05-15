@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+4IU1.DUS,I.WATER.RES,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4286
+P3WY.BER,I.WILD.P.EN.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+PWYF.BER,I.WILD.CL.E.,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.4000
+PWYF.DUS,I.WILD.CL.E.,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4000

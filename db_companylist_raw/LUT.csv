@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LBC,Luther Burbank Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+LUTCX,Columbia US Treasury Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LTGJ,Xiamen Lutong International Travel Agency Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+LUTAX,Columbia US Treasury Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6000
+FKL,FaithShares Lutheran Values Fun,ETF,United States,09:30,16:00,UTC-05,USD,0.6000
+LUTR.LON,SPDR Blmbrg Bcly 10+ Yr US Trs Bd ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.5714
+LUTR.MIL,SPDR BARCL 10+ Y US TREASURY UC,ETF,Milan,09:00,17:30,UTC+01,EUR,0.3333
+LUTR.SWI,SSgA SPDR ETFs Europe I Public Limited Company - SPDR Barclays 10+ Year U.S. Treasury Bond UCITS ETF,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.3333

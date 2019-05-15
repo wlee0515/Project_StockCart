@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NTDOY,Nintendo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDOF,Nintendo Co. Ltd.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDMF,NTT DOCOMO Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDTY,NTT DATA Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDAX,Nationwide Destination 2055 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDTX,Nationwide Destination 2055 R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDIX,Nationwide Destination 2055 R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDSX,Nationwide Destination 2055 Instl Svc,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+NTDCX,Nationwide Destination 2055 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

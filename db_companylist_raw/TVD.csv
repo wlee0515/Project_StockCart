@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TVDCX,Guggenheim RBP Large-Cap Defensive C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVDAX,Guggenheim RBP Large-Cap Defensive A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+TVD-R.BAK,TV Direct Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TVD.BAK,TV Direct Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+TVD6.FRK,Travel24.com AG,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+TVD6.DUS,TRAVEL24.COM AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+TVD6.STG,Travel24.com AG Inhaber-Aktien ,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+TVD6.BER,TRAVEL24.COM AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5455

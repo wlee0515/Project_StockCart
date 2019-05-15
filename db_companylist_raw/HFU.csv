@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HFU.TRT,BetaPro S&P/TSX Cap Fncl 2xDlyBull ETF,ETF,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HFU1.STG,Calidus Resources Limited,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+HFUSAS.SWI,UBS ETF HFRX Global HF SF USD A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

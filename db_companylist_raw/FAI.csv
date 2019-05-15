@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FUN,"Cedar Fair, L.P.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FICO,Fair Isaac Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FRFHF,Fairfax Financial Holdings Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FAIRX,Fairholme,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+ABMIX,AMG Managers Fairpointe Mid Cap I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+FFXDF,Fairfax India Holdings Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+FAIGX,Fidelity Advisor Balanced M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+CHTTX,AMG Managers Fairpointe Mid Cap N,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FAIOX,Fidelity Advisor Balanced I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+FAAFX,Fairholme Allocation,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1667

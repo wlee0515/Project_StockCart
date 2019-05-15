@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ANNSF,"Aena S.M.E., S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+A44.MUN,AENA SME S.A.  EO 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+A44.FRK,AENA SME S.A.  EO 10,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+A44.BER,AENA SME S.A.  EO 10,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.3333
+A44.DUS,AENA SME S.A.  EO 10,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.3333
+A44.HAN,AENA SME S.A.  EO 10,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.3333
+A44.HAM,AENA SME S.A.  EO 10,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.3333
+A44.STG,Aena SME S.A. Acciones Port. EO,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2857
+0R4Y.ILN,AENA SME SA AENA ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2286

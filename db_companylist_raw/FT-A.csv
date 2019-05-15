@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FT-ASIAB3.MEX,"Templeton Asian Growth Fund, S.A. de C.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6154
+FTASIAA.MEX,FT-ASIA A,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5714
+FTASIAB3.MEX,FT-ASIA B3,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5333
+FT-ASIAB2.MEX,"Templeton Asian Growth Fund, S.A. de C.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000
+FT-ASIAA.MEX,"Templeton Asian Growth Fund, S.A. de C.V.",Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.5000

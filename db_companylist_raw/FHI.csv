@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FHIGX,Fidelity Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHIFX,Fidelity Focused High Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHIRX,Franklin High Income R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHIIX,Federated High Income Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHIAX,Fidelity Advisor High Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+BNZIF,Fideicomiso Irrevocable F/2061 FHipo,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FHIMBX,FT 7481: Innovative Transaction,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FHICX,Federated High Income Bond C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHINGX,FT 6514: Richard Bernstein Advi,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FHIDX,FA 529 HIGH INCOME PORT-CL D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

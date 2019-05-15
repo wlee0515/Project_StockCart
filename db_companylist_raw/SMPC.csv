@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SMPC.BAK,Sahamitr Pressure Container Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.7273
+SMPC.KLA,ATTA GLOBAL GROUP BERHAD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+SMPC-R.BAK,Sahamitr Pressure Container Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6154

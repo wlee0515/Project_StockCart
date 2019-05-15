@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+XRT,SPDR S&P Retail ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8000
+XRX,Xerox Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XRAY,DENTSPLY SIRONA Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+XRF,China Rapid Finance Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+XRLV,Invesco S&P 500 ex-Rate Snsv LowVol ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.6667
+XROLF,Xero Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+XRIFX,RMR Real Estate Income Fund,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XRNPX,Cohen & Steers REIT and Preferr,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XRAIX,Brookfield Real Assets Income F,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+XRVTX,"Royce Value Trust,  Inc.",Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714

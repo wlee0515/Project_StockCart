@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THX.TRV,Thor Explorations Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+THX.AUS,Thundelarra Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.6667
+THXLE.AMS,Theta Fund Management - Legend Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFB,Stifel Financial Corporation 5.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SFBS,ServisFirst Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFBDX,State Farm Municipal Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SFBC,Sound Financial Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFBTF,SoftBank Technology Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFBE,Sino Bioenergy Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFBPX,Great-West SecureFoundation Bal ETF A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFBBX,State Farm Bond B Legacy,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFBIX,State Farm Bond Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFBAX,State Farm Bond Premier,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

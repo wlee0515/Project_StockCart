@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UQLTE.MIL,UBS ETF Fact MSCI USA Qual H EUR A acc,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5455
+UQLTE.SWI,UBS ETF Fact MSCI USA Qual H EUR A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UQLTD.MIL,UBS ETF Fact MSCI USA Qual USD A dis,ETF,Milan,09:00,17:30,UTC+01,EUR,0.5455
+UQLTD.SWI,UBS ETF Fact MSCI USA Qual USD A dis,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UQLTH.SWI,UBSETF Factor USA Q hdg GBP D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UQLTD-USD.SWI,UBSETF Factor Quality USD D,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5455
+UQLTS.SWI,UBS ETF Fact MSCI USA Qual H CHF A acc,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.4000

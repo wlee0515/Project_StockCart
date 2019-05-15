@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VUN.JOH,Vunani Limited,Equity,Johannesburg,09:00,17:00,UTC+02,ZAR,0.6000
+VUG.BER,VUNANI LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.5714

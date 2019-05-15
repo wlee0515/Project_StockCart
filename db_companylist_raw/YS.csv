@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YSYB,Yanglin Soybean Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YSTR,Ystrategies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+YSON.FRK,"Sonae, SGPS, S.A.",Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5714
+YSN.FRK,secunet Security Networks Aktiengesellschaft,Equity,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.5714
+YSPS.KLA,Y.S.P.SOUTHEAST ASIA HOLDING,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.5000
+YSL.BSE,The Yamuna Syndicate Ltd,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.5000
+YSVN.STG,Revolution Lighting Techn.Inc.R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.5000
+YST.FRK,TPG Telecom Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+YS0.FRK,YuanShengTai Dairy Farm Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444

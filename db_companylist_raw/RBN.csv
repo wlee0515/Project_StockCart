@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RBNC,Reliant Bancorp Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBNW,Renewable Energy and Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+RBNTX,American Funds 2060 Trgt Date Retire R2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RBNAX,Robinson Opportunistic Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RBNCX,Robinson Opportunistic Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RBNNX,Robinson Opportunistic Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+RBNWD,Renewable Energy and Power Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+RBN.LON,Robinson plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

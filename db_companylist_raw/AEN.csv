@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AENG,Advanced Engine Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ANNSF,"Aena S.M.E., S.A.",Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+AENEASPATRIM.BCL,Aeneas Patrimonium SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.6000
+A44.MUN,AENA SME S.A.  EO 10,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6000
+AEND.FRK,Aegon N.V.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+AEND.HAN,AEGON NV (DEMAT.)  EO-12,Equity,Hanover,08:00,20:00,UTC+01,EUR,0.6000
+AEND.HAM,AEGON NV (DEMAT.)  EO-12,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5000
+AEND.MUN,AEGON NV (DEMAT.)  EO-12,Equity,Munich,08:00,20:00,UTC+01,EUR,0.3333
+AEND.STG,AEGON N.V. Aandelen op naam(dem,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2609

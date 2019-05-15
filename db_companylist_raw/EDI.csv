@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EDI,Stone Harbor Emerging Markets Total Income Fund,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+EIX,Edison International,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ED,Consolidated Edison Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+EDIT,Editas Medicine Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+SCE-PB,Southern California Edison Company,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+SCE-PE,Southern California Edison Company PFD 4.78%,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+EDNT,Edison Nation Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.4444
+SCE-PC,Southern California Edison Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2222
+EDIV,SPDR S&P Emerging Markets Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.2222
+SCE-PD,Southern California Edison Company,Equity,United States,09:30,16:00,UTC-05,USD,0.2222

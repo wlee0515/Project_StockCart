@@ -1,0 +1,3 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IOECX,ICON Equity Income C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+IOEZX,ICON Equity Income S,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FFHHF,FFI Holdings PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFIV,F5 Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFIN,First Financial Bankshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FFIDX,Fidelity,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFIC,Flushing Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+FFICX,American Funds Invmt Co of Amer F3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFIZX,Fidelity Freedom Index 2040 Instl Prem,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFILX,FormulaFolios US Equity Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFIYX,AB FlexFee International Bond Advisor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FFIRX,Salient Global Real Estate Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000

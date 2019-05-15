@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WPHO.LON,Windar Photonics PLC,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+WPH.STG,Warehouses De Pauw S.C.A. Actio,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+WPH.BAK,Wattanapat Hospital Trang Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.6667
+WPH.FRK,Warehouses De Pauw,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+MWB.BER,MWB FAIRTRADE WPHDLSBK AG,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+MWB.DUS,MWB FAIRTRADE WPHDLSBK AG,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.4444
+MWB.HAM,MWB FAIRTRADE WPHDLSBK AG,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.2222
+MWB.MUN,MWB FAIRTRADE WPHDLSBK AG,Equity,Munich,08:00,20:00,UTC+01,EUR,0.2222
+MWB.STG,mwb fairtrade Wphdlsbank AG Inh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222
+WPH.BER,WAREHOUSES DE PAUW S.C.A.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2222

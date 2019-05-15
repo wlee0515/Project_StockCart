@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+OSXB3.SAO,OSX Brasil S.A.,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-02,BRL,0.6667
+OSXA.FRK,Ossiam World Minimum Var NR ETF 1C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6667
+OSX4.HAM,OSS.ISTX.EUR.MV.UC.ETF 1C,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.6667
+OSX6.FRK,Ossiam Lux - Ossiam Stoxx Europe 600 Equal Weight NR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OSX2.FRK,Ossiam US Minimum Var ESG NR ETF 1C EUR,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+OSX6.FRK,Ossiam STOXX Eur600 EqWg NR ETF 1C,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000
+OSXM.STG,OSS.Gl.Multi-Ass. Risk-ControlN,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+OSX2.FRK,Ossiam Lux - Ossiam US Minimum Variance NR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+OSX4.FRK,Ossiam Lux - Ossiam iStoxx Europe Minimum Variance NR,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

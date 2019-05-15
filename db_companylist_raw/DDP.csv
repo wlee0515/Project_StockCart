@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DDP,DB Commodity Short ETN,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DDPFB.AMS,Active Investor - DD Property Fund,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.7500
+DDP.FRK,Dampier Gold Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+DDP.BER,DAMPIER GOLD LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+DDP.HAM,Dampier Gold Limited,Equity,Hamburg,08:00,20:00,UTC+01,EUR,0.5455
+DDPFA.AMS,ActivInvestor Real Estate N.V.,Mutual Fund,Amsterdam,09:00,17:40,UTC+01,EUR,0.5455

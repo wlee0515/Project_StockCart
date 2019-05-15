@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BUJARADEINVE.BCL,Bujara de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+BUJARUELOCAP.BCL,Bujaruelo Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.4211
+F000001XVF.BCL,Bujara de Inversiones SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2963
+F00000WC2L.BCL,Bujaruelo Capital SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2581

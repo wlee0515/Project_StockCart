@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+DFE,WisdomTree Europe SmallCap Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+DFEN,Direxion Dly Aerospace&Def Bl 3X ShsETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+DFEOX,DFA US Core Equity 1 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+DFEVX,DFA Emerging Markets Value I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFEMX,DFA Emerging Markets I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFEQX,DFA Short-Term Extended Quality I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFELX,DFA Enhanced US Large Company I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFEL,China TMK Battery Systems Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+DFESX,DFA Emerging Markets Social Core Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+DFETX,DFA Emerging Markets II,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

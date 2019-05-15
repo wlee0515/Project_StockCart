@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HK9.BER,DOYEN INTL HLDGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2500
+0668.HKG,Doyen International Holdings Limited,Equity,Hong Kong,09:30,16:00,UTC+08,HKD,0.1538
+002793.SHZ,Zhejiang Doyin Pump Industry Co. Ltd..,Equity,Shenzhen,09:30,15:00,UTC+08,CNY,0.1500

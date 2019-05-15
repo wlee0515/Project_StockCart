@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FAD,First Trust Multi Cap Gr AlphaDEX ETF,ETF,United States,09:30,16:00,UTC-05,USD,1.0000
+FADMX,Fidelity Strategic Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADTX,Fidelity Advisor Technology A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADAX,Fidelity Advisor Dividend Growth A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADLX,Frost Low Duration Bond Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADIX,Fidelity Advisor Diversified Intl M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADVX,Frost Value Equity Investor,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADCX,Fidelity Advisor Diversified Intl C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FADPX,FA 529 PORT 2022-CL D,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

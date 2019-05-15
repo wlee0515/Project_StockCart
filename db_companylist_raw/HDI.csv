@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HDII,Hypertension Diagnostics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HDIUF,Hardwoods Distribution Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HDIH,H-D International Holdings Group,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HDIVX,Janus Henderson Dividend & Inc Builder I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HDIV,Russell High Dividend ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.7500
+HDIQF,ISHARES II PLC,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HDI.TRT,Hardwoods Distribution Inc.,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.6667
+HDIL.NSE,Housing Development and Infrastructure Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.6667
+HDIQ.LON,iShares II plc - iShares MSCI USA Quality Dividend UCITS ETF,ETF,United Kingdom,08:00,16:30,UTC+00,GBP,0.6000
+HDIL.BSE,Housing Development and Infrastructure Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.6000

@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YTMF08.AUS,THETAASSET ACBBOQF19,ETF,Australia,10:00,16:00,UTC+11,AUD,0.8000
+ACBB.FRK,Alpha Bank A.E.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7273
+ACBB.BER,"ALPHA BANK  EO -,30",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+ACBB.DUS,"ALPHA BANK  EO -,30",Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.7273
+ACBB.KLA,PARKSON HOLDINGS BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.7273
+ACBB.MUN,"ALPHA BANK  EO -,30",Equity,Munich,08:00,20:00,UTC+01,EUR,0.7273
+ACBB.STG,Alpha Bank A.E. Namens-Aktien E,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3333

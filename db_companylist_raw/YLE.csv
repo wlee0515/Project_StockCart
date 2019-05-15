@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+YLEE.KLA,YEE LEE CORPORATION BHD,Equity,Malaysia,09:00,17:00,UTC+08,MYR,0.6000
+YKK.BER,"YLEISELEKTR.PREF. EO 0,85",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+YKK.STG,YLEISELEKTRONIIKKA OYJ Reg. Pre,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2222

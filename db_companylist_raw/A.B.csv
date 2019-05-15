@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+A.BAK,Areeya Property Public Company Limited,Equity,Thailand,10:00,16:30,UTC+07,THB,0.8571
+9PF.BER,PREMIER FISHING A.BRANDS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4444
+WTDQ.FRK,WISDOMTR.EO A.BD E.Y.EADZ,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.2222

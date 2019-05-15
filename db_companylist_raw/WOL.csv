@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+WWW,Wolverine World Wide Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+WTKWY,Wolters Kluwer N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WLFDY,Wolford Aktiengesellschaft,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+WOLTF,Wolters Kluwer N.V.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WOLWF,Woolworths Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+WOLV,Wolverine Technologies Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.3333
+WLFFF,Wolfden Resources Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.2727
+DWAIX,Destra Wolverine Dynamic Asset I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DWAAX,Destra Wolverine Dynamic Asset A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+DWACX,Destra Wolverine Dynamic Asset C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500

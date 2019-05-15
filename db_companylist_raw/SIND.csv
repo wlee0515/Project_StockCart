@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MGNS.LON,Morgan Sindall Group plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.4706
+PSB.BSE,Punjab & Sind Bank,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.4211
+PSB.NSE,Punjab & Sind Bank,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.4000
+029530.KOR,Sindoh Co. Ltd..,Equity,Korea,09:00,15:30,UTC+09,KRW,0.3636
+505504.BSE,SINDU VALLEY TECHNOLOGIES LTD.,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3529
+APOLSINHOT.NSE,Apollo Sindoori Hotels Limited,Equity,India/NSE,09:15,15:30,UTC+5.5,INR,0.2857
+SINDHUTRAD.BSE,Sindhu Trade Links Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.2353

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HYG,iShares iBoxx $ High Yield Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+LQD,iShares iBoxx $ Invmt Grade Corp Bd ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.8571
+IBOC,International Bancshares Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDK,iShares iBonds Dec 2019 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDM,iShares iBonds Dec 2021 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDO,iShares iBonds Dec 2023 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDN,iShares iBonds Dec 2022 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDR,iShares iBonds Dec 2026 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.5714
+IBDL,iShares iBonds Dec 2020 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1463
+IBDH,iShares iBonds Dec 2018 Term Corp ETF,ETF,United States,09:30,16:00,UTC-05,USD,0.1429

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UFFRF,"Unifin Financiera, S.A.B. de C.V., SOFOM, E.N.R.",Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+UFF.PAR,Union Financiere de France Banque SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.6667
+FR0010361139.PAR,UFF Emergence C,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3333
+FR0012900991.PAR,UFF Actions France A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3158
+FR0007022124.PAR,UFF Cap Diversifi?,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3000
+FR0007022132.PAR,UFF Cap D?fensif,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2857
+FR0007037890.PAR,UFF Croissance PME A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2609
+FR0007387543.PAR,UFF Euro-Valeur X A/I,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2609
+FR0007437090.PAR,UFF Euro Valeur A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2500
+FR0007437124.PAR,UFF Global Allocation A,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.2308

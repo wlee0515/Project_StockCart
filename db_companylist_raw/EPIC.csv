@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+EPOR,Epic Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+EPSC,Epic Stores Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8000
+EPICX,Eventide Limited-Term Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+EPORP,Epic Corp. 5% PFD CNV SER A,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+5MQ.SGP,Epicentre Holdings Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.4444
+FV2F.HAM,THR.L.-GL FOCUS EPIC AEH,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2963
+6A5.BER,EPICENTRE HOLDINGS LTD.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+EPIC.LON,Ediston Property Investment Company,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2667
+6A5.FRK,Epicentre Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2667

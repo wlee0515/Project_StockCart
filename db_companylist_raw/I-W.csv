@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+IWMG,I-Wellness Marketing Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+P5UN.BER,CONCEPT I-W+P EUR.BAL.P,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.2308
+P5UN.HAM,CONCEPT I-W+P EUR.BAL.P,ETF,Hamburg,08:00,20:00,UTC+01,EUR,0.2308
+P5UN.MUN,CONCEPT I-W+P EUR.BAL.P,ETF,Munich,08:00,20:00,UTC+01,EUR,0.2308
+P5UN.DUS,CONCEPT I-W+P EUR.BAL.P,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2308

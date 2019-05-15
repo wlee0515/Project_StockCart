@@ -1,0 +1,8 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+KCCFF,Kutcho Copper Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+KUTG,KULR Technology Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+KC.TRV,Kutcho Copper Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.3333
+KUT.TRV,RediShred Capital Corp.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.2857
+ES0157023039.BCL,Kutxabank Renta Fija LP Est?ndar FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2727
+ES0166968000.BCL,Kutxabank Garantizado Bolsa 2020 FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1579
+KUTXABANKFON.BCL,Kutxabank Fondo Solidario FI,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.1579

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BFET,BFE Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SUR2058BFE.MEX,SUR2058 BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+SURCETEBFE.MEX,SURCETE BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+SUR2018BFE.MEX,SUR2018 BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.6667
+SURIPCBFE.MEX,SURIPC BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+SURV10BFE.MEX,SURV10 BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4615
+SUR2034BFE.MEX,SUR2034 BFE,Mutual Fund,Mexico,08:30,15:00,UTC-06,MXP,0.4286
+BFE.BER,"MKB NEDSENSE NV  EO 0,10",Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4286
+BFE.MIL,Banca Finnat Euramerica S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.4286
+BFE.STG,NedSense Enterprises N.V.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4286

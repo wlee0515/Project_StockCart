@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+CRT,Cross Timbers Royalty Trust,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+CRTO,Criteo S.A.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRTG,The Coretec Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRTL,Cartel Blue Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRTSF,Chr. Hansen Holding A/S,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRT-UN.TRT,CT Real Estate Investment Trust,Equity,Toronto,09:30,16:00,UTC-05,CAD,0.5000
+F00000N4TF.MIL,Aviva CU CRT D10,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.3158
+F00000WDUB.MIL,Aviva CU CRT Euro2,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2857
+F00000WDUC.MIL,Aviva CU CRT Euro8,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.2857

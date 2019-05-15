@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LWOFX,BrandywineGLOBAL Intl Opp Bond FI,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LWOIX,BrandywineGLOBAL Intl Opp Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LWORX,BrandywineGLOBAL Intl Opp Bond R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+LWOAX,BrandywineGLOBAL Intl Opp Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

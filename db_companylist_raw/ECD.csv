@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+ECDP,Eco Depot Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+ECDDX,Eaton Vance Multi-Strat Absolute Ret C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+ECDD,Ecrid Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+ECDCX,Ashmore Emerging Mkts Corp Debt C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECDAX,Ashmore Emerging Mkts Corp Debt A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECDIX,Eaton Vance Tax-Managed Global Dividend Inc C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+ECDC.FRK,EXPAT CROAT.CROBEX UCITS,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+ECDC.FRK,EXPAT CROAT.CROBEX UCITS,ETF,Frankfurt/XETRA,08:00,20:00,UTC+01,EUR,0.6000

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RI.PAR,Pernod Ricard SA,Equity,Paris,09:00,17:30,UTC+01,EUR,0.7500
+RI.SWI,Pernod Ricard SA,Equity,Switzerland,09:00,17:30,UTC+01,CHF,0.7500
+0JR.BER,JAMES RI.GR.HLDGS DL-0002,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+RI.VIE,Pernod Ricard SA,Equity,Vienna,08:55,17:35,UTC+01,EUR,0.4444

@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+RFS.FRK,Resverlogix Corp.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.7500
+RFS.BER,RESVERLOGIX CORP,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+RFS.MUN,RESVERLOGIX CORP,Equity,Munich,08:00,20:00,UTC+01,EUR,0.6667
+RFS.STG,Resverlogix Corp. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+FR0000988768.PAR,Wattinvest RFS,Mutual Fund,Paris,09:00,17:30,UTC+01,EUR,0.3529

@@ -1,0 +1,5 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+QFP.BER,ELEMENT 25 LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7500
+QFP.STG,Element 25 Ltd. Registered Shar,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.6667
+QFPOL.MIL,QF POLIS,Mutual Fund,Milan,09:00,17:30,UTC+01,EUR,0.6667
+QFP.FRK,Element 25 Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.5455

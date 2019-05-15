@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+JBPACA.SWI,GAM Precious Mtls Phys Palladium CHF A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPACX.SWI,GAM Precious Mtls Phys Palladium CHF AX,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAEA.SWI,GAM Precious Mtls Phys Palladium EUR A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAEX.SWI,GAM Precious Mtls Phys Palladium EUR AX,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAGA.SWI,GAM Precious Mtls Phys Palladium GBP A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAGX.SWI,GAM Precious Mtls Phys Palladium GBP AX,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAUA.SWI,GAM Precious Mtls Phys Palladium USD A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPAUX.SWI,GAM Precious Mtls Phys Palladium USD AX,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPLCX.SWI,GAM Precious Mtls Phys Platinum CHF AX,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000
+JBPLCA.SWI,GAM Precious Mtls Phys Platinum CHF A,ETF,Switzerland,09:00,17:30,UTC+01,CHF,0.5000

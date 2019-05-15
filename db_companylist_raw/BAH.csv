@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+BAH,Booz Allen Hamilton Holding Corporation,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+BSHPF,Bahamas Petroleum Company plc,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+BGIGKX,ADT 1811 Bahl & Gaynor Income G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+SMGAJX,ADT 1893 Bahl & Gaynor smig (Sm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GBSCX,American Beacon Bahl&Gaynor SmCpGr C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+BGIGOX,ADT 1889 Bahl & Gaynor Income G,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+GBSPX,American Beacon Bahl&Gaynor SmCpGr Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+SMGAHX,ADT 1858 Bahl & Gaynor smig (Sm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+SMGAIX,ADT 1871 Bahl & Gaynor smig (Sm,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222
+GBSIX,American Beacon Bahl&Gaynor SmCpGr Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2222

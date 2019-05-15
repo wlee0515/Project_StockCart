@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+H,Hyatt Hotels Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYAC,Haymaker Acquisition Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+HYACU,Haymaker Acquisition Corp. Units,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+HYAS,Huale Acoustics Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+8368.TOK,The Hyakugo Bank Ltd.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.4444
+1HTA.FRK,Hyatt Hotels Corporation,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4000
+1HTA.MUN,"HYATT HOTELS CL. A DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.4000
+1HTA.STG,Hyatt Hotels Corp. Registered S,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.3750
+6192.TOK,HyAS&Co. Inc.,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.2400

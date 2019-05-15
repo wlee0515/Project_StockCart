@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+UBFO,United Security Bancshares,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+UBFN.BER,UBS(L)EQ.-GR.CH.DL P-ACC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6667
+UBFW.FRK,UBS (Lux) Equity Fund - Health Care (USD),ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+UBFP.MUN,UBS(L)EQ.-CN O.DL P-ACC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+UBFG.MUN,UBS(L)EQ.-EUR.OPP.EO P-AC,ETF,Munich,08:00,20:00,UTC+01,EUR,0.6000
+UBFC.STG,UBS(Lux)Eq.-Biotech (USD) Inhab,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+UBFH.BER,UBS(L)EQ.-M.C.EUR.EO P-AC,ETF,Berlin,08:00,20:00,UTC+01,EUR,0.6000
+UBFN.STG,UBS(Lux)Equ.-Greater China USDI,Mutual Fund,Stuttgart,08:00,20:00,UTC+01,EUR,0.6000
+UBFP.DUS,UBS(L)EQ.-CN O.DL P-ACC,ETF,Dusseldorf,08:30,20:00,UTC+01,EUR,0.6000
+UBFN.FRK,UBS(L)EQ.-GR.CH.DL P-ACC,ETF,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000

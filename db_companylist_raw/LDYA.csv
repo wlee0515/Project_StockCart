@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+LDYA.FRK,Murray & Roberts Holdings Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.8000
+LDYA.BER,MURRAY ROBERTS  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.7273
+LDYA.STG,Murray and Roberts Hldgs Ltd. R,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.7273

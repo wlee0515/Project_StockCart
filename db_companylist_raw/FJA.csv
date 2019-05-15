@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FJALX,Fidelity Advisor Freedom Blnd 2020 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJAEQX,FT 7630: Value Line Target 25 4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJAOX,Fidelity Advisor Freedom Blnd 2020 A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJATX,Fidelity Advisor Freedom Blnd 2015 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJASX,Fidelity Advisor Freedom Blnd 2015 C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJAPX,Fidelity Advisor Freedom Blnd 2015 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJAIX,Fidelity Advisor Freedom Blnd 2020 Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJADX,Fidelity Advisor Freedom Blnd 2025 I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJACX,Fidelity Series Small Cap Discovery,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FJAZX,Fidelity Advisor Freedom Blnd 2010 M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

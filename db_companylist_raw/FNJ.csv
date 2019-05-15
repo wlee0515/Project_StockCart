@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+FNJN,Finjan Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+FNJHX,Fidelity New Jersey Municipal Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNJQX,Franklin NJ Tax Free Income A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNJUOX,FT 7309: Senior Loan & Limited ,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNJZX,Franklin NJ Tax Free Income Adv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+FNJYBX,FT 6646: Financials Select Port,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNJRX,Franklin NJ Tax Free Income R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667
+FNJZLX,FT 6970: High Dividend Equity O,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.6667

@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MKA.TRV,Mkango Resources Ltd.,Equity,Toronto Venture,09:30,16:00,UTC-05,CAD,0.7500
+MKA.LON,Mkango Resources Ltd.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500
+ZMK.STG,Mkango Resources Ltd.,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.4444

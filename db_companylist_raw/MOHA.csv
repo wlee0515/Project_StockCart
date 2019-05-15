@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+MHK,Mohawk Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+NMK-PB,Niagara Mohawk Power Corporation PFD 3.60%,Equity,United States,09:30,16:00,UTC-05,USD,0.2963
+NMPWP,Niagara Mohawk Power Corporation PFD 3.40%,Equity,United States,09:30,16:00,UTC-05,USD,0.2857
+NMK_PB,Niagara Mohawk Holdings Inc. P,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+NMK_PC,Niagara Mohawk Holdings Inc. P,Equity,United States,09:30,16:00,UTC-05,USD,0.2286
+0K2F.LON,Mohawk Industries Inc.,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.2222
+MWK.FRK,Mohawk Industries Inc.,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.2000
+MWK.MUN,"MOHAWK INDS INC.  DL-,01",Equity,Munich,08:00,20:00,UTC+01,EUR,0.2000

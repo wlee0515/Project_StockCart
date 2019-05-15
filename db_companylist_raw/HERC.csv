@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HERC,H.E.R.C. Products Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HTGC,Hercules Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8889
+HRI,Herc Holdings Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5714
+HTGX,Hercules Capital Inc. 6.25 SR NTS 24,Equity,United States,09:30,16:00,UTC-05,USD,0.5333
+HCXY,Hercules Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HCXZ,Hercules Capital Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HTGX-CL,Hercules Capital Inc. 6.25% No,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+HERCX,Hartford Emerging Markets Equity C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.4444
+HERCULES.BSE,Hercules Hoists Limited,Equity,India/Bombay,09:15,15:30,UTC+5.5,INR,0.3636
+ES0155582036.BCL,Hercasol SICAV,Mutual Fund,Barcelona,09:00,17:30,UTC+01,EUR,0.2500

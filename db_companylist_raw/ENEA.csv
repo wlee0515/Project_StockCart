@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+58S.FRK,ENEA S.A.  ZY 1,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6000
+ENB.AUS,Eneabba Gas Limited,Equity,Australia,10:00,16:00,UTC+11,AUD,0.4706
+EED5.FRK,Enea AB (publ),Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.4444
+EED5.BER,ENEA AB  O.N.,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211
+58S.BER,ENEA S.A.  ZY 1,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211
+58S.MUN,ENEA S.A.  ZY 1,Equity,Munich,08:00,20:00,UTC+01,EUR,0.4211
+E3Y.BER,ENEABBA GAS LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.4211
+0KO8.ILN,ENEA SA ENEA ORD SHS,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.3333

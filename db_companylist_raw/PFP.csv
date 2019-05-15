@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PFPT,Proofpoint Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+PFPRX,Parnassus Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPWX,Parnassus Endeavor Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPMX,Parnassus Mid Cap Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPFX,Poplar Forest Partners A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPLX,Parnassus Fixed Income Institutional,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPNX,PIMCO Preferred and Capital Secs I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPCX,Pacific Funds Small/Mid-Cap C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFPPX,Principal MidCap Growth R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PFP.LON,Pathfinder Minerals Plc,Equity,United Kingdom,08:00,16:30,UTC+00,GBP,0.7500

@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+PGBOX,JPMorgan Core Bond A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBAX,Principal Global Dividend Inc A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBLX,Principal Global Dividend Inc R-6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBPX,PIMCO Global Advantage Strategy Bd I2,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBIX,PIMCO Global Bond Opps (USD-Hdg) Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBFX,Principal Blue Chip R4,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBEX,Principal Blue Chip R3,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBMX,Putnam Global Communications M,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBGX,Principal Blue Chip R5,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+PGBYX,Putnam Global Communications Y,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500

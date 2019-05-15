@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+AGFDESMARCHS.TRT,AGF Emerging Markets Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDECROISSA.TRT,AGF U.S. Small-Mid Cap Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDEREVENUC.TRT,AGF Income Focus,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDEREVENUF.TRT,AGF Fixed Income Plus,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDEREVENUT.TRT,AGF Tactical Income,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDERPARTFL.TRT,AGF Flex Asset Allocation Fund,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDERPARTIT.TRT,AGF Flex Asset Allocation Fund Q,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211
+AGFDIVIDENDI.TRT,AGF Dividend Income,Mutual Fund,Toronto,09:30,16:00,UTC-05,CAD,0.4211

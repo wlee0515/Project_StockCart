@@ -1,0 +1,10 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+HLG,Hailiang Education Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+HLGEX,JPMorgan Mid Cap Growth I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLGAX,JPMorgan Government Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLGFX,JPMorgan Limited Duration Bond I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLGZX,Harding Loevner Global Equity Instl Z,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+HLGNX,Harding Loevner Global Equity Rsrch Inv,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CS4.FRK,CN SOUTH CITY HLGS,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.6667
+CS4.BER,CN SOUTH CITY HLGS,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2857
+HLG.DUS,HIGHLIGHT CMNCTS INH.SF 1,Equity,Dusseldorf,08:30,20:00,UTC+01,EUR,0.2857

@@ -1,0 +1,9 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+7041.TOK,CRG Holdings Co. Ltd..,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+CRGS,CurAegis Technologies Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRGP,Calissio Resources Group Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+CRGE,Clenergen Corp.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+CRGCX,Calamos Global Convertible R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRGEX,Calamos Global Equity R,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+CRGGF,China Resources Gas Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.6667
+CRG.MIL,Banca Carige S.p.A. - Cassa di Risparmio di Genova e Imperia,Equity,Milan,09:00,17:30,UTC+01,EUR,0.2500

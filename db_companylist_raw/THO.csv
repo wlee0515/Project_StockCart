@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+THO,Thor Industries Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+THOR,Synthorx Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+TRI,Thomson Reuters Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+THOPX,Thompson Bond,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5714
+TIBIX,Thornburg Investment Income Builder I,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+TIBCX,Thornburg Investment Income Builder C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+TIBAX,Thornburg Investment Income Builder A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+LDVAX,Leland Thomson Reuters Vntr Cptl Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+THVB,Thomasville Bancshares Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.2500
+THIIX,Thornburg Limited Term Income Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.1463

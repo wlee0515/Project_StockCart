@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+VMLUX,Vanguard Ltd-Term Tx-Ex Admiral,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+MHLA,Maiden Holdings Ltd. 6.625 NT 2046,Equity,United States,09:30,16:00,UTC-05,USD,0.5000
+VMLTX,Vanguard Ltd-Term Tx-Ex,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LTNYX,Oppenheimer Rochester LtdTerm NY MunisA,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.5000
+LTNCX,Oppenheimer Rochester LtdTerm NY MunisC,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857
+LTEBX,American Funds Ltd-Term Tx-Ex Bd A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+TRBFX,T. Rowe Price Ltd Dur Infl Focus Bd,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+NEFLX,Loomis Sayles Ltd Term Govt and Agency A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2500
+IMUCW,ImmunoCellular Therapeutics Ltd. WT EXP 081221,Equity,United States,09:30,16:00,UTC-05,USD,0.1200
+APRWF,Atlantic Power Preferred Equity Ltd. CUM RED PFD 1,Equity,United States,09:30,16:00,UTC-05,USD,0.1132

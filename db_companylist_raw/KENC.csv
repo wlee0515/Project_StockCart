@@ -1,0 +1,7 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SOTS.JKT,PT Satria Mega Kencana Tbk.,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+PZZA.JKT,PT Sarimelati Kencana Tbk,Equity,Jakarta,09:00,16:00,UTC+07,IDR,0.4000
+BNE.SGP,Kencana Agri Limited,Equity,Singapore,09:00,17:00,UTC+08,SGD,0.3636
+KEBA.FRK,Kencana Agri Limited,Equity,Frankfurt,08:00,20:00,UTC+01,EUR,0.3333
+KEBA.BER,KENCANA AGRI LTD,Equity,Berlin,08:00,20:00,UTC+01,EUR,0.2759
+KEBA.STG,Kencana Agri Ltd. Registered Sh,Equity,Stuttgart,08:00,20:00,UTC+01,EUR,0.2581

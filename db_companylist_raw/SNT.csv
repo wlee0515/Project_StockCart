@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+6319.TOK,SNT Corporation,Equity,Tokyo,09:00,15:00,UTC+09,JPY,0.8571
+ENBA,Enbridge Inc. 6.375 SNT18 B 78,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNTX,Suntex Enterprises Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SNTIX,Sit Tax-Free Income,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNTL,Seeker Tec International Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNTKX,Crossmark Steward Intl Enh Index A,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNTCX,Crossmark Steward Intl Enh Index Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SNTW,Summit Networks Inc.,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SNTDX,Crossmark Steward Intl Enh Index C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.3333
+SNTFX,Crossmark Steward Intl Enh Index R6,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.2857

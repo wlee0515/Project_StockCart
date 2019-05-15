@@ -1,0 +1,11 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+SFE,Safeguard Scientifics Inc.,Equity,United States,09:30,16:00,UTC-05,USD,1.0000
+SFET,Safe-T Group Ltd,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFEG,Santa Fe Gold Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.8571
+SFENX,Schwab Fdmtl Emerg Mkts Lg Co Idx,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.8571
+SFEPX,Guggenheim StylePlus - Large Core P,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFECX,Guggenheim StylePlus - Large Core C,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFEIX,State Farm Small/Mid Cap Equity Instl,Mutual Fund,United States,09:30,16:00,UTC-05,USD,0.7500
+SFECF,SafeCharge International Group Limited,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFEF,Santa Fe Financial Corporation,Equity,United States,09:30,16:00,UTC-05,USD,0.7500
+SFER.MIL,Salvatore Ferragamo S.p.A.,Equity,Milan,09:00,17:30,UTC+01,EUR,0.6000
